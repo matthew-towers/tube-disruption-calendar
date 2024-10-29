@@ -1,46 +1,47 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Tuesday 5 and Wednesday 6 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
-DTEND:20241107T012900Z
-DTSTART:20241105T043000Z
-SUMMARY:Jubilee: Reduced Service
-UID:d16f7338-9aa1-46e5-9e32-15dc5dfbade1@d16f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Thursday 7 November: No London Underground services are expected to run
-DTEND:20241108T012900Z
-DTSTART:20241107T043000Z
-SUMMARY:Jubilee: Suspended
-UID:989a984e-b9a8-4229-a0b4-cdd5aca262e0@989a.org
-END:VEVENT
+X-WR-CALNAME:Jubilee disruption
 BEGIN:VEVENT
 DESCRIPTION:STRIKE ACTION: Saturday 9 November: London Underground services are expected to start later than normal
 DTEND:20241109T120000Z
 DTSTART:20241109T043000Z
 SUMMARY:Jubilee: Reduced Service
-UID:5c8b2c5b-c679-461a-b8de-9c232104bdd3@5c8b.org
+UID:f03cfa24-c5f6-4ee6-9df6-a78011bb2f23@f03c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:STRIKE ACTION: Tuesday 5 and Wednesday 6 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
+DTEND:20241107T012900Z
+DTSTART:20241105T043000Z
+SUMMARY:Jubilee: Reduced Service
+UID:d047e04c-31a7-48f2-8f3c-25ca44aefc4a@d047.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:STRIKE ACTION: Tuesday 12 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
 DTEND:20241113T012900Z
 DTSTART:20241112T043000Z
 SUMMARY:Jubilee: Reduced Service
-UID:cac96403-44fb-42f9-b745-5a1aa8fa64c7@cac9.org
+UID:83d8141d-c8bf-4a59-8b4a-4a1f5a19d4b4@83d8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:STRIKE ACTION: Friday 8 November: Severe disruption is expected on London Underground services\, including Night Tube. Any services that do operate are likely to start later and finish earlier than normal
 DTEND:20241109T012900Z
 DTSTART:20241108T043000Z
 SUMMARY:Jubilee: Reduced Service
-UID:0bcf96dd-c454-4db0-87b1-34294150d422@0bcf.org
+UID:62234bba-9d18-4c47-8dca-852666cfb735@6223.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:STRIKE ACTION: Thursday 7 November: No London Underground services are expected to run
+DTEND:20241108T012900Z
+DTSTART:20241107T043000Z
+SUMMARY:Jubilee: Suspended
+UID:17f6be22-52cc-496b-8348-67fe8e3b3840@17f6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:STRIKE ACTION: Sunday 3 November: London Underground services will finish earlier than normal. Please complete your journey by 1700
 DTEND:20241104T012900Z
 DTSTART:20241103T170000Z
 SUMMARY:Jubilee: Reduced Service
-UID:71a5f5e7-9eed-482e-87dd-7f8691dfa7ce@71a5.org
+UID:08c67dac-01c3-464c-9914-6a6513fbada3@08c6.org
 END:VEVENT
-END:VCALENDAR
+END:VCALENDAREND:VCALENDAR

@@ -22,7 +22,7 @@ calendar_start = dt.date.today()
 calendar_length = dt.timedelta(days=60)
 calendar_end = calendar_start + calendar_length
 
-lines = ['circle']
+lines = ['jubilee']
 status_url_base = "https://api.tfl.gov.uk/Line/"
 status_url = f'{status_url_base}{",".join(lines)}/Status/{calendar_start.isoformat()}/to/{calendar_end.isoformat()}'
 
@@ -36,10 +36,7 @@ except Exception as e:
 calendar = ics.Calendar()
 
 def make_event(name, description, start, end, alarms=None):
-    if alarms:
-        e = ics.Event(description=description, alarms=alarms)
-    else:
-        e = ics.Event(description=description)
+    e = ics.Event(description=description, alarms=alarms)
     e.name = name
     e.begin = start
     e.end = end
@@ -61,7 +58,7 @@ for status in status_data:
         n = len(disruption['validityPeriods'])
         while i < n:
             start = from_date(i)
-            while (i < n - 1) and (to_date(i) + one_minute == from_date(i+1)):
+            while (i < n - 1) and (to_date(i) + one_minute == from_date(i + 1)):
                 i += 1
             end = to_date(i)
             calendar.events.add(make_event(event_name, disruption['reason'], start, end))
@@ -70,3 +67,13 @@ for status in status_data:
 filename = f'disruptions for {" ".join(lines)}.ics'
 with open(filename, 'w') as f:
     f.writelines(calendar.serialize_iter())
+
+# Hack: re-open the calendar file and add a line
+# X-WR-CALNAME:Whatever line disruption
+# at index 3, to set a title.  Can't do this with the ics module version I have.
+
+with open(filename, 'r+') as f:
+    ls = f.readlines()
+    ls.insert(3, f'X-WR-CALNAME:{", ".join(line_id_to_name[x] for x in lines)} disruption\n')
+    f.seek(0)
+    f.writelines(ls)
