@@ -58,8 +58,6 @@ def make_calendar(lineid, disruption_data):
 
     calendar = ics.Calendar()
 
-    one_minute = dt.timedelta(minutes=1)
-
     for status in disruption_data:
         for disruption in status["lineStatuses"]:
             # event_name = (line_id_to_name[disruption["lineId"]] + ": " + disruption["statusSeverityDescription"])
@@ -81,8 +79,9 @@ def make_calendar(lineid, disruption_data):
             # A disruption has many validity periods, each of which should give
             # rise to a calendar event, except that continuous validity periods are
             # split when they go over a day boundary and should be joined.
-            i = 0
+            one_minute = dt.timedelta(minutes=1)
             n = len(disruption["validityPeriods"])
+            i = 0
             while i < n:
                 start = from_date(i)
                 while (i < n - 1) and (to_date(i) + one_minute == from_date(i + 1)):
@@ -102,9 +101,9 @@ def write_ics(lineid, calendar):
     with open(filename, "w") as f:
         f.writelines(calendar.serialize_iter())
 
-    # Hack: re-open the calendar file and add a line
+    # Hack: re-open the calendar file and add the line
     # X-WR-CALNAME:<calendar name>
-    # at index 3 to set a calendar title.  You can do this with the latest version
+    # at index 3 to set a calendar title.  You can do this properly with the latest version
     # of ics but not with the one I have.
     with open(filename, "r+") as f:
         lines = f.readlines()
