@@ -31,7 +31,7 @@ def make_event(name, description, start, end, alarms=None):
     return e
 
 
-def fetch_disruption_data(lineid, n_days=60):
+def fetch_disruptions(lineid, n_days=60):
     """Use the TFL API to get planned disruptions for the next n_days on the
     line with id lineid"""
 
@@ -113,9 +113,7 @@ def write_ics(lineid, calendar):
         f.writelines(lines)
 
 
-lines = ["jubilee", "circle", "bakerloo"]
+line_ids = ["jubilee", "circle", "bakerloo"]
 
-for line in lines:
-    data = fetch_disruption_data(line)
-    cal = make_calendar(line, data)
-    write_ics(line, data)
+for lineid in line_ids:
+    write_ics(lineid, make_calendar(lineid, fetch_disruptions(lineid)))
