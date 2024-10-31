@@ -110,7 +110,6 @@ def write_ics(lineid, calendar):
         lines.insert(3, f"X-WR-CALNAME:{lineid_to_name[lineid]} disruption\n")
 
     with open(filename, "w") as f:
-        # ls.insert( 3, f'X-WR-CALNAME:{", ".join(lineid_to_name[x] for x in lines)} disruption\n')
         f.writelines(lines)
 
 
