@@ -32,16 +32,15 @@ def make_event(name, description, start, end, alarms=None):
 
 
 def fetch_disruptions(lineid, n_days=60):
-    """Use the TFL API to get planned disruptions for the next n_days on the
-    line with id lineid"""
+    """Use the TFL API to get planned disruptions for the next n_days days on
+    the line with id lineid"""
 
     calendar_start = dt.date.today()
     calendar_length = dt.timedelta(days=n_days)
     calendar_end = calendar_start + calendar_length
 
-    status_url_base = "https://api.tfl.gov.uk/Line/"
-    # status_url = f'{status_url_base}{",".join(lines)}/Status/{calendar_start.isoformat()}/to/{calendar_end.isoformat()}'
-    status_url = f"{status_url_base}{lineid}/Status/{calendar_start.isoformat()}/to/{calendar_end.isoformat()}"
+    url_base = "https://api.tfl.gov.uk/Line/"
+    status_url = f"{url_base}{lineid}/Status/{calendar_start.isoformat()}/to/{calendar_end.isoformat()}"
 
     try:
         resp = requests.get(url=status_url)
@@ -76,9 +75,10 @@ def make_calendar(lineid, disruption_data):
                     disruption["validityPeriods"][i]["toDate"]
                 )
 
-            # A disruption has many validity periods, each of which should give
-            # rise to a calendar event, except that continuous validity periods are
-            # split when they go over a day boundary and should be joined.
+            # A disruption may have many validity periods each of which should
+            # give rise to a calendar event, except that continuous validity
+            # periods are split when they go over a date boundary.
+            # These should be joined.
             one_minute = dt.timedelta(minutes=1)
             n = len(disruption["validityPeriods"])
             i = 0
@@ -95,19 +95,20 @@ def make_calendar(lineid, disruption_data):
 
 
 def write_ics(lineid, calendar):
-    """Write the data in calendar to an ics file, setting a title using lineid"""
-    # filename = f'disruptions for {" ".join(lines)}.ics'
+    """Write the data in calendar to an ics file, setting a calendar name using
+    lineid"""
     filename = f"{lineid}_disruptions.ics"
     with open(filename, "w") as f:
         f.writelines(calendar.serialize_iter())
 
     # Hack: re-open the calendar file and add the line
     # X-WR-CALNAME:<calendar name>
-    # at index 3 to set a calendar title.  You can do this properly with the latest version
-    # of ics but not with the one I have.
+    # at index 3 to set a calendar name.  You can do this in ics if you have
+    # the latest version but not with 0.7.2.
     with open(filename, "r") as f:
         lines = f.readlines()
-        lines.insert(3, f"X-WR-CALNAME:{lineid_to_name[lineid]} disruption\n")
+
+    lines.insert(3, f"X-WR-CALNAME:{lineid_to_name[lineid]} disruption\n")
 
     with open(filename, "w") as f:
         f.writelines(lines)
