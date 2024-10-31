@@ -98,23 +98,15 @@ def write_ics(lineid, calendar):
     """Write the data in calendar to an ics file, setting a calendar name using
     lineid"""
     filename = f"{lineid}_disruptions.ics"
-    with open(filename, "w") as f:
-        f.writelines(calendar.serialize_iter())
-
-    # Hack: re-open the calendar file and add the line
+    # Hack: insert
     # X-WR-CALNAME:<calendar name>
     # at index 3 to set a calendar name.  You can do this in ics if you have
     # the latest version but not with 0.7.2.
-    with open(filename, "r") as f:
-        lines = f.readlines()
-
-    lines.insert(3, f"X-WR-CALNAME:{lineid_to_name[lineid]} disruption\n")
-
+    cal_lines = calendar.serialize().splitlines()
+    cal_lines.insert(3, f"X-WR-CALNAME:{lineid_to_name[lineid]} disruption\n")
     with open(filename, "w") as f:
-        f.writelines(lines)
+        f.writelines(cal_lines)
 
-
-# lineids = ["central", "circle", "bakerloo"]
 
 for lineid in all_lineids:
     write_ics(lineid, make_calendar(lineid, fetch_disruptions(lineid)))
