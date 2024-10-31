@@ -105,15 +105,16 @@ def write_ics(lineid, calendar):
     # X-WR-CALNAME:<calendar name>
     # at index 3 to set a calendar title.  You can do this properly with the latest version
     # of ics but not with the one I have.
-    with open(filename, "r+") as f:
+    with open(filename, "r") as f:
         lines = f.readlines()
         lines.insert(3, f"X-WR-CALNAME:{lineid_to_name[lineid]} disruption\n")
+
+    with open(filename, "w") as f:
         # ls.insert( 3, f'X-WR-CALNAME:{", ".join(lineid_to_name[x] for x in lines)} disruption\n')
-        f.seek(0)
         f.writelines(lines)
 
 
-lineids = ["jubilee", "circle", "bakerloo"]
+# lineids = ["central", "circle", "bakerloo"]
 
 for lineid in all_lineids:
     write_ics(lineid, make_calendar(lineid, fetch_disruptions(lineid)))

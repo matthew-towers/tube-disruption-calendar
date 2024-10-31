@@ -3,53 +3,52 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Bakerloo disruption
 BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Tuesday 5 and Wednesday 6 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
-DTEND:20241107T012900Z
-DTSTART:20241105T043000Z
-SUMMARY:Bakerloo: Reduced Service
-UID:0992d5c5-46b5-4fea-8734-397303855b8a@0992.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Thursday 7 November: No London Underground services are expected to run
-DTEND:20241108T012900Z
-DTSTART:20241107T043000Z
-SUMMARY:Bakerloo: Suspended
-UID:ea60a66b-9cfe-4c44-9ab8-38af937970b1@ea60.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:STRIKE ACTION: Saturday 9 November: London Underground services are expected to start later than normal
 DTEND:20241109T120000Z
 DTSTART:20241109T043000Z
 SUMMARY:Bakerloo: Reduced Service
-UID:d1ad9ae1-b01f-48f3-972d-6af023e74ba8@d1ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:BAKERLOO LINE: Saturday 16 November\, no service between Queens Park and Harrow & Wealdstone. There is also no LONDON OVERGROUND service between Euston and Watford Junction. Special bus service 718 operates between Queens Park and Harrow & Wealdstone via Kensal Green\, Willesden Junction (Harrow Road)\, Harlesden Town Centre (for Harlesden station)\, Stonebridge Park\, Wembley High Road (Park Lane)\, Wembley Central\, North Wembley\, Preston Road (for South Kenton and Metropolitan line)\, Kenton and Northwick Park Hospital. LONDON NORTHWESTERN RAILWAY services continue to serve Harrow & Wealdstone\, and SOUTHERN trains will serve Wembley Central and Harrow & Wealdstone.
-DTEND:20241117T012900Z
-DTSTART:20241116T043000Z
-SUMMARY:Bakerloo: Part Closure
-UID:0e44b837-d9b1-458f-ac73-8b18c8e237a2@0e44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Tuesday 12 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
-DTEND:20241113T012900Z
-DTSTART:20241112T043000Z
-SUMMARY:Bakerloo: Reduced Service
-UID:d922c77d-81dd-4833-a947-d38adc13704e@d922.org
+UID:580a9b03-c311-49b7-be26-fae97159d79a@580a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:STRIKE ACTION: Friday 8 November: Severe disruption is expected on London Underground services\, including Night Tube. Any services that do operate are likely to start later and finish earlier than normal
 DTEND:20241109T012900Z
 DTSTART:20241108T043000Z
 SUMMARY:Bakerloo: Reduced Service
-UID:e96a94af-a8f1-4f67-8392-4655a01e61d0@e96a.org
+UID:534c15f6-632c-4b64-98a5-c49beb74dca7@534c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:STRIKE ACTION: Thursday 7 November: No London Underground services are expected to run
+DTEND:20241108T012900Z
+DTSTART:20241107T043000Z
+SUMMARY:Bakerloo: Suspended
+UID:293f66c5-0ccf-4dff-812a-567a7d586552@293f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:BAKERLOO LINE: Saturday 16 November\, no service between Queens Park and Harrow & Wealdstone. There is also no LONDON OVERGROUND service between Euston and Watford Junction. Special bus service 718 operates between Queens Park and Harrow & Wealdstone via Kensal Green\, Willesden Junction (Harrow Road)\, Harlesden Town Centre (for Harlesden station)\, Stonebridge Park\, Wembley High Road (Park Lane)\, Wembley Central\, North Wembley\, Preston Road (for South Kenton and Metropolitan line)\, Kenton and Northwick Park Hospital. LONDON NORTHWESTERN RAILWAY services continue to serve Harrow & Wealdstone\, and SOUTHERN trains will serve Wembley Central and Harrow & Wealdstone.
+DTEND:20241117T012900Z
+DTSTART:20241116T043000Z
+SUMMARY:Bakerloo: Part Closure
+UID:414172e4-a5b5-404a-b357-4e7bbffc2f77@4141.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:STRIKE ACTION: Sunday 3 November: London Underground services will finish earlier than normal. Please complete your journey by 1700
 DTEND:20241104T012900Z
 DTSTART:20241103T170000Z
 SUMMARY:Bakerloo: Reduced Service
-UID:f7d82dfc-f9ba-441e-a40e-3c188ec8b655@f7d8.org
+UID:b6137604-bc3b-4a0f-a3ac-65e56bb5fb28@b613.org
 END:VEVENT
-END:VCALENDARVENT
+BEGIN:VEVENT
+DESCRIPTION:STRIKE ACTION: Tuesday 12 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
+DTEND:20241113T012900Z
+DTSTART:20241112T043000Z
+SUMMARY:Bakerloo: Reduced Service
+UID:e474138b-06ea-41be-be13-0f6b950f0674@e474.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:STRIKE ACTION: Tuesday 5 and Wednesday 6 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
+DTEND:20241107T012900Z
+DTSTART:20241105T043000Z
+SUMMARY:Bakerloo: Reduced Service
+UID:813a8042-c922-47a4-992b-8c8274f9ae62@813a.org
+END:VEVENT
 END:VCALENDAR

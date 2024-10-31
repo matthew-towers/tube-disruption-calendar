@@ -3,53 +3,52 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:DISTRICT LINE: Saturday 2 and Sunday 3 November\, no service between Embankment / Edgware Road and Ealing Broadway / Kensington Olympia / Richmond / Wimbledon. Replacement buses operate.
-DTEND:20241104T012900Z
-DTSTART:20241102T043000Z
-SUMMARY:District: Part Closure
-UID:70a85e63-e035-41a8-933e-094db2d8b353@70a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Sunday 3 November: London Underground services will finish earlier than normal. Please complete your journey by 1700
-DTEND:20241104T012900Z
-DTSTART:20241103T170000Z
-SUMMARY:District: Reduced Service
-UID:778a9ae9-b59b-4af5-8e84-fa1f0bb76bf8@778a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Saturday 9 November: London Underground services are expected to start later than normal
-DTEND:20241109T120000Z
-DTSTART:20241109T043000Z
-SUMMARY:District: Reduced Service
-UID:d2bcaa80-43dc-486a-9cd1-2ba859c58359@d2bc.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:STRIKE ACTION: Thursday 7 November: No London Underground services are expected to run
 DTEND:20241108T012900Z
 DTSTART:20241107T043000Z
 SUMMARY:District: Suspended
-UID:d48d32e8-4065-4c66-9502-005629cb303a@d48d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Tuesday 12 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
-DTEND:20241113T012900Z
-DTSTART:20241112T043000Z
-SUMMARY:District: Reduced Service
-UID:795e9dff-2e51-4d17-9b4a-6a41e9dcb66d@795e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Tuesday 5 and Wednesday 6 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
-DTEND:20241107T012900Z
-DTSTART:20241105T043000Z
-SUMMARY:District: Reduced Service
-UID:2c0605ed-57a8-421b-8a7d-a61d8a4c4a6f@2c06.org
+UID:ec0f725a-e8e9-4e53-a3f1-3f7821bebdd1@ec0f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:STRIKE ACTION: Friday 8 November: Severe disruption is expected on London Underground services\, including Night Tube. Any services that do operate are likely to start later and finish earlier than normal
 DTEND:20241109T012900Z
 DTSTART:20241108T043000Z
 SUMMARY:District: Reduced Service
-UID:76778f64-378c-4936-a3c8-295062b8c808@7677.org
+UID:8470b021-3c0e-4816-9702-3c4d53a80a1a@8470.org
 END:VEVENT
-END:VCALENDARVENT
+BEGIN:VEVENT
+DESCRIPTION:DISTRICT LINE: Saturday 2 and Sunday 3 November\, no service between Embankment / Edgware Road and Ealing Broadway / Kensington Olympia / Richmond / Wimbledon. Replacement buses operate.
+DTEND:20241104T012900Z
+DTSTART:20241102T043000Z
+SUMMARY:District: Part Closure
+UID:6cbaf195-737b-4fac-b7a1-f48648da626b@6cba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:STRIKE ACTION: Saturday 9 November: London Underground services are expected to start later than normal
+DTEND:20241109T120000Z
+DTSTART:20241109T043000Z
+SUMMARY:District: Reduced Service
+UID:6f42e6dc-00f4-4367-bd9b-95f8081c2c3e@6f42.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:STRIKE ACTION: Tuesday 12 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
+DTEND:20241113T012900Z
+DTSTART:20241112T043000Z
+SUMMARY:District: Reduced Service
+UID:e163ab10-0817-4292-902d-41eb43b07c01@e163.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:STRIKE ACTION: Tuesday 5 and Wednesday 6 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
+DTEND:20241107T012900Z
+DTSTART:20241105T043000Z
+SUMMARY:District: Reduced Service
+UID:21201bfd-b451-4135-b6e9-1847dc209369@2120.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:STRIKE ACTION: Sunday 3 November: London Underground services will finish earlier than normal. Please complete your journey by 1700
+DTEND:20241104T012900Z
+DTSTART:20241103T170000Z
+SUMMARY:District: Reduced Service
+UID:e945cd2e-2813-4146-838c-8b01311b5c0a@e945.org
+END:VEVENT
 END:VCALENDAR

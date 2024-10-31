@@ -3,45 +3,45 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Victoria disruption
 BEGIN:VEVENT
+DESCRIPTION:STRIKE ACTION: Tuesday 5 and Wednesday 6 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
+DTEND:20241107T012900Z
+DTSTART:20241105T043000Z
+SUMMARY:Victoria: Reduced Service
+UID:1bd1db73-59e1-4221-8136-bd38a9cc999d@1bd1.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:STRIKE ACTION: Saturday 9 November: London Underground services are expected to start later than normal
 DTEND:20241109T120000Z
 DTSTART:20241109T043000Z
 SUMMARY:Victoria: Reduced Service
-UID:b26ba18b-b28f-4cad-9c3a-aab7a81b32b2@b26b.org
+UID:56d25ac9-3444-4f18-8051-c56a7e4f9de4@56d2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:STRIKE ACTION: Sunday 3 November: London Underground services will finish earlier than normal. Please complete your journey by 1700
 DTEND:20241104T012900Z
 DTSTART:20241103T170000Z
 SUMMARY:Victoria: Reduced Service
-UID:c5375e64-27b8-4f7c-9257-86cb94e1c779@c537.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Thursday 7 November: No London Underground services are expected to run
-DTEND:20241108T012900Z
-DTSTART:20241107T043000Z
-SUMMARY:Victoria: Suspended
-UID:360001e6-8005-45aa-8f42-e16a9a28917b@3600.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Tuesday 12 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
-DTEND:20241113T012900Z
-DTSTART:20241112T043000Z
-SUMMARY:Victoria: Reduced Service
-UID:ef683f5f-41ef-4d78-bafb-b52c6164cf71@ef68.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Tuesday 5 and Wednesday 6 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
-DTEND:20241107T012900Z
-DTSTART:20241105T043000Z
-SUMMARY:Victoria: Reduced Service
-UID:4648e9aa-14e2-402a-8227-c1497aa1c55d@4648.org
+UID:17a960a5-d6df-45fd-9e20-5202e6003c60@17a9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:STRIKE ACTION: Friday 8 November: Severe disruption is expected on London Underground services\, including Night Tube. Any services that do operate are likely to start later and finish earlier than normal
 DTEND:20241109T012900Z
 DTSTART:20241108T043000Z
 SUMMARY:Victoria: Reduced Service
-UID:4d509f9d-e24d-4a62-9004-bea34ba73c1f@4d50.org
+UID:66471566-70c0-431e-bbe9-aa3b736512d9@6647.org
 END:VEVENT
-END:VCALENDARND:VCALENDAR
+BEGIN:VEVENT
+DESCRIPTION:STRIKE ACTION: Tuesday 12 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
+DTEND:20241113T012900Z
+DTSTART:20241112T043000Z
+SUMMARY:Victoria: Reduced Service
+UID:9670a7b8-7fe0-497b-841f-47453d11f9c3@9670.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:STRIKE ACTION: Thursday 7 November: No London Underground services are expected to run
+DTEND:20241108T012900Z
+DTSTART:20241107T043000Z
+SUMMARY:Victoria: Suspended
+UID:872a00df-a8c1-4398-a230-c157f56076a4@872a.org
+END:VEVENT
+END:VCALENDAR

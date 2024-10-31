@@ -3,45 +3,45 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
 BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Tuesday 5 and Wednesday 6 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
-DTEND:20241107T012900Z
-DTSTART:20241105T043000Z
-SUMMARY:Central: Reduced Service
-UID:a30ae31b-cf56-47f2-9f5c-ec9df6bc6546@a30a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Saturday 9 November: London Underground services are expected to start later than normal
-DTEND:20241109T120000Z
-DTSTART:20241109T043000Z
-SUMMARY:Central: Reduced Service
-UID:ed71225d-2cfe-49ca-8ae2-b5e283544ebd@ed71.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Friday 8 November: Severe disruption is expected on London Underground services\, including Night Tube. Any services that do operate are likely to start later and finish earlier than normal
-DTEND:20241109T012900Z
-DTSTART:20241108T043000Z
-SUMMARY:Central: Reduced Service
-UID:3505c8a0-1b9a-4309-b8ad-6d6e8cf363f8@3505.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:STRIKE ACTION: Sunday 3 November: London Underground services will finish earlier than normal. Please complete your journey by 1700
 DTEND:20241104T012900Z
 DTSTART:20241103T170000Z
 SUMMARY:Central: Reduced Service
-UID:283c1e7d-2237-4800-9c71-e8875491f4af@283c.org
+UID:e7365470-b7eb-4313-8358-6f8d3cdca437@e736.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:STRIKE ACTION: Tuesday 5 and Wednesday 6 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
+DTEND:20241107T012900Z
+DTSTART:20241105T043000Z
+SUMMARY:Central: Reduced Service
+UID:f57e1015-9a23-471d-b378-2a9eeff31844@f57e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:STRIKE ACTION: Thursday 7 November: No London Underground services are expected to run
 DTEND:20241108T012900Z
 DTSTART:20241107T043000Z
 SUMMARY:Central: Suspended
-UID:c207585a-9a22-403e-a605-c41939ab3be0@c207.org
+UID:c6fffb9a-e82a-4503-a985-cdd909bc3c31@c6ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:STRIKE ACTION: Saturday 9 November: London Underground services are expected to start later than normal
+DTEND:20241109T120000Z
+DTSTART:20241109T043000Z
+SUMMARY:Central: Reduced Service
+UID:d3348192-ef47-4f0c-8834-d7628740876f@d334.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:STRIKE ACTION: Friday 8 November: Severe disruption is expected on London Underground services\, including Night Tube. Any services that do operate are likely to start later and finish earlier than normal
+DTEND:20241109T012900Z
+DTSTART:20241108T043000Z
+SUMMARY:Central: Reduced Service
+UID:4d70be29-cf23-437d-a632-171662e4ca6f@4d70.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:STRIKE ACTION: Tuesday 12 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
 DTEND:20241113T012900Z
 DTSTART:20241112T043000Z
 SUMMARY:Central: Reduced Service
-UID:9f438bd2-80d0-436d-b152-0961b500e6c9@9f43.org
+UID:f9b1a333-3090-4966-b092-c5d6d4346bab@f9b1.org
 END:VEVENT
-END:VCALENDAREND:VCALENDAR
+END:VCALENDAR
