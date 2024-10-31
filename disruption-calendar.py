@@ -103,9 +103,9 @@ def write_ics(lineid, calendar):
     # at index 3 to set a calendar name.  You can do this in ics if you have
     # the latest version but not with 0.7.2.
     cal_lines = calendar.serialize().splitlines()
-    cal_lines.insert(3, f"X-WR-CALNAME:{lineid_to_name[lineid]} disruption\n")
+    cal_lines.insert(3, f"X-WR-CALNAME:{lineid_to_name[lineid]} disruption")
     with open(filename, "w") as f:
-        f.writelines(cal_lines)
+        f.writelines(map(lambda x: x + "\n", cal_lines))
 
 
 for lineid in all_lineids:
