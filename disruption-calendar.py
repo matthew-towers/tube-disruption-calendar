@@ -3,7 +3,7 @@ import datetime as dt
 import ics
 import sys
 
-line_id_to_name = {
+lineid_to_name = {
     "bakerloo": "Bakerloo",
     "central": "Central",
     "circle": "Circle",
@@ -20,7 +20,7 @@ line_id_to_name = {
     "waterloo-city": "Waterloo & City",
 }
 
-all_lineids = list(line_id_to_name.keys())
+all_lineids = list(lineid_to_name.keys())
 
 
 def make_event(name, description, start, end, alarms=None):
@@ -60,10 +60,10 @@ def make_calendar(lineid, disruption_data):
 
     for status in disruption_data:
         for disruption in status["lineStatuses"]:
-            # event_name = (line_id_to_name[disruption["lineId"]] + ": " + disruption["statusSeverityDescription"])
+            # event_name = (lineid_to_name[disruption["lineId"]] + ": " + disruption["statusSeverityDescription"])
             # No need for this if we do only one line per calendar
             event_name = (
-                line_id_to_name[lineid] + ": " + disruption["statusSeverityDescription"]
+                lineid_to_name[lineid] + ": " + disruption["statusSeverityDescription"]
             )
 
             def from_date(i):
@@ -107,13 +107,13 @@ def write_ics(lineid, calendar):
     # of ics but not with the one I have.
     with open(filename, "r+") as f:
         lines = f.readlines()
-        lines.insert(3, f"X-WR-CALNAME:{line_id_to_name[lineid]} disruption\n")
-        # ls.insert( 3, f'X-WR-CALNAME:{", ".join(line_id_to_name[x] for x in lines)} disruption\n')
+        lines.insert(3, f"X-WR-CALNAME:{lineid_to_name[lineid]} disruption\n")
+        # ls.insert( 3, f'X-WR-CALNAME:{", ".join(lineid_to_name[x] for x in lines)} disruption\n')
         f.seek(0)
         f.writelines(lines)
 
 
-line_ids = ["jubilee", "circle", "bakerloo"]
+lineids = ["jubilee", "circle", "bakerloo"]
 
-for lineid in line_ids:
+for lineid in all_lineids:
     write_ics(lineid, make_calendar(lineid, fetch_disruptions(lineid)))

@@ -1,47 +1,55 @@
 BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
-X-WR-CALNAME:Jubilee disruption
+X-WR-CALNAME:Circle disruption
 BEGIN:VEVENT
 DESCRIPTION:STRIKE ACTION: Saturday 9 November: London Underground services are expected to start later than normal
 DTEND:20241109T120000Z
 DTSTART:20241109T043000Z
-SUMMARY:Jubilee: Reduced Service
-UID:f03cfa24-c5f6-4ee6-9df6-a78011bb2f23@f03c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Tuesday 5 and Wednesday 6 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
-DTEND:20241107T012900Z
-DTSTART:20241105T043000Z
-SUMMARY:Jubilee: Reduced Service
-UID:d047e04c-31a7-48f2-8f3c-25ca44aefc4a@d047.org
+SUMMARY:Circle: Reduced Service
+UID:9643ed66-a0b0-4a4f-961d-b038cd24190e@9643.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:STRIKE ACTION: Tuesday 12 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
 DTEND:20241113T012900Z
 DTSTART:20241112T043000Z
-SUMMARY:Jubilee: Reduced Service
-UID:83d8141d-c8bf-4a59-8b4a-4a1f5a19d4b4@83d8.org
+SUMMARY:Circle: Reduced Service
+UID:99f9a0bd-f495-40d7-8cdd-bb7263c32bd0@99f9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:STRIKE ACTION: Friday 8 November: Severe disruption is expected on London Underground services\, including Night Tube. Any services that do operate are likely to start later and finish earlier than normal
 DTEND:20241109T012900Z
 DTSTART:20241108T043000Z
-SUMMARY:Jubilee: Reduced Service
-UID:62234bba-9d18-4c47-8dca-852666cfb735@6223.org
+SUMMARY:Circle: Reduced Service
+UID:f7beb18f-9fe7-4765-8825-1e4bb121e358@f7be.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:STRIKE ACTION: Thursday 7 November: No London Underground services are expected to run
 DTEND:20241108T012900Z
 DTSTART:20241107T043000Z
-SUMMARY:Jubilee: Suspended
-UID:17f6be22-52cc-496b-8348-67fe8e3b3840@17f6.org
+SUMMARY:Circle: Suspended
+UID:bd9a9438-0c3b-47e6-bac6-dc355246e8ce@bd9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:CIRCLE LINE: Saturday 2 and Sunday 3 November\, no service between Edgware Road and Tower Hill (via Victoria)
+DTEND:20241104T012900Z
+DTSTART:20241102T043000Z
+SUMMARY:Circle: Part Closure
+UID:97a907e2-f6da-4190-a7b2-a6f5586b5912@97a9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:STRIKE ACTION: Sunday 3 November: London Underground services will finish earlier than normal. Please complete your journey by 1700
 DTEND:20241104T012900Z
 DTSTART:20241103T170000Z
-SUMMARY:Jubilee: Reduced Service
-UID:08c67dac-01c3-464c-9914-6a6513fbada3@08c6.org
+SUMMARY:Circle: Reduced Service
+UID:7b1f58a3-c334-4a11-8116-7ce8dfe764d3@7b1f.org
 END:VEVENT
-END:VCALENDAREND:VCALENDAR
+BEGIN:VEVENT
+DESCRIPTION:STRIKE ACTION: Tuesday 5 and Wednesday 6 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
+DTEND:20241107T012900Z
+DTSTART:20241105T043000Z
+SUMMARY:Circle: Reduced Service
+UID:1adeb04b-6479-46fa-8d7d-682625ab53b0@1ade.org
+END:VEVENT
+END:VCALENDARVEVENT
+END:VCALENDAR

@@ -1,0 +1,47 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:ics.py - http://git.io/lLljaA
+X-WR-CALNAME:Metropolitan disruption
+BEGIN:VEVENT
+DESCRIPTION:STRIKE ACTION: Saturday 9 November: London Underground services are expected to start later than normal
+DTEND:20241109T120000Z
+DTSTART:20241109T043000Z
+SUMMARY:Metropolitan: Reduced Service
+UID:1ac2638e-88e5-4aa6-b1d8-68a56ff8bc99@1ac2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:STRIKE ACTION: Thursday 7 November: No London Underground services are expected to run
+DTEND:20241108T012900Z
+DTSTART:20241107T043000Z
+SUMMARY:Metropolitan: Suspended
+UID:88c43835-dd77-40e4-888d-d9bc70d78763@88c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:STRIKE ACTION: Tuesday 5 and Wednesday 6 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
+DTEND:20241107T012900Z
+DTSTART:20241105T043000Z
+SUMMARY:Metropolitan: Reduced Service
+UID:8029215e-e61f-4540-8dd4-3d0a94d6a361@8029.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:STRIKE ACTION: Tuesday 12 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
+DTEND:20241113T012900Z
+DTSTART:20241112T043000Z
+SUMMARY:Metropolitan: Reduced Service
+UID:abed3d4d-b8e5-4224-9214-626cca7dddf7@abed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:STRIKE ACTION: Sunday 3 November: London Underground services will finish earlier than normal. Please complete your journey by 1700
+DTEND:20241104T012900Z
+DTSTART:20241103T170000Z
+SUMMARY:Metropolitan: Reduced Service
+UID:7d7d0cdf-8e09-49dd-a654-8aeeea32d3c1@7d7d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:STRIKE ACTION: Friday 8 November: Severe disruption is expected on London Underground services\, including Night Tube. Any services that do operate are likely to start later and finish earlier than normal
+DTEND:20241109T012900Z
+DTSTART:20241108T043000Z
+SUMMARY:Metropolitan: Reduced Service
+UID:76fbae29-4653-4100-b68a-f6793ac8165a@76fb.org
+END:VEVENT
+END:VCALENDARCALENDAR
