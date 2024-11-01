@@ -39,15 +39,15 @@ def fetch_disruptions(lineid, n_days=60):
     calendar_length = dt.timedelta(days=n_days)
     calendar_end = calendar_start + calendar_length
 
-    url_base = "https://api.tfl.gov.uk/Line/"
-    status_url = f"{url_base}{lineid}/Status/{calendar_start.isoformat()}/to/{calendar_end.isoformat()}"
+    status_url = f"https://api.tfl.gov.uk/Line/{lineid}/Status/{calendar_start.isoformat()}/to/{calendar_end.isoformat()}"
 
     try:
         resp = requests.get(url=status_url)
         status_data = resp.json()
     except Exception as e:
-        print("Failed to fetch and parse disruption data:", e)
+        print(f"Failed to fetch and parse disruption data for {lineid}:", e)
         sys.exit(1)
+
     return status_data
 
 
@@ -59,10 +59,8 @@ def make_calendar(lineid, disruption_data):
 
     for status in disruption_data:
         for disruption in status["lineStatuses"]:
-            # event_name = (lineid_to_name[disruption["lineId"]] + ": " + disruption["statusSeverityDescription"])
-            # No need for this if we do only one line per calendar
             event_name = (
-                lineid_to_name[lineid] + ": " + disruption["statusSeverityDescription"]
+                f'{lineid_to_name[lineid]}: {disruption["statusSeverityDescription"]}'
             )
 
             def from_date(i):
@@ -76,7 +74,7 @@ def make_calendar(lineid, disruption_data):
                 )
 
             # A disruption may have many validity periods each of which should
-            # give rise to a calendar event, except that continuous validity
+            # give rise to a calendar event, except that some continuous validity
             # periods are split when they go over a date boundary.
             # These should be joined.
             one_minute = dt.timedelta(minutes=1)
