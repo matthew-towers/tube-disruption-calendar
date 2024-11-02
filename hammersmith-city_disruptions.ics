@@ -3,45 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Hammersmith & City disruption
 BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Tuesday 5 and Wednesday 6 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
-DTEND:20241107T012900Z
-DTSTART:20241105T043000Z
-SUMMARY:Hammersmith & City: Reduced Service
-UID:eea6c65d-9382-4eaf-b46c-f1be3e32bb2f@eea6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Saturday 9 November: London Underground services are expected to start later than normal
-DTEND:20241109T120000Z
-DTSTART:20241109T043000Z
-SUMMARY:Hammersmith & City: Reduced Service
-UID:849d81a6-c76a-49cf-95c0-a247199cd2b2@849d.org
+DESCRIPTION:STRIKE ACTION: Thursday 7 November: No London Underground services are expected to run
+DTEND:20241108T012900Z
+DTSTART:20241107T043000Z
+SUMMARY:Hammersmith & City: Suspended
+UID:dfd9e097-70be-474e-9a27-1455af3b7b8a@dfd9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:STRIKE ACTION: Tuesday 12 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
 DTEND:20241113T012900Z
 DTSTART:20241112T043000Z
 SUMMARY:Hammersmith & City: Reduced Service
-UID:7e25f07f-0a0a-4c3c-bd54-ddee5cbac4de@7e25.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Friday 8 November: Severe disruption is expected on London Underground services\, including Night Tube. Any services that do operate are likely to start later and finish earlier than normal
-DTEND:20241109T012900Z
-DTSTART:20241108T043000Z
-SUMMARY:Hammersmith & City: Reduced Service
-UID:d8bc19de-7ed8-4f05-b2a9-0b2d74806d0d@d8bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Thursday 7 November: No London Underground services are expected to run
-DTEND:20241108T012900Z
-DTSTART:20241107T043000Z
-SUMMARY:Hammersmith & City: Suspended
-UID:28a334b9-5fa3-47c9-93c6-4854f8b5bdc0@28a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Sunday 3 November: London Underground services will finish earlier than normal. Please complete your journey by 1700
-DTEND:20241104T012900Z
-DTSTART:20241103T170000Z
-SUMMARY:Hammersmith & City: Reduced Service
-UID:77686f37-e58f-4b77-8408-475fa4d478ba@7768.org
+UID:8083cce0-207c-47f3-a23a-f4f493a90bba@8083.org
 END:VEVENT
 END:VCALENDAR

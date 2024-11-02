@@ -3,59 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Northern disruption
 BEGIN:VEVENT
-DESCRIPTION:NORTHERN LINE: Saturday 16 November\, from 0345\, and all day Sunday 17 November (including Saturday Night Tube\, no service between Archway and High Barnet. During Night Tube hours\, please use Night Bus Route N20\, or Routes 43 and 134 for Highgate. During the day\, replacement bus service NL3 operates between Archway and High Barnet via Highgate\, East Finchley\, Finchley Central\, West Finchley (Ballards Lane)\, Woodside Park (North Finchley High Road) and Totteridge & Whetstone (Whetstone High Road)
-DTEND:20241118T012900Z
-DTSTART:20241116T034500Z
+DESCRIPTION:NORTHERN LINE: Saturday 16 November\, between 0115 and 0345\, no service between Camden Town and High Barnet. Please use Night Bus N20 instead (route 134 also serves stations between Camden Town and Highgate).
+DTEND:20241116T034500Z
+DTSTART:20241116T011500Z
 SUMMARY:Northern: Part Closure
-UID:ade03d01-4bc5-413b-a14c-93235b2dbbd0@ade0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Saturday 9 November: London Underground services are expected to start later than normal
-DTEND:20241109T120000Z
-DTSTART:20241109T043000Z
-SUMMARY:Northern: Reduced Service
-UID:45b4a8e2-4ee1-4be1-97ef-a32395c033a5@45b4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Tuesday 12 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
-DTEND:20241113T012900Z
-DTSTART:20241112T043000Z
-SUMMARY:Northern: Reduced Service
-UID:9a53f47e-67c8-4179-ac8c-a0acd9aaaea0@9a53.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Friday 8 November: Severe disruption is expected on London Underground services\, including Night Tube. Any services that do operate are likely to start later and finish earlier than normal
-DTEND:20241109T012900Z
-DTSTART:20241108T043000Z
-SUMMARY:Northern: Reduced Service
-UID:5681bed3-3d5d-4439-bc3a-20ab848bbf7d@5681.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Sunday 3 November: London Underground services will finish earlier than normal. Please complete your journey by 1700
-DTEND:20241104T012900Z
-DTSTART:20241103T170000Z
-SUMMARY:Northern: Reduced Service
-UID:e39a1263-4cad-4a91-a7cb-e311b64d5b8e@e39a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Tuesday 5 and Wednesday 6 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
-DTEND:20241107T012900Z
-DTSTART:20241105T043000Z
-SUMMARY:Northern: Reduced Service
-UID:18f67fe2-af61-4c77-a94f-d1779192477f@18f6.org
+UID:94018013-a0f9-4bf1-94ab-3541eb874bb9@9401.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:STRIKE ACTION: Thursday 7 November: No London Underground services are expected to run
 DTEND:20241108T012900Z
 DTSTART:20241107T043000Z
 SUMMARY:Northern: Suspended
-UID:82c1872d-7a14-429e-93a7-13dfb4da8a21@82c1.org
+UID:4e3976ee-711c-4a61-97df-9748b066248b@4e39.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:NORTHERN LINE: Saturday 16 November\, between 0115 and 0345\, no service between Camden Town and High Barnet. Please use Night Bus N20 instead (route 134 also serves stations between Camden Town and Highgate).
-DTEND:20241116T034500Z
-DTSTART:20241116T011500Z
+DESCRIPTION:NORTHERN LINE: Saturday 16 November\, from 0345\, and all day Sunday 17 November (including Saturday Night Tube\, no service between Archway and High Barnet. During Night Tube hours\, please use Night Bus Route N20\, or Routes 43 and 134 for Highgate. During the day\, replacement bus service NL3 operates between Archway and High Barnet via Highgate\, East Finchley\, Finchley Central\, West Finchley (Ballards Lane)\, Woodside Park (North Finchley High Road) and Totteridge & Whetstone (Whetstone High Road)
+DTEND:20241118T012900Z
+DTSTART:20241116T034500Z
 SUMMARY:Northern: Part Closure
-UID:fd68d723-ce4b-40e1-83b8-785b4f3aab5d@fd68.org
+UID:787848be-45e3-4b64-90cf-ff4acb55e92e@7878.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:STRIKE ACTION: Tuesday 12 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
+DTEND:20241113T012900Z
+DTSTART:20241112T043000Z
+SUMMARY:Northern: Reduced Service
+UID:1fa31c64-e486-4b11-92a5-58ad0418638c@1fa3.org
 END:VEVENT
 END:VCALENDAR
