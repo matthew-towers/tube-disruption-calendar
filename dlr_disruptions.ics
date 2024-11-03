@@ -3,59 +3,66 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:DOCKLANDS LIGHT RAILWAY: Saturday 30 November and Sunday 1 December\, no service between Prince Regent and Beckton. Replacement buses operate.
-DTEND:20241202T012900Z
-DTSTART:20241130T043000Z
-SUMMARY:DLR: Part Closure
-UID:07d0dc21-800b-44b9-a115-60e260c2fb72@07d0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:DOCKLANDS LIGHT RAILWAY: Saturday 21\, Sunday 22\, Monday 23 and Christmas Eve 24 December\, no service between Prince Regent and Beckton. Replacement buses operate.
-DTEND:20241225T012900Z
-DTSTART:20241221T043000Z
-SUMMARY:DLR: Part Closure
-UID:c5d84e72-36c8-4173-a1d5-11c2f7fe0033@c5d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:DOCKLANDS LIGHT RAILWAY: Saturday 7 and Sunday 8 December\, no service between Poplar / Stratford International and Beckton / Woolwich Arsenal. Use JUBILEE LINE services between Stratford and Canning Town\, and ELIZABETH LINE services for connections between Custom House and Woolwich (for Woolwich Arsenal). Replacement buses operate.
-DTEND:20241209T012900Z
-DTSTART:20241207T043000Z
-SUMMARY:DLR: Part Closure
-UID:f30b7fed-d0d3-4abe-a66b-5031f8332e90@f30b.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:DOCKLANDS LIGHT RAILWAY: Saturday 23 and Sunday 24 November\, no service between Prince Regent and Beckton. Replacement bus DLR2 operates between Prince Regent and Gallions Reach via Royal Albert\, Beckton Park\, Cyprus and Beckton.
 DTEND:20241125T012900Z
 DTSTART:20241123T043000Z
 SUMMARY:DLR: Part Closure
-UID:dc5e3bc3-dc0f-462d-ada4-745b381a5860@dc5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:DOCKLANDS LIGHT RAILWAY: Wednesday 30 October to Sunday 3 November\, a reduced service is operating across the entire DLR while we undertake work to expand our depot in preparation for the introduction of new trains. Please allow extra time for your journey
-DTEND:20241104T012900Z
-DTSTART:20241030T033000Z
-SUMMARY:DLR: Reduced Service
-UID:e9038468-f3b1-4e51-ae92-a5869c18ef35@e903.org
+UID:d3e10e1b-041f-4ec1-a61a-539814a7952e@d3e1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:DOCKLANDS LIGHT RAILWAY: Saturday 16 and Sunday 17 November\, no service between Canning Town and Stratford International. Please use Jubilee line services\, or local bus service 276 for Star Lane and Abbey Road stations.
 DTEND:20241118T012900Z
 DTSTART:20241116T043000Z
 SUMMARY:DLR: Part Closure
-UID:50dc9d81-cca1-42ff-8418-71a2a8e4b549@50dc.org
+UID:c969b0fb-2295-4d42-b18d-883ca39c64e0@c969.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:DOCKLANDS LIGHT RAILWAY: Wednesday 30 October to Sunday 3 November\, a reduced service is operating across the entire DLR while we undertake work to expand our depot in preparation for the introduction of new trains. Please allow extra time for your journey
+DTEND:20241104T012900Z
+DTSTART:20241030T033000Z
+SUMMARY:DLR: Reduced Service
+UID:8f94d84b-5b11-451c-bdd4-433e17207b37@8f94.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:DOCKLANDS LIGHT RAILWAY: Saturday 21 until Monday 30 December\, no service between Shadwell and Bank.
 DTEND:20241231T012900Z
 DTSTART:20241221T043000Z
 SUMMARY:DLR: Part Closure
-UID:228cbad7-adb1-4803-8640-c03fb0fa7185@228c.org
+UID:44ced9e1-efc1-4c1b-a7bc-1e55bb55445d@44ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:DOCKLANDS LIGHT RAILWAY: Saturday 7 and Sunday 8 December\, no service between Poplar / Stratford International and Beckton / Woolwich Arsenal. Use JUBILEE LINE services between Stratford and Canning Town\, and ELIZABETH LINE services for connections between Custom House and Woolwich (for Woolwich Arsenal). Replacement buses operate.
+DTEND:20241209T012900Z
+DTSTART:20241207T043000Z
+SUMMARY:DLR: Part Closure
+UID:b9196c98-31b2-45e8-81f1-3b75add42822@b919.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:DOCKLANDS LIGHT RAILWAY: Saturday 21\, Sunday 22\, Monday 23 and Christmas Eve 24 December\, no service between Prince Regent and Beckton. Replacement buses operate.
+DTEND:20241225T012900Z
+DTSTART:20241221T043000Z
+SUMMARY:DLR: Part Closure
+UID:71f3f456-ef19-4581-b8a9-52893b1f2cea@71f3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:DOCKLANDS LIGHT RAILWAY: Saturday 14 and Sunday 15 December\, no service between Bank / Tower Gateway and Poplar / Canary Wharf. West India Quay is served by trains between Lewisham and Stratford.
 DTEND:20241216T012900Z
 DTSTART:20241214T043000Z
 SUMMARY:DLR: Part Closure
-UID:84384c74-acab-486d-b1ab-4655eb03e8c9@8438.org
+UID:286608e7-7fc3-428d-8cc4-28219fbd6333@2866.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Docklands Light Railway: Minor delays between Canning Town and Beckton while we fix a fault train at Prince Regent. GOOD SERVICE on other DLR routes. 
+DTEND:20241104T012900Z
+DTSTART:20241103T122119Z
+SUMMARY:DLR: Minor Delays
+UID:989d1bb4-3b3f-4673-89b4-a41f68eb7fbb@989d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:DOCKLANDS LIGHT RAILWAY: Saturday 30 November and Sunday 1 December\, no service between Prince Regent and Beckton. Replacement buses operate.
+DTEND:20241202T012900Z
+DTSTART:20241130T043000Z
+SUMMARY:DLR: Part Closure
+UID:70e20e8c-02ac-45ca-95bc-95a9cbd8ba72@70e2.org
 END:VEVENT
 END:VCALENDAR
