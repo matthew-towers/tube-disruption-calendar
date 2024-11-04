@@ -3,780 +3,773 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:London Overground disruption
 BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Monday 11\, Tuesday 12\, Wednesday 13 and Thursday 14 November\, after 2345\, no London Overground service westbound from Stratford to Camden Road. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0034. Customers should use the last westbound service from Stratford at 2344\, or local bus routes 30\, 274\, 388\, 393 or 488.
-DTEND:20241115T012900Z
-DTSTART:20241114T234500Z
+DESCRIPTION:LONDON OVERGROUND: Sunday 24 November\, until 1200 and after 2030\, no service between Kilburn High Road and Euston. Please use local London Buses services. In addition\, the 2322 departure from Kilburn High Road terminates at Willesden Junction instead of Watford Junction.
+DTEND:20241125T012900Z
+DTSTART:20241124T203000Z
 SUMMARY:London Overground: Part Closure
-UID:c3eddd69-0537-4900-b8d0-a65b12fba3d0@c3ed.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Sunday 8 December\, until 1015\, no service between Liverpool Street and Enfield Town / Cheshunt. GREATER ANGLIA trains will not call at Hackney Downs. Use local London Buses services for Bethnal Green\, Cambridge Heath\, London Fields\, Hackney Downs\, Rectory Road\, Stoke Newington and Stamford Hill. Replacement buses operate.
-DTEND:20241208T101500Z
-DTSTART:20241208T043000Z
-SUMMARY:London Overground: Part Closure
-UID:2ba8ea78-d109-473b-8f30-044be1e1efb7@2ba8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Sunday 24\, Monday 25\, Tuesday 26\, Wednesday 27 and Thursday 28 November\, after 2245 each evening\, no service between Hackney Downs and Chingford. Replacement bus service L3 operates between Hackney Downs and Chingford via Clapton\, St James Street\, Walthamstow Central\, Wood Street and Highams Park. Some northbound buses after midnight also serve Liverpool Street\, Bethnal Green\, Cambridge Heath and London Fields.
-DTEND:20241127T012900Z
-DTSTART:20241126T224500Z
-SUMMARY:London Overground: Part Closure
-UID:7e32d394-b0e2-40f5-b86a-11007aba6b8a@7e32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Monday 18\, Tuesday 19\, Wednesday 20 and Thursday 21 November\, no service westbound from Camden Road to Willesden Junction after 2345. The 2359 and 0015 services from Stratford will terminate at Camden Road. Use London Overground services from Euston to Willesden Junction\, Northern line from Camden Town\, or local bus routes 1\, 24\, 46 88 and 214 from Camden Road / Camden Town.
-DTEND:20241121T012900Z
-DTSTART:20241120T234500Z
-SUMMARY:London Overground: Part Closure
-UID:897080de-76d4-49c2-ab2e-4646ce3bc1c8@8970.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Sunday 17 November\, no service between Willesden Junction and Watford Junction. Use BAKERLOO LINE services between Willesden Junction and Harrow & Wealdstone\, or London NorthWestern Railway or Southern services for Wembley Central\, Harrow & Wealdstone\, Bushey and Watford Junction. Special bus service 720 operates between Harrow Bus Station (for Metropolitan line) and Watford Junction via Harrow & Wealdstone\, Headstone Lane\, Hatch End (Harrow Arts Centre)\, Carpenders Park (Prestwick Road)\, Bushey (Eastbury Road) and Watford High Street.
-DTEND:20241118T012900Z
-DTSTART:20241117T043000Z
-SUMMARY:London Overground: Part Closure
-UID:cd17953b-7a17-4762-aa03-186196b22df8@cd17.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Stratford to Clapham Junction / Richmond services on Sunday 1 December: The 0848 Willesden Junction to Clapham Junction train starts at Shepherds Bush at 0855. The 0915 Gospel Oak to Clapham Junction train starts at Shepherds Bush at 0940. The 0931 Stratford to Richmond train starts at Willesden Junction at 1013 and the 0938 Stratford to Clapham Junction train starts at Willesden Junction at 1020.
-DTEND:20241201T102000Z
-DTSTART:20241201T083000Z
-SUMMARY:London Overground: Reduced Service
-UID:717beed7-1f92-4df5-8bfd-08278af1dbf5@717b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Monday 4\, Tuesday 5\, Wednesday 6 and Thursday 7 November\, after 2215 each evening\, no London Overground service between Sydenham and West Croydon. West Croydon trains will divert to and depart from Crystal Palace after 2215. Use local buses or Trams via any reasonable route or Southern trains between Sydenham and Norwood Junction. Tickets will also be accepted on Southern trains between Crystal Palace and Norwood Junction\, and between Norwood Junction and East Croydon. Last through trains: Highbury & Islington to West Croydon 2147\; West Croydon to Highbury & Islington 2246. The 2202 train from Highbury & Islington to West Croydon will terminate at New Cross Gate.
-DTEND:20241105T012900Z
-DTSTART:20241104T221500Z
-SUMMARY:London Overground: Part Closure
-UID:c194912e-b547-492b-87a5-1b500c693bb0@c194.org
+UID:2ef4b58f-c98a-44f3-9dd5-5a11e0c890f4@2ef4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Changes to Barking Riverside to Gospel Oak services from Tuesday 5 to Friday 8 November: The 0618 train from Barking Riverside will start from Barking at 0624
 DTEND:20241107T062500Z
 DTSTART:20241107T060000Z
 SUMMARY:London Overground: Reduced Service
-UID:ef2512dc-c99e-413d-ad2e-dd5f1c45ec1f@ef25.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Monday 11\, Tuesday 12\, Wednesday 13 and Thursday 14 November\, after 2300 each evening\, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses (Operated by Southern Railway) will run as follows: The bus for Crystal Palace will depart London Bridge at 2358 calling at New Cross Gate (0008) - Brockley - Honor Oak Park - Forest Hill - Sydenham (0027) - Crystal Palace (0033)\, Gipsy Hill - West Norwood - Tulse Hill - Streatham Hill (Arr 0058). The bus for East Croydon will depart London Bridge at 0035 calling at New Cross Gate (0050) - Brockley - Honor Oak Park - Forest Hill - Sydenham (0108) - Norwood Junction (0115) - East Croydon (Arr 0127). One return bus from Crystal Palace departs at 2359\, calling at all stations to London Bridge via New Cross Gate. Alternatively\, use local buses or trams via any reasonable route. Last through trains: Highbury & Islington to Crystal Palace 2247\, Crystal Palace to Highbury & Islington 2317\; Highbury & Islington to West Croydon 2217\, West Croydon to Highbury & Islington 2316.
-DTEND:20241112T012900Z
-DTSTART:20241111T230000Z
-SUMMARY:London Overground: Part Closure
-UID:dbe48233-3450-4636-abc2-c04340b206bc@dbe4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Barking Riverside to Gospel Oak services on Monday 9 December: The 0618 train from Barking Riverside will start from Barking at 0624
-DTEND:20241209T062500Z
-DTSTART:20241209T060000Z
-SUMMARY:London Overground: Reduced Service
-UID:f210708b-878e-428f-b439-bab9eb8405b1@f210.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Stratford to Richmond / Clapham Junction services on Monday 18\, Tuesday 19\, Wednesday 20 and Thursday 21 November: Trains at 2203 and 2234 from Clapham Junction will terminate at Willesden Junction instead of Stratford.
-DTEND:20241118T224500Z
-DTSTART:20241118T220000Z
-SUMMARY:London Overground: Reduced Service
-UID:fb13600d-bb92-4d3f-b825-f750f082b235@fb13.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Barking Riverside to Gospel Oak services from Tuesday 17 to Friday 20 December: The 0618 train from Barking Riverside will start from Barking at 0624
-DTEND:20241218T062500Z
-DTSTART:20241218T060000Z
-SUMMARY:London Overground: Reduced Service
-UID:5e4448ed-a3f9-4ca9-bec1-b14d4e1ae415@5e44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Sunday 24\, Monday 25\, Tuesday 26\, Wednesday 27 and Thursday 28 November\, after 2245 each evening\, no service between Hackney Downs and Chingford. Replacement bus service L3 operates between Hackney Downs and Chingford via Clapton\, St James Street\, Walthamstow Central\, Wood Street and Highams Park. Some northbound buses after midnight also serve Liverpool Street\, Bethnal Green\, Cambridge Heath and London Fields.
-DTEND:20241129T012900Z
-DTSTART:20241128T224500Z
-SUMMARY:London Overground: Part Closure
-UID:93981856-2697-4f25-9278-b79e095ead58@9398.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Sunday 24 November\, no service between Surrey Quays and Clapham Junction. Replacement bus service M operates between Canada Water and Clapham Junction via Surrey Quays\, Queens Road Peckham\, Peckham Rye\, Denmark Hill\, Clapham High Street and Wandsworth Road.
-DTEND:20241125T012900Z
-DTSTART:20241124T043000Z
-SUMMARY:London Overground: Part Closure
-UID:82c1910f-131f-485e-88c3-889c163c6937@82c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Sunday 24\, Monday 25\, Tuesday 26\, Wednesday 27 and Thursday 28 November\, after 2245 each evening\, no service between Hackney Downs and Chingford. Replacement bus service L3 operates between Hackney Downs and Chingford via Clapton\, St James Street\, Walthamstow Central\, Wood Street and Highams Park. Some northbound buses after midnight also serve Liverpool Street\, Bethnal Green\, Cambridge Heath and London Fields.
-DTEND:20241128T012900Z
-DTSTART:20241127T224500Z
-SUMMARY:London Overground: Part Closure
-UID:5d87376d-c496-464d-8fe0-90a629512a94@5d87.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Euston to Watford Junction services from Monday 18 to Friday 21 November: On Monday to Thursday\, the 2345 train from Euston to Watford Junction will not run. On Tuesday to Friday\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
-DTEND:20241120T060500Z
-DTSTART:20241120T051500Z
-SUMMARY:London Overground: Reduced Service
-UID:0faf261b-6174-48e4-8ac5-0e2363ab72d8@0faf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Stratford to Richmond / Clapham Junction services on Friday 29 November: The 2159 train from Stratford to Richmond will terminate at Camden Road at 2219. The 2317 train from Richmond to Willesden Junction will not run
-DTEND:20241129T234500Z
-DTSTART:20241129T215500Z
-SUMMARY:London Overground: Reduced Service
-UID:db69e5b0-baf6-4da6-a305-27e012c99e17@db69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Monday 23 December\, after 2345\, no London Overground service westbound from Stratford to Camden Road. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0034. Customers should use the last westbound service from Stratford at 2344\, or local bus routes 30\, 274\, 388\, 393 or 488.
-DTEND:20241224T012900Z
-DTSTART:20241223T234500Z
-SUMMARY:London Overground: Part Closure
-UID:f0ee88da-11c5-4f81-95a4-d6c2c2a1220a@f0ee.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Monday 9\, Tuesday 10\, Wednesday 11 and Thursday 12 December\, after 2245 each evening\, no service between Hackney Downs and Enfield Town / Cheshunt. Use Clapton for Rectory Road\, and local buses for Stoke Newington and Stamford Hill. Replacement buses operate between Seven Sisters and Enfield Town / Cheshunt.
-DTEND:20241210T012900Z
-DTSTART:20241209T224500Z
-SUMMARY:London Overground: Part Closure
-UID:258832cc-fe60-4455-ac32-7c9072143e5c@2588.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Monday 11\, Tuesday 12\, Wednesday 13 and Thursday 14 November\, after 2345\, no London Overground service westbound from Stratford to Camden Road. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0034. Customers should use the last westbound service from Stratford at 2344\, or local bus routes 30\, 274\, 388\, 393 or 488.
-DTEND:20241112T012900Z
-DTSTART:20241111T234500Z
-SUMMARY:London Overground: Part Closure
-UID:e1451c32-04fe-4e3c-96a0-8cd20bff745c@e145.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Sunday 8 December\, no service between Barking and Barking Riverside. Please use London Buses routes EL1 EL2 and EL3 instead
-DTEND:20241209T012900Z
-DTSTART:20241208T043000Z
-SUMMARY:London Overground: Part Closure
-UID:67473c47-4b66-4431-9428-8c7d8317c926@6747.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Barking Riverside to Gospel Oak services from Tuesday 10 until Friday 13 December: The 0648 train from Barking Riverside will start from Barking at 0654
-DTEND:20241210T065500Z
-DTSTART:20241210T063000Z
-SUMMARY:London Overground: Reduced Service
-UID:948d9b46-f22c-4051-b12b-efd85a1192d4@948d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Sunday 17 November\, until 1430\, no service between Barking and Barking Riverside. Please use London Buses routes EL1 EL2 and EL3 instead
-DTEND:20241117T143000Z
-DTSTART:20241117T043000Z
-SUMMARY:London Overground: Part Closure
-UID:8d98a1b0-3965-4eed-a53a-e8a0a0b85feb@8d98.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: From 1930 Saturday 21 until 1200 Sunday 22 December\, no service between Willesden Junction and Clapham Junction. SOUTHERN services will also not operate between Watford Junction and Shepherds Bush at this time. Please use local London Buses and London Underground services.No London Overground service between Willesden Junction and Shepherd's Bush after 19:30. Use local buses via any reasonable route. Last through trains on Saturday are at 1851 from Stratford to Clapham Junction and at 1949 from Clapham Junction to Stratford.No London Overground service between Willesden Junction and Shepherd's Bush until 12:00. Use local buses via any reasonable route. First through trains on Sunday will be at 1123 from Stratford to Clapham Junction\, and at 1159 from Clapham Junction to Stratford.
-DTEND:20241222T120000Z
-DTSTART:20241221T193000Z
-SUMMARY:London Overground: Part Closure
-UID:75acddfa-ff07-4674-91e8-456abfd1553d@75ac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Stratford to Clapham Junction / Richmond services on Sunday 15 December: The 0908 train from Stratford to Clapham Junction starts from Shepherds Bush at 0955. The 0915 first train from Gospel Oak to Clapham Junction starts from Shepherds Bush at 0940. The 0916 train from Stratford to Richmond will not run. The 0931 train from Stratford to Willesden Junction will start from Willesden Junction at 1013. The 1026 train from Richmond to Stratford will start from Willesden Junction at 1043.
-DTEND:20241215T102000Z
-DTSTART:20241215T083000Z
-SUMMARY:London Overground: Reduced Service
-UID:332c6e61-af22-47a8-bc87-da7cd43cc1b7@332c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Sunday 3 November\, no service between Woodgrange Park and Barking Riverside. Use local London Buses routes EL1 EL2 and EL3 between Barking and Barking Riverside. Replacement bus service T operates between Woodgrange Park and Barking. Buses also set down at East Ham station towards Barking\, and pick up there towards Woodgrange Park.
-DTEND:20241104T012900Z
-DTSTART:20241103T043000Z
-SUMMARY:London Overground: Part Closure
-UID:741f245f-ae27-4893-b3a2-2bcc091ada72@741f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Stratford to Richmond / Clapham Junction services on Sunday 17 November: The 0014 last train (Saturday night / Sunday morning) from Stratford to Willesden Junction terminates at Camden Road at 0037. Customers should use the previous train at 2359.
-DTEND:20241117T010000Z
-DTSTART:20241117T000000Z
-SUMMARY:London Overground: Reduced Service
-UID:da3f75d2-22a1-4a42-ba17-620011ab7a05@da3f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Wednesday 13 and Thursday 14 November\, from 2300\, no service eastbound from Willesden Junction to Stratford. Customers should use the last eastbound services detailed below or London Overground services to Euston. Last through trains: Clapham Junction to Stratford 2234\; Richmond to Stratford 2235\; Willesden Junction to Stratford 2256
-DTEND:20241114T012900Z
-DTSTART:20241113T230000Z
-SUMMARY:London Overground: Part Closure
-UID:d676d397-5d5a-4404-a053-b9bd51ba9c0f@d676.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Monday 18\, Tuesday 19\, Wednesday 20 and Thursday 21 November\, no service westbound from Camden Road to Willesden Junction after 2345. The 2359 and 0015 services from Stratford will terminate at Camden Road. Use London Overground services from Euston to Willesden Junction\, Northern line from Camden Town\, or local bus routes 1\, 24\, 46 88 and 214 from Camden Road / Camden Town.
-DTEND:20241119T012900Z
-DTSTART:20241118T234500Z
-SUMMARY:London Overground: Part Closure
-UID:7af18c3d-a033-4492-a066-12af8b0fc54b@7af1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Sunday 8 December\, no service between Kensington (Olympia) and Clapham Junction. There will also be no SOUTHERN service between Watford Junction and Clapham Junction. Please use local London Buses services.
-DTEND:20241209T012900Z
-DTSTART:20241208T043000Z
-SUMMARY:London Overground: Part Closure
-UID:5360d240-1b2d-44d5-967c-22d525c1cc6c@5360.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Tuesday 19\, Wednesday 20\, Thursday 21 and Friday 22 November\, until 0615\, no service southbound from Willesden Junction to Shepherds Bush until 0615. The 0552 first train from Willesden Junction to Clapham Junction starts from Shepherds Bush at 0600 and the 0608 second train from Willesden Junction to Clapham Junction does not run. Use the next service at 0623 or local bus routes 220 or 228.
-DTEND:20241122T063000Z
-DTSTART:20241122T043000Z
-SUMMARY:London Overground: Part Closure
-UID:447a87e7-f9bc-4d07-994d-d6c9385bb556@447a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Monday 4\, Tuesday 5\, Wednesday 6 and Thursday 7 November\, after 2215 each evening\, no London Overground service between Sydenham and West Croydon. West Croydon trains will divert to and depart from Crystal Palace after 2215. Use local buses or Trams via any reasonable route or Southern trains between Sydenham and Norwood Junction. Tickets will also be accepted on Southern trains between Crystal Palace and Norwood Junction\, and between Norwood Junction and East Croydon. Last through trains: Highbury & Islington to West Croydon 2147\; West Croydon to Highbury & Islington 2246. The 2202 train from Highbury & Islington to West Croydon will terminate at New Cross Gate.
-DTEND:20241106T012900Z
-DTSTART:20241105T221500Z
-SUMMARY:London Overground: Part Closure
-UID:62ad05e4-5943-4882-bbb6-61ed8d3bf3ef@62ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Barking Riverside to Gospel Oak services from Tuesday 17 to Friday 20 December: The 0618 train from Barking Riverside will start from Barking at 0624
-DTEND:20241220T062500Z
-DTSTART:20241220T060000Z
-SUMMARY:London Overground: Reduced Service
-UID:61c50ca9-461f-4ae5-8448-e851ba74eced@61c5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Monday 11\, Tuesday 12\, Wednesday 13 and Thursday 14 November\, after 2300 each evening\, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses (Operated by Southern Railway) will run as follows: The bus for Crystal Palace will depart London Bridge at 2358 calling at New Cross Gate (0008) - Brockley - Honor Oak Park - Forest Hill - Sydenham (0027) - Crystal Palace (0033)\, Gipsy Hill - West Norwood - Tulse Hill - Streatham Hill (Arr 0058). The bus for East Croydon will depart London Bridge at 0035 calling at New Cross Gate (0050) - Brockley - Honor Oak Park - Forest Hill - Sydenham (0108) - Norwood Junction (0115) - East Croydon (Arr 0127). One return bus from Crystal Palace departs at 2359\, calling at all stations to London Bridge via New Cross Gate. Alternatively\, use local buses or trams via any reasonable route. Last through trains: Highbury & Islington to Crystal Palace 2247\, Crystal Palace to Highbury & Islington 2317\; Highbury & Islington to West Croydon 2217\, West Croydon to Highbury & Islington 2316.
-DTEND:20241114T012900Z
-DTSTART:20241113T230000Z
-SUMMARY:London Overground: Part Closure
-UID:32699b06-61d6-4be8-91e7-2705620894a0@3269.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Stratford to Richmond / Clapham Junction services on Friday 13 December: The 2159 train from Stratford to Richmond will terminate at Camden Road at 2219. The 2317 train from Richmond to Willesden Junction will not run
-DTEND:20241213T234500Z
-DTSTART:20241213T215500Z
-SUMMARY:London Overground: Reduced Service
-UID:4430bdf5-9e5e-4f99-a912-9f6ebd3ed3a9@4430.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Saturday 2 and Sunday 3 November\, a reduced service operates between Kilburn High Road and Euston. On Saturday\, trains departing Watford Junction at xx30 minutes past each hour\, from 0630 until 2030\, terminate at Kilburn High Road. Trains which usually depart from Euston at xx15 minutes past each hour\, from 0715 until 2115\, start from Kilburn High Road instead. On Sunday\, trains departing Watford Junction at xx30 minutes past each hour\, from 1130 until 2030\, terminate at Kilburn High Road. Trains which usually depart from Euston at xx15 minutes past each hour\, from 1215 until 2115\, start from Kilburn High Road instead.
-DTEND:20241103T211500Z
-DTSTART:20241103T113000Z
-SUMMARY:London Overground: Reduced Service
-UID:5b3247bc-21e2-4fa6-8523-f8407a2ef3c3@5b32.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Barking Riverside to Gospel Oak services on Tuesday 18\, Wednesday 19\, Thursday 20 and Friday 21 November: Trains at 0548 from Barking Riverside to Gospel Oak and 0624 from Gospel Oak to Barking Riverside will not run.
-DTEND:20241118T063000Z
-DTSTART:20241118T053000Z
-SUMMARY:London Overground: Reduced Service
-UID:fafa23ba-6a37-4628-bb71-271bab792454@fafa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Sunday 15 December\, until 0930\, no service between Willesden Junction and Clapham Junction. SOUTHERN services will also not operate between Watford Junction and Clapham Junction at this time. No London Overground service between Clapham Junction and Willesden Junction until 09:30. Use local buses via any reasonable route. First through trains will be at 0929 from Clapham Junction to Stratford\; 0940 from Shepherd's Bush to Clapham Junction\; 1003 from Willesden Junction to Clapham Junction. An additional train will run from Kensington Olympia to Stratford at 0926. Southern Railway services will also not run during this time. use local London Buses and London Underground services.
-DTEND:20241215T093000Z
-DTSTART:20241215T043000Z
-SUMMARY:London Overground: Part Closure
-UID:ab86af78-01d1-4738-bf70-28756828913c@ab86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Euston to Watford Junction services from Monday 18 to Friday 21 November: On Monday to Thursday\, the 2345 train from Euston to Watford Junction will not run. On Tuesday to Friday\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
-DTEND:20241119T060500Z
-DTSTART:20241119T051500Z
-SUMMARY:London Overground: Reduced Service
-UID:fa0d3ba9-ff39-426d-bf7d-b33bc7d4b07e@fa0d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Barking Riverside to Gospel Oak services from Monday 11 to Friday 15 November: The 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338
-DTEND:20241112T234500Z
-DTSTART:20241112T230000Z
-SUMMARY:London Overground: Reduced Service
-UID:1a12980c-8ac5-4854-95a2-9056aee235e2@1a12.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Monday 4\, Tuesday 5\, Wednesday 6 and Thursday 7 November\, after 2215 each evening\, no London Overground service between Sydenham and West Croydon. West Croydon trains will divert to and depart from Crystal Palace after 2215. Use local buses or Trams via any reasonable route or Southern trains between Sydenham and Norwood Junction. Tickets will also be accepted on Southern trains between Crystal Palace and Norwood Junction\, and between Norwood Junction and East Croydon. Last through trains: Highbury & Islington to West Croydon 2147\; West Croydon to Highbury & Islington 2246. The 2202 train from Highbury & Islington to West Croydon will terminate at New Cross Gate.
-DTEND:20241107T012900Z
-DTSTART:20241106T221500Z
-SUMMARY:London Overground: Part Closure
-UID:fa4b1077-6e7b-422f-9146-0bee8a01be50@fa4b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Barking Riverside to Gospel Oak services from Tuesday 5 to Friday 8 November: The 0618 train from Barking Riverside will start from Barking at 0624
-DTEND:20241106T062500Z
-DTSTART:20241106T060000Z
-SUMMARY:London Overground: Reduced Service
-UID:2e0a2d12-9c78-4582-8e62-a14bb6022879@2e0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Barking Riverside to Gospel Oak services from Monday 11 to Friday 15 November: The 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338
-DTEND:20241111T234500Z
-DTSTART:20241111T230000Z
-SUMMARY:London Overground: Reduced Service
-UID:62a322dc-a003-4141-aad4-dd28151dfec1@62a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Sunday 1 December\, no service between Surrey Quays and Clapham Junction. Replacement bus service M operates between Canada Water and Clapham Junction via Surrey Quays\, Queens Road Peckham\, Peckham Rye\, Denmark Hill\, Clapham High Street and Wandsworth Road.
-DTEND:20241202T012900Z
-DTSTART:20241201T043000Z
-SUMMARY:London Overground: Part Closure
-UID:cce18ee2-6af9-44b2-93db-1f779c6bc3f0@cce1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Euston to Watford Junction services from Monday 18 to Friday 21 November: On Monday to Thursday\, the 2345 train from Euston to Watford Junction will not run. On Tuesday to Friday\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
-DTEND:20241122T060500Z
-DTSTART:20241122T051500Z
-SUMMARY:London Overground: Reduced Service
-UID:dd588643-617c-45eb-ab54-5d7154710489@dd58.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Saturday 23 November\, no service between Wandsworth Road and Clapham Junction. Trains are diverted to/from Battersea Park for connecting trains to/from Clapham Junction.
-DTEND:20241124T012900Z
-DTSTART:20241123T043000Z
-SUMMARY:London Overground: Part Closure
-UID:7d286b7e-9537-409e-9380-f50120fe6bfd@7d28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Tuesday 19\, Wednesday 20\, Thursday 21 and Friday 22 November\, until 0615\, no service southbound from Willesden Junction to Shepherds Bush until 0615. The 0552 first train from Willesden Junction to Clapham Junction starts from Shepherds Bush at 0600 and the 0608 second train from Willesden Junction to Clapham Junction does not run. Use the next service at 0623 or local bus routes 220 or 228.
-DTEND:20241119T063000Z
-DTSTART:20241119T043000Z
-SUMMARY:London Overground: Part Closure
-UID:f605b188-7d48-49a1-87f4-534d66ad7b1f@f605.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Euston to Watford Junction services from Monday 18 to Friday 21 November: On Monday to Thursday\, the 2345 train from Euston to Watford Junction will not run. On Tuesday to Friday\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
-DTEND:20241121T060500Z
-DTSTART:20241121T051500Z
-SUMMARY:London Overground: Reduced Service
-UID:9d41c19a-3a3e-4a67-a909-9755b74de950@9d41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Stratford to Richmond / Clapham Junction services on Monday 11 and Tuesday 12 November: The 2147 Clapham Junction to Stratford train will not run. The 2159 train from Stratford to Richmond will terminate at Camden Road at 2219. Trains at 2203 and 2234 from Clapham Junction will terminate at Willesden Junction instead of Stratford. The 2247 train from Richmond to Stratford will terminate at Willesden Junction at 2306. The 2317 train from Richmond to Willesden Junction will not run
-DTEND:20241112T234500Z
-DTSTART:20241112T214500Z
-SUMMARY:London Overground: Reduced Service
-UID:22e832fc-3ebf-4e43-9a8a-288e709ce299@22e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Barking Riverside to Gospel Oak services from Monday 11 to Friday 15 November: The 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338
-DTEND:20241115T234500Z
-DTSTART:20241115T230000Z
-SUMMARY:London Overground: Reduced Service
-UID:64fd0954-35fa-41ab-9ae2-91e18ec414db@64fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Sunday 8 December\, until 1015\, no service between Liverpool Street and Chingford. Use local London Buses connections between Liverpool Street and Hackney Downs. Replacement bus service L3 operates between Hackney Downs and Chingford via Clapton\, St James Street\, Walthamstow Central\, Wood Street and Highams Park.
-DTEND:20241208T101500Z
-DTSTART:20241208T043000Z
-SUMMARY:London Overground: Part Closure
-UID:0c353d07-1294-4d5d-ac92-6d1ebcefa280@0c35.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Stratford to Richmond / Clapham Junction services on Monday 11 and Tuesday 12 November: The 2147 Clapham Junction to Stratford train will not run. The 2159 train from Stratford to Richmond will terminate at Camden Road at 2219. Trains at 2203 and 2234 from Clapham Junction will terminate at Willesden Junction instead of Stratford. The 2247 train from Richmond to Stratford will terminate at Willesden Junction at 2306. The 2317 train from Richmond to Willesden Junction will not run
-DTEND:20241111T234500Z
-DTSTART:20241111T214500Z
-SUMMARY:London Overground: Reduced Service
-UID:391fd8bd-4960-4138-b56f-d8021e275ea8@391f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Barking Riverside to Gospel Oak services from Tuesday 5 to Friday 8 November: The 0618 train from Barking Riverside will start from Barking at 0624
-DTEND:20241108T062500Z
-DTSTART:20241108T060000Z
-SUMMARY:London Overground: Reduced Service
-UID:d5a98a85-f0d4-4a14-a888-8165dd79661b@d5a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Barking Riverside to Gospel Oak services on Tuesday 18\, Wednesday 19\, Thursday 20 and Friday 21 November: Trains at 0548 from Barking Riverside to Gospel Oak and 0624 from Gospel Oak to Barking Riverside will not run.
-DTEND:20241119T063000Z
-DTSTART:20241119T053000Z
-SUMMARY:London Overground: Reduced Service
-UID:b4d252db-3e84-4441-9237-be90bb6851d1@b4d2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Monday 4\, Tuesday 5\, Wednesday 6 and Thursday 7 November\, after 2215 each evening\, no London Overground service between Sydenham and West Croydon. West Croydon trains will divert to and depart from Crystal Palace after 2215. Use local buses or Trams via any reasonable route or Southern trains between Sydenham and Norwood Junction. Tickets will also be accepted on Southern trains between Crystal Palace and Norwood Junction\, and between Norwood Junction and East Croydon. Last through trains: Highbury & Islington to West Croydon 2147\; West Croydon to Highbury & Islington 2246. The 2202 train from Highbury & Islington to West Croydon will terminate at New Cross Gate.
-DTEND:20241108T012900Z
-DTSTART:20241107T221500Z
-SUMMARY:London Overground: Part Closure
-UID:db4c6e71-374f-4d9d-bf30-890ec28154b8@db4c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Monday 18\, Tuesday 19\, Wednesday 20 and Thursday 21 November\, no service westbound from Camden Road to Willesden Junction after 2345. The 2359 and 0015 services from Stratford will terminate at Camden Road. Use London Overground services from Euston to Willesden Junction\, Northern line from Camden Town\, or local bus routes 1\, 24\, 46 88 and 214 from Camden Road / Camden Town.
-DTEND:20241122T012900Z
-DTSTART:20241121T234500Z
-SUMMARY:London Overground: Part Closure
-UID:8e9fc7f1-25e5-40a8-b967-4b6809b882eb@8e9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Sunday 15 December\, from 2215\, no service between Camden Road and Stratford. Replacement bus service S operates between Camden Road and Stratford via Holloway Road (for London Underground)\, Highbury & Islington\, Canonbury\, Dalston Kingsland (for Dalston Junction)\, Hackney Central\, Homerton and Hackney Wick. Some buses continue beyond Camden Road serving stations to Richmond on request except Brondesbury Park (use Queens Park)
-DTEND:20241216T012900Z
-DTSTART:20241215T221500Z
-SUMMARY:London Overground: Part Closure
-UID:72f88c00-c5c3-42c3-97a9-005ffe584481@72f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Monday 11\, Tuesday 12\, Wednesday 13 and Thursday 14 November\, after 2300 each evening\, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses (Operated by Southern Railway) will run as follows: The bus for Crystal Palace will depart London Bridge at 2358 calling at New Cross Gate (0008) - Brockley - Honor Oak Park - Forest Hill - Sydenham (0027) - Crystal Palace (0033)\, Gipsy Hill - West Norwood - Tulse Hill - Streatham Hill (Arr 0058). The bus for East Croydon will depart London Bridge at 0035 calling at New Cross Gate (0050) - Brockley - Honor Oak Park - Forest Hill - Sydenham (0108) - Norwood Junction (0115) - East Croydon (Arr 0127). One return bus from Crystal Palace departs at 2359\, calling at all stations to London Bridge via New Cross Gate. Alternatively\, use local buses or trams via any reasonable route. Last through trains: Highbury & Islington to Crystal Palace 2247\, Crystal Palace to Highbury & Islington 2317\; Highbury & Islington to West Croydon 2217\, West Croydon to Highbury & Islington 2316.
-DTEND:20241113T012900Z
-DTSTART:20241112T230000Z
-SUMMARY:London Overground: Part Closure
-UID:e1ff2963-f1af-4e40-9799-c6dc9e9c2706@e1ff.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Monday 11\, Tuesday 12\, Wednesday 13 and Thursday 14 November\, after 2345\, no London Overground service westbound from Stratford to Camden Road. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0034. Customers should use the last westbound service from Stratford at 2344\, or local bus routes 30\, 274\, 388\, 393 or 488.
-DTEND:20241114T012900Z
-DTSTART:20241113T234500Z
-SUMMARY:London Overground: Part Closure
-UID:fbfb237a-b978-477d-9ba7-40e8a00368e4@fbfb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Euston to Watford Junction services from Monday 18 to Friday 21 November: On Monday to Thursday\, the 2345 train from Euston to Watford Junction will not run. On Tuesday to Friday\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
-DTEND:20241118T235900Z
-DTSTART:20241118T230000Z
-SUMMARY:London Overground: Reduced Service
-UID:3dccffc5-8a99-471c-8940-864a625fd8cb@3dcc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Stratford to Richmond / Clapham Junction services on Wednesday 13 and Thursday 14 November: The 2129 and 2159 trains from Stratford to Richmond will terminate at Camden Road at 2150 and 2219 respectively. The 2135 train from Stratford to Willesden Junction will terminate at Camden Road at 2155. The 2147 Clapham Junction to Stratford train will not run. The 2159 train from Stratford to Richmond will terminate at Camden Road at 2219. Trains at 2203 and 2234 from Clapham Junction will terminate at Willesden Junction instead of Stratford. The 2247 train from Richmond to Stratford will terminate at Willesden Junction at 2306. The 2317 train from Richmond to Willesden Junction will not run
-DTEND:20241113T234500Z
-DTSTART:20241113T214500Z
-SUMMARY:London Overground: Reduced Service
-UID:babc67a0-d63d-4953-850d-d90a160a5ee1@babc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Euston to Watford Junction services from Monday 18 to Friday 21 November: On Monday to Thursday\, the 2345 train from Euston to Watford Junction will not run. On Tuesday to Friday\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
-DTEND:20241121T235900Z
-DTSTART:20241121T230000Z
-SUMMARY:London Overground: Reduced Service
-UID:3da883d6-75d1-47aa-b637-afb01a1de941@3da8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Saturday 16 November\, no service between Euston and Watford Junction. Use London NorthWestern Railway or Southern services for Wembley Central\, Harrow & Wealdstone\, Bushey and Watford Junction. There will also be no BAKERLOO LINE service between Queens Park and Harrow & Wealdstone. Special bus services operate.
-DTEND:20241117T012900Z
-DTSTART:20241116T043000Z
-SUMMARY:London Overground: Part Closure
-UID:f0bb1eed-4f58-443d-bec6-1a7d0c96afe6@f0bb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Euston to Watford Junction services from Monday 18 to Friday 21 November: On Monday to Thursday\, the 2345 train from Euston to Watford Junction will not run. On Tuesday to Friday\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
-DTEND:20241120T235900Z
-DTSTART:20241120T230000Z
-SUMMARY:London Overground: Reduced Service
-UID:d7a7ce6b-bc30-499e-b244-1330fecb3829@d7a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Monday 2\, Tuesday 3\, Wednesday 4 and Thursday 5 December\, after 2115 each evening\, no service between Highbury & Islington and New Cross Gate / New Cross / Clapham Junction. Use alternative train services between Highbury & Islington\, Canonbury and Dalston Kingsland. Replacement buses operate.
-DTEND:20241206T012900Z
-DTSTART:20241205T211500Z
-SUMMARY:London Overground: Part Closure
-UID:f18e4d29-b499-48a3-bf97-7492f68eca17@f18e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Barking Riverside to Gospel Oak services on Tuesday 18\, Wednesday 19\, Thursday 20 and Friday 21 November: Trains at 0548 from Barking Riverside to Gospel Oak and 0624 from Gospel Oak to Barking Riverside will not run.
-DTEND:20241120T063000Z
-DTSTART:20241120T053000Z
-SUMMARY:London Overground: Reduced Service
-UID:dd37dce7-a4a2-4f51-9b74-e6d30cc62a38@dd37.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Stratford to Richmond / Clapham Junction services on Wednesday 13 and Thursday 14 November: The 2129 and 2159 trains from Stratford to Richmond will terminate at Camden Road at 2150 and 2219 respectively. The 2135 train from Stratford to Willesden Junction will terminate at Camden Road at 2155. The 2147 Clapham Junction to Stratford train will not run. The 2159 train from Stratford to Richmond will terminate at Camden Road at 2219. Trains at 2203 and 2234 from Clapham Junction will terminate at Willesden Junction instead of Stratford. The 2247 train from Richmond to Stratford will terminate at Willesden Junction at 2306. The 2317 train from Richmond to Willesden Junction will not run
-DTEND:20241114T234500Z
-DTSTART:20241114T214500Z
-SUMMARY:London Overground: Reduced Service
-UID:b78122fb-d556-430e-98e9-260f21507e47@b781.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Stratford to Richmond / Clapham Junction services on Sunday 24 November: The 0946 train from Stratford to Richmond will start from Willesden Junction at 1027
-DTEND:20241124T100000Z
-DTSTART:20241124T094500Z
-SUMMARY:London Overground: Reduced Service
-UID:64011830-d860-4bb3-b657-a97f96c0bf21@6401.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Barking Riverside to Gospel Oak services on Friday 13 December: The 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338
-DTEND:20241213T234500Z
-DTSTART:20241213T230000Z
-SUMMARY:London Overground: Reduced Service
-UID:fbfed4ce-1a34-4146-b4d7-5db311024af7@fbfe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Barking Riverside to Gospel Oak services on Friday 29 November: The 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338
-DTEND:20241129T234500Z
-DTSTART:20241129T230000Z
-SUMMARY:London Overground: Reduced Service
-UID:dce8737a-8d01-4b72-bc3b-19c4772b8fba@dce8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Barking Riverside to Gospel Oak services from Monday 11 to Friday 15 November: The 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338
-DTEND:20241114T234500Z
-DTSTART:20241114T230000Z
-SUMMARY:London Overground: Reduced Service
-UID:4f5bf5b7-8f51-4cfa-8d6d-1566cfd11490@4f5b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Stratford to Richmond / Clapham Junction services on Monday 23 December: The 2159 train from Stratford to Richmond will terminate at Camden Road at 2219. The 2147 Clapham Junction to Stratford train will not run. The 2159 train from Stratford to Richmond will terminate at Camden Road at 2219. Trains at 2203 and 2234 from Clapham Junction will terminate at Willesden Junction instead of Stratford. The 2247 train from Richmond to Stratford will terminate at Willesden Junction at 2306. The 2317 train from Richmond to Willesden Junction will not run
-DTEND:20241223T233000Z
-DTSTART:20241223T215500Z
-SUMMARY:London Overground: Reduced Service
-UID:4bc658dc-22c2-4472-a072-df8688cc0b75@4bc6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Monday 2\, Tuesday 3\, Wednesday 4 and Thursday 5 December\, after 2115 each evening\, no service between Highbury & Islington and New Cross Gate / New Cross / Clapham Junction. Use alternative train services between Highbury & Islington\, Canonbury and Dalston Kingsland. Replacement buses operate.
-DTEND:20241204T012900Z
-DTSTART:20241203T211500Z
-SUMMARY:London Overground: Part Closure
-UID:6d42cdf5-6b45-4b72-8e5f-319f553d5492@6d42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Sunday 24 November\, until 1315\, no service between Gospel Oak and Barking Riverside. Use Victoria line connections between Seven Sisters (for South Tottenham)\, Blackhorse Road and Walthamstow Central\, and local London Buses routes between Barking and Barking Riverside. Replacement buses operate.
-DTEND:20241124T131500Z
-DTSTART:20241124T043000Z
-SUMMARY:London Overground: Part Closure
-UID:a1924fa8-fd1c-4d20-a677-adaed95c552d@a192.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Saturday 9 and Sunday 10 November\, no service between New Cross Gate and West Croydon / Crystal Palace. There will also be no SOUTHERN services between London Bridge and Crystal Palace / East Croydon (via Sydenham). Rail replacement buses operate: New Cross Gate - Brockley - Honor Oak Park - Forest Hill - Sydenham - Crystal Palace. Tickets will be accepted on Southern Railway services between Crystal Palace and East Croydon via Norwood Junction. Alternatively\, customers may use local buses or trams via any reasonable route.
-DTEND:20241111T012900Z
-DTSTART:20241109T043000Z
-SUMMARY:London Overground: Part Closure
-UID:6bacbdd9-c3e5-4422-be10-7cbb61097333@6bac.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Euston to Watford Junction services from Monday 18 to Friday 21 November: On Monday to Thursday\, the 2345 train from Euston to Watford Junction will not run. On Tuesday to Friday\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
-DTEND:20241119T235900Z
-DTSTART:20241119T230000Z
-SUMMARY:London Overground: Reduced Service
-UID:e07bec52-ab2c-47b1-b7f2-e6f68f6444ce@e07b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Monday 2\, Tuesday 3\, Wednesday 4 and Thursday 5 December\, after 2115 each evening\, no service between Highbury & Islington and New Cross Gate / New Cross / Clapham Junction. Use alternative train services between Highbury & Islington\, Canonbury and Dalston Kingsland. Replacement buses operate.
-DTEND:20241203T012900Z
-DTSTART:20241202T211500Z
-SUMMARY:London Overground: Part Closure
-UID:25c48dee-18af-46c9-94ca-32170d824a1e@25c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Monday 11\, Tuesday 12\, Wednesday 13 and Thursday 14 November\, after 2300 each evening\, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses (Operated by Southern Railway) will run as follows: The bus for Crystal Palace will depart London Bridge at 2358 calling at New Cross Gate (0008) - Brockley - Honor Oak Park - Forest Hill - Sydenham (0027) - Crystal Palace (0033)\, Gipsy Hill - West Norwood - Tulse Hill - Streatham Hill (Arr 0058). The bus for East Croydon will depart London Bridge at 0035 calling at New Cross Gate (0050) - Brockley - Honor Oak Park - Forest Hill - Sydenham (0108) - Norwood Junction (0115) - East Croydon (Arr 0127). One return bus from Crystal Palace departs at 2359\, calling at all stations to London Bridge via New Cross Gate. Alternatively\, use local buses or trams via any reasonable route. Last through trains: Highbury & Islington to Crystal Palace 2247\, Crystal Palace to Highbury & Islington 2317\; Highbury & Islington to West Croydon 2217\, West Croydon to Highbury & Islington 2316.
-DTEND:20241115T012900Z
-DTSTART:20241114T230000Z
-SUMMARY:London Overground: Part Closure
-UID:9363a01b-55ac-460b-a5a4-91cda37ac26b@9363.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Barking Riverside to Gospel Oak services from Tuesday 10 until Friday 13 December: The 0648 train from Barking Riverside will start from Barking at 0654
-DTEND:20241213T065500Z
-DTSTART:20241213T063000Z
-SUMMARY:London Overground: Reduced Service
-UID:67d7736d-3c41-4d75-9a0e-b6d00bbe5944@67d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Stratford to Richmond / Clapham Junction services on Monday 18\, Tuesday 19\, Wednesday 20 and Thursday 21 November: Trains at 2203 and 2234 from Clapham Junction will terminate at Willesden Junction instead of Stratford.
-DTEND:20241121T224500Z
-DTSTART:20241121T220000Z
-SUMMARY:London Overground: Reduced Service
-UID:424c29ca-e0bf-4177-92b7-ccb31f2b24da@424c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Sunday 24 November\, until 1200 and after 2030\, no service between Kilburn High Road and Euston. Please use local London Buses services. In addition\, the 2322 departure from Kilburn High Road terminates at Willesden Junction instead of Watford Junction.
-DTEND:20241124T120000Z
-DTSTART:20241124T043000Z
-SUMMARY:London Overground: Part Closure
-UID:8169ddb7-e94f-463d-a329-47bb02e4d602@8169.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Sunday 24 November\, from 2215\, no service between Camden Road and Stratford. Replacement bus service S operates between Camden Road and Stratford via Holloway Road (for London Underground)\, Highbury & Islington\, Canonbury\, Dalston Kingsland (for Dalston Junction)\, Hackney Central\, Homerton and Hackney Wick. Some buses continue beyond Camden Road serving stations to Richmond on request except Brondesbury Park (use Queens Park)
-DTEND:20241125T012900Z
-DTSTART:20241124T221500Z
-SUMMARY:London Overground: Part Closure
-UID:476bdba9-4950-48d4-a02b-7d798f89e757@476b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Barking Riverside to Gospel Oak services from Tuesday 17 to Friday 20 December: The 0618 train from Barking Riverside will start from Barking at 0624
-DTEND:20241217T062500Z
-DTSTART:20241217T060000Z
-SUMMARY:London Overground: Reduced Service
-UID:12a17964-1e7b-4b91-baba-d164e42cf2c8@12a1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Clapham Junction to Stratford services on Saturday 14 December: Trains at 2104 and 2234 from Clapham Junction to Stratford\, and at 2319 from Clapham Junction to Willesden Junction will not run.
-DTEND:20241214T232000Z
-DTSTART:20241214T210000Z
-SUMMARY:London Overground: Reduced Service
-UID:13aaf7ff-8071-491f-95f1-5aa64f2b499d@13aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Monday 11\, Tuesday 12\, Wednesday 13 and Thursday 14 November\, after 2345\, no London Overground service westbound from Stratford to Camden Road. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0034. Customers should use the last westbound service from Stratford at 2344\, or local bus routes 30\, 274\, 388\, 393 or 488.
-DTEND:20241113T012900Z
-DTSTART:20241112T234500Z
-SUMMARY:London Overground: Part Closure
-UID:1bb79246-8775-4c3e-b6cb-ce6a3b733df7@1bb7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Saturday 9 and Sunday 10 November\, a reduced service operates between Kilburn High Road and Euston. On Saturday\, trains departing Watford Junction at xx30 minutes past each hour\, from 0630 until 2030\, terminate at Kilburn High Road. Trains which usually depart from Euston at xx15 minutes past each hour\, from 0715 until 2115\, start from Kilburn High Road instead. On Sunday\, trains departing Watford Junction at xx30 minutes past each hour\, from 1130 until 2030\, terminate at Kilburn High Road. Trains which usually depart from Euston at xx15 minutes past each hour\, from 1215 until 2115\, start from Kilburn High Road instead.
-DTEND:20241109T211500Z
-DTSTART:20241109T063000Z
-SUMMARY:London Overground: Reduced Service
-UID:3cb7c89b-32cc-4941-aad4-ffeceedb4099@3cb7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Monday 9\, Tuesday 10\, Wednesday 11 and Thursday 12 December\, after 2245 each evening\, no service between Hackney Downs and Enfield Town / Cheshunt. Use Clapton for Rectory Road\, and local buses for Stoke Newington and Stamford Hill. Replacement buses operate between Seven Sisters and Enfield Town / Cheshunt.
-DTEND:20241212T012900Z
-DTSTART:20241211T224500Z
-SUMMARY:London Overground: Part Closure
-UID:8607dca9-40fb-4ffc-91db-a12f7517c8b6@8607.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Sunday 24 November\, until 1200 and after 2030\, no service between Kilburn High Road and Euston. Please use local London Buses services. In addition\, the 2322 departure from Kilburn High Road terminates at Willesden Junction instead of Watford Junction.
-DTEND:20241125T012900Z
-DTSTART:20241124T203000Z
-SUMMARY:London Overground: Part Closure
-UID:a15eb249-39af-496c-88bb-842126b7b7ae@a15e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Tuesday 19\, Wednesday 20\, Thursday 21 and Friday 22 November\, until 0615\, no service southbound from Willesden Junction to Shepherds Bush until 0615. The 0552 first train from Willesden Junction to Clapham Junction starts from Shepherds Bush at 0600 and the 0608 second train from Willesden Junction to Clapham Junction does not run. Use the next service at 0623 or local bus routes 220 or 228.
-DTEND:20241120T063000Z
-DTSTART:20241120T043000Z
-SUMMARY:London Overground: Part Closure
-UID:b6a2b0c2-6e80-452a-9d49-9580484df24f@b6a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Monday 2\, Tuesday 3\, Wednesday 4 and Thursday 5 December\, after 2115 each evening\, no service between Highbury & Islington and New Cross Gate / New Cross / Clapham Junction. Use alternative train services between Highbury & Islington\, Canonbury and Dalston Kingsland. Replacement buses operate.
-DTEND:20241205T012900Z
-DTSTART:20241204T211500Z
-SUMMARY:London Overground: Part Closure
-UID:71a2ab96-995d-4121-8991-164564e6e4df@71a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Sunday 24\, Monday 25\, Tuesday 26\, Wednesday 27 and Thursday 28 November\, after 2245 each evening\, no service between Hackney Downs and Chingford. Replacement bus service L3 operates between Hackney Downs and Chingford via Clapton\, St James Street\, Walthamstow Central\, Wood Street and Highams Park. Some northbound buses after midnight also serve Liverpool Street\, Bethnal Green\, Cambridge Heath and London Fields.
-DTEND:20241126T012900Z
-DTSTART:20241125T224500Z
-SUMMARY:London Overground: Part Closure
-UID:338a5ae0-ee5b-4915-b8b8-133da873f8f7@338a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Barking Riverside to Gospel Oak services from Monday 11 to Friday 15 November: The 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338
-DTEND:20241113T234500Z
-DTSTART:20241113T230000Z
-SUMMARY:London Overground: Reduced Service
-UID:79ccc143-c915-4a3f-aef8-e8e6c95d84fa@79cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Wednesday 13 and Thursday 14 November\, from 2300\, no service eastbound from Willesden Junction to Stratford. Customers should use the last eastbound services detailed below or London Overground services to Euston. Last through trains: Clapham Junction to Stratford 2234\; Richmond to Stratford 2235\; Willesden Junction to Stratford 2256
-DTEND:20241115T012900Z
-DTSTART:20241114T230000Z
-SUMMARY:London Overground: Part Closure
-UID:5c22b6c4-e527-4e6a-9cbb-d2ed78c1c519@5c22.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Saturday 9 and Sunday 10 November\, a reduced service operates between Kilburn High Road and Euston. On Saturday\, trains departing Watford Junction at xx30 minutes past each hour\, from 0630 until 2030\, terminate at Kilburn High Road. Trains which usually depart from Euston at xx15 minutes past each hour\, from 0715 until 2115\, start from Kilburn High Road instead. On Sunday\, trains departing Watford Junction at xx30 minutes past each hour\, from 1130 until 2030\, terminate at Kilburn High Road. Trains which usually depart from Euston at xx15 minutes past each hour\, from 1215 until 2115\, start from Kilburn High Road instead.
-DTEND:20241110T211500Z
-DTSTART:20241110T113000Z
-SUMMARY:London Overground: Reduced Service
-UID:dd580ca7-0614-4c24-805b-9c9bce471596@dd58.org
+UID:d16451eb-4742-401b-9e15-fba5e8d8f203@d164.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Changes to Clapham Junction to Stratford services on Saturday 30 November: Trains at 2104 and 2234 from Clapham Junction to Stratford\, and at 2319 from Clapham Junction to Willesden Junction will not run.
 DTEND:20241130T232000Z
 DTSTART:20241130T210000Z
 SUMMARY:London Overground: Reduced Service
-UID:00ec8889-4e8f-4a2d-8c50-54bd74175a4c@00ec.org
+UID:73aedc9a-7300-429a-b1a5-4ac720e14bac@73ae.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Sunday 24 November\, from 1315\, no service between Woodgrange Park and Barking Riverside. Use local London Buses routes EL1 EL2 and EL3 between Barking and Barking Riverside. Replacement bus service T operates between Woodgrange Park and Barking. Buses also set down at East Ham station towards Barking\, and pick up there towards Woodgrange Park.
-DTEND:20241125T012900Z
-DTSTART:20241124T131500Z
+DESCRIPTION:LONDON OVERGROUND: Monday 4\, Tuesday 5\, Wednesday 6 and Thursday 7 November\, after 2215 each evening\, no London Overground service between Sydenham and West Croydon. West Croydon trains will divert to and depart from Crystal Palace after 2215. Use local buses or Trams via any reasonable route or Southern trains between Sydenham and Norwood Junction. Tickets will also be accepted on Southern trains between Crystal Palace and Norwood Junction\, and between Norwood Junction and East Croydon. Last through trains: Highbury & Islington to West Croydon 2147\; West Croydon to Highbury & Islington 2246. The 2202 train from Highbury & Islington to West Croydon will terminate at New Cross Gate.
+DTEND:20241105T012900Z
+DTSTART:20241104T221500Z
 SUMMARY:London Overground: Part Closure
-UID:8bc441aa-e65d-46cb-89da-81f25df0d0b7@8bc4.org
+UID:0622be95-1119-45b2-95fe-1791ced33f39@0622.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Sunday 24\, Monday 25\, Tuesday 26\, Wednesday 27 and Thursday 28 November\, after 2245 each evening\, no service between Hackney Downs and Chingford. Replacement bus service L3 operates between Hackney Downs and Chingford via Clapton\, St James Street\, Walthamstow Central\, Wood Street and Highams Park. Some northbound buses after midnight also serve Liverpool Street\, Bethnal Green\, Cambridge Heath and London Fields.
-DTEND:20241125T012900Z
-DTSTART:20241124T224500Z
-SUMMARY:London Overground: Part Closure
-UID:a0d1c64e-9d1d-4976-8c45-2bd564503c20@a0d1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Barking Riverside to Gospel Oak services from Tuesday 5 to Friday 8 November: The 0618 train from Barking Riverside will start from Barking at 0624
-DTEND:20241105T062500Z
-DTSTART:20241105T060000Z
+DESCRIPTION:Changes to Barking Riverside to Gospel Oak services from Monday 11 to Friday 15 November: The 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338
+DTEND:20241111T234500Z
+DTSTART:20241111T230000Z
 SUMMARY:London Overground: Reduced Service
-UID:9708c095-90ca-493b-b0f5-f66ec6832795@9708.org
+UID:08b9097d-80d2-42c9-b29f-3d36ce6a26e3@08b9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Changes to Stratford to Richmond / Clapham Junction services on Monday 18\, Tuesday 19\, Wednesday 20 and Thursday 21 November: Trains at 2203 and 2234 from Clapham Junction will terminate at Willesden Junction instead of Stratford.
-DTEND:20241120T224500Z
-DTSTART:20241120T220000Z
+DESCRIPTION:Changes to Euston to Watford Junction services from Monday 18 to Friday 21 November: On Monday to Thursday\, the 2345 train from Euston to Watford Junction will not run. On Tuesday to Friday\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
+DTEND:20241119T235900Z
+DTSTART:20241119T230000Z
 SUMMARY:London Overground: Reduced Service
-UID:d96b26b0-297f-4c0f-b003-961a1e0cfa1f@d96b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Sunday 10 November\, no service between Willesden Junction and Clapham Junction. SOUTHERN services will also not operate between Watford Junction and Clapham Junction. Please use local London Buses and London Underground services.
-DTEND:20241111T012900Z
-DTSTART:20241110T043000Z
-SUMMARY:London Overground: Part Closure
-UID:5023c559-0453-4de2-90de-0ef2446bcbf8@5023.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Monday 9\, Tuesday 10\, Wednesday 11 and Thursday 12 December\, after 2245 each evening\, no service between Hackney Downs and Enfield Town / Cheshunt. Use Clapton for Rectory Road\, and local buses for Stoke Newington and Stamford Hill. Replacement buses operate between Seven Sisters and Enfield Town / Cheshunt.
-DTEND:20241213T012900Z
-DTSTART:20241212T224500Z
-SUMMARY:London Overground: Part Closure
-UID:303f5437-4b8b-44ec-8233-889ddd5b7150@303f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Sunday 1 December\, until 0800\, no London Overground service between Sydenham and West Croydon. Please use local London Buses services.
-DTEND:20241201T080000Z
-DTSTART:20241201T043000Z
-SUMMARY:London Overground: Part Closure
-UID:0b8d4207-b690-4c56-861e-3126089e4359@0b8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Saturday 14 and Sunday 15 December (including Friday and Saturday Night Overground)\, no service between Highbury & Islington and New Cross Gate / New Cross / Clapham Junction. Use alternative train services between Highbury & Islington\, Canonbury and Dalston Kingsland. Replacement buses operate during the day. During night hours\, please use local London Buses and London Underground stations.
-DTEND:20241216T012900Z
-DTSTART:20241214T010000Z
-SUMMARY:London Overground: Part Closure
-UID:2d3084f6-8b3b-463a-9e19-3b79b8bef56f@2d30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:Changes to Stratford to Richmond / Clapham Junction services on Monday 18\, Tuesday 19\, Wednesday 20 and Thursday 21 November: Trains at 2203 and 2234 from Clapham Junction will terminate at Willesden Junction instead of Stratford.
-DTEND:20241119T224500Z
-DTSTART:20241119T220000Z
-SUMMARY:London Overground: Reduced Service
-UID:45da35dc-6263-4854-8ebd-61aa37f79caf@45da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:LONDON OVERGROUND: Tuesday 19\, Wednesday 20\, Thursday 21 and Friday 22 November\, until 0615\, no service southbound from Willesden Junction to Shepherds Bush until 0615. The 0552 first train from Willesden Junction to Clapham Junction starts from Shepherds Bush at 0600 and the 0608 second train from Willesden Junction to Clapham Junction does not run. Use the next service at 0623 or local bus routes 220 or 228.
-DTEND:20241121T063000Z
-DTSTART:20241121T043000Z
-SUMMARY:London Overground: Part Closure
-UID:2204bdac-b80b-4218-a286-e3212fa5b64e@2204.org
+UID:96131985-c8fa-4d34-a8cd-2d73624e75dd@9613.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Changes to Barking Riverside to Gospel Oak services from Tuesday 17 to Friday 20 December: The 0618 train from Barking Riverside will start from Barking at 0624
 DTEND:20241219T062500Z
 DTSTART:20241219T060000Z
 SUMMARY:London Overground: Reduced Service
-UID:77168a08-bb8c-43d4-8c4d-2d6a798406d0@7716.org
+UID:16368b34-e9aa-49b6-b062-6bc6b9ca6064@1636.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:Changes to Barking Riverside to Gospel Oak services on Tuesday 18\, Wednesday 19\, Thursday 20 and Friday 21 November: Trains at 0548 from Barking Riverside to Gospel Oak and 0624 from Gospel Oak to Barking Riverside will not run.
-DTEND:20241121T063000Z
-DTSTART:20241121T053000Z
-SUMMARY:London Overground: Reduced Service
-UID:628ec31c-1810-4940-ace8-a8b981d75d40@628e.org
+DESCRIPTION:LONDON OVERGROUND: Saturday 14 and Sunday 15 December (including Friday and Saturday Night Overground)\, no service between Highbury & Islington and New Cross Gate / New Cross / Clapham Junction. Use alternative train services between Highbury & Islington\, Canonbury and Dalston Kingsland. Replacement buses operate during the day. During night hours\, please use local London Buses and London Underground stations.
+DTEND:20241216T012900Z
+DTSTART:20241214T010000Z
+SUMMARY:London Overground: Part Closure
+UID:b560ee54-67a3-4d6d-9e50-e4f3ad81dc37@b560.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Monday 9\, Tuesday 10\, Wednesday 11 and Thursday 12 December\, after 2245 each evening\, no service between Hackney Downs and Enfield Town / Cheshunt. Use Clapton for Rectory Road\, and local buses for Stoke Newington and Stamford Hill. Replacement buses operate between Seven Sisters and Enfield Town / Cheshunt.
+DTEND:20241212T012900Z
+DTSTART:20241211T224500Z
+SUMMARY:London Overground: Part Closure
+UID:01647520-1c6e-4052-a65d-d9a84d55a4e4@0164.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Sunday 15 December\, from 2215\, no service between Camden Road and Stratford. Replacement bus service S operates between Camden Road and Stratford via Holloway Road (for London Underground)\, Highbury & Islington\, Canonbury\, Dalston Kingsland (for Dalston Junction)\, Hackney Central\, Homerton and Hackney Wick. Some buses continue beyond Camden Road serving stations to Richmond on request except Brondesbury Park (use Queens Park)
+DTEND:20241216T012900Z
+DTSTART:20241215T221500Z
+SUMMARY:London Overground: Part Closure
+UID:6509c1ce-a2f3-436d-b0f3-e7ef6503410d@6509.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:LONDON OVERGROUND: Monday 18\, Tuesday 19\, Wednesday 20 and Thursday 21 November\, no service westbound from Camden Road to Willesden Junction after 2345. The 2359 and 0015 services from Stratford will terminate at Camden Road. Use London Overground services from Euston to Willesden Junction\, Northern line from Camden Town\, or local bus routes 1\, 24\, 46 88 and 214 from Camden Road / Camden Town.
 DTEND:20241120T012900Z
 DTSTART:20241119T234500Z
 SUMMARY:London Overground: Part Closure
-UID:78df9f6d-6cb9-4ca2-b651-99792098d63c@78df.org
+UID:dd01a112-edef-4feb-83f1-af05bbe5eb19@dd01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Stratford to Richmond / Clapham Junction services on Monday 18\, Tuesday 19\, Wednesday 20 and Thursday 21 November: Trains at 2203 and 2234 from Clapham Junction will terminate at Willesden Junction instead of Stratford.
+DTEND:20241119T224500Z
+DTSTART:20241119T220000Z
+SUMMARY:London Overground: Reduced Service
+UID:e16888fd-51b9-4329-8457-edf9cca91d0a@e168.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Barking Riverside to Gospel Oak services from Tuesday 5 to Friday 8 November: The 0618 train from Barking Riverside will start from Barking at 0624
+DTEND:20241108T062500Z
+DTSTART:20241108T060000Z
+SUMMARY:London Overground: Reduced Service
+UID:bcbe11c0-08c5-4ccb-b847-663d9cb02e83@bcbe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Euston to Watford Junction services from Monday 18 to Friday 21 November: On Monday to Thursday\, the 2345 train from Euston to Watford Junction will not run. On Tuesday to Friday\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
+DTEND:20241119T060500Z
+DTSTART:20241119T051500Z
+SUMMARY:London Overground: Reduced Service
+UID:fa4b8451-003b-4caf-8253-abc381e7e6b7@fa4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Euston to Watford Junction services from Monday 18 to Friday 21 November: On Monday to Thursday\, the 2345 train from Euston to Watford Junction will not run. On Tuesday to Friday\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
+DTEND:20241121T235900Z
+DTSTART:20241121T230000Z
+SUMMARY:London Overground: Reduced Service
+UID:72b332d1-6c82-4e05-93d5-fe24a71dae12@72b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Barking Riverside to Gospel Oak services on Tuesday 18\, Wednesday 19\, Thursday 20 and Friday 21 November: Trains at 0548 from Barking Riverside to Gospel Oak and 0624 from Gospel Oak to Barking Riverside will not run.
+DTEND:20241121T063000Z
+DTSTART:20241121T053000Z
+SUMMARY:London Overground: Reduced Service
+UID:bdd4409d-2ebd-4f9e-b617-9c9c27140ed7@bdd4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:LONDON OVERGROUND: Monday 9\, Tuesday 10\, Wednesday 11 and Thursday 12 December\, after 2245 each evening\, no service between Hackney Downs and Enfield Town / Cheshunt. Use Clapton for Rectory Road\, and local buses for Stoke Newington and Stamford Hill. Replacement buses operate between Seven Sisters and Enfield Town / Cheshunt.
 DTEND:20241211T012900Z
 DTSTART:20241210T224500Z
 SUMMARY:London Overground: Part Closure
-UID:eba01f41-e601-490f-b898-746b84fe218d@eba0.org
+UID:451a5437-8318-49ca-b52f-38d4d44b8006@451a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Monday 18\, Tuesday 19\, Wednesday 20 and Thursday 21 November\, no service westbound from Camden Road to Willesden Junction after 2345. The 2359 and 0015 services from Stratford will terminate at Camden Road. Use London Overground services from Euston to Willesden Junction\, Northern line from Camden Town\, or local bus routes 1\, 24\, 46 88 and 214 from Camden Road / Camden Town.
+DTEND:20241121T012900Z
+DTSTART:20241120T234500Z
+SUMMARY:London Overground: Part Closure
+UID:e81dcfef-1296-4e5f-b039-7955f8a1d27b@e81d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Monday 2\, Tuesday 3\, Wednesday 4 and Thursday 5 December\, after 2115 each evening\, no service between Highbury & Islington and New Cross Gate / New Cross / Clapham Junction. Use alternative train services between Highbury & Islington\, Canonbury and Dalston Kingsland. Replacement buses operate.
+DTEND:20241206T012900Z
+DTSTART:20241205T211500Z
+SUMMARY:London Overground: Part Closure
+UID:e3ff42d1-809e-4c14-9566-c998a7c64f6e@e3ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Monday 2\, Tuesday 3\, Wednesday 4 and Thursday 5 December\, after 2115 each evening\, no service between Highbury & Islington and New Cross Gate / New Cross / Clapham Junction. Use alternative train services between Highbury & Islington\, Canonbury and Dalston Kingsland. Replacement buses operate.
+DTEND:20241203T012900Z
+DTSTART:20241202T211500Z
+SUMMARY:London Overground: Part Closure
+UID:dc99866f-9ecf-42d1-b9c0-86faed084af1@dc99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Barking Riverside to Gospel Oak services from Monday 11 to Friday 15 November: The 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338
+DTEND:20241113T234500Z
+DTSTART:20241113T230000Z
+SUMMARY:London Overground: Reduced Service
+UID:57bf148c-7589-40eb-b0fe-e8316c3635c5@57bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Monday 23 December\, after 2345\, no London Overground service westbound from Stratford to Camden Road. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0034. Customers should use the last westbound service from Stratford at 2344\, or local bus routes 30\, 274\, 388\, 393 or 488.
+DTEND:20241224T012900Z
+DTSTART:20241223T234500Z
+SUMMARY:London Overground: Part Closure
+UID:603725df-836e-49df-8cfa-6aaa99c6ab0c@6037.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Tuesday 19\, Wednesday 20\, Thursday 21 and Friday 22 November\, until 0615\, no service southbound from Willesden Junction to Shepherds Bush until 0615. The 0552 first train from Willesden Junction to Clapham Junction starts from Shepherds Bush at 0600 and the 0608 second train from Willesden Junction to Clapham Junction does not run. Use the next service at 0623 or local bus routes 220 or 228.
+DTEND:20241122T063000Z
+DTSTART:20241122T043000Z
+SUMMARY:London Overground: Part Closure
+UID:4b8b2ff2-743a-426c-8310-cbbbbd7e4d58@4b8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Stratford to Richmond / Clapham Junction services on Monday 23 December: The 2159 train from Stratford to Richmond will terminate at Camden Road at 2219. The 2147 Clapham Junction to Stratford train will not run. The 2159 train from Stratford to Richmond will terminate at Camden Road at 2219. Trains at 2203 and 2234 from Clapham Junction will terminate at Willesden Junction instead of Stratford. The 2247 train from Richmond to Stratford will terminate at Willesden Junction at 2306. The 2317 train from Richmond to Willesden Junction will not run
+DTEND:20241223T233000Z
+DTSTART:20241223T215500Z
+SUMMARY:London Overground: Reduced Service
+UID:5a728e68-eed4-4be8-b518-ee666e9121e9@5a72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Monday 4\, Tuesday 5\, Wednesday 6 and Thursday 7 November\, after 2215 each evening\, no London Overground service between Sydenham and West Croydon. West Croydon trains will divert to and depart from Crystal Palace after 2215. Use local buses or Trams via any reasonable route or Southern trains between Sydenham and Norwood Junction. Tickets will also be accepted on Southern trains between Crystal Palace and Norwood Junction\, and between Norwood Junction and East Croydon. Last through trains: Highbury & Islington to West Croydon 2147\; West Croydon to Highbury & Islington 2246. The 2202 train from Highbury & Islington to West Croydon will terminate at New Cross Gate.
+DTEND:20241107T012900Z
+DTSTART:20241106T221500Z
+SUMMARY:London Overground: Part Closure
+UID:eff43e1e-9df8-44c1-a779-854253061ed7@eff4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Sunday 1 December\, no service between Surrey Quays and Clapham Junction. Replacement bus service M operates between Canada Water and Clapham Junction via Surrey Quays\, Queens Road Peckham\, Peckham Rye\, Denmark Hill\, Clapham High Street and Wandsworth Road.
+DTEND:20241202T012900Z
+DTSTART:20241201T043000Z
+SUMMARY:London Overground: Part Closure
+UID:3ffed8cc-1924-4b24-ac8e-1b5dfc94d5da@3ffe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Barking Riverside to Gospel Oak services on Friday 29 November: The 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338
+DTEND:20241129T234500Z
+DTSTART:20241129T230000Z
+SUMMARY:London Overground: Reduced Service
+UID:cbd5f64c-ae83-4ffa-980d-1f845971b3ca@cbd5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Stratford to Richmond / Clapham Junction services on Friday 29 November: The 2159 train from Stratford to Richmond will terminate at Camden Road at 2219. The 2317 train from Richmond to Willesden Junction will not run
+DTEND:20241129T234500Z
+DTSTART:20241129T215500Z
+SUMMARY:London Overground: Reduced Service
+UID:b7a52057-09af-4f33-90eb-17ccdff059e0@b7a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Monday 11\, Tuesday 12\, Wednesday 13 and Thursday 14 November\, after 2300 each evening\, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses (Operated by Southern Railway) will run as follows: The bus for Crystal Palace will depart London Bridge at 2358 calling at New Cross Gate (0008) - Brockley - Honor Oak Park - Forest Hill - Sydenham (0027) - Crystal Palace (0033)\, Gipsy Hill - West Norwood - Tulse Hill - Streatham Hill (Arr 0058). The bus for East Croydon will depart London Bridge at 0035 calling at New Cross Gate (0050) - Brockley - Honor Oak Park - Forest Hill - Sydenham (0108) - Norwood Junction (0115) - East Croydon (Arr 0127). One return bus from Crystal Palace departs at 2359\, calling at all stations to London Bridge via New Cross Gate. Alternatively\, use local buses or trams via any reasonable route. Last through trains: Highbury & Islington to Crystal Palace 2247\, Crystal Palace to Highbury & Islington 2317\; Highbury & Islington to West Croydon 2217\, West Croydon to Highbury & Islington 2316.
+DTEND:20241114T012900Z
+DTSTART:20241113T230000Z
+SUMMARY:London Overground: Part Closure
+UID:671a6059-f5ff-49ad-a56d-53f755084e91@671a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Stratford to Richmond / Clapham Junction services on Monday 11 and Tuesday 12 November: The 2147 Clapham Junction to Stratford train will not run. The 2159 train from Stratford to Richmond will terminate at Camden Road at 2219. Trains at 2203 and 2234 from Clapham Junction will terminate at Willesden Junction instead of Stratford. The 2247 train from Richmond to Stratford will terminate at Willesden Junction at 2306. The 2317 train from Richmond to Willesden Junction will not run
+DTEND:20241111T234500Z
+DTSTART:20241111T214500Z
+SUMMARY:London Overground: Reduced Service
+UID:65f1c4a3-44fd-4fe4-8632-2281474aa361@65f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Saturday 9 and Sunday 10 November\, a reduced service operates between Kilburn High Road and Euston. On Saturday\, trains departing Watford Junction at xx30 minutes past each hour\, from 0630 until 2030\, terminate at Kilburn High Road. Trains which usually depart from Euston at xx15 minutes past each hour\, from 0715 until 2115\, start from Kilburn High Road instead. On Sunday\, trains departing Watford Junction at xx30 minutes past each hour\, from 1130 until 2030\, terminate at Kilburn High Road. Trains which usually depart from Euston at xx15 minutes past each hour\, from 1215 until 2115\, start from Kilburn High Road instead.
+DTEND:20241109T211500Z
+DTSTART:20241109T063000Z
+SUMMARY:London Overground: Reduced Service
+UID:6d99fbcc-77a5-41da-ae0b-aee479477806@6d99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Euston to Watford Junction services from Monday 18 to Friday 21 November: On Monday to Thursday\, the 2345 train from Euston to Watford Junction will not run. On Tuesday to Friday\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
+DTEND:20241121T060500Z
+DTSTART:20241121T051500Z
+SUMMARY:London Overground: Reduced Service
+UID:218dd0e1-eb54-443d-a501-c3a6a65ae7c8@218d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Stratford to Richmond / Clapham Junction services on Monday 11 and Tuesday 12 November: The 2147 Clapham Junction to Stratford train will not run. The 2159 train from Stratford to Richmond will terminate at Camden Road at 2219. Trains at 2203 and 2234 from Clapham Junction will terminate at Willesden Junction instead of Stratford. The 2247 train from Richmond to Stratford will terminate at Willesden Junction at 2306. The 2317 train from Richmond to Willesden Junction will not run
+DTEND:20241112T234500Z
+DTSTART:20241112T214500Z
+SUMMARY:London Overground: Reduced Service
+UID:b469c7af-737e-4b04-ac85-1e878f05e384@b469.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Monday 18\, Tuesday 19\, Wednesday 20 and Thursday 21 November\, no service westbound from Camden Road to Willesden Junction after 2345. The 2359 and 0015 services from Stratford will terminate at Camden Road. Use London Overground services from Euston to Willesden Junction\, Northern line from Camden Town\, or local bus routes 1\, 24\, 46 88 and 214 from Camden Road / Camden Town.
+DTEND:20241122T012900Z
+DTSTART:20241121T234500Z
+SUMMARY:London Overground: Part Closure
+UID:6b06a1f5-6230-4273-9dbe-a95f292c39c9@6b06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Sunday 24\, Monday 25\, Tuesday 26\, Wednesday 27 and Thursday 28 November\, after 2245 each evening\, no service between Hackney Downs and Chingford. Replacement bus service L3 operates between Hackney Downs and Chingford via Clapton\, St James Street\, Walthamstow Central\, Wood Street and Highams Park. Some northbound buses after midnight also serve Liverpool Street\, Bethnal Green\, Cambridge Heath and London Fields.
+DTEND:20241126T012900Z
+DTSTART:20241125T224500Z
+SUMMARY:London Overground: Part Closure
+UID:83e38b13-1c9c-4e48-824b-968437c9218d@83e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Barking Riverside to Gospel Oak services from Monday 11 to Friday 15 November: The 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338
+DTEND:20241112T234500Z
+DTSTART:20241112T230000Z
+SUMMARY:London Overground: Reduced Service
+UID:b4345d5e-59df-40d1-b72a-f99db43c1f4f@b434.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Barking Riverside to Gospel Oak services on Friday 13 December: The 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338
+DTEND:20241213T234500Z
+DTSTART:20241213T230000Z
+SUMMARY:London Overground: Reduced Service
+UID:73df1743-fa17-47e4-aaad-bf16c9432a17@73df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Barking Riverside to Gospel Oak services from Tuesday 5 to Friday 8 November: The 0618 train from Barking Riverside will start from Barking at 0624
+DTEND:20241106T062500Z
+DTSTART:20241106T060000Z
+SUMMARY:London Overground: Reduced Service
+UID:c990d258-1124-4a92-a3f4-a225ddb10675@c990.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Barking Riverside to Gospel Oak services from Tuesday 17 to Friday 20 December: The 0618 train from Barking Riverside will start from Barking at 0624
+DTEND:20241220T062500Z
+DTSTART:20241220T060000Z
+SUMMARY:London Overground: Reduced Service
+UID:7079f0b0-c2ba-41d3-891c-960feac74250@7079.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Stratford to Richmond / Clapham Junction services on Wednesday 13 and Thursday 14 November: The 2129 and 2159 trains from Stratford to Richmond will terminate at Camden Road at 2150 and 2219 respectively. The 2135 train from Stratford to Willesden Junction will terminate at Camden Road at 2155. The 2147 Clapham Junction to Stratford train will not run. The 2159 train from Stratford to Richmond will terminate at Camden Road at 2219. Trains at 2203 and 2234 from Clapham Junction will terminate at Willesden Junction instead of Stratford. The 2247 train from Richmond to Stratford will terminate at Willesden Junction at 2306. The 2317 train from Richmond to Willesden Junction will not run
+DTEND:20241113T234500Z
+DTSTART:20241113T214500Z
+SUMMARY:London Overground: Reduced Service
+UID:568a0b9e-d13a-47c4-b131-b367c84b657b@568a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Saturday 16 November\, no service between Euston and Watford Junction. Use London NorthWestern Railway or Southern services for Wembley Central\, Harrow & Wealdstone\, Bushey and Watford Junction. There will also be no BAKERLOO LINE service between Queens Park and Harrow & Wealdstone. Special bus services operate.
+DTEND:20241117T012900Z
+DTSTART:20241116T043000Z
+SUMMARY:London Overground: Part Closure
+UID:0981f300-8b02-4b09-a2f4-752f51000ec3@0981.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Sunday 24 November\, until 1200 and after 2030\, no service between Kilburn High Road and Euston. Please use local London Buses services. In addition\, the 2322 departure from Kilburn High Road terminates at Willesden Junction instead of Watford Junction.
+DTEND:20241124T120000Z
+DTSTART:20241124T043000Z
+SUMMARY:London Overground: Part Closure
+UID:32b01b19-6c40-4e4a-a607-122df2b9f0a7@32b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Euston to Watford Junction services from Monday 18 to Friday 21 November: On Monday to Thursday\, the 2345 train from Euston to Watford Junction will not run. On Tuesday to Friday\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
+DTEND:20241118T235900Z
+DTSTART:20241118T230000Z
+SUMMARY:London Overground: Reduced Service
+UID:cc3156ae-95ab-44f8-afa3-bad2e3ecaf81@cc31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Sunday 17 November\, until 1430\, no service between Barking and Barking Riverside. Please use London Buses routes EL1 EL2 and EL3 instead
+DTEND:20241117T143000Z
+DTSTART:20241117T043000Z
+SUMMARY:London Overground: Part Closure
+UID:346f80dd-18b7-4900-b892-d01bb2528ed4@346f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Stratford to Richmond / Clapham Junction services on Monday 18\, Tuesday 19\, Wednesday 20 and Thursday 21 November: Trains at 2203 and 2234 from Clapham Junction will terminate at Willesden Junction instead of Stratford.
+DTEND:20241121T224500Z
+DTSTART:20241121T220000Z
+SUMMARY:London Overground: Reduced Service
+UID:4a710ed1-fc68-4c14-bb68-e1a6d73da508@4a71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Wednesday 13 and Thursday 14 November\, from 2300\, no service eastbound from Willesden Junction to Stratford. Customers should use the last eastbound services detailed below or London Overground services to Euston. Last through trains: Clapham Junction to Stratford 2234\; Richmond to Stratford 2235\; Willesden Junction to Stratford 2256
+DTEND:20241115T012900Z
+DTSTART:20241114T230000Z
+SUMMARY:London Overground: Part Closure
+UID:85d2f60c-a76d-457f-bf36-0032d6b0c9d9@85d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Stratford to Richmond / Clapham Junction services on Monday 18\, Tuesday 19\, Wednesday 20 and Thursday 21 November: Trains at 2203 and 2234 from Clapham Junction will terminate at Willesden Junction instead of Stratford.
+DTEND:20241120T224500Z
+DTSTART:20241120T220000Z
+SUMMARY:London Overground: Reduced Service
+UID:b9557b04-7b67-4ea8-a932-16cde453a6e6@b955.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:No service between Romford and Upminster while emergency services deal with a casualty. 
+DTEND:20241104T135123Z
+DTSTART:20241104T091540Z
+SUMMARY:London Overground: Part Suspended
+UID:0e9017e6-96dd-4cd5-96cc-b6dbac48c5c9@0e90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Stratford to Clapham Junction / Richmond services on Sunday 15 December: The 0908 train from Stratford to Clapham Junction starts from Shepherds Bush at 0955. The 0915 first train from Gospel Oak to Clapham Junction starts from Shepherds Bush at 0940. The 0916 train from Stratford to Richmond will not run. The 0931 train from Stratford to Willesden Junction will start from Willesden Junction at 1013. The 1026 train from Richmond to Stratford will start from Willesden Junction at 1043.
+DTEND:20241215T102000Z
+DTSTART:20241215T083000Z
+SUMMARY:London Overground: Reduced Service
+UID:9643a75c-4de6-4e86-998a-03ca4aa5a223@9643.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Monday 2\, Tuesday 3\, Wednesday 4 and Thursday 5 December\, after 2115 each evening\, no service between Highbury & Islington and New Cross Gate / New Cross / Clapham Junction. Use alternative train services between Highbury & Islington\, Canonbury and Dalston Kingsland. Replacement buses operate.
+DTEND:20241204T012900Z
+DTSTART:20241203T211500Z
+SUMMARY:London Overground: Part Closure
+UID:00c8f0df-62fa-4c2d-a695-07631484a1ff@00c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Barking Riverside to Gospel Oak services on Tuesday 18\, Wednesday 19\, Thursday 20 and Friday 21 November: Trains at 0548 from Barking Riverside to Gospel Oak and 0624 from Gospel Oak to Barking Riverside will not run.
+DTEND:20241118T063000Z
+DTSTART:20241118T053000Z
+SUMMARY:London Overground: Reduced Service
+UID:8ff22907-3c0e-4405-9169-a09687e58213@8ff2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Stratford to Richmond / Clapham Junction services on Monday 18\, Tuesday 19\, Wednesday 20 and Thursday 21 November: Trains at 2203 and 2234 from Clapham Junction will terminate at Willesden Junction instead of Stratford.
+DTEND:20241118T224500Z
+DTSTART:20241118T220000Z
+SUMMARY:London Overground: Reduced Service
+UID:5bf77045-831a-44d4-a099-a21703d11671@5bf7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Sunday 24\, Monday 25\, Tuesday 26\, Wednesday 27 and Thursday 28 November\, after 2245 each evening\, no service between Hackney Downs and Chingford. Replacement bus service L3 operates between Hackney Downs and Chingford via Clapton\, St James Street\, Walthamstow Central\, Wood Street and Highams Park. Some northbound buses after midnight also serve Liverpool Street\, Bethnal Green\, Cambridge Heath and London Fields.
+DTEND:20241129T012900Z
+DTSTART:20241128T224500Z
+SUMMARY:London Overground: Part Closure
+UID:8b96190d-71f3-4e6f-83a8-ae5076cf6b99@8b96.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Sunday 8 December\, no service between Kensington (Olympia) and Clapham Junction. There will also be no SOUTHERN service between Watford Junction and Clapham Junction. Please use local London Buses services.
+DTEND:20241209T012900Z
+DTSTART:20241208T043000Z
+SUMMARY:London Overground: Part Closure
+UID:a7923fe3-8924-4200-a300-b5f18de00e4a@a792.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Monday 11\, Tuesday 12\, Wednesday 13 and Thursday 14 November\, after 2345\, no London Overground service westbound from Stratford to Camden Road. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0034. Customers should use the last westbound service from Stratford at 2344\, or local bus routes 30\, 274\, 388\, 393 or 488.
+DTEND:20241112T012900Z
+DTSTART:20241111T234500Z
+SUMMARY:London Overground: Part Closure
+UID:041deceb-3582-4152-bf21-4206a80d4e21@041d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Sunday 24\, Monday 25\, Tuesday 26\, Wednesday 27 and Thursday 28 November\, after 2245 each evening\, no service between Hackney Downs and Chingford. Replacement bus service L3 operates between Hackney Downs and Chingford via Clapton\, St James Street\, Walthamstow Central\, Wood Street and Highams Park. Some northbound buses after midnight also serve Liverpool Street\, Bethnal Green\, Cambridge Heath and London Fields.
+DTEND:20241128T012900Z
+DTSTART:20241127T224500Z
+SUMMARY:London Overground: Part Closure
+UID:6ecc35d6-27e8-40ac-9f38-8b45a0e40711@6ecc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Changes to Barking Riverside to Gospel Oak services from Tuesday 10 until Friday 13 December: The 0648 train from Barking Riverside will start from Barking at 0654
-DTEND:20241211T065500Z
-DTSTART:20241211T063000Z
+DTEND:20241210T065500Z
+DTSTART:20241210T063000Z
 SUMMARY:London Overground: Reduced Service
-UID:91c2ed51-50fd-4f5e-8ff3-9e96aa4aaebf@91c2.org
+UID:36be26e7-2afe-40a7-ba51-c38158fdb46f@36be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Sunday 17 November\, no service between Willesden Junction and Watford Junction. Use BAKERLOO LINE services between Willesden Junction and Harrow & Wealdstone\, or London NorthWestern Railway or Southern services for Wembley Central\, Harrow & Wealdstone\, Bushey and Watford Junction. Special bus service 720 operates between Harrow Bus Station (for Metropolitan line) and Watford Junction via Harrow & Wealdstone\, Headstone Lane\, Hatch End (Harrow Arts Centre)\, Carpenders Park (Prestwick Road)\, Bushey (Eastbury Road) and Watford High Street.
+DTEND:20241118T012900Z
+DTSTART:20241117T043000Z
+SUMMARY:London Overground: Part Closure
+UID:a8e17c99-b860-497e-a6af-0dd2aec9ffa0@a8e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Barking Riverside to Gospel Oak services from Tuesday 10 until Friday 13 December: The 0648 train from Barking Riverside will start from Barking at 0654
+DTEND:20241213T065500Z
+DTSTART:20241213T063000Z
+SUMMARY:London Overground: Reduced Service
+UID:3cf287cb-98ae-4269-a3e4-3fd1d1d57cb5@3cf2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Barking Riverside to Gospel Oak services on Tuesday 18\, Wednesday 19\, Thursday 20 and Friday 21 November: Trains at 0548 from Barking Riverside to Gospel Oak and 0624 from Gospel Oak to Barking Riverside will not run.
+DTEND:20241119T063000Z
+DTSTART:20241119T053000Z
+SUMMARY:London Overground: Reduced Service
+UID:2dfbbaa0-e732-4826-aa6e-e1fa2c5fe94c@2dfb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:Changes to Barking Riverside to Gospel Oak services from Tuesday 10 until Friday 13 December: The 0648 train from Barking Riverside will start from Barking at 0654
 DTEND:20241212T065500Z
 DTSTART:20241212T063000Z
 SUMMARY:London Overground: Reduced Service
-UID:0f1dfdc3-3f41-4e70-8fd5-5803c58e6837@0f1d.org
+UID:513e4be0-7560-43db-84ad-6075c51ab6a8@513e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Monday 4\, Tuesday 5\, Wednesday 6 and Thursday 7 November\, after 2215 each evening\, no London Overground service between Sydenham and West Croydon. West Croydon trains will divert to and depart from Crystal Palace after 2215. Use local buses or Trams via any reasonable route or Southern trains between Sydenham and Norwood Junction. Tickets will also be accepted on Southern trains between Crystal Palace and Norwood Junction\, and between Norwood Junction and East Croydon. Last through trains: Highbury & Islington to West Croydon 2147\; West Croydon to Highbury & Islington 2246. The 2202 train from Highbury & Islington to West Croydon will terminate at New Cross Gate.
+DTEND:20241108T012900Z
+DTSTART:20241107T221500Z
+SUMMARY:London Overground: Part Closure
+UID:432cf481-c4d5-4308-b8a8-e56984b62d48@432c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Monday 18\, Tuesday 19\, Wednesday 20 and Thursday 21 November\, no service westbound from Camden Road to Willesden Junction after 2345. The 2359 and 0015 services from Stratford will terminate at Camden Road. Use London Overground services from Euston to Willesden Junction\, Northern line from Camden Town\, or local bus routes 1\, 24\, 46 88 and 214 from Camden Road / Camden Town.
+DTEND:20241119T012900Z
+DTSTART:20241118T234500Z
+SUMMARY:London Overground: Part Closure
+UID:449a259f-1bf9-4cbc-8ddd-388822984a29@449a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Tuesday 19\, Wednesday 20\, Thursday 21 and Friday 22 November\, until 0615\, no service southbound from Willesden Junction to Shepherds Bush until 0615. The 0552 first train from Willesden Junction to Clapham Junction starts from Shepherds Bush at 0600 and the 0608 second train from Willesden Junction to Clapham Junction does not run. Use the next service at 0623 or local bus routes 220 or 228.
+DTEND:20241119T063000Z
+DTSTART:20241119T043000Z
+SUMMARY:London Overground: Part Closure
+UID:55bb7223-6602-4b40-ab89-a7117ee03b37@55bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Monday 11\, Tuesday 12\, Wednesday 13 and Thursday 14 November\, after 2345\, no London Overground service westbound from Stratford to Camden Road. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0034. Customers should use the last westbound service from Stratford at 2344\, or local bus routes 30\, 274\, 388\, 393 or 488.
+DTEND:20241114T012900Z
+DTSTART:20241113T234500Z
+SUMMARY:London Overground: Part Closure
+UID:994df84e-1f2e-4e2b-b198-18c7c9b194b0@994d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Barking Riverside to Gospel Oak services from Tuesday 10 until Friday 13 December: The 0648 train from Barking Riverside will start from Barking at 0654
+DTEND:20241211T065500Z
+DTSTART:20241211T063000Z
+SUMMARY:London Overground: Reduced Service
+UID:aaf21080-2190-442d-b4e2-79b19505bc48@aaf2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Euston to Watford Junction services from Monday 18 to Friday 21 November: On Monday to Thursday\, the 2345 train from Euston to Watford Junction will not run. On Tuesday to Friday\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
+DTEND:20241120T235900Z
+DTSTART:20241120T230000Z
+SUMMARY:London Overground: Reduced Service
+UID:f812015d-2e4f-481f-9b72-2506516d2138@f812.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Sunday 8 December\, until 1015\, no service between Liverpool Street and Enfield Town / Cheshunt. GREATER ANGLIA trains will not call at Hackney Downs. Use local London Buses services for Bethnal Green\, Cambridge Heath\, London Fields\, Hackney Downs\, Rectory Road\, Stoke Newington and Stamford Hill. Replacement buses operate.
+DTEND:20241208T101500Z
+DTSTART:20241208T043000Z
+SUMMARY:London Overground: Part Closure
+UID:d97c9f76-3143-4430-8b26-8c7ac9967108@d97c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Barking Riverside to Gospel Oak services on Tuesday 18\, Wednesday 19\, Thursday 20 and Friday 21 November: Trains at 0548 from Barking Riverside to Gospel Oak and 0624 from Gospel Oak to Barking Riverside will not run.
+DTEND:20241120T063000Z
+DTSTART:20241120T053000Z
+SUMMARY:London Overground: Reduced Service
+UID:357984fb-ad33-4db5-9105-bb87c8f92029@3579.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Stratford to Clapham Junction / Richmond services on Sunday 1 December: The 0848 Willesden Junction to Clapham Junction train starts at Shepherds Bush at 0855. The 0915 Gospel Oak to Clapham Junction train starts at Shepherds Bush at 0940. The 0931 Stratford to Richmond train starts at Willesden Junction at 1013 and the 0938 Stratford to Clapham Junction train starts at Willesden Junction at 1020.
+DTEND:20241201T102000Z
+DTSTART:20241201T083000Z
+SUMMARY:London Overground: Reduced Service
+UID:6879d2e2-0949-49a6-952a-eb9565ffce57@6879.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Barking Riverside to Gospel Oak services from Monday 11 to Friday 15 November: The 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338
+DTEND:20241115T234500Z
+DTSTART:20241115T230000Z
+SUMMARY:London Overground: Reduced Service
+UID:073cec96-63d4-431a-bbfe-49ed7ae8e795@073c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Monday 11\, Tuesday 12\, Wednesday 13 and Thursday 14 November\, after 2300 each evening\, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses (Operated by Southern Railway) will run as follows: The bus for Crystal Palace will depart London Bridge at 2358 calling at New Cross Gate (0008) - Brockley - Honor Oak Park - Forest Hill - Sydenham (0027) - Crystal Palace (0033)\, Gipsy Hill - West Norwood - Tulse Hill - Streatham Hill (Arr 0058). The bus for East Croydon will depart London Bridge at 0035 calling at New Cross Gate (0050) - Brockley - Honor Oak Park - Forest Hill - Sydenham (0108) - Norwood Junction (0115) - East Croydon (Arr 0127). One return bus from Crystal Palace departs at 2359\, calling at all stations to London Bridge via New Cross Gate. Alternatively\, use local buses or trams via any reasonable route. Last through trains: Highbury & Islington to Crystal Palace 2247\, Crystal Palace to Highbury & Islington 2317\; Highbury & Islington to West Croydon 2217\, West Croydon to Highbury & Islington 2316.
+DTEND:20241115T012900Z
+DTSTART:20241114T230000Z
+SUMMARY:London Overground: Part Closure
+UID:32aa5999-e287-43ff-a173-4ab3ec4137fc@32aa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Stratford to Richmond / Clapham Junction services on Sunday 17 November: The 0014 last train (Saturday night / Sunday morning) from Stratford to Willesden Junction terminates at Camden Road at 0037. Customers should use the previous train at 2359.
+DTEND:20241117T010000Z
+DTSTART:20241117T000000Z
+SUMMARY:London Overground: Reduced Service
+UID:05e29187-33a2-4672-992d-c73163f4f44b@05e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Euston to Watford Junction services from Monday 18 to Friday 21 November: On Monday to Thursday\, the 2345 train from Euston to Watford Junction will not run. On Tuesday to Friday\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
+DTEND:20241120T060500Z
+DTSTART:20241120T051500Z
+SUMMARY:London Overground: Reduced Service
+UID:f2e25701-a5c9-4c1c-ac3d-9ba497bda622@f2e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Sunday 24 November\, no service between Surrey Quays and Clapham Junction. Replacement bus service M operates between Canada Water and Clapham Junction via Surrey Quays\, Queens Road Peckham\, Peckham Rye\, Denmark Hill\, Clapham High Street and Wandsworth Road.
+DTEND:20241125T012900Z
+DTSTART:20241124T043000Z
+SUMMARY:London Overground: Part Closure
+UID:ec81b701-c904-4ef9-936e-73e00cbea05e@ec81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Stratford to Richmond / Clapham Junction services on Friday 13 December: The 2159 train from Stratford to Richmond will terminate at Camden Road at 2219. The 2317 train from Richmond to Willesden Junction will not run
+DTEND:20241213T234500Z
+DTSTART:20241213T215500Z
+SUMMARY:London Overground: Reduced Service
+UID:f084544f-e6c1-435b-a807-416047ff3cd4@f084.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Monday 11\, Tuesday 12\, Wednesday 13 and Thursday 14 November\, after 2300 each evening\, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses (Operated by Southern Railway) will run as follows: The bus for Crystal Palace will depart London Bridge at 2358 calling at New Cross Gate (0008) - Brockley - Honor Oak Park - Forest Hill - Sydenham (0027) - Crystal Palace (0033)\, Gipsy Hill - West Norwood - Tulse Hill - Streatham Hill (Arr 0058). The bus for East Croydon will depart London Bridge at 0035 calling at New Cross Gate (0050) - Brockley - Honor Oak Park - Forest Hill - Sydenham (0108) - Norwood Junction (0115) - East Croydon (Arr 0127). One return bus from Crystal Palace departs at 2359\, calling at all stations to London Bridge via New Cross Gate. Alternatively\, use local buses or trams via any reasonable route. Last through trains: Highbury & Islington to Crystal Palace 2247\, Crystal Palace to Highbury & Islington 2317\; Highbury & Islington to West Croydon 2217\, West Croydon to Highbury & Islington 2316.
+DTEND:20241112T012900Z
+DTSTART:20241111T230000Z
+SUMMARY:London Overground: Part Closure
+UID:38f334e9-0073-47c6-8169-3eb41c8bacfe@38f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Sunday 24 November\, until 1315\, no service between Gospel Oak and Barking Riverside. Use Victoria line connections between Seven Sisters (for South Tottenham)\, Blackhorse Road and Walthamstow Central\, and local London Buses routes between Barking and Barking Riverside. Replacement buses operate.
+DTEND:20241124T131500Z
+DTSTART:20241124T043000Z
+SUMMARY:London Overground: Part Closure
+UID:680b6008-b67d-47b6-bea6-cc30f2991834@680b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Monday 9\, Tuesday 10\, Wednesday 11 and Thursday 12 December\, after 2245 each evening\, no service between Hackney Downs and Enfield Town / Cheshunt. Use Clapton for Rectory Road\, and local buses for Stoke Newington and Stamford Hill. Replacement buses operate between Seven Sisters and Enfield Town / Cheshunt.
+DTEND:20241210T012900Z
+DTSTART:20241209T224500Z
+SUMMARY:London Overground: Part Closure
+UID:a20367c5-d91a-40ee-b3df-c357fa7e025b@a203.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Saturday 23 November\, no service between Wandsworth Road and Clapham Junction. Trains are diverted to/from Battersea Park for connecting trains to/from Clapham Junction.
+DTEND:20241124T012900Z
+DTSTART:20241123T043000Z
+SUMMARY:London Overground: Part Closure
+UID:567f9d87-d96b-4963-9a82-1d7b61f0a8a7@567f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Sunday 8 December\, no service between Barking and Barking Riverside. Please use London Buses routes EL1 EL2 and EL3 instead
+DTEND:20241209T012900Z
+DTSTART:20241208T043000Z
+SUMMARY:London Overground: Part Closure
+UID:2a359526-2188-45d0-a9b9-50067e7035f0@2a35.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Monday 11\, Tuesday 12\, Wednesday 13 and Thursday 14 November\, after 2345\, no London Overground service westbound from Stratford to Camden Road. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0034. Customers should use the last westbound service from Stratford at 2344\, or local bus routes 30\, 274\, 388\, 393 or 488.
+DTEND:20241115T012900Z
+DTSTART:20241114T234500Z
+SUMMARY:London Overground: Part Closure
+UID:bb810cab-2647-4805-9d31-c151702866da@bb81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Sunday 10 November\, no service between Willesden Junction and Clapham Junction. SOUTHERN services will also not operate between Watford Junction and Clapham Junction. Please use local London Buses and London Underground services.
+DTEND:20241111T012900Z
+DTSTART:20241110T043000Z
+SUMMARY:London Overground: Part Closure
+UID:5fc3ba6e-26b4-4a22-a661-4e81137fe6cc@5fc3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: From 1930 Saturday 21 until 1200 Sunday 22 December\, no service between Willesden Junction and Clapham Junction. SOUTHERN services will also not operate between Watford Junction and Shepherds Bush at this time. Please use local London Buses and London Underground services.No London Overground service between Willesden Junction and Shepherd's Bush after 19:30. Use local buses via any reasonable route. Last through trains on Saturday are at 1851 from Stratford to Clapham Junction and at 1949 from Clapham Junction to Stratford.No London Overground service between Willesden Junction and Shepherd's Bush until 12:00. Use local buses via any reasonable route. First through trains on Sunday will be at 1123 from Stratford to Clapham Junction\, and at 1159 from Clapham Junction to Stratford.
+DTEND:20241222T120000Z
+DTSTART:20241221T193000Z
+SUMMARY:London Overground: Part Closure
+UID:6bd23dec-0123-4b1e-958a-f33eaf3a354a@6bd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Euston to Watford Junction services from Monday 18 to Friday 21 November: On Monday to Thursday\, the 2345 train from Euston to Watford Junction will not run. On Tuesday to Friday\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
+DTEND:20241122T060500Z
+DTSTART:20241122T051500Z
+SUMMARY:London Overground: Reduced Service
+UID:45d219fd-0a49-4350-b3cf-fe822b30b9df@45d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Sunday 8 December\, until 1015\, no service between Liverpool Street and Chingford. Use local London Buses connections between Liverpool Street and Hackney Downs. Replacement bus service L3 operates between Hackney Downs and Chingford via Clapton\, St James Street\, Walthamstow Central\, Wood Street and Highams Park.
+DTEND:20241208T101500Z
+DTSTART:20241208T043000Z
+SUMMARY:London Overground: Part Closure
+UID:c76da57f-ba50-4621-b8ee-c17534356e50@c76d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Saturday 9 and Sunday 10 November\, no service between New Cross Gate and West Croydon / Crystal Palace. There will also be no SOUTHERN services between London Bridge and Crystal Palace / East Croydon (via Sydenham). Rail replacement buses operate: New Cross Gate - Brockley - Honor Oak Park - Forest Hill - Sydenham - Crystal Palace. Tickets will be accepted on Southern Railway services between Crystal Palace and East Croydon via Norwood Junction. Alternatively\, customers may use local buses or trams via any reasonable route.
+DTEND:20241111T012900Z
+DTSTART:20241109T043000Z
+SUMMARY:London Overground: Part Closure
+UID:e19216a3-d4ec-464a-a500-36ed3f8a7331@e192.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Stratford to Richmond / Clapham Junction services on Sunday 24 November: The 0946 train from Stratford to Richmond will start from Willesden Junction at 1027
+DTEND:20241124T100000Z
+DTSTART:20241124T094500Z
+SUMMARY:London Overground: Reduced Service
+UID:7c598f96-e4aa-450a-8d7f-47477c24700b@7c59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Clapham Junction to Stratford services on Saturday 14 December: Trains at 2104 and 2234 from Clapham Junction to Stratford\, and at 2319 from Clapham Junction to Willesden Junction will not run.
+DTEND:20241214T232000Z
+DTSTART:20241214T210000Z
+SUMMARY:London Overground: Reduced Service
+UID:f3244df9-a0d4-4385-986c-dbfaced51cd6@f324.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Barking Riverside to Gospel Oak services from Tuesday 5 to Friday 8 November: The 0618 train from Barking Riverside will start from Barking at 0624
+DTEND:20241105T062500Z
+DTSTART:20241105T060000Z
+SUMMARY:London Overground: Reduced Service
+UID:30cf675f-8e69-405b-9a89-f0bd4d10b2b3@30cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Saturday 9 and Sunday 10 November\, a reduced service operates between Kilburn High Road and Euston. On Saturday\, trains departing Watford Junction at xx30 minutes past each hour\, from 0630 until 2030\, terminate at Kilburn High Road. Trains which usually depart from Euston at xx15 minutes past each hour\, from 0715 until 2115\, start from Kilburn High Road instead. On Sunday\, trains departing Watford Junction at xx30 minutes past each hour\, from 1130 until 2030\, terminate at Kilburn High Road. Trains which usually depart from Euston at xx15 minutes past each hour\, from 1215 until 2115\, start from Kilburn High Road instead.
+DTEND:20241110T211500Z
+DTSTART:20241110T113000Z
+SUMMARY:London Overground: Reduced Service
+UID:6a6f3d65-02af-448b-b845-817dc2e66c98@6a6f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Monday 4\, Tuesday 5\, Wednesday 6 and Thursday 7 November\, after 2215 each evening\, no London Overground service between Sydenham and West Croydon. West Croydon trains will divert to and depart from Crystal Palace after 2215. Use local buses or Trams via any reasonable route or Southern trains between Sydenham and Norwood Junction. Tickets will also be accepted on Southern trains between Crystal Palace and Norwood Junction\, and between Norwood Junction and East Croydon. Last through trains: Highbury & Islington to West Croydon 2147\; West Croydon to Highbury & Islington 2246. The 2202 train from Highbury & Islington to West Croydon will terminate at New Cross Gate.
+DTEND:20241106T012900Z
+DTSTART:20241105T221500Z
+SUMMARY:London Overground: Part Closure
+UID:f0b5d3c5-8312-4127-af1b-16fddb1785d2@f0b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Sunday 24 November\, from 1315\, no service between Woodgrange Park and Barking Riverside. Use local London Buses routes EL1 EL2 and EL3 between Barking and Barking Riverside. Replacement bus service T operates between Woodgrange Park and Barking. Buses also set down at East Ham station towards Barking\, and pick up there towards Woodgrange Park.
+DTEND:20241125T012900Z
+DTSTART:20241124T131500Z
+SUMMARY:London Overground: Part Closure
+UID:58b1aa94-d015-4853-920b-549bf053cad3@58b1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Monday 11\, Tuesday 12\, Wednesday 13 and Thursday 14 November\, after 2300 each evening\, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses (Operated by Southern Railway) will run as follows: The bus for Crystal Palace will depart London Bridge at 2358 calling at New Cross Gate (0008) - Brockley - Honor Oak Park - Forest Hill - Sydenham (0027) - Crystal Palace (0033)\, Gipsy Hill - West Norwood - Tulse Hill - Streatham Hill (Arr 0058). The bus for East Croydon will depart London Bridge at 0035 calling at New Cross Gate (0050) - Brockley - Honor Oak Park - Forest Hill - Sydenham (0108) - Norwood Junction (0115) - East Croydon (Arr 0127). One return bus from Crystal Palace departs at 2359\, calling at all stations to London Bridge via New Cross Gate. Alternatively\, use local buses or trams via any reasonable route. Last through trains: Highbury & Islington to Crystal Palace 2247\, Crystal Palace to Highbury & Islington 2317\; Highbury & Islington to West Croydon 2217\, West Croydon to Highbury & Islington 2316.
+DTEND:20241113T012900Z
+DTSTART:20241112T230000Z
+SUMMARY:London Overground: Part Closure
+UID:106c7c8e-4ebe-494e-a3c5-4baf3e062b0b@106c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Monday 2\, Tuesday 3\, Wednesday 4 and Thursday 5 December\, after 2115 each evening\, no service between Highbury & Islington and New Cross Gate / New Cross / Clapham Junction. Use alternative train services between Highbury & Islington\, Canonbury and Dalston Kingsland. Replacement buses operate.
+DTEND:20241205T012900Z
+DTSTART:20241204T211500Z
+SUMMARY:London Overground: Part Closure
+UID:2e6d560d-251e-4807-b285-0306b6f87449@2e6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Sunday 15 December\, until 0930\, no service between Willesden Junction and Clapham Junction. SOUTHERN services will also not operate between Watford Junction and Clapham Junction at this time. No London Overground service between Clapham Junction and Willesden Junction until 09:30. Use local buses via any reasonable route. First through trains will be at 0929 from Clapham Junction to Stratford\; 0940 from Shepherd's Bush to Clapham Junction\; 1003 from Willesden Junction to Clapham Junction. An additional train will run from Kensington Olympia to Stratford at 0926. Southern Railway services will also not run during this time. use local London Buses and London Underground services.
+DTEND:20241215T093000Z
+DTSTART:20241215T043000Z
+SUMMARY:London Overground: Part Closure
+UID:54be30c3-927e-4584-af7d-07e3eaa8ca85@54be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Sunday 24\, Monday 25\, Tuesday 26\, Wednesday 27 and Thursday 28 November\, after 2245 each evening\, no service between Hackney Downs and Chingford. Replacement bus service L3 operates between Hackney Downs and Chingford via Clapton\, St James Street\, Walthamstow Central\, Wood Street and Highams Park. Some northbound buses after midnight also serve Liverpool Street\, Bethnal Green\, Cambridge Heath and London Fields.
+DTEND:20241125T012900Z
+DTSTART:20241124T224500Z
+SUMMARY:London Overground: Part Closure
+UID:66b000b2-59b1-4732-82ae-9d3d525938b8@66b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Tuesday 19\, Wednesday 20\, Thursday 21 and Friday 22 November\, until 0615\, no service southbound from Willesden Junction to Shepherds Bush until 0615. The 0552 first train from Willesden Junction to Clapham Junction starts from Shepherds Bush at 0600 and the 0608 second train from Willesden Junction to Clapham Junction does not run. Use the next service at 0623 or local bus routes 220 or 228.
+DTEND:20241121T063000Z
+DTSTART:20241121T043000Z
+SUMMARY:London Overground: Part Closure
+UID:728fcf77-8a89-4e8c-b7b0-574d693b92e4@728f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Sunday 24\, Monday 25\, Tuesday 26\, Wednesday 27 and Thursday 28 November\, after 2245 each evening\, no service between Hackney Downs and Chingford. Replacement bus service L3 operates between Hackney Downs and Chingford via Clapton\, St James Street\, Walthamstow Central\, Wood Street and Highams Park. Some northbound buses after midnight also serve Liverpool Street\, Bethnal Green\, Cambridge Heath and London Fields.
+DTEND:20241127T012900Z
+DTSTART:20241126T224500Z
+SUMMARY:London Overground: Part Closure
+UID:1dfd912b-dde8-498d-a27b-86b3a4ac25cc@1dfd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Barking Riverside to Gospel Oak services from Monday 11 to Friday 15 November: The 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338
+DTEND:20241114T234500Z
+DTSTART:20241114T230000Z
+SUMMARY:London Overground: Reduced Service
+UID:d0923268-93c0-4589-aa95-8863ec66f795@d092.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Monday 11\, Tuesday 12\, Wednesday 13 and Thursday 14 November\, after 2345\, no London Overground service westbound from Stratford to Camden Road. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0034. Customers should use the last westbound service from Stratford at 2344\, or local bus routes 30\, 274\, 388\, 393 or 488.
+DTEND:20241113T012900Z
+DTSTART:20241112T234500Z
+SUMMARY:London Overground: Part Closure
+UID:8f59584b-9866-494e-9b74-56ae707fb650@8f59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Stratford to Richmond / Clapham Junction services on Wednesday 13 and Thursday 14 November: The 2129 and 2159 trains from Stratford to Richmond will terminate at Camden Road at 2150 and 2219 respectively. The 2135 train from Stratford to Willesden Junction will terminate at Camden Road at 2155. The 2147 Clapham Junction to Stratford train will not run. The 2159 train from Stratford to Richmond will terminate at Camden Road at 2219. Trains at 2203 and 2234 from Clapham Junction will terminate at Willesden Junction instead of Stratford. The 2247 train from Richmond to Stratford will terminate at Willesden Junction at 2306. The 2317 train from Richmond to Willesden Junction will not run
+DTEND:20241114T234500Z
+DTSTART:20241114T214500Z
+SUMMARY:London Overground: Reduced Service
+UID:40226de1-3ee4-42d6-a31d-d1c15fcf7830@4022.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Sunday 1 December\, until 0800\, no London Overground service between Sydenham and West Croydon. Please use local London Buses services.
+DTEND:20241201T080000Z
+DTSTART:20241201T043000Z
+SUMMARY:London Overground: Part Closure
+UID:b14870df-6de4-4f08-9e81-283e9127f4db@b148.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Tuesday 19\, Wednesday 20\, Thursday 21 and Friday 22 November\, until 0615\, no service southbound from Willesden Junction to Shepherds Bush until 0615. The 0552 first train from Willesden Junction to Clapham Junction starts from Shepherds Bush at 0600 and the 0608 second train from Willesden Junction to Clapham Junction does not run. Use the next service at 0623 or local bus routes 220 or 228.
+DTEND:20241120T063000Z
+DTSTART:20241120T043000Z
+SUMMARY:London Overground: Part Closure
+UID:c6882e69-25aa-44ef-b625-40079a478e49@c688.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Barking Riverside to Gospel Oak services on Monday 9 December: The 0618 train from Barking Riverside will start from Barking at 0624
+DTEND:20241209T062500Z
+DTSTART:20241209T060000Z
+SUMMARY:London Overground: Reduced Service
+UID:03338aad-2d3f-4d43-a5a5-0bed6e3904a0@0333.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Sunday 24 November\, from 2215\, no service between Camden Road and Stratford. Replacement bus service S operates between Camden Road and Stratford via Holloway Road (for London Underground)\, Highbury & Islington\, Canonbury\, Dalston Kingsland (for Dalston Junction)\, Hackney Central\, Homerton and Hackney Wick. Some buses continue beyond Camden Road serving stations to Richmond on request except Brondesbury Park (use Queens Park)
+DTEND:20241125T012900Z
+DTSTART:20241124T221500Z
+SUMMARY:London Overground: Part Closure
+UID:65f5e1a6-8369-4d4e-a94a-16e73a97fde8@65f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Wednesday 13 and Thursday 14 November\, from 2300\, no service eastbound from Willesden Junction to Stratford. Customers should use the last eastbound services detailed below or London Overground services to Euston. Last through trains: Clapham Junction to Stratford 2234\; Richmond to Stratford 2235\; Willesden Junction to Stratford 2256
+DTEND:20241114T012900Z
+DTSTART:20241113T230000Z
+SUMMARY:London Overground: Part Closure
+UID:0ad0cea9-7800-48ca-a128-c0a318f45a0c@0ad0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Barking Riverside to Gospel Oak services from Tuesday 17 to Friday 20 December: The 0618 train from Barking Riverside will start from Barking at 0624
+DTEND:20241217T062500Z
+DTSTART:20241217T060000Z
+SUMMARY:London Overground: Reduced Service
+UID:ba4b580e-8b8e-4f74-93b7-e25b9e2608cb@ba4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:LONDON OVERGROUND: Monday 9\, Tuesday 10\, Wednesday 11 and Thursday 12 December\, after 2245 each evening\, no service between Hackney Downs and Enfield Town / Cheshunt. Use Clapton for Rectory Road\, and local buses for Stoke Newington and Stamford Hill. Replacement buses operate between Seven Sisters and Enfield Town / Cheshunt.
+DTEND:20241213T012900Z
+DTSTART:20241212T224500Z
+SUMMARY:London Overground: Part Closure
+UID:f68a6754-7611-42ed-b3ef-3a32c6cc3e4b@f68a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:Changes to Barking Riverside to Gospel Oak services from Tuesday 17 to Friday 20 December: The 0618 train from Barking Riverside will start from Barking at 0624
+DTEND:20241218T062500Z
+DTSTART:20241218T060000Z
+SUMMARY:London Overground: Reduced Service
+UID:c9bf609b-9682-4f26-9bca-90fc49c748da@c9bf.org
 END:VEVENT
 END:VCALENDAR

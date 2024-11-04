@@ -106,5 +106,6 @@ def write_ics(lineid, calendar):
         f.writelines(map(lambda x: x + "\n", cal_lines))
 
 
-for lineid in all_lineids:
+for i, lineid in enumerate(all_lineids):
+    print(f"making calendar for {lineid} ({i}/{len(all_lineids)})...")
     write_ics(lineid, make_calendar(lineid, fetch_disruptions(lineid)))

@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Bakerloo disruption
 BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Thursday 7 November: No London Underground services are expected to run
-DTEND:20241108T012900Z
-DTSTART:20241107T043000Z
-SUMMARY:Bakerloo: Suspended
-UID:729f310e-6d46-4df8-b0de-99a23ebc1c34@729f.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:STRIKE ACTION: Tuesday 12 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
 DTEND:20241113T012900Z
 DTSTART:20241112T043000Z
 SUMMARY:Bakerloo: Reduced Service
-UID:6389879b-d9f8-47c0-b262-d3660a32c412@6389.org
+UID:170b857d-4e5b-43e5-ac98-ed71e99a361f@170b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:BAKERLOO LINE: Saturday 16 November\, no service between Queens Park and Harrow & Wealdstone. There is also no LONDON OVERGROUND service between Euston and Watford Junction. Special bus service 718 operates between Queens Park and Harrow & Wealdstone via Kensal Green\, Willesden Junction (Harrow Road)\, Harlesden Town Centre (for Harlesden station)\, Stonebridge Park\, Wembley High Road (Park Lane)\, Wembley Central\, North Wembley\, Preston Road (for South Kenton and Metropolitan line)\, Kenton and Northwick Park Hospital. LONDON NORTHWESTERN RAILWAY services continue to serve Harrow & Wealdstone\, and SOUTHERN trains will serve Wembley Central and Harrow & Wealdstone.
 DTEND:20241117T012900Z
 DTSTART:20241116T043000Z
 SUMMARY:Bakerloo: Part Closure
-UID:32517535-3b57-46c7-900d-24be68e560b8@3251.org
+UID:5e78229e-fe00-47bf-af36-04d6933aba1b@5e78.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:STRIKE ACTION: Thursday 7 November: No London Underground services are expected to run
+DTEND:20241108T012900Z
+DTSTART:20241107T043000Z
+SUMMARY:Bakerloo: Suspended
+UID:2f663bc8-1f3c-4930-99f4-4cbe377f237d@2f66.org
 END:VEVENT
 END:VCALENDAR

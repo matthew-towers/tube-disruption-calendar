@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Jubilee disruption
 BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Tuesday 12 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
-DTEND:20241113T012900Z
-DTSTART:20241112T043000Z
-SUMMARY:Jubilee: Reduced Service
-UID:0ead5c7a-55c5-497b-bd2f-83aef37a22d0@0ead.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:STRIKE ACTION: Thursday 7 November: No London Underground services are expected to run
 DTEND:20241108T012900Z
 DTSTART:20241107T043000Z
 SUMMARY:Jubilee: Suspended
-UID:b3f1e590-9284-4ed6-b424-7ff7e9614f0c@b3f1.org
+UID:585f6e28-4619-41ff-bef8-5198923bad26@585f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:STRIKE ACTION: Tuesday 12 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
+DTEND:20241113T012900Z
+DTSTART:20241112T043000Z
+SUMMARY:Jubilee: Reduced Service
+UID:2fdfcb5d-fc1e-4693-9603-7b801bdbff1d@2fdf.org
 END:VEVENT
 END:VCALENDAR

@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Hammersmith & City disruption
 BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Tuesday 12 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
-DTEND:20241113T012900Z
-DTSTART:20241112T043000Z
-SUMMARY:Hammersmith & City: Reduced Service
-UID:c2632ef6-9092-4b4c-9655-b06cc120c748@c263.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:STRIKE ACTION: Thursday 7 November: No London Underground services are expected to run
 DTEND:20241108T012900Z
 DTSTART:20241107T043000Z
 SUMMARY:Hammersmith & City: Suspended
-UID:5c2244b2-b7e2-457c-b459-950d61a1db17@5c22.org
+UID:60a4289e-8af9-46e3-bd46-98091adfd21f@60a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:STRIKE ACTION: Tuesday 12 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
+DTEND:20241113T012900Z
+DTSTART:20241112T043000Z
+SUMMARY:Hammersmith & City: Reduced Service
+UID:e12c712c-065f-41a7-8556-894dbfdefd52@e12c.org
 END:VEVENT
 END:VCALENDAR
