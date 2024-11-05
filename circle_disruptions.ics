@@ -3,24 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Circle disruption
 BEGIN:VEVENT
-DESCRIPTION:Circle Line: Severe delays due to train cancellations. 
-DTEND:20241105T012900Z
-DTSTART:20241104T092819Z
-SUMMARY:Circle: Severe Delays
-UID:6d26fb78-1466-4be6-903c-8b8dead2d9bb@6d26.org
+DESCRIPTION:STRIKE ACTION: Tuesday 12 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
+DTEND:20241113T012900Z
+DTSTART:20241112T043000Z
+SUMMARY:Circle: Reduced Service
+UID:2c4f4f7a-4b2e-4dde-b93d-831b04c56852@2c4f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:STRIKE ACTION: Thursday 7 November: No London Underground services are expected to run
 DTEND:20241108T012900Z
 DTSTART:20241107T043000Z
 SUMMARY:Circle: Suspended
-UID:ff3dee30-eb92-4a46-8abc-265efe7a2186@ff3d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Tuesday 12 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
-DTEND:20241113T012900Z
-DTSTART:20241112T043000Z
-SUMMARY:Circle: Reduced Service
-UID:b40c384c-6afb-4918-bab8-23cb48897d5d@b40c.org
+UID:b0cb9582-4219-4bee-8efa-7734a3588001@b0cb.org
 END:VEVENT
 END:VCALENDAR

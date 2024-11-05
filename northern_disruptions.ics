@@ -3,31 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Northern disruption
 BEGIN:VEVENT
-DESCRIPTION:NORTHERN LINE: Saturday 16 November\, from 0345\, and all day Sunday 17 November (including Saturday Night Tube\, no service between Archway and High Barnet. During Night Tube hours\, please use Night Bus Route N20\, or Routes 43 and 134 for Highgate. During the day\, replacement bus service NL3 operates between Archway and High Barnet via Highgate\, East Finchley\, Finchley Central\, West Finchley (Ballards Lane)\, Woodside Park (North Finchley High Road) and Totteridge & Whetstone (Whetstone High Road)
-DTEND:20241118T012900Z
-DTSTART:20241116T034500Z
-SUMMARY:Northern: Part Closure
-UID:219ebc2f-bfb7-44f7-9d6b-bf9f5df713de@219e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Thursday 7 November: No London Underground services are expected to run
-DTEND:20241108T012900Z
-DTSTART:20241107T043000Z
-SUMMARY:Northern: Suspended
-UID:b13884ca-d97b-40f9-bcab-202bd8913606@b138.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:NORTHERN LINE: Saturday 16 November\, between 0115 and 0345\, no service between Camden Town and High Barnet. Please use Night Bus N20 instead (route 134 also serves stations between Camden Town and Highgate).
 DTEND:20241116T034500Z
 DTSTART:20241116T011500Z
 SUMMARY:Northern: Part Closure
-UID:b3abffc3-d301-44b2-a8d2-b8ff3a6333ef@b3ab.org
+UID:074ef3f5-34b6-4d92-9488-698277f4fd98@074e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:STRIKE ACTION: Tuesday 12 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
 DTEND:20241113T012900Z
 DTSTART:20241112T043000Z
 SUMMARY:Northern: Reduced Service
-UID:3dfec3f5-6770-4ccf-8971-7d94b61e608d@3dfe.org
+UID:4d1f3841-b921-4ab6-b835-a27af97f6edb@4d1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:NORTHERN LINE: Saturday 16 November\, from 0345\, and all day Sunday 17 November (including Saturday Night Tube\, no service between Archway and High Barnet. During Night Tube hours\, please use Night Bus Route N20\, or Routes 43 and 134 for Highgate. During the day\, replacement bus service NL3 operates between Archway and High Barnet via Highgate\, East Finchley\, Finchley Central\, West Finchley (Ballards Lane)\, Woodside Park (North Finchley High Road) and Totteridge & Whetstone (Whetstone High Road)
+DTEND:20241118T012900Z
+DTSTART:20241116T034500Z
+SUMMARY:Northern: Part Closure
+UID:b9d527dc-c9fa-455c-8a39-474b2b45c544@b9d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:STRIKE ACTION: Thursday 7 November: No London Underground services are expected to run
+DTEND:20241108T012900Z
+DTSTART:20241107T043000Z
+SUMMARY:Northern: Suspended
+UID:ec8cd667-cccb-4df2-9ce3-b3ab3f75bd80@ec8c.org
 END:VEVENT
 END:VCALENDAR

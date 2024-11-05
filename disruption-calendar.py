@@ -107,5 +107,5 @@ def write_ics(lineid, calendar):
 
 
 for i, lineid in enumerate(all_lineids):
-    print(f"making calendar for {lineid} ({i}/{len(all_lineids)})...")
+    print(f"making calendar for {lineid} ({i+1}/{len(all_lineids)})...")
     write_ics(lineid, make_calendar(lineid, fetch_disruptions(lineid)))
