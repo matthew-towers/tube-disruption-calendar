@@ -82,7 +82,7 @@ def make_calendar(lineid, disruption_data):
             i = 0
             while i < n:
                 start = from_date(i)
-                while (i < n - 1) and (to_date(i) + one_minute == from_date(i + 1)):
+                while (i < n - 1) and (to_date(i).hour == 23) and (to_date(i).minute == 59) and (to_date(i) + one_minute == from_date(i + 1)):
                     i += 1
                 end = to_date(i)
                 calendar.events.add(
@@ -106,6 +106,11 @@ def write_ics(lineid, calendar):
         f.writelines(map(lambda x: x + "\n", cal_lines))
 
 
-for i, lineid in enumerate(all_lineids):
-    print(f"making calendar for {lineid} ({i+1}/{len(all_lineids)})...")
-    write_ics(lineid, make_calendar(lineid, fetch_disruptions(lineid)))
+def make_all_calendars():
+    for i, lineid in enumerate(all_lineids):
+        print(f"making calendar for {lineid} ({i+1}/{len(all_lineids)})...")
+        write_ics(lineid, make_calendar(lineid, fetch_disruptions(lineid)))
+
+
+if __name__ == "__main__":
+    make_all_calendars()
