@@ -3,17 +3,10 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Circle disruption
 BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Tuesday 12 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
-DTEND:20241113T012900Z
-DTSTART:20241112T043000Z
-SUMMARY:Circle: Reduced Service
-UID:2c4f4f7a-4b2e-4dde-b93d-831b04c56852@2c4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Thursday 7 November: No London Underground services are expected to run
-DTEND:20241108T012900Z
-DTSTART:20241107T043000Z
+DESCRIPTION:Circle Line: No service while we deal with a faulty train at Aldgate. 
+DTEND:20241106T122715Z
+DTSTART:20241106T092639Z
 SUMMARY:Circle: Suspended
-UID:b0cb9582-4219-4bee-8efa-7734a3588001@b0cb.org
+UID:47ae080d-167a-411a-9e97-bb5a6b2e29cc@47ae.org
 END:VEVENT
 END:VCALENDAR

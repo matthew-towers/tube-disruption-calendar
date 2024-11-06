@@ -2,18 +2,4 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Tuesday 12 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
-DTEND:20241113T012900Z
-DTSTART:20241112T043000Z
-SUMMARY:Central: Reduced Service
-UID:6bce2758-4120-432c-b92f-f71a6b690de3@6bce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Thursday 7 November: No London Underground services are expected to run
-DTEND:20241108T012900Z
-DTSTART:20241107T043000Z
-SUMMARY:Central: Suspended
-UID:bd04cb2a-270e-48f0-bcc8-0661d242bddf@bd04.org
-END:VEVENT
 END:VCALENDAR

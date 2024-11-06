@@ -3,17 +3,10 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Thursday 7 November: No London Underground services are expected to run
-DTEND:20241108T012900Z
-DTSTART:20241107T043000Z
-SUMMARY:Metropolitan: Suspended
-UID:f0d9a2d4-5991-48bf-a98a-514f49dfed47@f0d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Tuesday 12 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
-DTEND:20241113T012900Z
-DTSTART:20241112T043000Z
-SUMMARY:Metropolitan: Reduced Service
-UID:f646b7d7-cf38-434f-85ba-c356e418119e@f646.org
+DESCRIPTION:Metropolitan Line: Severe delays while we fix a faulty train at Aldgate. 
+DTEND:20241107T012900Z
+DTSTART:20241106T091854Z
+SUMMARY:Metropolitan: Severe Delays
+UID:38e82d8c-e7fa-4ec8-913e-50ee03320042@38e8.org
 END:VEVENT
 END:VCALENDAR

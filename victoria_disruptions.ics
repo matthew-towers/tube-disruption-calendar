@@ -2,18 +2,4 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Victoria disruption
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Tuesday 12 November: Severe disruption is expected on London Underground services. Any services that do run are likely to start later and finish earlier than normal
-DTEND:20241113T012900Z
-DTSTART:20241112T043000Z
-SUMMARY:Victoria: Reduced Service
-UID:5e7cead4-40b4-450c-b05c-818c841fc094@5e7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:STRIKE ACTION: Thursday 7 November: No London Underground services are expected to run
-DTEND:20241108T012900Z
-DTSTART:20241107T043000Z
-SUMMARY:Victoria: Suspended
-UID:6c51c202-8600-496d-b6ab-ce3d644863e4@6c51.org
-END:VEVENT
 END:VCALENDAR
