@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Circle disruption
+BEGIN:VEVENT
+DESCRIPTION:Circle Line: No service due to a points failure at Whitechapel. Tickets are being accepted on London Buses. 
+DTEND:20241108T120136Z
+DTSTART:20241108T084218Z
+SUMMARY:Circle: Suspended
+UID:b9fb85d6-b698-49bd-943c-8daef264d293@b9fb.org
+END:VEVENT
 END:VCALENDAR
