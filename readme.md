@@ -4,6 +4,8 @@ A repository for experimenting with the TFL API.  The idea is to use it to produ
 
 According to [this Medium post from 2016](https://medium.com/@ed.sparkes/a-tube-planned-works-calendar-91c7a483c3c4) there used to be a similar service available at [tubecal.uk](http://tubecal.uk/) but it is gone now.
 
+Unless you know the lines well, it can be difficult to figure out which stations are affected by a disruption given only the start and end point (can you name the stations on the Bakerloo between Queens Park and Harrow & Wealdstone, for example?). For that reason calendar events now include a link to the TFL disruption map for their date and time where you can see the affected area on the tube map.
+
 I have made these available as shared Google Calendars.  You'll want to set the colour of the calendar to the official TFL colour for the line, so I've provided the hex codes. The calendars go 60 days into the future and will be updated regularly.
 
 | Line | Google Calendar link | ics file link | Colour |

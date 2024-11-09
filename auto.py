@@ -1,5 +1,5 @@
 import git
-import disruption-calendar
+import disruption_calendar
 import os
 # Set up a Repo object for the repository storing the tube disruption calendar. Pull the latest files. Update the calendars, add and commit the new calendar files, then push to the remote repo.
 # gitpython docs: https://gitpython.readthedocs.io/en/stable/index.html
