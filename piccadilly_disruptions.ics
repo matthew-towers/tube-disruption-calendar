@@ -3,38 +3,38 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
-DESCRIPTION:PICCADILLY LINE: Saturday 23 November\, between 0100 and 0230\, no service between Hammersmith and Cockfosters. Please use Night Bus Route N91 between Holborn and Cockfosters.
-DTEND:20241123T023000Z
-DTSTART:20241123T010000Z
-SUMMARY:Piccadilly: Part Closure
-UID:243255eb-5d45-48b8-9c9f-842d22cc6264@2432.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PICCADILLY LINE: Saturday 30 November\, from 0100 until 0300\, no service between Hyde Park Corner and Cockfosters. Replacement bus service PL6 operates between Finsbury Park and Cockfosters via Manor House\, Turnpike Lane\, Wood Green\, Bounds Green\, New Southgate National Rail station\, Arnos Grove\, Southgate and Oakwood.
-DTEND:20241130T030000Z
-DTSTART:20241130T010000Z
-SUMMARY:Piccadilly: Part Closure
-UID:b8100e61-daea-4c80-bb4c-76b94975f213@b810.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PICCADILLY LINE: Saturday 23 November\, from 0230 and all day Sunday 24 November\, no service between Hammersmith and Kings Cross St Pancras.
-DTEND:20241125T012900Z
-DTSTART:20241123T023000Z
-SUMMARY:Piccadilly: Part Closure
-UID:3300bf93-1701-441b-80b1-a9d001fda58d@3300.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PICCADILLY LINE: Saturday 7 and Sunday 8 December\, no service between Acton Town and Uxbridge. Use Metropolitan line between Rayners Lane and Uxbridge. Replacement bus service PL4 operates between Acton Town and Rayners Lane via Ealing Common\, North Ealing\, Hanger Lane (for Central line and Park Royal)\, Alperton\, Sudbury Town (Whitton Avenue East)\, Sudbury Hill and South Harrow.
-DTEND:20241209T012900Z
-DTSTART:20241207T043000Z
-SUMMARY:Piccadilly: Part Closure
-UID:c5079549-cb13-4968-9260-0cea52a1ffa8@c507.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:PICCADILLY LINE: Saturday 30 November\, from 0300\, and all day Sunday 1 December (including Friday and Saturday Night Tube)\, no service between Kings Cross St Pancras and Cockfosters. Replacement buses operate.
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-11-30T03:00:00+00:00&endDate=2024-12-02T01:29:00+00:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 30 November\, from 0300\, and all day Sunday 1 December (including Friday and Saturday Night Tube)\, no service between Kings Cross St Pancras and Cockfosters. Replacement buses operate.
 DTEND:20241202T012900Z
 DTSTART:20241130T030000Z
 SUMMARY:Piccadilly: Part Closure
-UID:db17c493-aadb-41c6-ae06-28a2523cc4ef@db17.org
+UID:fa319902-6d00-49a4-b7a8-26e767c06cff@fa31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-11-23T02:30:00+00:00&endDate=2024-11-25T01:29:00+00:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 23 November\, from 0230 and all day Sunday 24 November\, no service between Hammersmith and Kings Cross St Pancras.
+DTEND:20241125T012900Z
+DTSTART:20241123T023000Z
+SUMMARY:Piccadilly: Part Closure
+UID:6acc6a98-9803-4109-8b56-1f31c7b90e4e@6acc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-11-23T01:00:00+00:00&endDate=2024-11-23T02:30:00+00:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 23 November\, between 0100 and 0230\, no service between Hammersmith and Cockfosters. Please use Night Bus Route N91 between Holborn and Cockfosters.
+DTEND:20241123T023000Z
+DTSTART:20241123T010000Z
+SUMMARY:Piccadilly: Part Closure
+UID:ed17269f-2c33-4f91-ba46-242d76090ee7@ed17.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-11-30T01:00:00+00:00&endDate=2024-11-30T03:00:00+00:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 30 November\, from 0100 until 0300\, no service between Hyde Park Corner and Cockfosters. Replacement bus service PL6 operates between Finsbury Park and Cockfosters via Manor House\, Turnpike Lane\, Wood Green\, Bounds Green\, New Southgate National Rail station\, Arnos Grove\, Southgate and Oakwood.
+DTEND:20241130T030000Z
+DTSTART:20241130T010000Z
+SUMMARY:Piccadilly: Part Closure
+UID:eaf64c1c-b96d-4a70-b2c6-52cf422598db@eaf6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-07T04:30:00+00:00&endDate=2024-12-09T01:29:00+00:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 7 and Sunday 8 December\, no service between Acton Town and Uxbridge. Use Metropolitan line between Rayners Lane and Uxbridge. Replacement bus service PL4 operates between Acton Town and Rayners Lane via Ealing Common\, North Ealing\, Hanger Lane (for Central line and Park Royal)\, Alperton\, Sudbury Town (Whitton Avenue East)\, Sudbury Hill and South Harrow.
+DTEND:20241209T012900Z
+DTSTART:20241207T043000Z
+SUMMARY:Piccadilly: Part Closure
+UID:6160a173-f665-49db-82cb-0c86131284a7@6160.org
 END:VEVENT
 END:VCALENDAR

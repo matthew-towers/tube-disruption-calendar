@@ -8,11 +8,13 @@ cwd = os.getcwd()
 repo = git.Repo(cwd)
 o = repo.remotes.origin
 
+print("pulling...")
 o.pull()
 
-disruption-calendar.make_all_calendars()
+disruption_calendar.make_all_calendars()
 
 repo.git.add(all=True)
 repo.index.commit("update calendars")
 
+print("pushing...")
 o.push()
