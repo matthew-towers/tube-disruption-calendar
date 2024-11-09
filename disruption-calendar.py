@@ -3,6 +3,9 @@ import datetime as dt
 import ics
 import sys
 
+# TODO add links to disruption map to each event. Example URL:
+# https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-11-13T00%3a00%3a00&endDate=2024-11-13T23%3a59%3a59
+
 lineid_to_name = {
     "bakerloo": "Bakerloo",
     "central": "Central",
