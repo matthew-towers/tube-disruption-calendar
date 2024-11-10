@@ -22,10 +22,11 @@ lineid_to_name = {
 
 all_lineids = list(lineid_to_name.keys())
 
-
 def make_event(name, description, start, end, alarms=None):
     # Create a link to the TFL disruption map page for the time of this event, prepend it to the disruption description
-    map_url = f"https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate={start.isoformat()}&endDate={end.isoformat()}"
+    url_start_time = start.replace(tzinfo=None).isoformat()
+    url_end_time = end.replace(tzinfo=None).isoformat()
+    map_url = f"https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate={url_start_time}&endDate={url_end_time}"
     link = f'<a href="{map_url}">Disruption map.</a>\n\n'
     e = ics.Event(description=link + description, alarms=alarms)
     e.name = name
