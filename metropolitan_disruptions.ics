@@ -2,4 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-11-12T08:20:12&endDate=2024-11-13T01:29:00">Disruption map.</a>\n\nMetropolitan Line: Severe delays between Baker Street and Aldgate due to an earlier signal failure at Neasden. MINOR DELAYS to the rest of the line.Tickets are being accepted on London Buses. 
+DTEND:20241113T012900Z
+DTSTART:20241112T082012Z
+SUMMARY:Metropolitan: Minor Delays
+UID:757ab760-da70-42b1-b6b4-428eae53bc51@757a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-11-12T08:20:12&endDate=2024-11-13T01:29:00">Disruption map.</a>\n\nMetropolitan Line: Severe delays between Baker Street and Aldgate due to an earlier signal failure at Neasden. MINOR DELAYS to the rest of the line.Tickets are being accepted on London Buses. 
+DTEND:20241113T012900Z
+DTSTART:20241112T082012Z
+SUMMARY:Metropolitan: Severe Delays
+UID:4b85d374-284a-4206-a36f-152ee9f8ca0b@4b85.org
+END:VEVENT
 END:VCALENDAR
