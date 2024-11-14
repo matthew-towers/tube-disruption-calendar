@@ -18,3 +18,4 @@ repo.index.commit("update calendars")
 
 print("pushing...")
 o.push()
+os.system("notify-send 'calendars updated'")
