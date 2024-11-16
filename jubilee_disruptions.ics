@@ -2,4 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Jubilee disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-11-16T11:48:21&endDate=2024-11-17T01:29:00">Disruption map.</a>\n\nJubilee Line: Severe delays due to an earlier points failure at North Greenwich. London Buses\, London Overground\, C2C\, Southeastern and Thameslink are accepting tickets. 
+DTEND:20241117T012900Z
+DTSTART:20241116T114821Z
+SUMMARY:Jubilee: Severe Delays
+UID:d19fd8c7-97eb-45c5-95f3-ef6f31fecf0a@d19f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service will operate on any line.
+DTEND:20241226T012900Z
+DTSTART:20241225T043000Z
+SUMMARY:Jubilee: Planned Closure
+UID:aa0a8df9-27b4-4c4a-a764-6b2574e0e869@aa0a.org
+END:VEVENT
 END:VCALENDAR
