@@ -3,10 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-11-17T15:43:10&endDate=2024-11-18T01:29:00">Disruption map.</a>\n\nDistrict Line: No service between Earl's Court and Barking eastbound only while we fix a points failure at Aldgate East and SEVERE DELAYS to rest of the line. Valid tickets are being accepted on DLR C2C London buses and South Western railway. 
+DTEND:20241118T012900Z
+DTSTART:20241117T154310Z
+SUMMARY:District: Severe Delays
+UID:a68b7f68-32f6-40e9-961e-e9160bd8d0f9@a68b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-11-17T15:43:10&endDate=2024-11-17T18:53:33">Disruption map.</a>\n\nDistrict Line: No service between Earl's Court and Barking eastbound only while we fix a points failure at Aldgate East and SEVERE DELAYS to rest of the line. Valid tickets are being accepted on DLR C2C London buses and South Western railway. 
+DTEND:20241117T185333Z
+DTSTART:20241117T154310Z
+SUMMARY:District: Part Suspended
+UID:869e8568-3346-45bb-b278-65bc5eb9c25b@869e.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service will operate on any line.
 DTEND:20241226T012900Z
 DTSTART:20241225T043000Z
 SUMMARY:District: Planned Closure
-UID:923ade0f-553a-4c75-ab7b-7c615b28b0f9@923a.org
+UID:fd7ad06f-1326-4a46-bf6e-33dc7c525b88@fd7a.org
 END:VEVENT
 END:VCALENDAR
