@@ -3,17 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Victoria disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-11-21T09:31:15&endDate=2024-11-22T01:29:00">Disruption map.</a>\n\nVictoria Line: Severe delays between King's Cross and Walthamstow Central\, northbound only\, while we fix a faulty trains at Seven Sisters. GOOD SERVICE on the rest of the line. 
-DTEND:20241122T012900Z
-DTSTART:20241121T093115Z
-SUMMARY:Victoria: Severe Delays
-UID:3408220c-36cc-47b5-8905-1618e63b7442@3408.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-11-22T07:00:43&endDate=2024-11-22T10:04:56">Disruption map.</a>\n\nVictoria Line: No service between Seven Sisters and King's Cross due to the late finish of engineering work. SEVERE DELAYS on the rest of the line. Valid tickets are being accepted on London Buses\, London Overground\, Thameslink\, Greater Anglia\, South Western\, Southeastern services. 
+DTEND:20241122T100456Z
+DTSTART:20241122T070043Z
+SUMMARY:Victoria: Part Suspended
+UID:9ae5d171-6b88-4c82-b998-6dabe3daa7ea@9ae5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service will operate on any line.
 DTEND:20241226T012900Z
 DTSTART:20241225T043000Z
 SUMMARY:Victoria: Planned Closure
-UID:f8a16e62-bf56-43b1-ac88-538ee97cf91f@f8a1.org
+UID:c8fff064-35ee-42f3-9cdf-ce21f4179ffa@c8ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-11-22T07:00:43&endDate=2024-11-23T01:29:00">Disruption map.</a>\n\nVictoria Line: No service between Seven Sisters and King's Cross due to the late finish of engineering work. SEVERE DELAYS on the rest of the line. Valid tickets are being accepted on London Buses\, London Overground\, Thameslink\, Greater Anglia\, South Western\, Southeastern services. 
+DTEND:20241123T012900Z
+DTSTART:20241122T070043Z
+SUMMARY:Victoria: Severe Delays
+UID:4791e887-b681-43a6-ad93-df4f81b41987@4791.org
 END:VEVENT
 END:VCALENDAR
