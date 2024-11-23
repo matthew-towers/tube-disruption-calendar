@@ -1,3 +1,4 @@
+#!/usr/bin/python
 import git
 import disruption_calendar
 import os
