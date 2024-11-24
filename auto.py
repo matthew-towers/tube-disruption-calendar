@@ -10,10 +10,10 @@ import pathlib
 #
 # gitpython docs: https://gitpython.readthedocs.io/en/stable/index.html
 
+this_file = __file__
+this_dir = pathlib.Path(__file__).parent.resolve()
+
 try:
-    # cwd = os.getcwd()
-    this_file = __file__
-    this_dir = pathlib.Path(__file__).parent.resolve()
     repo = git.Repo(this_dir)
     o = repo.remotes.origin
 except:
