@@ -12,6 +12,7 @@ import pathlib
 
 this_file = __file__
 this_dir = pathlib.Path(__file__).parent.resolve()
+os.chdir(this_dir)
 
 try:
     repo = git.Repo(this_dir)
