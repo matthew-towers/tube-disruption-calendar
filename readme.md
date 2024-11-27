@@ -1,12 +1,14 @@
 # Tube disruption calendar
 
-A repository for experimenting with the TFL API.  The idea is to use it to produce an `ics` calendar of planned disruption on a specified tube line or on the Overground, suitable for importing into Google Calendar or similar.
+A Python script that uses the TFL API  to produce an `ics` calendar of planned disruption on specified tube or Overground lines, suitable for importing into Google Calendar or similar.
 
 According to [this Medium post from 2016](https://medium.com/@ed.sparkes/a-tube-planned-works-calendar-91c7a483c3c4) there used to be a similar service available at [tubecal.uk](http://tubecal.uk/) but it is gone now.
 
-Unless you know the lines well, it can be difficult to figure out which stations are affected by a disruption given only the start and end point (can you name the stations on the Bakerloo between Queens Park and Harrow & Wealdstone, for example?). For that reason calendar events now include a link to the TFL disruption map for their date and time where you can see the affected area on the tube map.
+Unless you know the lines well, it can be difficult to figure out which stations are affected by a disruption given only the start and end point. For that reason calendar events include a link to the TFL disruption map for their date and time where you can see the affected area on the tube map.
 
-I have made these available as shared Google Calendars.  You'll want to set the colour of the calendar to the official TFL colour for the line, so I've provided the hex codes. The calendars go 60 days into the future and will be updated regularly.
+The last six lines in the table below are the new London Overground lines.
+
+I have made these available as shared Google Calendars.  You'll want to set the colour of the calendar to the official TFL colour for the line, so I've provided the hex codes. The calendars go 60 days into the future and are updated daily.
 
 | Line | Google Calendar link | ics file link | Colour |
 |------|----------------------|---------------|--------|
@@ -23,4 +25,9 @@ I have made these available as shared Google Calendars.  You'll want to set the 
 |Victoria | [link](https://calendar.google.com/calendar/embed?src=mp5aaggh5ec57bks9q3bcgv860l9i54i%40import.calendar.google.com&ctz=Europe%2FLondon) | [link](https://calendar.google.com/calendar/ical/mp5aaggh5ec57bks9q3bcgv860l9i54i%40import.calendar.google.com/public/basic.ics) | <span style="background-color:#0098D4;color:#FFFFFF">#0098D4</span>|
 |Waterloo & City | [link](https://calendar.google.com/calendar/embed?src=c2g9vtp4l001ojqc472om3vnini4f91i%40import.calendar.google.com&ctz=Europe%2FLondon) | [link](https://calendar.google.com/calendar/ical/c2g9vtp4l001ojqc472om3vnini4f91i%40import.calendar.google.com/public/basic.ics) | <span style="background-color:#95CDBA;color:#000000">#95CDBA</span>|
 |DLR | [link](https://calendar.google.com/calendar/embed?src=6dqrlv848s6rgitrucnp93k672u4cg89%40import.calendar.google.com&ctz=Europe%2FLondon) | [link](https://calendar.google.com/calendar/ical/6dqrlv848s6rgitrucnp93k672u4cg89%40import.calendar.google.com/public/basic.ics) | <span style="background-color:#00A4A7;color:#FFFFFF">#00A4A7</span>|
-|London Overground | [link](https://calendar.google.com/calendar/embed?src=76faui0grl6u7ugi296b3j77m9ov3irv%40import.calendar.google.com&ctz=Europe%2FLondon) | [link](https://calendar.google.com/calendar/ical/76faui0grl6u7ugi296b3j77m9ov3irv%40import.calendar.google.com/public/basic.ics) | <span style="background-color:#EE7C0E;color:#000000">#EE7C0E</span>|
+|Liberty line | [link]() | [link]() | <span style="background-color:#5F696F;color:#FFFFFF">#5F696F</span>|
+|Lioness line | [link]() | [link]() | <span style="background-color:#FDB931;color:#000000">#FDB931</span>|
+|Mildmay line | [link]() | [link]() | <span style="background-color:#328CCB;color:#000000">#328CCB</span>|
+|Suffragette line | [link]() | [link]() | <span style="background-color:#36B560;color:#000000">#36B560</span>|
+|Weaver line | [link]() | [link]() | <span style="background-color:#CB4D8F;color:#000000">#CB4D8F</span>|
+|Windrush line | [link]() | [link]() | <span style="background-color:#EE2E2C;color:#000000">#EE2E2C</span>|
