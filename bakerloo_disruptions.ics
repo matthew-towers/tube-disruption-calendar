@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Bakerloo disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service will operate on any line.
-DTEND:20241226T012900Z
-DTSTART:20241225T043000Z
-SUMMARY:Bakerloo: Planned Closure
-UID:5fb0136e-1496-4aae-9b1a-1c9e97af1d03@5fb0.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-11-28T22:30:00&endDate=2024-11-29T01:29:00">Disruption map.</a>\n\nBAKERLOO LINE: Thursday 28 November\, from 2230\, no service between Queens Park and Harrow & Wealdstone due to emergency Network Rail engineering works. There will also be no LONDON OVERGROUND service between Euston and Watford Junction after 2200. LONDON NORTH WESTERN trains continue to serve Harrow & Wealdstone. Special bus service 718 operates between Queens Park and Harrow & Wealdstone via Kensal Green\, Willesden Junction (Harrow Road)\, Harlesden Town Centre (for Harlesden station)\, Stonebridge Park\, Wembley (Park Lane)\, Wembley Central\, North Wembley\, Preston Road (for Metropolitan line and South Kenton) and Kenton.
 DTEND:20241129T012900Z
 DTSTART:20241128T223000Z
 SUMMARY:Bakerloo: Part Closure
-UID:a361ef65-37c2-455e-a8f6-4edfc9757187@a361.org
+UID:d3e15a9f-c40f-4314-a84c-22b744d1ab0b@d3e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service will operate on any line.
+DTEND:20241226T012900Z
+DTSTART:20241225T043000Z
+SUMMARY:Bakerloo: Planned Closure
+UID:fedd6446-f7f2-414e-b621-de1a209c69ce@fedd.org
 END:VEVENT
 END:VCALENDAR
