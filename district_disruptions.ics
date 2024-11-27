@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-11-27T17:50:57&endDate=2024-11-28T01:29:00">Disruption map.</a>\n\nDistrict Line: Severe delays between Earl's Court and Ealing Broadway / Richmond / Wimbledon due to earlier emergency engineering work at Upminster. MINOR DELAYS between Earl's Court and Wimbledon. Tickets will be accepted on local buses. 
+DTEND:20241128T012900Z
+DTSTART:20241127T175057Z
+SUMMARY:District: Severe Delays
+UID:a6cd7692-b2f5-47f2-a9b0-b1339e7ab4d4@a6cd.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service will operate on any line.
 DTEND:20241226T012900Z
 DTSTART:20241225T043000Z
 SUMMARY:District: Planned Closure
-UID:b3d463f7-c412-4aee-9b46-be106f44af26@b3d4.org
+UID:72704cef-46a3-45e4-8332-818bcef48a17@7270.org
 END:VEVENT
 END:VCALENDAR

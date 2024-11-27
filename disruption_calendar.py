@@ -12,15 +12,21 @@ lineid_to_name = {
     "elizabeth": "Elizabeth line",
     "hammersmith-city": "Hammersmith & City",
     "jubilee": "Jubilee",
-    "london-overground": "London Overground",
     "metropolitan": "Metropolitan",
     "northern": "Northern",
     "piccadilly": "Piccadilly",
     "victoria": "Victoria",
     "waterloo-city": "Waterloo & City",
+    "liberty": "Liberty line",
+    "windrush": "Windrush line",
+    "lioness": "Lioness line",
+    "mildmay": "Mildmay line",
+    "weaver": "Weaver line",
+    "suffragette": "Suffragette line",
 }
 
 all_lineids = list(lineid_to_name.keys())
+
 
 def make_event(name, description, start, end, alarms=None):
     # Create a link to the TFL disruption map page for the time of this event, prepend it to the disruption description
@@ -86,7 +92,12 @@ def make_calendar(lineid, disruption_data):
             i = 0
             while i < n:
                 start = from_date(i)
-                while (i < n - 1) and (to_date(i).hour == 23) and (to_date(i).minute == 59) and (to_date(i) + one_minute == from_date(i + 1)):
+                while (
+                    (i < n - 1)
+                    and (to_date(i).hour == 23)
+                    and (to_date(i).minute == 59)
+                    and (to_date(i) + one_minute == from_date(i + 1))
+                ):
                     i += 1
                 end = to_date(i)
                 calendar.events.add(
