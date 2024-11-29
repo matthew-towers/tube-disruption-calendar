@@ -3,59 +3,52 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Lioness line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-03T05:00:00&endDate=2025-01-03T05:45:00">Disruption map.</a>\n\nChanges to Euston to Watford Junction services from New Years Day\, 1 to Friday 3 January: On New Years Day and Thursday 2 January\, the 2345 train from Euston to Watford Junction will not run. On Thursday 2 and Friday 3 January\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
-DTEND:20250103T054500Z
-DTSTART:20250103T050000Z
-SUMMARY:Lioness line: Reduced Service
-UID:7e5c068c-000a-4e93-bde8-862cd51f2b0f@7e5c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-26T04:30:00&endDate=2024-12-27T01:29:00">Disruption map.</a>\n\nLONDON OVERGROUND: Boxing Day\, 26 December\, no service between Euston and Watford Junction. Use BAKERLOO LINE between Queens Park and Harrow & Wealdstone and local London Buses services for other stations (except Carpenders Park).
-DTEND:20241227T012900Z
-DTSTART:20241226T043000Z
-SUMMARY:Lioness line: Part Closure
-UID:2464e26b-677f-486c-b2ab-581efa9563e7@2464.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-01T23:00:00&endDate=2025-01-01T23:59:00">Disruption map.</a>\n\nChanges to Euston to Watford Junction services from New Years Day\, 1 to Friday 3 January: On New Years Day and Thursday 2 January\, the 2345 train from Euston to Watford Junction will not run. On Thursday 2 and Friday 3 January\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
-DTEND:20250101T235900Z
-DTSTART:20250101T230000Z
-SUMMARY:Lioness line: Reduced Service
-UID:b09b60e2-0609-46e0-bdf8-6a815820eec2@b09b.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nLONDON OVERGROUND: Christmas Day\, 25 December\, no service on any line.
 DTEND:20241226T012900Z
 DTSTART:20241225T043000Z
 SUMMARY:Lioness line: Planned Closure
-UID:c7145d9b-44f7-4589-b120-a65ae75f0cd9@c714.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-01T01:00:00&endDate=2025-01-01T02:45:00">Disruption map.</a>\n\nLONDON OVERGROUND: NEW YEARS EVE OVERNIGHT SERVICE: New Years Day\, 1 January\, additional trains will run from Euston to Queens Park at 0120\, for Bakerloo line connections\, from Queens Park to Euston at 0135 and from Euston to Watford Junction at 0155.
-DTEND:20250101T024500Z
-DTSTART:20250101T010000Z
-SUMMARY:Lioness line: Special Service
-UID:1b77b078-8380-496a-b3ac-a8a87f20f8fe@1b77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-02T05:00:00&endDate=2025-01-02T05:45:00">Disruption map.</a>\n\nChanges to Euston to Watford Junction services from New Years Day\, 1 to Friday 3 January: On New Years Day and Thursday 2 January\, the 2345 train from Euston to Watford Junction will not run. On Thursday 2 and Friday 3 January\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
-DTEND:20250102T054500Z
-DTSTART:20250102T050000Z
-SUMMARY:Lioness line: Reduced Service
-UID:deb88f8a-7fe0-492a-a83c-7e199d00be5f@deb8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-11-28T22:00:00&endDate=2024-11-29T01:29:00">Disruption map.</a>\n\nLONDON OVERGROUND: Thursday 28 November\, from 2200\, no service between Euston and Watford Junction. LONDON NORTH WESTERN services will continue to serve Euston\, Harrow & Wealdstone\, Bushey and Watford Junction\, and SOUTHERN services continue to serve Wembley Central\, Harrow & Wealdstone and Watford Junction. Special bus services operate.
-DTEND:20241129T012900Z
-DTSTART:20241128T220000Z
-SUMMARY:Lioness line: Part Closure
-UID:bbd46711-7878-46af-8e25-96e6d4e701d5@bbd4.org
+UID:ef0f9656-016a-49cc-8dfd-6cbc72de790c@ef0f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-02T23:00:00&endDate=2025-01-02T23:59:00">Disruption map.</a>\n\nChanges to Euston to Watford Junction services from New Years Day\, 1 to Friday 3 January: On New Years Day and Thursday 2 January\, the 2345 train from Euston to Watford Junction will not run. On Thursday 2 and Friday 3 January\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
 DTEND:20250102T235900Z
 DTSTART:20250102T230000Z
 SUMMARY:Lioness line: Reduced Service
-UID:da7840dc-42bc-47df-b506-b5f0d86bf70b@da78.org
+UID:cc25b2ab-327a-474e-ab9a-3f8e1922423c@cc25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-02T05:00:00&endDate=2025-01-02T05:45:00">Disruption map.</a>\n\nChanges to Euston to Watford Junction services from New Years Day\, 1 to Friday 3 January: On New Years Day and Thursday 2 January\, the 2345 train from Euston to Watford Junction will not run. On Thursday 2 and Friday 3 January\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
+DTEND:20250102T054500Z
+DTSTART:20250102T050000Z
+SUMMARY:Lioness line: Reduced Service
+UID:19bab3c2-6449-452e-8dbe-eebf34831664@19ba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-01T01:00:00&endDate=2025-01-01T02:45:00">Disruption map.</a>\n\nLONDON OVERGROUND: NEW YEARS EVE OVERNIGHT SERVICE: New Years Day\, 1 January\, additional trains will run from Euston to Queens Park at 0120\, for Bakerloo line connections\, from Queens Park to Euston at 0135 and from Euston to Watford Junction at 0155.
+DTEND:20250101T024500Z
+DTSTART:20250101T010000Z
+SUMMARY:Lioness line: Special Service
+UID:39668ed6-3884-46c0-8309-ef9269ebc7b1@3966.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-03T05:00:00&endDate=2025-01-03T05:45:00">Disruption map.</a>\n\nChanges to Euston to Watford Junction services from New Years Day\, 1 to Friday 3 January: On New Years Day and Thursday 2 January\, the 2345 train from Euston to Watford Junction will not run. On Thursday 2 and Friday 3 January\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
+DTEND:20250103T054500Z
+DTSTART:20250103T050000Z
+SUMMARY:Lioness line: Reduced Service
+UID:18858134-d5c4-4947-8d58-cd6e76ee49d3@1885.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-26T04:30:00&endDate=2024-12-27T01:29:00">Disruption map.</a>\n\nLONDON OVERGROUND: Boxing Day\, 26 December\, no service between Euston and Watford Junction. Use BAKERLOO LINE between Queens Park and Harrow & Wealdstone and local London Buses services for other stations (except Carpenders Park).
+DTEND:20241227T012900Z
+DTSTART:20241226T043000Z
+SUMMARY:Lioness line: Part Closure
+UID:f1fa793f-1895-41a5-835b-51d6dfc0d193@f1fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-01T23:00:00&endDate=2025-01-01T23:59:00">Disruption map.</a>\n\nChanges to Euston to Watford Junction services from New Years Day\, 1 to Friday 3 January: On New Years Day and Thursday 2 January\, the 2345 train from Euston to Watford Junction will not run. On Thursday 2 and Friday 3 January\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
+DTEND:20250101T235900Z
+DTSTART:20250101T230000Z
+SUMMARY:Lioness line: Reduced Service
+UID:88d2743b-125e-45d2-b55f-93e7e3c1b12d@88d2.org
 END:VEVENT
 END:VCALENDAR
