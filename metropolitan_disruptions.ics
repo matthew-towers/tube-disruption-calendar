@@ -3,17 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service will operate on any line.
-DTEND:20241226T012900Z
-DTSTART:20241225T043000Z
-SUMMARY:Metropolitan: Planned Closure
-UID:06bda3c3-77a3-4c16-9e8b-53e11ae03576@06bd.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-01T02:00:00&endDate=2025-01-01T11:00:00">Disruption map.</a>\n\nMETROPOLITAN LINE: New Years Day\, 1 January\, between 0200 and 1100\, no service between Baker Street and Aldgate. Please use Circle and Hammersmith & City line services.
 DTEND:20250101T110000Z
 DTSTART:20250101T020000Z
 SUMMARY:Metropolitan: Part Closure
-UID:78e703ac-2733-45fa-a0b0-efa9230b2a50@78e7.org
+UID:f4963bec-863b-4cc6-b9b3-273af286acd4@f496.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-11-29T17:14:25&endDate=2024-11-30T01:29:00">Disruption map.</a>\n\nMetropolitan Line: Minor delays between Harrow-on-the-Hill  and Watford while we fix a track fault at Watford. GOOD SERVICE on the rest of the line. 
+DTEND:20241130T012900Z
+DTSTART:20241129T171425Z
+SUMMARY:Metropolitan: Minor Delays
+UID:1f73c8f4-893c-45e0-96c2-ce22d98d3fc4@1f73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service will operate on any line.
+DTEND:20241226T012900Z
+DTSTART:20241225T043000Z
+SUMMARY:Metropolitan: Planned Closure
+UID:756474e7-3c5b-46f6-93ed-fe95d63a2015@7564.org
 END:VEVENT
 END:VCALENDAR

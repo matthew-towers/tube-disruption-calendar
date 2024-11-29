@@ -3,52 +3,52 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-21T04:30:00&endDate=2024-12-25T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 21 until Monday 30 December\, no service between Shadwell and Bank.
-DTEND:20241225T012900Z
-DTSTART:20241221T043000Z
-SUMMARY:DLR: Part Closure
-UID:2e080a83-e0ba-4a47-ab93-feb29647e33e@2e08.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-14T04:30:00&endDate=2024-12-16T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 14 and Sunday 15 December\, no service between Bank / Tower Gateway and Poplar / Canary Wharf. West India Quay is served by trains between Lewisham and Stratford.
-DTEND:20241216T012900Z
-DTSTART:20241214T043000Z
-SUMMARY:DLR: Part Closure
-UID:2795b75d-18ec-4803-af7a-a08a0a62997f@2795.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-26T04:30:00&endDate=2024-12-31T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 21 until Monday 30 December\, no service between Shadwell and Bank.
-DTEND:20241231T012900Z
-DTSTART:20241226T043000Z
-SUMMARY:DLR: Part Closure
-UID:58aa06e0-418c-4ad7-86b4-53209353926a@58aa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-21T04:30:00&endDate=2024-12-25T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 21\, Sunday 22\, Monday 23 and Christmas Eve 24 December\, no service between Prince Regent and Beckton. Replacement buses operate.
-DTEND:20241225T012900Z
-DTSTART:20241221T043000Z
-SUMMARY:DLR: Part Closure
-UID:62df89ee-17ed-4480-a016-45bbcb1aa677@62df.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Christmas Day\, 25 December\, no service will operate.
+DTEND:20241226T012900Z
+DTSTART:20241225T043000Z
+SUMMARY:DLR: Planned Closure
+UID:b553e40b-6cb5-42b6-998b-18e567540a65@b553.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-07T04:30:00&endDate=2024-12-09T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 7 and Sunday 8 December\, no service between Poplar / Stratford International and Beckton / Woolwich Arsenal. Use JUBILEE LINE services between Stratford and Canning Town\, and ELIZABETH LINE services for connections between Custom House and Woolwich (for Woolwich Arsenal). Replacement buses operate.
 DTEND:20241209T012900Z
 DTSTART:20241207T043000Z
 SUMMARY:DLR: Part Closure
-UID:87766842-fdc0-4cf4-a699-76833867bf85@8776.org
+UID:66fa2e00-6b3a-4a0b-8748-35c61736b6d6@66fa.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Christmas Day\, 25 December\, no service will operate.
-DTEND:20241226T012900Z
-DTSTART:20241225T043000Z
-SUMMARY:DLR: Planned Closure
-UID:15b33bb2-8604-476c-ad0f-86288daf1656@15b3.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-14T04:30:00&endDate=2024-12-16T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 14 and Sunday 15 December\, no service between Bank / Tower Gateway and Poplar / Canary Wharf. West India Quay is served by trains between Lewisham and Stratford.
+DTEND:20241216T012900Z
+DTSTART:20241214T043000Z
+SUMMARY:DLR: Part Closure
+UID:bfcb598a-1a49-407d-97b3-8ab2932bc4d8@bfcb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-26T04:30:00&endDate=2024-12-31T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 21 until Monday 30 December\, no service between Shadwell and Bank.
+DTEND:20241231T012900Z
+DTSTART:20241226T043000Z
+SUMMARY:DLR: Part Closure
+UID:85716dc1-9a2a-46b7-8ec6-c90c89683093@8571.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-11-30T04:30:00&endDate=2024-12-02T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 30 November and Sunday 1 December\, no service between Prince Regent and Beckton. Replacement buses operate.
 DTEND:20241202T012900Z
 DTSTART:20241130T043000Z
 SUMMARY:DLR: Part Closure
-UID:3144b6d3-c1e5-4c52-b15b-89c0a9cf8566@3144.org
+UID:22c3c8b9-43fd-47b6-82bf-aeb1db237af1@22c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-21T04:30:00&endDate=2024-12-25T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 21 until Monday 30 December\, no service between Shadwell and Bank.
+DTEND:20241225T012900Z
+DTSTART:20241221T043000Z
+SUMMARY:DLR: Part Closure
+UID:ec2415d9-2cdc-43d7-ab7b-5c01a1d52e13@ec24.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-21T04:30:00&endDate=2024-12-25T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 21\, Sunday 22\, Monday 23 and Christmas Eve 24 December\, no service between Prince Regent and Beckton. Replacement buses operate.
+DTEND:20241225T012900Z
+DTSTART:20241221T043000Z
+SUMMARY:DLR: Part Closure
+UID:90a442c5-6d98-4239-b754-63051d0b4b17@90a4.org
 END:VEVENT
 END:VCALENDAR
