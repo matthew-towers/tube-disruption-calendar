@@ -3,45 +3,45 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Christmas Day\, 25 December\, no service will operate.
-DTEND:20241226T012900Z
-DTSTART:20241225T043000Z
-SUMMARY:DLR: Planned Closure
-UID:03340cbc-f287-4aaf-ba9d-3467b3cb2783@0334.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-14T04:30:00&endDate=2024-12-16T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 14 and Sunday 15 December\, no service between Bank / Tower Gateway and Poplar / Canary Wharf. West India Quay is served by trains between Lewisham and Stratford.
-DTEND:20241216T012900Z
-DTSTART:20241214T043000Z
-SUMMARY:DLR: Part Closure
-UID:7b04c6f0-ad4f-4140-bcdb-8175592db30a@7b04.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-21T04:30:00&endDate=2024-12-25T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 21\, Sunday 22\, Monday 23 and Christmas Eve 24 December\, no service between Prince Regent and Beckton. Replacement buses operate.
-DTEND:20241225T012900Z
-DTSTART:20241221T043000Z
-SUMMARY:DLR: Part Closure
-UID:4ee9163f-c4b6-43aa-ba51-bbecc306078f@4ee9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-21T04:30:00&endDate=2024-12-25T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 21 until Monday 30 December\, no service between Shadwell and Bank.
-DTEND:20241225T012900Z
-DTSTART:20241221T043000Z
-SUMMARY:DLR: Part Closure
-UID:bc40e99d-59be-44db-b8db-ac6f6577aceb@bc40.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-26T04:30:00&endDate=2024-12-31T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 21 until Monday 30 December\, no service between Shadwell and Bank.
 DTEND:20241231T012900Z
 DTSTART:20241226T043000Z
 SUMMARY:DLR: Part Closure
-UID:39652633-c34d-4c4c-b61b-b56f844c3030@3965.org
+UID:4f97251b-5eae-4ff6-8cb1-70e1e21421d0@4f97.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-07T04:30:00&endDate=2024-12-09T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 7 and Sunday 8 December\, no service between Poplar / Stratford International and Beckton / Woolwich Arsenal. Use JUBILEE LINE services between Stratford and Canning Town\, and ELIZABETH LINE services for connections between Custom House and Woolwich (for Woolwich Arsenal). Replacement buses operate.
 DTEND:20241209T012900Z
 DTSTART:20241207T043000Z
 SUMMARY:DLR: Part Closure
-UID:e318eec7-faf2-4e82-aea4-bead6f6618af@e318.org
+UID:a64c3eff-608f-4b3a-812d-b1b627ad5314@a64c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-21T04:30:00&endDate=2024-12-25T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 21\, Sunday 22\, Monday 23 and Christmas Eve 24 December\, no service between Prince Regent and Beckton. Replacement buses operate.
+DTEND:20241225T012900Z
+DTSTART:20241221T043000Z
+SUMMARY:DLR: Part Closure
+UID:7a7f046d-e7d3-4949-82d3-163a924faa8f@7a7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Christmas Day\, 25 December\, no service will operate.
+DTEND:20241226T012900Z
+DTSTART:20241225T043000Z
+SUMMARY:DLR: Planned Closure
+UID:b575e746-598a-455b-83d6-d033eb0630ec@b575.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-21T04:30:00&endDate=2024-12-25T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 21 until Monday 30 December\, no service between Shadwell and Bank.
+DTEND:20241225T012900Z
+DTSTART:20241221T043000Z
+SUMMARY:DLR: Part Closure
+UID:73a7c835-19e8-4c9b-b73b-e3c9f133078e@73a7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-14T04:30:00&endDate=2024-12-16T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 14 and Sunday 15 December\, no service between Bank / Tower Gateway and Poplar / Canary Wharf. West India Quay is served by trains between Lewisham and Stratford.
+DTEND:20241216T012900Z
+DTSTART:20241214T043000Z
+SUMMARY:DLR: Part Closure
+UID:ca61bb09-56e6-4def-9a15-d12f08ad3048@ca61.org
 END:VEVENT
 END:VCALENDAR
