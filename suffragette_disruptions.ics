@@ -3,136 +3,122 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Suffragette line disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-11T06:30:00&endDate=2024-12-11T06:55:00">Disruption map.</a>\n\nChanges to Barking Riverside to Gospel Oak services from Tuesday 10 until Friday 13 December: The 0648 train from Barking Riverside will start from Barking at 0654
+DTEND:20241211T065500Z
+DTSTART:20241211T063000Z
+SUMMARY:Suffragette line: Reduced Service
+UID:76b1a488-9a7d-4dea-89ff-2a81e34ab0f3@76b1.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-26T04:30:00&endDate=2024-12-27T01:29:00">Disruption map.</a>\n\nLONDON OVERGROUND: Boxing Day\, 26 December\, no service between Gospel Oak and Barking Riverside. Use local London Buses and London Underground services.
 DTEND:20241227T012900Z
 DTSTART:20241226T043000Z
 SUMMARY:Suffragette line: Part Closure
-UID:7787bb44-7711-415b-9f8e-989e78d66a20@7787.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-27T23:00:00&endDate=2024-12-27T23:45:00">Disruption map.</a>\n\nChanges to Barking Riverside to Gospel Oak services on Friday 27 December: The 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338
-DTEND:20241227T234500Z
-DTSTART:20241227T230000Z
-SUMMARY:Suffragette line: Reduced Service
-UID:327a9bd2-8478-412c-8a34-783c195d8de5@327a.org
+UID:0e171c3b-2af5-4d71-84e8-f053052c049c@0e17.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-17T06:00:00&endDate=2024-12-17T06:25:00">Disruption map.</a>\n\nChanges to Barking Riverside to Gospel Oak services from Tuesday 17 to Friday 20 December: The 0618 train from Barking Riverside will start from Barking at 0624
 DTEND:20241217T062500Z
 DTSTART:20241217T060000Z
 SUMMARY:Suffragette line: Reduced Service
-UID:8914d30d-ca0a-4589-beec-d352bd958eb3@8914.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-13T23:00:00&endDate=2024-12-13T23:45:00">Disruption map.</a>\n\nChanges to Barking Riverside to Gospel Oak services on Friday 13 December: The 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338
-DTEND:20241213T234500Z
-DTSTART:20241213T230000Z
-SUMMARY:Suffragette line: Reduced Service
-UID:2ce2a767-93c9-4944-853b-650ba7913bbe@2ce2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-09T06:00:00&endDate=2024-12-09T06:25:00">Disruption map.</a>\n\nChanges to Barking Riverside to Gospel Oak services on Monday 9 December: The 0618 train from Barking Riverside will start from Barking at 0624
-DTEND:20241209T062500Z
-DTSTART:20241209T060000Z
-SUMMARY:Suffragette line: Reduced Service
-UID:ad51440c-8ef2-4e93-b326-5cbffa3ce85b@ad51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-19T06:00:00&endDate=2024-12-19T06:25:00">Disruption map.</a>\n\nChanges to Barking Riverside to Gospel Oak services from Tuesday 17 to Friday 20 December: The 0618 train from Barking Riverside will start from Barking at 0624
-DTEND:20241219T062500Z
-DTSTART:20241219T060000Z
-SUMMARY:Suffragette line: Reduced Service
-UID:df4ef645-9641-4934-b176-3ed40b127622@df4e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-03T05:30:00&endDate=2025-01-03T06:30:00">Disruption map.</a>\n\nChanges to Barking Riverside to Gospel Oak services on Thursday 2 and Friday 3 January: Trains at 0548 from Barking Riverside to Gospel Oak and 0624 from Gospel Oak to Barking Riverside will not run.
-DTEND:20250103T063000Z
-DTSTART:20250103T053000Z
-SUMMARY:Suffragette line: Reduced Service
-UID:b2c722e9-5a61-49d7-a8f6-35281b784082@b2c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-10T06:30:00&endDate=2024-12-10T06:55:00">Disruption map.</a>\n\nChanges to Barking Riverside to Gospel Oak services from Tuesday 10 until Friday 13 December: The 0648 train from Barking Riverside will start from Barking at 0654
-DTEND:20241210T065500Z
-DTSTART:20241210T063000Z
-SUMMARY:Suffragette line: Reduced Service
-UID:69b79c46-6701-4208-86ba-7d3a0566aa6d@69b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-02T17:02:47&endDate=2024-12-02T20:55:05">Disruption map.</a>\n\nNo service between South Tottenham and Gospel Oak while Network Rail deal with a signalling issue at Crouch Hill\, SEVERE DELAYS between South Tottenham and Barking Riverside. GOOD SERVICE on all other London Overground routes. Tickets are being accepted on London Buses and London Underground services via reasonable routes. 
-DTEND:20241202T205505Z
-DTSTART:20241202T170247Z
-SUMMARY:Suffragette line: Part Suspended
-UID:03066a11-bef4-43d5-9f72-50cd92a74c26@0306.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-12T06:30:00&endDate=2024-12-12T06:55:00">Disruption map.</a>\n\nChanges to Barking Riverside to Gospel Oak services from Tuesday 10 until Friday 13 December: The 0648 train from Barking Riverside will start from Barking at 0654
-DTEND:20241212T065500Z
-DTSTART:20241212T063000Z
-SUMMARY:Suffragette line: Reduced Service
-UID:53213a02-6329-4bbf-94e7-04608a3fbce1@5321.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-18T06:00:00&endDate=2024-12-18T06:25:00">Disruption map.</a>\n\nChanges to Barking Riverside to Gospel Oak services from Tuesday 17 to Friday 20 December: The 0618 train from Barking Riverside will start from Barking at 0624
-DTEND:20241218T062500Z
-DTSTART:20241218T060000Z
-SUMMARY:Suffragette line: Reduced Service
-UID:c0269e75-4113-412f-9517-1c314d6cdbeb@c026.org
+UID:47a76164-ac4f-4e0e-8303-99078fe6acc6@47a7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-13T06:30:00&endDate=2024-12-13T06:55:00">Disruption map.</a>\n\nChanges to Barking Riverside to Gospel Oak services from Tuesday 10 until Friday 13 December: The 0648 train from Barking Riverside will start from Barking at 0654
 DTEND:20241213T065500Z
 DTSTART:20241213T063000Z
 SUMMARY:Suffragette line: Reduced Service
-UID:56ba603a-1f91-4b83-8007-d8bfeba676d7@56ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-31T06:00:00&endDate=2024-12-31T07:15:00">Disruption map.</a>\n\nChanges to Barking Riverside to Gospel Oak services on Tuesday 31 December: The 0618 train from Barking Riverside will start from Barking at 0624\, and the 0639 train from Gospel Oak will start from Barking at 0712
-DTEND:20241231T071500Z
-DTSTART:20241231T060000Z
-SUMMARY:Suffragette line: Reduced Service
-UID:71e52213-68ea-4c22-a10b-6c42c2d5c33e@71e5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-20T06:00:00&endDate=2024-12-20T06:25:00">Disruption map.</a>\n\nChanges to Barking Riverside to Gospel Oak services from Tuesday 17 to Friday 20 December: The 0618 train from Barking Riverside will start from Barking at 0624
-DTEND:20241220T062500Z
-DTSTART:20241220T060000Z
-SUMMARY:Suffragette line: Reduced Service
-UID:b873cd99-525e-459d-8790-61a50d75e54b@b873.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-02T17:02:47&endDate=2024-12-03T01:29:00">Disruption map.</a>\n\nNo service between South Tottenham and Gospel Oak while Network Rail deal with a signalling issue at Crouch Hill\, SEVERE DELAYS between South Tottenham and Barking Riverside. GOOD SERVICE on all other London Overground routes. Tickets are being accepted on London Buses and London Underground services via reasonable routes. 
-DTEND:20241203T012900Z
-DTSTART:20241202T170247Z
-SUMMARY:Suffragette line: Severe Delays
-UID:8586390a-da91-4fe3-9178-d91fd1704924@8586.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-08T04:30:00&endDate=2024-12-09T01:29:00">Disruption map.</a>\n\nLONDON OVERGROUND: Sunday 8 December\, no service between Barking and Barking Riverside. Please use London Buses routes EL1 EL2 and EL3 instead
-DTEND:20241209T012900Z
-DTSTART:20241208T043000Z
-SUMMARY:Suffragette line: Part Closure
-UID:f7bfce33-9364-44e9-b483-51550d9c4f46@f7bf.org
+UID:00c131da-d370-4422-b41e-caf88bfdc480@00c1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-02T05:30:00&endDate=2025-01-02T06:30:00">Disruption map.</a>\n\nChanges to Barking Riverside to Gospel Oak services on Thursday 2 and Friday 3 January: Trains at 0548 from Barking Riverside to Gospel Oak and 0624 from Gospel Oak to Barking Riverside will not run.
 DTEND:20250102T063000Z
 DTSTART:20250102T053000Z
 SUMMARY:Suffragette line: Reduced Service
-UID:7041bfa1-fc68-4a16-b7f5-38cd13e23e2b@7041.org
+UID:ee2bf8f4-c7c1-4a11-93fd-a3eb9fd26275@ee2b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-03T05:30:00&endDate=2025-01-03T06:30:00">Disruption map.</a>\n\nChanges to Barking Riverside to Gospel Oak services on Thursday 2 and Friday 3 January: Trains at 0548 from Barking Riverside to Gospel Oak and 0624 from Gospel Oak to Barking Riverside will not run.
+DTEND:20250103T063000Z
+DTSTART:20250103T053000Z
+SUMMARY:Suffragette line: Reduced Service
+UID:292dd1c3-9b5d-469d-b7ae-bc03ea88638d@292d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-19T06:00:00&endDate=2024-12-19T06:25:00">Disruption map.</a>\n\nChanges to Barking Riverside to Gospel Oak services from Tuesday 17 to Friday 20 December: The 0618 train from Barking Riverside will start from Barking at 0624
+DTEND:20241219T062500Z
+DTSTART:20241219T060000Z
+SUMMARY:Suffragette line: Reduced Service
+UID:2eaffd98-c925-4702-8261-5f29dcd49631@2eaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-18T06:00:00&endDate=2024-12-18T06:25:00">Disruption map.</a>\n\nChanges to Barking Riverside to Gospel Oak services from Tuesday 17 to Friday 20 December: The 0618 train from Barking Riverside will start from Barking at 0624
+DTEND:20241218T062500Z
+DTSTART:20241218T060000Z
+SUMMARY:Suffragette line: Reduced Service
+UID:faffa639-7fc3-4a86-8383-8fe6bd753364@faff.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nLONDON OVERGROUND: Christmas Day\, 25 December\, no service on any line.
 DTEND:20241226T012900Z
 DTSTART:20241225T043000Z
 SUMMARY:Suffragette line: Planned Closure
-UID:e94548e5-0d35-4ac7-bb52-b81469c9f8cc@e945.org
+UID:eecdb51e-35cd-459d-8376-0bd74f6b15ef@eecd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-11T06:30:00&endDate=2024-12-11T06:55:00">Disruption map.</a>\n\nChanges to Barking Riverside to Gospel Oak services from Tuesday 10 until Friday 13 December: The 0648 train from Barking Riverside will start from Barking at 0654
-DTEND:20241211T065500Z
-DTSTART:20241211T063000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-31T06:00:00&endDate=2024-12-31T07:15:00">Disruption map.</a>\n\nChanges to Barking Riverside to Gospel Oak services on Tuesday 31 December: The 0618 train from Barking Riverside will start from Barking at 0624\, and the 0639 train from Gospel Oak will start from Barking at 0712
+DTEND:20241231T071500Z
+DTSTART:20241231T060000Z
 SUMMARY:Suffragette line: Reduced Service
-UID:ff252e5e-bda4-4a94-a514-ada418e82057@ff25.org
+UID:3c84b44f-1c32-4af1-ab2d-81c670d57573@3c84.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-08T04:30:00&endDate=2024-12-09T01:29:00">Disruption map.</a>\n\nLONDON OVERGROUND: Sunday 8 December\, no service between Barking and Barking Riverside. Please use London Buses routes EL1 EL2 and EL3 instead
+DTEND:20241209T012900Z
+DTSTART:20241208T043000Z
+SUMMARY:Suffragette line: Part Closure
+UID:f6715e6b-5a1f-4aad-af61-cde8c3b63709@f671.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-13T23:00:00&endDate=2024-12-13T23:45:00">Disruption map.</a>\n\nChanges to Barking Riverside to Gospel Oak services on Friday 13 December: The 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338
+DTEND:20241213T234500Z
+DTSTART:20241213T230000Z
+SUMMARY:Suffragette line: Reduced Service
+UID:54b213e5-cfca-4a80-8dab-8395fb8ff5ea@54b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-20T06:00:00&endDate=2024-12-20T06:25:00">Disruption map.</a>\n\nChanges to Barking Riverside to Gospel Oak services from Tuesday 17 to Friday 20 December: The 0618 train from Barking Riverside will start from Barking at 0624
+DTEND:20241220T062500Z
+DTSTART:20241220T060000Z
+SUMMARY:Suffragette line: Reduced Service
+UID:6a29fa32-1393-434e-89c4-d897b3d66dd3@6a29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-09T06:00:00&endDate=2024-12-09T06:25:00">Disruption map.</a>\n\nChanges to Barking Riverside to Gospel Oak services on Monday 9 December: The 0618 train from Barking Riverside will start from Barking at 0624
+DTEND:20241209T062500Z
+DTSTART:20241209T060000Z
+SUMMARY:Suffragette line: Reduced Service
+UID:bf62c1d7-3162-4a4c-a720-327cc88efbd6@bf62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-10T06:30:00&endDate=2024-12-10T06:55:00">Disruption map.</a>\n\nChanges to Barking Riverside to Gospel Oak services from Tuesday 10 until Friday 13 December: The 0648 train from Barking Riverside will start from Barking at 0654
+DTEND:20241210T065500Z
+DTSTART:20241210T063000Z
+SUMMARY:Suffragette line: Reduced Service
+UID:c77d0347-cfe0-4354-85b9-a0ac89806be9@c77d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-12T06:30:00&endDate=2024-12-12T06:55:00">Disruption map.</a>\n\nChanges to Barking Riverside to Gospel Oak services from Tuesday 10 until Friday 13 December: The 0648 train from Barking Riverside will start from Barking at 0654
+DTEND:20241212T065500Z
+DTSTART:20241212T063000Z
+SUMMARY:Suffragette line: Reduced Service
+UID:28bdd133-891b-41f3-b329-0f788600d2df@28bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-27T23:00:00&endDate=2024-12-27T23:45:00">Disruption map.</a>\n\nChanges to Barking Riverside to Gospel Oak services on Friday 27 December: The 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338
+DTEND:20241227T234500Z
+DTSTART:20241227T230000Z
+SUMMARY:Suffragette line: Reduced Service
+UID:1bd917d7-ec58-4d54-8b1a-359b705f8d5c@1bd9.org
 END:VEVENT
 END:VCALENDAR
