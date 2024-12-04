@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Jubilee disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service will operate on any line.
-DTEND:20241226T012900Z
-DTSTART:20241225T043000Z
-SUMMARY:Jubilee: Planned Closure
-UID:db02b0d4-1896-4d62-a756-4306ad3f8ab8@db02.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-04T07:31:07&endDate=2024-12-05T01:29:00">Disruption map.</a>\n\nJubilee Line: Minor delays while we fix faulty tunnel ventilation. 
 DTEND:20241205T012900Z
 DTSTART:20241204T073107Z
 SUMMARY:Jubilee: Minor Delays
-UID:b0b3e2f7-e015-4f50-9c9b-6a4abbd69ab7@b0b3.org
+UID:bb319407-29a3-40ed-8da5-3f0c73c3192f@bb31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service will operate on any line.
+DTEND:20241226T012900Z
+DTSTART:20241225T043000Z
+SUMMARY:Jubilee: Planned Closure
+UID:595362e2-4fe2-4fae-8004-86e8d1262345@5953.org
 END:VEVENT
 END:VCALENDAR
