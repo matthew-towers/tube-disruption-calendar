@@ -1,16 +1,16 @@
 # Tube disruption calendar
 
-A Python script that uses the TFL API  to produce an `ics` calendar of planned disruption on specified tube or Overground lines, suitable for importing into Google Calendar or similar.
+A Python script that uses the TFL API  to produce an `ics` calendar of planned disruption on specified tube or Overground lines, suitable for importing into Google Calendar or similar. According to [this Medium post from 2016](https://medium.com/@ed.sparkes/a-tube-planned-works-calendar-91c7a483c3c4) there used to be a similar service available at [tubecal.uk](http://tubecal.uk/) but it is gone now.
 
-According to [this Medium post from 2016](https://medium.com/@ed.sparkes/a-tube-planned-works-calendar-91c7a483c3c4) there used to be a similar service available at [tubecal.uk](http://tubecal.uk/) but it is gone now.
+Calendar events include a link to the TFL disruption map for their date and time so that you can see the affected area on the tube map -- usually they just list the start and end station of the affected area, so this lets you see all affected stations.
 
-Unless you know the lines well, it can be difficult to figure out which stations are affected by a disruption given only the start and end point. For that reason calendar events include a link to the TFL disruption map for their date and time where you can see the affected area on the tube map.
+## Instructions
 
-The last six lines in the table below are the new London Overground lines.
+I have made these available as shared Google Calendars.  Either click the Google Calendar link and add it to your calendar, or right-click/long press the ics file link, copy it, and import it into your calendar app of choice. You'll want to set the colour of the calendar to the official TFL colour for the line, so I've provided the hex codes. The calendars go 60 days into the future and are updated daily.
 
-I have made these available as shared Google Calendars.  You'll want to set the colour of the calendar to the official TFL colour for the line, so I've provided the hex codes. The calendars go 60 days into the future and are updated daily.
+## Calendars
 
-| Line | Google Calendar link | ics file link | Colour |
+| Tube Line | Google Calendar link | ics file link | Colour |
 |------|----------------------|---------------|--------|
 |Bakerloo | [link](https://calendar.google.com/calendar/embed?src=gnt5g8brdnc7l9freu5r5vmclgededj1%40import.calendar.google.com&ctz=Europe%2FLondon) | [link](https://calendar.google.com/calendar/ical/gnt5g8brdnc7l9freu5r5vmclgededj1%40import.calendar.google.com/public/basic.ics) |<span style="background-color:#B36305;color:#FFFFFF">#B36305</span>|
 |Central | [link](https://calendar.google.com/calendar/embed?src=o9r9dt6m652nqr692h8s63h26u0l2ed3%40import.calendar.google.com&ctz=Europe%2FLondon) | [link](https://calendar.google.com/calendar/ical/o9r9dt6m652nqr692h8s63h26u0l2ed3%40import.calendar.google.com/public/basic.ics) | <span style="background-color:#E32017;color:#FFFFFF">#E32017</span>|
@@ -24,6 +24,7 @@ I have made these available as shared Google Calendars.  You'll want to set the 
 |Piccadilly | [link](https://calendar.google.com/calendar/embed?src=sgcsqljtasaf8e9qcmr7d0d8isk5mhem%40import.calendar.google.com&ctz=Europe%2FLondon) | [link](https://calendar.google.com/calendar/ical/sgcsqljtasaf8e9qcmr7d0d8isk5mhem%40import.calendar.google.com/public/basic.ics) | <span style="background-color:#003688;color:#FFFFFF">#003688</span>|
 |Victoria | [link](https://calendar.google.com/calendar/embed?src=mp5aaggh5ec57bks9q3bcgv860l9i54i%40import.calendar.google.com&ctz=Europe%2FLondon) | [link](https://calendar.google.com/calendar/ical/mp5aaggh5ec57bks9q3bcgv860l9i54i%40import.calendar.google.com/public/basic.ics) | <span style="background-color:#0098D4;color:#FFFFFF">#0098D4</span>|
 |Waterloo & City | [link](https://calendar.google.com/calendar/embed?src=c2g9vtp4l001ojqc472om3vnini4f91i%40import.calendar.google.com&ctz=Europe%2FLondon) | [link](https://calendar.google.com/calendar/ical/c2g9vtp4l001ojqc472om3vnini4f91i%40import.calendar.google.com/public/basic.ics) | <span style="background-color:#95CDBA;color:#000000">#95CDBA</span>|
+| **DLR and Overground** |  |  |  |
 |DLR | [link](https://calendar.google.com/calendar/embed?src=6dqrlv848s6rgitrucnp93k672u4cg89%40import.calendar.google.com&ctz=Europe%2FLondon) | [link](https://calendar.google.com/calendar/ical/6dqrlv848s6rgitrucnp93k672u4cg89%40import.calendar.google.com/public/basic.ics) | <span style="background-color:#00A4A7;color:#FFFFFF">#00A4A7</span>|
 |Liberty line | [link](https://calendar.google.com/calendar/embed?src=ki9qh757nlj6s2t6rcd8h1o46j4tr90d%40import.calendar.google.com&ctz=Europe%2FLondon) | [link](https://calendar.google.com/calendar/ical/ki9qh757nlj6s2t6rcd8h1o46j4tr90d%40import.calendar.google.com/public/basic.ics) | <span style="background-color:#5F696F;color:#FFFFFF">#5F696F</span>|
 |Lioness line | [link](https://calendar.google.com/calendar/embed?src=lmj6qdm9h4ajfijpij7pqku470nei45i%40import.calendar.google.com&ctz=Europe%2FLondon) | [link](https://calendar.google.com/calendar/ical/lmj6qdm9h4ajfijpij7pqku470nei45i%40import.calendar.google.com/public/basic.ics) | <span style="background-color:#FDB931;color:#000000">#FDB931</span>|
