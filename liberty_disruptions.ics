@@ -3,17 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Liberty line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nLONDON OVERGROUND: Christmas Day\, 25 December\, no service on any line.
-DTEND:20241226T012900Z
-DTSTART:20241225T043000Z
-SUMMARY:Liberty line: Planned Closure
-UID:39fa44f4-a851-427d-8fe1-96e395c3f9c0@39fa.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-26T04:30:00&endDate=2024-12-27T01:29:00">Disruption map.</a>\n\nLONDON OVERGROUND: Boxing Day\, 26 December\, no service between Romford and Upminster. Use local London Buses services.
 DTEND:20241227T012900Z
 DTSTART:20241226T043000Z
 SUMMARY:Liberty line: Part Closure
-UID:f0125f4e-11a5-4a91-a476-71e4008eb44b@f012.org
+UID:ac06c7cd-2b66-4f02-90ff-93eef9cdc910@ac06.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-08T09:11:40&endDate=2024-12-08T13:12:35">Disruption map.</a>\n\nLIBERTY LINE: No service between Romford and Upminster due to a tree on the track near Emerson Park. MILDMAY LINE: No service between Kensington (Olympia) and Clapham Junction due to planned engineering work. SUFFRAGETTE LINE: No service between Barking and Barking Riverside due to planned engineering work. WEAVER LINE: No service between Liverpool Street and Enfield Town / Cheshunt / Chingford until 10:15 due to planned engineering work. GOOD SERVICE on other London Overground lines.
+DTEND:20241208T131235Z
+DTSTART:20241208T091140Z
+SUMMARY:Liberty line: Part Suspended
+UID:5fa6f661-e95e-473f-8d92-d16d9e5b9493@5fa6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nLONDON OVERGROUND: Christmas Day\, 25 December\, no service on any line.
+DTEND:20241226T012900Z
+DTSTART:20241225T043000Z
+SUMMARY:Liberty line: Planned Closure
+UID:e8da6d02-561d-4034-8b59-da0ae214e2e2@e8da.org
 END:VEVENT
 END:VCALENDAR
