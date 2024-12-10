@@ -31,12 +31,12 @@ except:
     sys.exit(0)
 
 latest_commit_date = repo.head.commit.authored_datetime
-tz = dt.datetime.now(dt.timezone.utc).astimezone().tzinfo
-current_date = dt.datetime.now(tz)
+local_tz = dt.datetime.now(dt.timezone.utc).astimezone().tzinfo
+current_date = dt.datetime.now(local_tz)
 if current_date - latest_commit_date > dt.timedelta(hours=12):
     disruption_calendar.make_all_calendars()
 else:
-    os.system("notify-send 'Tube disruption calendar' 'Too recent to update'")
+    os.system("notify-send 'Tube disruption calendar' 'Not updating, too recent'")
     sys.exit(0)
 
 repo.git.add(all=True)
