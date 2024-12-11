@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Northern disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-11T06:45:58&endDate=2024-12-12T01:29:00">Disruption map.</a>\n\nNorthern Line: Minor delays due to a shortage of trains. 
+DTEND:20241212T012900Z
+DTSTART:20241211T064558Z
+SUMMARY:Northern: Minor Delays
+UID:68f06840-6717-40be-9c24-3df62a737176@68f0.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service will operate on any line.
 DTEND:20241226T012900Z
 DTSTART:20241225T043000Z
 SUMMARY:Northern: Planned Closure
-UID:53fd8b85-9f2a-4576-99e8-9681858fb8db@53fd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-10T05:50:58&endDate=2024-12-11T01:29:00">Disruption map.</a>\n\nNorthern Line: Minor delays Camden Town to High Barnet/Mill Hill East\, due to emergency engineering work earlier at Highgate Depot. GOOD SERVICE on the rest of the line. 
-DTEND:20241211T012900Z
-DTSTART:20241210T055058Z
-SUMMARY:Northern: Minor Delays
-UID:9633dd16-6510-4382-b387-3b6b2ee88ef7@9633.org
+UID:017ab7a3-8c3d-46d4-9c3e-9baf94e8b4c2@017a.org
 END:VEVENT
 END:VCALENDAR
