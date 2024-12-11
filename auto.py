@@ -12,7 +12,6 @@ import datetime as dt
 #
 # gitpython docs: https://gitpython.readthedocs.io/en/stable/index.html
 
-this_file = __file__
 this_dir = pathlib.Path(__file__).parent.resolve()
 os.chdir(this_dir)
 
