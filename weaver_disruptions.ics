@@ -3,31 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Weaver line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nLONDON OVERGROUND: Christmas Day\, 25 December\, no service on any line.
-DTEND:20241226T012900Z
-DTSTART:20241225T043000Z
-SUMMARY:Weaver line: Planned Closure
-UID:93bc7a94-1f33-4774-9358-1d388e952823@93bc.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-26T04:30:00&endDate=2024-12-27T01:29:00">Disruption map.</a>\n\nWEAVER LINE: Boxing Day\, 26 December\, no service between Liverpool Street and Cheshunt / Chingford / Enfield Town. Use local London Buses and London Underground services.
 DTEND:20241227T012900Z
 DTSTART:20241226T043000Z
 SUMMARY:Weaver line: Part Closure
-UID:00f3676f-b881-460d-87b8-39a70ce37927@00f3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-27T04:30:00&endDate=2025-01-02T01:29:00">Disruption map.</a>\n\nWEAVER LINE: Friday 27\, Saturday 28\, Sunday 29\, Monday 30\, Tuesday 31 December and New Years Day\, 1 January\, a reduced service operates between London Fields and Cheshunt / Chingford / Enfield Town. Chingford trains operate every 30 minutes\, and trains to Cheshunt / Enfield Town each operate every hour\, including an overnight service on New Years Eve. In addition\, there will be extra trains between Seven Sisters and Enfield Town on Friday 27\, Monday 30 and Tuesday 31 December only. GREATER ANGLIA and STANSTED EXPRESS trains will not call at Hackney Downs and Seven Sisters.
-DTEND:20250102T012900Z
-DTSTART:20241227T043000Z
-SUMMARY:Weaver line: Reduced Service
-UID:329b8e89-7e47-4e4c-b123-e5e7af928716@329b.org
+UID:9489dcd9-028f-4408-be35-a08a8dd053e0@9489.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-27T04:30:00&endDate=2025-01-02T01:29:00">Disruption map.</a>\n\nWEAVER LINE: Friday 27\, Saturday 28\, Sunday 29\, Monday 30\, Tuesday 31 December and New Years Day\, 1 January\, no service between Liverpool Street and London Fields. Use London Underground Victoria line between Central London and Seven Sisters / Walthamstow Central and London Buses connections.
 DTEND:20250102T012900Z
 DTSTART:20241227T043000Z
 SUMMARY:Weaver line: Part Closure
-UID:276d69ba-ae76-4dce-92e9-65f85e0d6386@276d.org
+UID:241bff4a-769d-41e6-b575-b9e945a94d2b@241b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nLONDON OVERGROUND: Christmas Day\, 25 December\, no service on any line.
+DTEND:20241226T012900Z
+DTSTART:20241225T043000Z
+SUMMARY:Weaver line: Planned Closure
+UID:6c5798a1-bb4d-4cf4-a3b2-2260bef02417@6c57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-27T04:30:00&endDate=2025-01-02T01:29:00">Disruption map.</a>\n\nWEAVER LINE: Friday 27\, Saturday 28\, Sunday 29\, Monday 30\, Tuesday 31 December and New Years Day\, 1 January\, a reduced service operates between London Fields and Cheshunt / Chingford / Enfield Town. Chingford trains operate every 30 minutes\, and trains to Cheshunt / Enfield Town each operate every hour\, including an overnight service on New Years Eve. In addition\, there will be extra trains between Seven Sisters and Enfield Town on Friday 27\, Monday 30 and Tuesday 31 December only. GREATER ANGLIA and STANSTED EXPRESS trains will not call at Hackney Downs and Seven Sisters.
+DTEND:20250102T012900Z
+DTSTART:20241227T043000Z
+SUMMARY:Weaver line: Reduced Service
+UID:413d3372-ceeb-4df1-bfe7-ec2eb9c6fc23@413d.org
 END:VEVENT
 END:VCALENDAR

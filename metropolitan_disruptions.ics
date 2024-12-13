@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service will operate on any line.
-DTEND:20241226T012900Z
-DTSTART:20241225T043000Z
-SUMMARY:Metropolitan: Planned Closure
-UID:55cfd3a5-2d4e-4974-8534-056e2d66a8fd@55cf.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-01T02:00:00&endDate=2025-01-01T11:00:00">Disruption map.</a>\n\nMETROPOLITAN LINE: New Years Day\, 1 January\, between 0200 and 1100\, no service between Baker Street and Aldgate. Please use Circle and Hammersmith & City line services.
 DTEND:20250101T110000Z
 DTSTART:20250101T020000Z
 SUMMARY:Metropolitan: Part Closure
-UID:d6e46f1b-be52-461e-87ff-b739b9c2457b@d6e4.org
+UID:51ac9deb-7dfe-445e-8ae5-6b382b4e3785@51ac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service will operate on any line.
+DTEND:20241226T012900Z
+DTSTART:20241225T043000Z
+SUMMARY:Metropolitan: Planned Closure
+UID:dd735937-0de5-4e19-9c87-2075e3064da3@dd73.org
 END:VEVENT
 END:VCALENDAR
