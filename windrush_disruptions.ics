@@ -3,38 +3,38 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Windrush line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-14T01:00:00&endDate=2024-12-16T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Saturday 14 and Sunday 15 December (including Friday and Saturday Night Overground)\, no service between Highbury & Islington and New Cross Gate / New Cross / Clapham Junction / Battersea Park. Use alternative MILDMAY LINE services between Highbury & Islington\, Canonbury and Dalston Kingsland. Replacement buses operate during the day. During night hours\, please use local London Buses and London Underground stations.
-DTEND:20241216T012900Z
-DTSTART:20241214T010000Z
-SUMMARY:Windrush line: Part Closure
-UID:dd78b16b-1f30-40e7-b077-1570139b031d@dd78.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-26T04:30:00&endDate=2024-12-27T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Boxing Day\, 26 December\, no service between Surrey Quays and New Cross / Clapham Junction / Battersea Park\, or between Sydenham and Crystal Palace. Please use local London Buses services.
 DTEND:20241227T012900Z
 DTSTART:20241226T043000Z
 SUMMARY:Windrush line: Part Closure
-UID:74c7b647-2a94-439f-9826-7403df0564eb@74c7.org
+UID:2fd39bfe-1d7a-43cf-b471-223af3485a4b@2fd3.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nLONDON OVERGROUND: Christmas Day\, 25 December\, no service on any line.
-DTEND:20241226T012900Z
-DTSTART:20241225T043000Z
-SUMMARY:Windrush line: Planned Closure
-UID:fdb9e523-6859-4b93-83b8-aea629ebcd0c@fdb9.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-14T01:00:00&endDate=2024-12-16T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Saturday 14 and Sunday 15 December (including Friday and Saturday Night Overground)\, no service between Highbury & Islington and New Cross Gate / New Cross / Clapham Junction / Battersea Park. Use alternative MILDMAY LINE services between Highbury & Islington\, Canonbury and Dalston Kingsland. Replacement buses operate during the day. During night hours\, please use local London Buses and London Underground stations.
+DTEND:20241216T012900Z
+DTSTART:20241214T010000Z
+SUMMARY:Windrush line: Part Closure
+UID:65973fcb-fe40-4163-8351-0559992733f5@6597.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-05T04:30:00&endDate=2025-01-06T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 5 January\, no service between New Cross Gate and West Croydon / Crystal Palace. Replacement buses operate between New Cross Gate and Crystal Palace via Brockley\, Honor Oak Park\, Forest Hill and Sydenham. Connecting trains operate between Crystal Palace and West Croydon via Norwood Junction. Use local London Buses services for Penge West and Anerley.
 DTEND:20250106T012900Z
 DTSTART:20250105T043000Z
 SUMMARY:Windrush line: Part Closure
-UID:5190e91b-e758-45a3-a471-a6c50eb55adb@5190.org
+UID:94b91ac8-6bc3-4398-996d-d3f1c9ab27a0@94b9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-31T22:00:00&endDate=2025-01-01T07:00:00">Disruption map.</a>\n\nWINDRUSH LINE: A special New Years Eve service operates between Highbury & Islington and West Croydon / Crystal Palace throughout the night.
 DTEND:20250101T070000Z
 DTSTART:20241231T220000Z
 SUMMARY:Windrush line: Special Service
-UID:24b8134f-48dc-4813-a5b8-048ccaff999d@24b8.org
+UID:60bca271-8101-4408-8dfc-d146b27693ab@60bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nLONDON OVERGROUND: Christmas Day\, 25 December\, no service on any line.
+DTEND:20241226T012900Z
+DTSTART:20241225T043000Z
+SUMMARY:Windrush line: Planned Closure
+UID:2a32948d-f928-49a6-bb2d-f58233a3d4c2@2a32.org
 END:VEVENT
 END:VCALENDAR
