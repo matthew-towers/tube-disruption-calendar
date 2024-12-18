@@ -3,24 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service will operate on any line.
-DTEND:20241226T012900Z
-DTSTART:20241225T043000Z
-SUMMARY:Metropolitan: Planned Closure
-UID:cd89cfdc-f1b8-4d2c-a748-9c09b4128b33@cd89.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-17T11:05:46&endDate=2024-12-18T01:29:00">Disruption map.</a>\n\nMetropolitan Line: Minor delays due to an earlier faulty train at Farringdon.\r\n 
-DTEND:20241218T012900Z
-DTSTART:20241217T110546Z
-SUMMARY:Metropolitan: Minor Delays
-UID:e9d126d9-6ce4-44b8-8ae1-ca538514f49d@e9d1.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-01T02:00:00&endDate=2025-01-01T11:00:00">Disruption map.</a>\n\nMETROPOLITAN LINE: New Years Day\, 1 January\, between 0200 and 1100\, no service between Baker Street and Aldgate. Please use Circle and Hammersmith & City line services.
 DTEND:20250101T110000Z
 DTSTART:20250101T020000Z
 SUMMARY:Metropolitan: Part Closure
-UID:bcdc0aee-eab4-45c8-b574-22f12b8dfcac@bcdc.org
+UID:7012d7ec-0fb8-4497-9eee-4d3e7c9d429b@7012.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service will operate on any line.
+DTEND:20241226T012900Z
+DTSTART:20241225T043000Z
+SUMMARY:Metropolitan: Planned Closure
+UID:7870bcc7-9fc9-47a3-90d8-78fb8ac8ff83@7870.org
 END:VEVENT
 END:VCALENDAR

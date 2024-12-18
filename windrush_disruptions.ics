@@ -3,31 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Windrush line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-31T22:00:00&endDate=2025-01-01T07:00:00">Disruption map.</a>\n\nWINDRUSH LINE: A special New Years Eve service operates between Highbury & Islington and West Croydon / Crystal Palace throughout the night.
-DTEND:20250101T070000Z
-DTSTART:20241231T220000Z
-SUMMARY:Windrush line: Special Service
-UID:23c172b2-655b-4ae0-8dcb-af598d454f29@23c1.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nLONDON OVERGROUND: Christmas Day\, 25 December\, no service on any line.
 DTEND:20241226T012900Z
 DTSTART:20241225T043000Z
 SUMMARY:Windrush line: Planned Closure
-UID:ad83328e-9b0e-417e-944e-70f9a68f15c1@ad83.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-26T04:30:00&endDate=2024-12-27T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Boxing Day\, 26 December\, no service between Surrey Quays and New Cross / Clapham Junction / Battersea Park\, or between Sydenham and Crystal Palace. Please use local London Buses services.
-DTEND:20241227T012900Z
-DTSTART:20241226T043000Z
-SUMMARY:Windrush line: Part Closure
-UID:6128de7b-b86a-43b7-a6fe-e21097f1db5f@6128.org
+UID:51742cc0-f1ef-4bf4-88cd-94f20fddc00f@5174.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-05T04:30:00&endDate=2025-01-06T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 5 January\, no service between New Cross Gate and West Croydon / Crystal Palace. Replacement buses operate between New Cross Gate and Crystal Palace via Brockley\, Honor Oak Park\, Forest Hill and Sydenham. Connecting trains operate between Crystal Palace and West Croydon via Norwood Junction. Use local London Buses services for Penge West and Anerley.
 DTEND:20250106T012900Z
 DTSTART:20250105T043000Z
 SUMMARY:Windrush line: Part Closure
-UID:70f1ab44-efde-41b6-b528-1cbd135a72c3@70f1.org
+UID:a5692087-809a-453a-913b-58262cb96043@a569.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-31T22:00:00&endDate=2025-01-01T07:00:00">Disruption map.</a>\n\nWINDRUSH LINE: A special New Years Eve service operates between Highbury & Islington and West Croydon / Crystal Palace throughout the night.
+DTEND:20250101T070000Z
+DTSTART:20241231T220000Z
+SUMMARY:Windrush line: Special Service
+UID:4542630a-d0a6-43b7-8f19-3fce36202746@4542.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-26T04:30:00&endDate=2024-12-27T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Boxing Day\, 26 December\, no service between Surrey Quays and New Cross / Clapham Junction / Battersea Park\, or between Sydenham and Crystal Palace. Please use local London Buses services.
+DTEND:20241227T012900Z
+DTSTART:20241226T043000Z
+SUMMARY:Windrush line: Part Closure
+UID:63ffca05-7879-4b9c-b06d-ac04f33675de@63ff.org
 END:VEVENT
 END:VCALENDAR
