@@ -3,31 +3,38 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-19T08:36:06&endDate=2024-12-19T12:20:45">Disruption map.</a>\n\nDocklands Light Railway: No service between Poplar and Canning Town while we fix a signal failure at Blackwall. GOOD SERVICE on all other routes. 
+DTEND:20241219T122045Z
+DTSTART:20241219T083606Z
+SUMMARY:DLR: Part Suspended
+UID:763dd2cc-e73d-40e5-927d-62acf9232530@763d.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-26T04:30:00&endDate=2024-12-31T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 21 until Monday 30 December\, no service between Shadwell and Bank.
 DTEND:20241231T012900Z
 DTSTART:20241226T043000Z
 SUMMARY:DLR: Part Closure
-UID:bd7ce90a-0e00-43eb-9e53-834ad05dcb97@bd7c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-21T04:30:00&endDate=2024-12-25T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 21 until Monday 30 December\, no service between Shadwell and Bank.
-DTEND:20241225T012900Z
-DTSTART:20241221T043000Z
-SUMMARY:DLR: Part Closure
-UID:3b6530bb-de0a-43eb-80d3-41d76dffa7e0@3b65.org
+UID:bf38f2fa-9c08-4dac-aea8-b4f2d1bff95a@bf38.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Christmas Day\, 25 December\, no service will operate.
 DTEND:20241226T012900Z
 DTSTART:20241225T043000Z
 SUMMARY:DLR: Planned Closure
-UID:308114a0-8124-4d15-b32e-f4e5d03d9cd1@3081.org
+UID:c2fda0c3-ff17-47de-839e-2305a2167e94@c2fd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-21T04:30:00&endDate=2024-12-23T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 21\, Sunday 22 and Monday 23 December\, no service between Prince Regent and Beckton. Replacement buses operate.
 DTEND:20241223T012900Z
 DTSTART:20241221T043000Z
 SUMMARY:DLR: Part Closure
-UID:c0ca003b-0dff-4b26-9449-f24cb014d99d@c0ca.org
+UID:2b592f41-9a33-4f09-99d7-dc2120d20405@2b59.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-21T04:30:00&endDate=2024-12-25T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 21 until Monday 30 December\, no service between Shadwell and Bank.
+DTEND:20241225T012900Z
+DTSTART:20241221T043000Z
+SUMMARY:DLR: Part Closure
+UID:c07b20bd-2fef-4673-b23e-e5edc147723f@c07b.org
 END:VEVENT
 END:VCALENDAR
