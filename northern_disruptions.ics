@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Northern disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-23T16:52:38&endDate=2024-12-24T01:29:00">Disruption map.</a>\n\nNorthern Line: Minor delays due to an earlier fire alert at Hampstead. 
+DTEND:20241224T012900Z
+DTSTART:20241223T165238Z
+SUMMARY:Northern: Minor Delays
+UID:060aac75-04b8-4cef-a892-e5c645b8571e@060a.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service will operate on any line.
 DTEND:20241226T012900Z
 DTSTART:20241225T043000Z
 SUMMARY:Northern: Planned Closure
-UID:25dac4b2-ce40-40e9-b920-4dbc6b9572db@25da.org
+UID:daafaaf5-de71-4271-9f99-b597c943fa6c@daaf.org
 END:VEVENT
 END:VCALENDAR
