@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T01:58:41&endDate=2024-12-25T13:01:37">Disruption map.</a>\n\nDocklands Light Railway: Service will resume Thursday morning. 
-DTEND:20241225T130137Z
-DTSTART:20241225T015841Z
-SUMMARY:DLR: Service Closed
-UID:9e37d6b8-9115-4d15-8050-d86ef88adff0@9e37.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Christmas Day\, 25 December\, no service will operate.
 DTEND:20241226T012900Z
 DTSTART:20241225T043000Z
 SUMMARY:DLR: Planned Closure
-UID:7879d04a-6b55-4aa1-99a9-c3ba7a6cc3ab@7879.org
+UID:13dacb1e-fa0e-43bb-97f0-04144a5607a7@13da.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T01:58:41&endDate=2024-12-26T01:44:23">Disruption map.</a>\n\nDocklands Light Railway: Service will resume Thursday morning. 
+DTEND:20241226T014423Z
+DTSTART:20241225T015841Z
+SUMMARY:DLR: Service Closed
+UID:07fb55f2-bcac-4c86-8f82-a6ab588c7dc6@07fb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-26T04:30:00&endDate=2024-12-31T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 21 until Monday 30 December\, no service between Shadwell and Bank.
 DTEND:20241231T012900Z
 DTSTART:20241226T043000Z
 SUMMARY:DLR: Part Closure
-UID:652104ff-7db9-41b7-879f-636c3462bbeb@6521.org
+UID:db4ef3fb-12f2-4153-ae61-3dc38cdb2b4f@db4e.org
 END:VEVENT
 END:VCALENDAR

@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T01:58:57&endDate=2024-12-25T13:01:37">Disruption map.</a>\n\nMetropolitan Line: Service will resume Thursday morning. 
-DTEND:20241225T130137Z
-DTSTART:20241225T015857Z
-SUMMARY:Metropolitan: Service Closed
-UID:eeaba8d6-1a68-482c-ba58-17a7eb7a647b@eeab.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-01T02:00:00&endDate=2025-01-01T11:00:00">Disruption map.</a>\n\nMETROPOLITAN LINE: New Years Day\, 1 January\, between 0200 and 1100\, no service between Baker Street and Aldgate. Please use Circle and Hammersmith & City line services.
 DTEND:20250101T110000Z
 DTSTART:20250101T020000Z
 SUMMARY:Metropolitan: Part Closure
-UID:a43b9260-fa8d-4458-b400-a565ecc25cc4@a43b.org
+UID:f58dc793-9df9-4c42-b753-b759cf332599@f58d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T01:58:57&endDate=2024-12-26T01:44:23">Disruption map.</a>\n\nMetropolitan Line: Service will resume Thursday morning. 
+DTEND:20241226T014423Z
+DTSTART:20241225T015857Z
+SUMMARY:Metropolitan: Service Closed
+UID:d7ffabe0-29c4-4b6c-8d7c-8d7af495843c@d7ff.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service will operate on any line.
 DTEND:20241226T012900Z
 DTSTART:20241225T043000Z
 SUMMARY:Metropolitan: Planned Closure
-UID:95065031-69fb-4aaf-a2a4-bdfd48cfae9a@9506.org
+UID:779e7687-221a-43e3-ab10-9c478c7c1439@779e.org
 END:VEVENT
 END:VCALENDAR
