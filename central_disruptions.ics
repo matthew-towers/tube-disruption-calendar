@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T01:58:18&endDate=2024-12-25T13:01:37">Disruption map.</a>\n\nCentral Line: Service will resume Thursday morning. 
+DTEND:20241225T130137Z
+DTSTART:20241225T015818Z
+SUMMARY:Central: Service Closed
+UID:5de62252-0101-4739-a558-c10df7dd1f61@5de6.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service will operate on any line.
 DTEND:20241226T012900Z
 DTSTART:20241225T043000Z
 SUMMARY:Central: Planned Closure
-UID:30339448-9829-47a4-8cf5-fcdb7536d5f2@3033.org
+UID:891e6d98-2a63-4d2a-b790-ff97eaab146c@891e.org
 END:VEVENT
 END:VCALENDAR

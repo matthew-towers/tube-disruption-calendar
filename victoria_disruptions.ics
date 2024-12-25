@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Victoria disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T02:00:00&endDate=2024-12-25T13:01:37">Disruption map.</a>\n\nVictoria Line: Service will resume Thursday morning. 
+DTEND:20241225T130137Z
+DTSTART:20241225T020000Z
+SUMMARY:Victoria: Service Closed
+UID:f025806c-03b3-4723-b8b7-10aef7bd910f@f025.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service will operate on any line.
 DTEND:20241226T012900Z
 DTSTART:20241225T043000Z
 SUMMARY:Victoria: Planned Closure
-UID:fb88b1b9-3dd4-4522-826f-45b1dd0678d2@fb88.org
+UID:b1e59826-5d9e-4945-9aed-4ede73ab652a@b1e5.org
 END:VEVENT
 END:VCALENDAR

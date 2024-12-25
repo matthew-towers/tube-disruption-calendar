@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-26T04:30:00&endDate=2024-12-31T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 21 until Monday 30 December\, no service between Shadwell and Bank.
-DTEND:20241231T012900Z
-DTSTART:20241226T043000Z
-SUMMARY:DLR: Part Closure
-UID:09b37685-6552-4472-8d66-2e47ac643d69@09b3.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T01:58:41&endDate=2024-12-25T13:01:37">Disruption map.</a>\n\nDocklands Light Railway: Service will resume Thursday morning. 
+DTEND:20241225T130137Z
+DTSTART:20241225T015841Z
+SUMMARY:DLR: Service Closed
+UID:9e37d6b8-9115-4d15-8050-d86ef88adff0@9e37.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Christmas Day\, 25 December\, no service will operate.
 DTEND:20241226T012900Z
 DTSTART:20241225T043000Z
 SUMMARY:DLR: Planned Closure
-UID:9fdf6523-596e-4fb5-8a91-db844fcc8b26@9fdf.org
+UID:7879d04a-6b55-4aa1-99a9-c3ba7a6cc3ab@7879.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-21T04:30:00&endDate=2024-12-25T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 21 until Monday 30 December\, no service between Shadwell and Bank.
-DTEND:20241225T012900Z
-DTSTART:20241221T043000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-26T04:30:00&endDate=2024-12-31T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 21 until Monday 30 December\, no service between Shadwell and Bank.
+DTEND:20241231T012900Z
+DTSTART:20241226T043000Z
 SUMMARY:DLR: Part Closure
-UID:2f36c17f-ac4d-4eaa-8b30-96d8b2cee3c9@2f36.org
+UID:652104ff-7db9-41b7-879f-636c3462bbeb@6521.org
 END:VEVENT
 END:VCALENDAR

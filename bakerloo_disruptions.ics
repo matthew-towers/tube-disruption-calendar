@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Bakerloo disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T01:58:13&endDate=2024-12-25T13:01:37">Disruption map.</a>\n\nBakerloo Line: Service will resume Thursday morning. 
+DTEND:20241225T130137Z
+DTSTART:20241225T015813Z
+SUMMARY:Bakerloo: Service Closed
+UID:df7ba8f6-44e9-4915-a5dd-93f60c808974@df7b.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service will operate on any line.
 DTEND:20241226T012900Z
 DTSTART:20241225T043000Z
 SUMMARY:Bakerloo: Planned Closure
-UID:a1ca616c-af6f-42fc-b2e7-f2df286d0969@a1ca.org
+UID:c32c9ce8-0e28-43f1-b8ea-415b906e2a78@c32c.org
 END:VEVENT
 END:VCALENDAR
