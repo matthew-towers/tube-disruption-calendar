@@ -3,17 +3,10 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T04:30:00&endDate=2024-12-26T01:29:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service will operate on any line.
-DTEND:20241226T012900Z
-DTSTART:20241225T043000Z
-SUMMARY:Central: Planned Closure
-UID:11e34234-5554-483a-8941-612168cb42f4@11e3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-25T01:58:18&endDate=2024-12-26T01:44:23">Disruption map.</a>\n\nCentral Line: Service will resume Thursday morning. 
-DTEND:20241226T014423Z
-DTSTART:20241225T015818Z
-SUMMARY:Central: Service Closed
-UID:1a1dd038-ad0a-4aae-92af-758db48f9353@1a1d.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-26T08:51:57&endDate=2024-12-27T01:29:00">Disruption map.</a>\n\nCentral Line: Severe delays due to an earlier obstruction on the track at North Acton. Valid tickets are being accepted on London Buses. 
+DTEND:20241227T012900Z
+DTSTART:20241226T085157Z
+SUMMARY:Central: Severe Delays
+UID:8a991761-f9fb-4ad8-9540-3290c06be2d8@8a99.org
 END:VEVENT
 END:VCALENDAR
