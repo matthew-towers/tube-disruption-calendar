@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Jubilee disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2024-12-30T11:09:55&endDate=2024-12-31T01:29:00">Disruption map.</a>\n\nJubilee Line: Minor delays southbound due to a track fault at Green Park. GOOD SERVICE northbound. 
+DTEND:20241231T012900Z
+DTSTART:20241230T110955Z
+SUMMARY:Jubilee: Minor Delays
+UID:5f834817-bdd6-47a9-8c67-a3f158108145@5f83.org
+END:VEVENT
 END:VCALENDAR
