@@ -2,4 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Northern disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-01T17:04:21&endDate=2025-01-02T01:29:00">Disruption map.</a>\n\nNorthern Line: Severe delays between Kennington and Camden Town via Bank\, northbound only\, due to a signal failure at London Bridge. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses. 
+DTEND:20250102T012900Z
+DTSTART:20250101T170421Z
+SUMMARY:Northern: Severe Delays
+UID:aa450238-dd35-41b2-a8b5-915daf19ee22@aa45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-01T17:04:21&endDate=2025-01-02T01:29:00">Disruption map.</a>\n\nNorthern Line: Severe delays between Kennington and Camden Town via Bank\, northbound only\, due to a signal failure at London Bridge. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses. 
+DTEND:20250102T012900Z
+DTSTART:20250101T170421Z
+SUMMARY:Northern: Minor Delays
+UID:950807de-7478-44b1-81f2-4654d22d8f8d@9508.org
+END:VEVENT
 END:VCALENDAR
