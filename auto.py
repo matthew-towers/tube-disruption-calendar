@@ -45,6 +45,6 @@ print("pushing...")
 
 try:
     o.push()
-    os.system("notify-send 'calendars updated'")
+    os.system("notify-send 'Tube disruption calendar' 'calendars updated'")
 except:
-    os.system("notify-send 'Error pushing'")
+    os.system("notify-send 'Tube disruption calendar' 'Error pushing'")
