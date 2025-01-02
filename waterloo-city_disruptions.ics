@@ -2,18 +2,4 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Waterloo & City disruption
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-01T05:35:32&endDate=2025-01-01T23:10:19">Disruption map.</a>\n\nWaterloo and City Line: Service will resume 06:00 tomorrow. 
-DTEND:20250101T231019Z
-DTSTART:20250101T053532Z
-SUMMARY:Waterloo & City: Service Closed
-UID:0dc8b6c3-0fc7-4bf9-8aae-02920577e0c1@0dc8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-01T02:45:00&endDate=2025-01-01T23:59:00">Disruption map.</a>\n\nWaterloo & City line: Service operates Monday to Friday between 06:00 and 00:30 only. There is no service on Saturdays\, Sundays and on public/bank holidays.
-DTEND:20250101T235900Z
-DTSTART:20250101T024500Z
-SUMMARY:Waterloo & City: Planned Closure
-UID:73983296-720c-493b-97d2-4d58676f94a6@7398.org
-END:VEVENT
 END:VCALENDAR
