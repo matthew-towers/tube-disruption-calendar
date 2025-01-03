@@ -19,14 +19,14 @@ try:
     repo = git.Repo(this_dir)
     o = repo.remotes.origin
 except:
-    os.system("notify-send 'Tube disruption calendar' 'Error setting up repo'")
+    os.system("notify-send -a 'Tube disruption calendar' 'Error setting up repo'")
     sys.exit(0)
 
 print("pulling...")
 try:
     o.pull()
 except:
-    os.system("notify-send 'Tube disruption calendar' 'Error pulling'")
+    os.system("notify-send -a 'Tube disruption calendar' 'Error pulling'")
     sys.exit(0)
 
 latest_commit_date = repo.head.commit.authored_datetime
@@ -35,7 +35,7 @@ current_date = dt.datetime.now(local_tz)
 if current_date - latest_commit_date > dt.timedelta(hours=12):
     disruption_calendar.make_all_calendars()
 else:
-    os.system("notify-send 'Tube disruption calendar' 'Not updating, too recent'")
+    os.system("notify-send -a 'Tube disruption calendar' 'Not updating, too recent'")
     sys.exit(0)
 
 repo.git.add(all=True)
@@ -45,6 +45,6 @@ print("pushing...")
 
 try:
     o.push()
-    os.system("notify-send 'Tube disruption calendar' 'calendars updated'")
+    os.system("notify-send -a 'Tube disruption calendar' 'calendars updated'")
 except:
-    os.system("notify-send 'Tube disruption calendar' 'Error pushing'")
+    os.system("notify-send -a 'Tube disruption calendar' 'Error pushing'")
