@@ -3,17 +3,157 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Elizabeth line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-05T04:30:00&endDate=2025-01-05T12:00:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 5 January\, until 1130\, no service between Maidenhead and Reading. Replacement bus service W3 operates between Maidenhead\, Twyford and Reading.
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-02T00:40:00&endDate=2025-02-02T07:40:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 2 February\, from 0040 until 0740\, no service between Paddington and Ealing Broadway. The last service on Sunday morning\, at 0007\, operates from Heathrow Terminal 5 to Ealing Broadway only. Please use London Underground connections between Bond Street and Ealing Broadway.
+DTEND:20250202T074000Z
+DTSTART:20250202T004000Z
+SUMMARY:Elizabeth line: Part Closure
+UID:8fae5e3a-cd26-4185-9cd4-d5aa66f61516@8fae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-25T04:30:00&endDate=2025-01-27T01:29:00">Disruption map.</a>\n\nELIZABETH LINE: Saturday 25 and Sunday 26 January\, no service between Stratford and Shenfield. Replacement buses operate.
+DTEND:20250127T012900Z
+DTSTART:20250125T043000Z
+SUMMARY:Elizabeth line: Part Closure
+UID:ebe90e19-9bb7-46a6-96b3-8e2ec1dcf476@ebe9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-23T07:40:00&endDate=2025-02-24T01:29:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 23 February\, from 0740\, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Acton Main Line\, West Ealing and Hanwell stations are closed. Two trains per hour serve Heathrow Terminal 4\, West Drayton\, Langley\, Slough\, Burnham and Maidenhead. Six trains an hour serve Ealing Broadway\, Southall and Hayes & Harlington.
+DTEND:20250224T012900Z
+DTSTART:20250223T074000Z
+SUMMARY:Elizabeth line: Reduced Service
+UID:d68da760-faae-4458-978e-a450050b1b58@d68d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-01T04:30:00&endDate=2025-02-03T01:29:00">Disruption map.</a>\n\nELIZABETH LINE: Saturday 1 and Sunday 2 February\, no service between Stratford and Shenfield. Replacement buses operate.
+DTEND:20250203T012900Z
+DTSTART:20250201T043000Z
+SUMMARY:Elizabeth line: Part Closure
+UID:5bb3ddcf-50c2-45d5-adb9-a5784de84ff4@5bb3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-02T00:40:00&endDate=2025-03-02T07:40:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 2 March\, from 0040 until 0740\, no service between Paddington and Ealing Broadway. The last service on Sunday morning\, at 0007\, operates from Heathrow Terminal 5 to Ealing Broadway only. Please use London Underground connections between Bond Street and Ealing Broadway.
+DTEND:20250302T074000Z
+DTSTART:20250302T004000Z
+SUMMARY:Elizabeth line: Part Closure
+UID:478c10e1-11f7-49d4-b438-4f82a5ae5680@478c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-02T07:40:00&endDate=2025-03-03T01:29:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 2 March\, from 0740\, a reduced service operates between Paddington and Maidenhead. Until 1900\, westbound trains will not serve Burnham and Taplow\, and after 1900\, these stations are closed. Two trains per hour serve West Drayton\, Langley\, Slough and Maidenhead. Six trains an hour serve Southall. Eight trains an hour serve Ealing Broadway and Hayes & Harlington.
+DTEND:20250303T012900Z
+DTSTART:20250302T074000Z
+SUMMARY:Elizabeth line: Reduced Service
+UID:68ad71e1-dad6-4914-a2b1-214d4e80e81d@68ad.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-15T04:30:00&endDate=2025-02-16T00:40:00">Disruption map.</a>\n\nELIZABETH LINE: Saturday 15\, all day\, and on Sunday 16 February\, from 0740\, no service between Paddington and Abbey Wood / Shenfield. Replacement buses operate: Service C: Stratford to Romford\, Service D: Newbury Park (for Central line) to Shenfield.
+DTEND:20250216T004000Z
+DTSTART:20250215T043000Z
+SUMMARY:Elizabeth line: Part Closure
+UID:4935536f-47ce-4af0-b569-a9f6e982f2be@4935.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-12T00:40:00&endDate=2025-01-12T07:40:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 12 January\, from 0040 until 0740\, no service between Paddington and Ealing Broadway. The last service on Sunday morning\, at 0007\, operates from Heathrow Terminal 5 to Ealing Broadway only. Please use London Underground connections between Bond Street and Ealing Broadway.
+DTEND:20250112T074000Z
+DTSTART:20250112T004000Z
+SUMMARY:Elizabeth line: Part Closure
+UID:876b4191-5735-4232-91b1-f5b89f2e87d7@876b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-16T00:40:00&endDate=2025-02-16T07:40:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 16 February\, from 0040 until 0740\, no service between Ealing Broadway and Abbey Wood / Shenfield. Replacement buses operate: Service C: Stratford to Romford\, Service D: Newbury Park (for Central line) to Shenfield.
+DTEND:20250216T074000Z
+DTSTART:20250216T004000Z
+SUMMARY:Elizabeth line: Part Closure
+UID:fb66a1b0-3104-4bb9-88a8-47843b198457@fb66.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-02T07:40:00&endDate=2025-02-03T01:29:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 2 February\, from 0740\, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains per hour serve Acton Main Line\, Hanwell\, Heathrow Terminal 4\, West Drayton\, Langley\, Slough\, Burnham and Maidenhead. Four trains per hour serve West Ealing and Heathrow Terminals 2 & 3. Six trains an hour serve Ealing Broadway\, Southall and Hayes & Harlington.
+DTEND:20250203T012900Z
+DTSTART:20250202T074000Z
+SUMMARY:Elizabeth line: Reduced Service
+UID:403e9096-9b3f-44f3-adc0-0e43886f6e37@403e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-23T00:40:00&endDate=2025-02-23T07:40:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 23 February\, from 0040 until 0740\, no service between Paddington and Ealing Broadway. The last service on Sunday morning\, at 0007\, operates from Heathrow Terminal 5 to Ealing Broadway only. Please use London Underground connections between Bond Street and Ealing Broadway.
+DTEND:20250223T074000Z
+DTSTART:20250223T004000Z
+SUMMARY:Elizabeth line: Part Closure
+UID:c4f765b8-61d0-4452-90b5-dc89e9e4bb2e@c4f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-16T07:40:00&endDate=2025-02-17T01:29:00">Disruption map.</a>\n\nELIZABETH LINE: Saturday 15\, all day\, and on Sunday 16 February\, from 0740\, no service between Paddington and Abbey Wood / Shenfield. Replacement buses operate: Service C: Stratford to Romford\, Service D: Newbury Park (for Central line) to Shenfield.
+DTEND:20250217T012900Z
+DTSTART:20250216T074000Z
+SUMMARY:Elizabeth line: Part Closure
+UID:ce8f4ffb-7d17-49a8-a402-be9094fa257e@ce8f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-12T07:40:00&endDate=2025-01-13T01:29:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 12 January\, from 0740\, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Acton Main Line\, West Ealing and Hanwell stations are closed. Two trains per hour serve Heathrow Terminal 4\, West Drayton\, Langley\, Slough\, Burnham and Maidenhead. Six trains an hour serve Ealing Broadway\, Southall and Hayes & Harlington.
+DTEND:20250113T012900Z
+DTSTART:20250112T074000Z
+SUMMARY:Elizabeth line: Reduced Service
+UID:80ef4a12-aafc-491b-baa6-30aa9745ec28@80ef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-05T04:30:00&endDate=2025-01-05T12:00:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 5 January\, until 1200\, no service between Maidenhead and Reading. Replacement bus service W3 operates between Maidenhead\, Twyford and Reading.
 DTEND:20250105T120000Z
 DTSTART:20250105T043000Z
 SUMMARY:Elizabeth line: Part Closure
-UID:9ce92f24-9233-4740-94c1-4689aa8bb95c@9ce9.org
+UID:e387d461-9faf-4612-84f0-41ea8f81cb84@e387.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-08T04:30:00&endDate=2025-02-10T01:29:00">Disruption map.</a>\n\nELIZABETH LINE: Saturday 8 and Sunday 9 February\, no service between Stratford and Shenfield. Replacement buses operate.
+DTEND:20250210T012900Z
+DTSTART:20250208T043000Z
+SUMMARY:Elizabeth line: Part Closure
+UID:61290012-c226-4e9f-bb84-9cf1ed97a986@6129.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-05T04:30:00&endDate=2025-01-06T01:29:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 5 January\, a reduced service will operate between Hayes & Harlington and Maidenhead (except at Iver and Taplow). Two trains an hour will serve West Drayton\, Langley\, Slough\, Burnham and Maidenhead.
 DTEND:20250106T012900Z
 DTSTART:20250105T043000Z
 SUMMARY:Elizabeth line: Reduced Service
-UID:8812f0e2-d7fd-4a1f-976d-572d0ccbdc5c@8812.org
+UID:097abbfb-53fa-4e5b-a3ce-530f12d0dfe8@097a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-09T00:40:00&endDate=2025-02-09T07:40:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 9 February\, from 0040 until 0740\, no service between Paddington and Ealing Broadway. The last service on Sunday morning\, at 0007\, operates from Heathrow Terminal 5 to Ealing Broadway only. Please use London Underground connections between Bond Street and Ealing Broadway.
+DTEND:20250209T074000Z
+DTSTART:20250209T004000Z
+SUMMARY:Elizabeth line: Part Closure
+UID:d243a584-62d8-457b-be91-69efd86ed1c9@d243.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-26T07:40:00&endDate=2025-01-27T01:29:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 26 January\, from 0740\, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Acton Main Line\, West Ealing and Hanwell stations are closed. Two trains per hour serve Heathrow Terminal 4\, West Drayton\, Langley\, Slough\, Burnham and Maidenhead. Six trains an hour serve Ealing Broadway\, Southall and Hayes & Harlington.
+DTEND:20250127T012900Z
+DTSTART:20250126T074000Z
+SUMMARY:Elizabeth line: Reduced Service
+UID:dd80f3eb-4ab9-49d6-9b7d-9c544d1ae888@dd80.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-16T07:40:00&endDate=2025-02-17T01:29:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 16 February\, from 0740\, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains per hour serve Acton Main Line\, Hanwell\, Heathrow Terminal 4\, Heathrow Terminal 5\, West Drayton\, Langley\, Slough\, Burnham and Maidenhead. Four trains per hour serve West Ealing and Heathrow Terminals 2 & 3. Six trains an hour serve Ealing Broadway\, Southall and Hayes & Harlington.
+DTEND:20250217T012900Z
+DTSTART:20250216T074000Z
+SUMMARY:Elizabeth line: Reduced Service
+UID:66ff15ef-0cf7-4d55-95ce-06e662cda329@66ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-09T07:40:00&endDate=2025-02-10T01:29:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 9 February\, from 0740\, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Acton Main Line\, West Ealing and Hanwell stations are closed. Two trains per hour serve Heathrow Terminal 4\, West Drayton\, Langley\, Slough\, Burnham and Maidenhead. Six trains an hour serve Ealing Broadway\, Southall and Hayes & Harlington.
+DTEND:20250210T012900Z
+DTSTART:20250209T074000Z
+SUMMARY:Elizabeth line: Reduced Service
+UID:a8482722-b8d6-4326-9601-149bb3cf7aea@a848.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-19T04:30:00&endDate=2025-01-19T11:30:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 19 January\, until 1130\, no service between Maidenhead and Reading. Replacement bus service W3 operates between Maidenhead\, Twyford and Reading.
+DTEND:20250119T113000Z
+DTSTART:20250119T043000Z
+SUMMARY:Elizabeth line: Part Closure
+UID:05330e49-49f9-46a3-96e2-a93c19dc77de@0533.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-26T00:40:00&endDate=2025-01-26T07:40:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 26 January\, from 0040 until 0740\, no service between Paddington and Ealing Broadway. The last service on Sunday morning\, at 0007\, operates from Heathrow Terminal 5 to Ealing Broadway only. Please use London Underground connections between Bond Street and Ealing Broadway.
+DTEND:20250126T074000Z
+DTSTART:20250126T004000Z
+SUMMARY:Elizabeth line: Part Closure
+UID:3cd3fa64-2931-4077-a37d-d689d1dfa23b@3cd3.org
 END:VEVENT
 END:VCALENDAR
