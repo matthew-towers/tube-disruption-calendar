@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-12T04:30:00&endDate=2025-01-13T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Sunday 12 January\, no service between Turnham Green and Richmond. No MILDMAY LINE service between Willesden Junction and Richmond. Replacement bus service DL3 operates between Willesden Junction and Richmond via Acton Central\, South Acton (Acton Lane)\, Turnham Green\, Chiswick Park\, Gunnersbury and Kew Gardens (Royal Botanic Gardens).
+DTEND:20250113T012900Z
+DTSTART:20250112T043000Z
+SUMMARY:District: Part Closure
+UID:d1a96312-a105-42df-ba86-75dc39148ae0@d1a9.org
+END:VEVENT
 END:VCALENDAR

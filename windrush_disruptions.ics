@@ -3,10 +3,87 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Windrush line disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-30T22:15:00&endDate=2025-01-31T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 27\, Tuesday 28\, Wednesday 29 and Thursday 30 January\, after 2215 each evening\, no service between Sydenham and West Croydon. Use local London Buses and Southern services.
+DTEND:20250131T012900Z
+DTSTART:20250130T221500Z
+SUMMARY:Windrush line: Part Closure
+UID:dc40cd71-40d1-4936-b98e-90f0ee190811@dc40.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-01T01:00:00&endDate=2025-02-03T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Saturday 1 and Sunday 2 February (including Friday and Saturday Night Overground)\, no service between Highbury & Islington and New Cross / Clapham Junction / Battersea Park / Crystal Palace / West Croydon. Replacement buses operate during the day only\, at night\, please use London Buses and Night Tube services instead. Use Mildmay line services during the day between Highbury & Islington\, Canonbury and Dalston Kingsland and Southern services for stations between New Cross Gate and Crystal Palace\, also Norwood Junction and West Croydon. Use local London Buses services
+DTEND:20250203T012900Z
+DTSTART:20250201T010000Z
+SUMMARY:Windrush line: Part Closure
+UID:dc607ede-9f04-4d58-abf1-ea826f2989c8@dc60.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-29T22:15:00&endDate=2025-01-30T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 27\, Tuesday 28\, Wednesday 29 and Thursday 30 January\, after 2215 each evening\, no service between Sydenham and West Croydon. Use local London Buses and Southern services.
+DTEND:20250130T012900Z
+DTSTART:20250129T221500Z
+SUMMARY:Windrush line: Part Closure
+UID:c56166b5-1a80-466a-9bcc-58c289760249@c561.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-05T04:30:00&endDate=2025-01-06T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 5 January\, no service between New Cross Gate and West Croydon / Crystal Palace. Replacement buses operate between New Cross Gate and Crystal Palace via Brockley\, Honor Oak Park\, Forest Hill and Sydenham. Connecting trains operate between Crystal Palace and West Croydon via Norwood Junction. Use local London Buses services for Penge West and Anerley.
 DTEND:20250106T012900Z
 DTSTART:20250105T043000Z
 SUMMARY:Windrush line: Part Closure
-UID:2a03d2bc-f6d1-4e12-8392-a88681cb8ccc@2a03.org
+UID:01fb1ec9-4875-4c99-9989-6cd63f4a6073@01fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-25T04:30:00&endDate=2025-01-27T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Saturday 25 and Sunday 26 January\, no service between Surrey Quays and Clapham Junction / Battersea Park. Replacement bus service M operates between Canada Water and Clapham Junction via Surrey Quays\, Queens Road Peckham\, Peckham Rye\, Denmark Hill\, Clapham High Street and Wandsworth Road.
+DTEND:20250127T012900Z
+DTSTART:20250125T043000Z
+SUMMARY:Windrush line: Part Closure
+UID:2217b8ad-e45b-4d8b-ab8d-4f4fd25cbaa8@2217.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-27T22:15:00&endDate=2025-01-28T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 27\, Tuesday 28\, Wednesday 29 and Thursday 30 January\, after 2215 each evening\, no service between Sydenham and West Croydon. Use local London Buses and Southern services.
+DTEND:20250128T012900Z
+DTSTART:20250127T221500Z
+SUMMARY:Windrush line: Part Closure
+UID:186ed818-6369-4c62-bd31-cc049b56490b@186e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-28T22:15:00&endDate=2025-01-29T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 27\, Tuesday 28\, Wednesday 29 and Thursday 30 January\, after 2215 each evening\, no service between Sydenham and West Croydon. Use local London Buses and Southern services.
+DTEND:20250129T012900Z
+DTSTART:20250128T221500Z
+SUMMARY:Windrush line: Part Closure
+UID:1bfc0be8-d9d7-48f4-acdd-e6a9ad480587@1bfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-19T04:30:00&endDate=2025-01-20T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 19 January\, no service between Sydenham and Crystal Palace. Please use local London Buses connections between Anerley and Crystal Palace.
+DTEND:20250120T012900Z
+DTSTART:20250119T043000Z
+SUMMARY:Windrush line: Part Closure
+UID:773538d9-330d-446f-9df3-60cf81529511@7735.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-23T23:30:00&endDate=2025-01-24T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Tuesday 21\, Wednesday 22 and Thursday 23 January\, the 2351 Dalston Junction to Clapham Junction train will not operate. Customers for stations to Clapham Junction should use the 0027 train from Surrey Quays or local London Buses services.
+DTEND:20250124T012900Z
+DTSTART:20250123T233000Z
+SUMMARY:Windrush line: Part Closure
+UID:b1d9865c-1df7-4b8b-85bf-aff75840ffb2@b1d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-21T23:30:00&endDate=2025-01-22T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Tuesday 21\, Wednesday 22 and Thursday 23 January\, the 2351 Dalston Junction to Clapham Junction train will not operate. Customers for stations to Clapham Junction should use the 0027 train from Surrey Quays or local London Buses services.
+DTEND:20250122T012900Z
+DTSTART:20250121T233000Z
+SUMMARY:Windrush line: Part Closure
+UID:59c75ba3-a8c4-4a41-a573-02608ba03c2e@59c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-22T23:30:00&endDate=2025-01-23T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Tuesday 21\, Wednesday 22 and Thursday 23 January\, the 2351 Dalston Junction to Clapham Junction train will not operate. Customers for stations to Clapham Junction should use the 0027 train from Surrey Quays or local London Buses services.
+DTEND:20250123T012900Z
+DTSTART:20250122T233000Z
+SUMMARY:Windrush line: Part Closure
+UID:7389934d-82db-46d7-8d85-c8569defceca@7389.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-11T01:00:00&endDate=2025-01-13T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Saturday 11 and Sunday 12 January (including Friday and Saturday Night Overground)\, no service between Highbury & Islington and New Cross Gate / New Cross / Clapham Junction / Battersea Park. Replacement buses operate during the day only\, at night\, please use London Buses and Night Tube services instead. Use Mildmay line services during the day between Highbury & Islington\, Canonbury and Dalston Kingsland.
+DTEND:20250113T012900Z
+DTSTART:20250111T010000Z
+SUMMARY:Windrush line: Part Closure
+UID:f93dcdfb-be3f-4d3b-82be-643d8032fe27@f93d.org
 END:VEVENT
 END:VCALENDAR
