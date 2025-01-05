@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Hammersmith & City disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-05T10:56:01&endDate=2025-01-06T01:29:00">Disruption map.</a>\n\nHammersmith and City Line: Minor delays due to train cancellations 
+DTEND:20250106T012900Z
+DTSTART:20250105T105601Z
+SUMMARY:Hammersmith & City: Minor Delays
+UID:1201b75a-e150-4bac-a80e-87d2cef879c4@1201.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-02T10:00:00&endDate=2025-02-02T18:00:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Sunday 2 February\, between 1000 and 1800\, no service between Plaistow and Barking. Please use District line services.
 DTEND:20250202T180000Z
 DTSTART:20250202T100000Z
 SUMMARY:Hammersmith & City: Part Closure
-UID:524385b1-6c7e-41ff-afa3-0de90d8813c8@5243.org
+UID:32a9ab2d-edf0-4386-bcff-401400809923@32a9.org
 END:VEVENT
 END:VCALENDAR

@@ -3,17 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Jubilee disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-18T01:00:00&endDate=2025-01-18T04:15:00">Disruption map.</a>\n\nJUBILEE LINE: Saturday 18 January\, between 0100 and 0415\, no service between Finchley Road and Stratford. Replacement bus service JL3 operates between North Greenwich and Stratford City via Canary Wharf\, Canning Town and West Ham.
-DTEND:20250118T041500Z
-DTSTART:20250118T010000Z
-SUMMARY:Jubilee: Part Closure
-UID:81fe8d0e-bc41-48f4-8982-006a9521a7dd@81fe.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-18T04:15:00&endDate=2025-01-20T01:29:00">Disruption map.</a>\n\nJUBILEE LINE: Saturday 18 January\, from 0415 and all day Sunday 19 January\, no service between Green Park and Stratford. Replacement bus service JL3 operates between North Greenwich and Canning Town. Overnight journeys on Saturday morning also serve Canary Wharf\, and overnight journeys on Saturday and Sunday morning also serve West Ham and Stratford. Replacement bus service JL4 operates during the day non-stop between North Greenwich and Stratford.
 DTEND:20250120T012900Z
 DTSTART:20250118T041500Z
 SUMMARY:Jubilee: Part Closure
-UID:1c118c20-d86d-4b06-9b8b-905d76fe9d09@1c11.org
+UID:3af627a2-b8f0-4439-82ff-61b2e52a5acc@3af6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-05T10:02:37&endDate=2025-01-06T01:29:00">Disruption map.</a>\n\nJubilee Line: Severe delays due to an earlier faulty train at Willesden Green. Valid tickets are accepted on London Buses. 
+DTEND:20250106T012900Z
+DTSTART:20250105T100237Z
+SUMMARY:Jubilee: Severe Delays
+UID:11f211e2-2c16-41cb-a7f8-cfbd64163a16@11f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-18T01:00:00&endDate=2025-01-18T04:15:00">Disruption map.</a>\n\nJUBILEE LINE: Saturday 18 January\, between 0100 and 0415\, no service between Finchley Road and Stratford. Replacement bus service JL3 operates between North Greenwich and Stratford City via Canary Wharf\, Canning Town and West Ham.
+DTEND:20250118T041500Z
+DTSTART:20250118T010000Z
+SUMMARY:Jubilee: Part Closure
+UID:93ab361e-87a8-4c47-9399-f7b0a008d767@93ab.org
 END:VEVENT
 END:VCALENDAR
