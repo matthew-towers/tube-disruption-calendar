@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Jubilee disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-18T04:15:00&endDate=2025-01-20T01:29:00">Disruption map.</a>\n\nJUBILEE LINE: Saturday 18 January\, from 0415 and all day Sunday 19 January\, no service between Green Park and Stratford. Replacement bus service JL3 operates between North Greenwich and Canning Town. Overnight journeys on Saturday morning also serve Canary Wharf\, and overnight journeys on Saturday and Sunday morning also serve West Ham and Stratford. Replacement bus service JL4 operates during the day non-stop between North Greenwich and Stratford.
-DTEND:20250120T012900Z
-DTSTART:20250118T041500Z
-SUMMARY:Jubilee: Part Closure
-UID:a25243f3-ced3-4ec5-8165-5ce5b2dcbdca@a252.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-18T01:00:00&endDate=2025-01-18T04:15:00">Disruption map.</a>\n\nJUBILEE LINE: Saturday 18 January\, between 0100 and 0415\, no service between Finchley Road and Stratford. Replacement bus service JL3 operates between North Greenwich and Stratford City via Canary Wharf\, Canning Town and West Ham.
 DTEND:20250118T041500Z
 DTSTART:20250118T010000Z
 SUMMARY:Jubilee: Part Closure
-UID:c71be757-efb2-4aef-b3cd-4ad16adff4b3@c71b.org
+UID:8edf73f4-3d6a-4424-becd-3cc6a3579907@8edf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-18T04:15:00&endDate=2025-01-20T01:29:00">Disruption map.</a>\n\nJUBILEE LINE: Saturday 18 January\, from 0415 and all day Sunday 19 January\, no service between Green Park and Stratford. Replacement bus service JL3 operates between North Greenwich and Canning Town. Overnight journeys on Saturday morning also serve Canary Wharf\, and overnight journeys on Saturday and Sunday morning also serve West Ham and Stratford. Replacement bus service JL4 operates during the day non-stop between North Greenwich and Stratford.
+DTEND:20250120T012900Z
+DTSTART:20250118T041500Z
+SUMMARY:Jubilee: Part Closure
+UID:709c157e-6356-4ee7-8db6-01aac92e27ee@709c.org
 END:VEVENT
 END:VCALENDAR
