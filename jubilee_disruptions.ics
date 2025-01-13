@@ -3,17 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Jubilee disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-13T10:48:29&endDate=2025-01-14T01:29:00">Disruption map.</a>\n\nJubilee Line: Severe delays due to an earlier fire alert at  Willesden Green and Canary Wharf.. Valid tickets are being accepted on London buses\, London Overground\, Elizabeth Line and Thameslink services. 
+DTEND:20250114T012900Z
+DTSTART:20250113T104829Z
+SUMMARY:Jubilee: Severe Delays
+UID:39fe58e2-770f-4669-946e-97183e1c1b59@39fe.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-18T04:15:00&endDate=2025-01-20T01:29:00">Disruption map.</a>\n\nJUBILEE LINE: Saturday 18 January\, from 0415 and all day Sunday 19 January\, no service between Green Park and Stratford. Replacement bus service JL3 operates between North Greenwich and Canning Town. Overnight journeys on Saturday morning also serve Canary Wharf\, and overnight journeys on Saturday and Sunday morning also serve West Ham and Stratford. Replacement bus service JL4 operates during the day non-stop between North Greenwich and Stratford.
 DTEND:20250120T012900Z
 DTSTART:20250118T041500Z
 SUMMARY:Jubilee: Part Closure
-UID:27dde71a-f03b-4075-82e1-89b4b396d8d5@27dd.org
+UID:d7cd2994-285a-4b76-adbe-c6859debfe0b@d7cd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-18T01:00:00&endDate=2025-01-18T04:15:00">Disruption map.</a>\n\nJUBILEE LINE: Saturday 18 January\, between 0100 and 0415\, no service between Finchley Road and Stratford. Replacement bus service JL3 operates between North Greenwich and Stratford City via Canary Wharf\, Canning Town and West Ham.
 DTEND:20250118T041500Z
 DTSTART:20250118T010000Z
 SUMMARY:Jubilee: Part Closure
-UID:fa80df99-cabf-4112-8272-57e8d7d4bd2c@fa80.org
+UID:f1808909-d042-4a7b-8c77-3379e4fb1c37@f180.org
 END:VEVENT
 END:VCALENDAR
