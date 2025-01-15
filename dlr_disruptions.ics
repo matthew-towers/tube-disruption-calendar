@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-26T04:30:00&endDate=2025-01-27T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 26 January\, no service between Poplar / Stratford International and Woolwich Arsenal / Beckton. Replacement buses operate.
-DTEND:20250127T012900Z
-DTSTART:20250126T043000Z
-SUMMARY:DLR: Part Closure
-UID:8b581fea-a621-4b88-ab81-5f4fdab70b09@8b58.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-25T04:30:00&endDate=2025-01-26T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 25 January\, no service between Tower Gateway and Shadwell\, and between Poplar / Stratford International and Woolwich Arsenal / Beckton. Replacement buses operate.
 DTEND:20250126T012900Z
 DTSTART:20250125T043000Z
 SUMMARY:DLR: Part Closure
-UID:42765e9c-52b0-48c7-b69f-e26ce051516a@4276.org
+UID:c1018236-da36-4a20-942f-58107e7187fa@c101.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-26T04:30:00&endDate=2025-01-27T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 26 January\, no service between Poplar / Stratford International and Woolwich Arsenal / Beckton. Replacement buses operate.
+DTEND:20250127T012900Z
+DTSTART:20250126T043000Z
+SUMMARY:DLR: Part Closure
+UID:5e49bcef-a035-46ed-9833-3967fdb462d5@5e49.org
 END:VEVENT
 END:VCALENDAR

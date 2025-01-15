@@ -3,38 +3,45 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Mildmay line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-19T04:30:00&endDate=2025-01-20T01:29:00">Disruption map.</a>\n\nMILDMAY LINE: Sunday 19 January\, no service between Willesden Junction and Clapham Junction. SOUTHERN services will also not operate between Watford Junction and Shepherds Bush at this time.
-DTEND:20250120T012900Z
-DTSTART:20250119T043000Z
-SUMMARY:Mildmay line: Part Closure
-UID:a7d34a95-9f86-4155-a191-710aa1c89a05@a7d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-25T04:30:00&endDate=2025-01-27T01:29:00">Disruption map.</a>\n\nMILDMAY LINE: Saturday 25 and Sunday 26 January\, no service between Gospel Oak and Stratford. Replacement bus service S operates between Hampstead Heath and Stratford via Gospel Oak (Southampton Road / Agincourt Road)\, Kentish Town West\, Camden Road\, Holloway Road (for London Underground)\, Highbury & Islington (for Caledonian Road & Barnsbury)\, Canonbury\, Dalston Junction (for Dalston Kingsland)\, Hackney Central\, Homerton and Hackney Wick. On Saturday\, trains at 2104 and 2234 from Clapham Junction terminate at Willesden Junction\, and the 2319 train from Clapham Junction will not run. On Sunday\, trains at 0848 and 0933 to Clapham Junction start at Shepherds Bush instead of Willesden Junction\, the first westbound train from Gospel Oak will be at 0927 and the 1003 train from Gospel Oak to Clapham Junction starts at Willesden Junction.
-DTEND:20250127T012900Z
-DTSTART:20250125T043000Z
-SUMMARY:Mildmay line: Part Closure
-UID:6f0f3106-10f2-4613-bdc0-655bf676d1b4@6f0f.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-01T04:30:00&endDate=2025-02-03T01:29:00">Disruption map.</a>\n\nMILDMAY LINE: Saturday 1 and Sunday 2 February\, no service between Gospel Oak and Stratford. Replacement bus service S operates between Hampstead Heath and Stratford via Gospel Oak (Southampton Road / Agincourt Road)\, Kentish Town West\, Camden Road\, Holloway Road (for London Underground)\, Highbury & Islington (for Caledonian Road & Barnsbury)\, Canonbury\, Dalston Junction (for Dalston Kingsland)\, Hackney Central\, Homerton and Hackney Wick.
 DTEND:20250203T012900Z
 DTSTART:20250201T043000Z
 SUMMARY:Mildmay line: Part Closure
-UID:cf507f4f-e43a-42eb-94f8-d25117b9c375@cf50.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-24T21:50:00&endDate=2025-01-24T23:55:00">Disruption map.</a>\n\nMILDMAY LINE: Friday 24 January\, the 2159 Stratford to Richmond train terminates at Camden Road\, and the 2317 Richmond to Willesden Junction train will not operate.
-DTEND:20250124T235500Z
-DTSTART:20250124T215000Z
-SUMMARY:Mildmay line: Reduced Service
-UID:e436c83f-951f-4f86-a955-43e7478d8474@e436.org
+UID:be29ce31-3c37-4248-85d0-acc0471b9853@be29.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-19T04:30:00&endDate=2025-01-20T01:29:00">Disruption map.</a>\n\nMILDMAY LINE: Sunday 19 January\, no service between Gospel Oak and Stratford. Replacement bus service S operates between Hampstead Heath and Stratford via Gospel Oak (Southampton Road / Agincourt Road)\, Kentish Town West\, Camden Road\, Holloway Road (for London Underground)\, Highbury & Islington (for Caledonian Road & Barnsbury)\, Canonbury\, Dalston Junction (for Dalston Kingsland)\, Hackney Central\, Homerton and Hackney Wick.
 DTEND:20250120T012900Z
 DTSTART:20250119T043000Z
 SUMMARY:Mildmay line: Part Closure
-UID:2f988168-d172-4a8a-a25b-9404eb71cdd7@2f98.org
+UID:6bb80860-f6d9-41c5-933b-403931ae4b0f@6bb8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-15T10:28:36&endDate=2025-01-16T01:29:00">Disruption map.</a>\n\nLondon Overground: MILDMAY LINE: Minor delays due to an earlier faulty train. GOOD SERVICE on all other London Overground routes. 
+DTEND:20250116T012900Z
+DTSTART:20250115T102836Z
+SUMMARY:Mildmay line: Minor Delays
+UID:716ac42f-eb3a-4c47-99dd-7a8c8a13b440@716a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-25T04:30:00&endDate=2025-01-27T01:29:00">Disruption map.</a>\n\nMILDMAY LINE: Saturday 25 and Sunday 26 January\, no service between Gospel Oak and Stratford. Replacement bus service S operates between Hampstead Heath and Stratford via Gospel Oak (Southampton Road / Agincourt Road)\, Kentish Town West\, Camden Road\, Holloway Road (for London Underground)\, Highbury & Islington (for Caledonian Road & Barnsbury)\, Canonbury\, Dalston Junction (for Dalston Kingsland)\, Hackney Central\, Homerton and Hackney Wick. On Saturday\, trains at 2104 and 2234 from Clapham Junction terminate at Willesden Junction\, and the 2319 train from Clapham Junction will not run. On Sunday\, trains at 0848 and 0933 to Clapham Junction start at Shepherds Bush instead of Willesden Junction\, the first westbound train from Gospel Oak will be at 0927 and the 1003 train from Gospel Oak to Clapham Junction starts at Willesden Junction.
+DTEND:20250127T012900Z
+DTSTART:20250125T043000Z
+SUMMARY:Mildmay line: Part Closure
+UID:3b6a5d0a-9d28-49cd-83b9-0daa00c1334d@3b6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-24T21:50:00&endDate=2025-01-24T23:55:00">Disruption map.</a>\n\nMILDMAY LINE: Friday 24 January\, the 2159 Stratford to Richmond train terminates at Camden Road\, and the 2317 Richmond to Willesden Junction train will not operate.
+DTEND:20250124T235500Z
+DTSTART:20250124T215000Z
+SUMMARY:Mildmay line: Reduced Service
+UID:bb81c1e8-dfcb-4ab4-8e44-f44fa4d2e1cf@bb81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-19T04:30:00&endDate=2025-01-20T01:29:00">Disruption map.</a>\n\nMILDMAY LINE: Sunday 19 January\, no service between Willesden Junction and Clapham Junction. SOUTHERN services will also not operate between Watford Junction and Shepherds Bush at this time.
+DTEND:20250120T012900Z
+DTSTART:20250119T043000Z
+SUMMARY:Mildmay line: Part Closure
+UID:c5920f79-438f-4b60-8c52-7f971b68a93a@c592.org
 END:VEVENT
 END:VCALENDAR
