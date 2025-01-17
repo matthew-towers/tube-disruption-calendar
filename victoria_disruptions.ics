@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Victoria disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-17T21:44:26&endDate=2025-01-18T01:29:00">Disruption map.</a>\n\nVictoria Line: Severe delays due to an earlier faulty train at Green Park. London Underground tickets will be accepted on London Buses\, Weaver Line\, Great Northern\, Thameslink\, Greater Anglia\, South Western Railway and Southeastern. 
+DTEND:20250118T012900Z
+DTSTART:20250117T214426Z
+SUMMARY:Victoria: Severe Delays
+UID:d139902a-6e07-4834-a0db-2fd683bbf1da@d139.org
+END:VEVENT
 END:VCALENDAR
