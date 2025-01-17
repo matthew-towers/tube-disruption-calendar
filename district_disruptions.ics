@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-15T04:30:00&endDate=2025-02-17T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 15 and Sunday 16 February\, no service between Turnham Green and Ealing Broadway. Use Gunnersbury for Chiswick Park. Replacement bus DL1 operates between Hammersmith and Northfields via Turnham Green\, Acton Town\, Ealing Common and Ealing Broadway. Buses towards Hammersmith also serve South Ealing\, and overnight buses also serve Earls Court\, Gloucester Road\, South Kensington\, Knightsbridge\, Hyde Park Corner and Green Park.
+DTEND:20250217T012900Z
+DTSTART:20250215T043000Z
+SUMMARY:District: Part Closure
+UID:da236cc2-eb40-4ad3-9e82-3015600b0e8a@da23.org
+END:VEVENT
 END:VCALENDAR
