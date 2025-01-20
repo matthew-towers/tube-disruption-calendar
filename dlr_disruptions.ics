@@ -3,31 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-26T04:30:00&endDate=2025-01-27T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 26 January\, no service between Poplar / Stratford International and Woolwich Arsenal / Beckton. Use ELIZABETH LINE services between Custom House and Woolwich (for Woolwich Arsenal). Replacement buses operate.
-DTEND:20250127T012900Z
-DTSTART:20250126T043000Z
-SUMMARY:DLR: Part Closure
-UID:cc5f6515-44d9-44d5-8614-483ddd26ad82@cc5f.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-25T04:30:00&endDate=2025-01-26T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 25 January\, no service between Tower Gateway and Shadwell\, and between Poplar / Stratford International and Woolwich Arsenal / Beckton. Replacement buses operate.
 DTEND:20250126T012900Z
 DTSTART:20250125T043000Z
 SUMMARY:DLR: Part Closure
-UID:ebd98f0b-5b09-4268-9be3-ff24102e7148@ebd9.org
+UID:ddaf519e-76f7-4af9-9ed8-6f1fc9cfdcfd@ddaf.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-21T04:30:00&endDate=2025-02-24T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Friday 21\, Saturday 22 and Sunday 23 February\, no service between Prince Regent and Beckton. Replacement bus service DLR2 operates between Prince Regent and Gallions Reach via Royal Albert\, Beckton Park\, Cyprus and Beckton.
-DTEND:20250224T012900Z
-DTSTART:20250221T043000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-26T04:30:00&endDate=2025-01-27T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 26 January\, no service between Poplar / Stratford International and Woolwich Arsenal / Beckton. Use ELIZABETH LINE services between Custom House and Woolwich (for Woolwich Arsenal). Replacement buses operate.
+DTEND:20250127T012900Z
+DTSTART:20250126T043000Z
 SUMMARY:DLR: Part Closure
-UID:20600db3-3fce-4401-8eaa-1f1c553d9e4c@2060.org
+UID:048e0d92-0e6b-48af-959f-6b498df75cec@048e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-01T04:30:00&endDate=2025-03-03T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 1 and Sunday 2 March\, no service between Poplar / Stratford International and Beckton / Woolwich Arsenal. Use ELIZABETH LINE services between Custom House and Woolwich. Replacement buses operate.
 DTEND:20250303T012900Z
 DTSTART:20250301T043000Z
 SUMMARY:DLR: Part Closure
-UID:efce4292-ffc7-4a90-b913-19ce6ef31431@efce.org
+UID:d68f0c81-2014-40db-a8f0-729fde6c3d73@d68f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-21T04:30:00&endDate=2025-02-24T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Friday 21\, Saturday 22 and Sunday 23 February\, no service between Prince Regent and Beckton. Replacement bus service DLR2 operates between Prince Regent and Gallions Reach via Royal Albert\, Beckton Park\, Cyprus and Beckton.
+DTEND:20250224T012900Z
+DTSTART:20250221T043000Z
+SUMMARY:DLR: Part Closure
+UID:258fe57e-3e09-4fcd-8b15-09aef7175f13@258f.org
 END:VEVENT
 END:VCALENDAR
