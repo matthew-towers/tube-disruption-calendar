@@ -3,24 +3,45 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-01T04:30:00&endDate=2025-03-03T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 1 and Sunday 2 March\, no service between Earls Court and Kensington Olympia. Replacement buses operate.
-DTEND:20250303T012900Z
-DTSTART:20250301T043000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-15T04:30:00&endDate=2025-02-17T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 15 and Sunday 16 February\, no service between Turnham Green and Ealing Broadway. Use Gunnersbury for Chiswick Park. Replacement bus DL1 operates between Hammersmith and Northfields via Turnham Green\, Acton Town\, Ealing Common and Ealing Broadway. Buses towards Hammersmith also serve South Ealing\, and overnight buses also serve Earls Court\, Gloucester Road\, South Kensington\, Knightsbridge\, Hyde Park Corner and Green Park.
+DTEND:20250217T012900Z
+DTSTART:20250215T043000Z
 SUMMARY:District: Part Closure
-UID:eedcfcf2-55fd-4eae-ad8a-b00bc802e7ef@eedc.org
+UID:11a1b12f-515b-4bd2-bc58-42b29f01d3fc@11a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-22T09:53:14&endDate=2025-01-23T01:29:00">Disruption map.</a>\n\nDistrict Line: Severe delays between Earl's Court and Ealing Broadway / Richmond\, and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Cannon Street. GOOD SERVICE on the rest of the line. London Buses are accepting tickets. 
+DTEND:20250123T012900Z
+DTSTART:20250122T095314Z
+SUMMARY:District: Severe Delays
+UID:8229b934-b142-4255-84f3-a5a0d9eced30@8229.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-01T04:30:00&endDate=2025-03-03T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 1 and Sunday 2 March\, no service between Barking and Upminster. Please note c2c services will not operate between Fenchurch Street and Upminster on this weekend. A limited Liverpool Street to Shoeburyness service operates via Stratford\, Barking and stations via Rainham. Replacement buses operate: Service DL7: Barking - Dagenham East via Upney\, Becontree and Dagenham Heathway. Service DL8: Barking - Upminster via Dagenham East\, Elm Park\, Hornchurch and Upminster Bridge.
 DTEND:20250303T012900Z
 DTSTART:20250301T043000Z
 SUMMARY:District: Part Closure
-UID:8b5cb76c-dc80-4ee4-aa8c-ed575d3e28b5@8b5c.org
+UID:082fa792-26de-4f0b-972e-2dad1aff162c@082f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-15T04:30:00&endDate=2025-02-17T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 15 and Sunday 16 February\, no service between Turnham Green and Ealing Broadway. Use Gunnersbury for Chiswick Park. Replacement bus DL1 operates between Hammersmith and Northfields via Turnham Green\, Acton Town\, Ealing Common and Ealing Broadway. Buses towards Hammersmith also serve South Ealing\, and overnight buses also serve Earls Court\, Gloucester Road\, South Kensington\, Knightsbridge\, Hyde Park Corner and Green Park.
-DTEND:20250217T012900Z
-DTSTART:20250215T043000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-22T09:53:14&endDate=2025-01-23T01:29:00">Disruption map.</a>\n\nDistrict Line: Severe delays between Earl's Court and Ealing Broadway / Richmond\, and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Cannon Street. GOOD SERVICE on the rest of the line. London Buses are accepting tickets. 
+DTEND:20250123T012900Z
+DTSTART:20250122T095314Z
+SUMMARY:District: Minor Delays
+UID:ce50d246-3634-443c-9476-1e6a3118c902@ce50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-22T09:53:13&endDate=2025-01-23T01:29:00">Disruption map.</a>\n\nDistrict Line: Severe delays between Earl's Court and Ealing Broadway / Richmond\, and MINOR DELAYS between Earl's Court and Wimbledon due to an earlier faulty train at Cannon Street. GOOD SERVICE on the rest of the line. London Buses are accepting tickets. 
+DTEND:20250123T012900Z
+DTSTART:20250122T095313Z
+SUMMARY:District: Severe Delays
+UID:6b982edf-733c-420d-8e01-2b32ca7ecf58@6b98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-01T04:30:00&endDate=2025-03-03T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 1 and Sunday 2 March\, no service between Earls Court and Kensington Olympia. Replacement buses operate.
+DTEND:20250303T012900Z
+DTSTART:20250301T043000Z
 SUMMARY:District: Part Closure
-UID:49314e02-0c25-4dc3-9426-9853c5ae5f8c@4931.org
+UID:3f5e7632-fa99-4b90-8282-870b316bc64c@3f5e.org
 END:VEVENT
 END:VCALENDAR

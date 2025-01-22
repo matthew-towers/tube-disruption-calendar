@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Circle disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-22T09:41:34&endDate=2025-01-23T01:29:00">Disruption map.</a>\n\nCircle Line: Severe delays clockwise due to an earlier faulty train at Cannon Street. GOOD SERVICE anticlockwise. 
+DTEND:20250123T012900Z
+DTSTART:20250122T094134Z
+SUMMARY:Circle: Severe Delays
+UID:c1ac192a-f4cb-467f-9407-7d40f0e556ed@c1ac.org
+END:VEVENT
 END:VCALENDAR
