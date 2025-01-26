@@ -2,4 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-26T12:30:06&endDate=2025-01-27T01:29:00">Disruption map.</a>\n\nMetropolitan Line: Severe delays Moor Park to Amersham\, the next train expected to depart Amersham will be 13:22. MINOR DELAYS Harrow-on-the-Hill to Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. 
+DTEND:20250127T012900Z
+DTSTART:20250126T123006Z
+SUMMARY:Metropolitan: Severe Delays
+UID:dd5a5c0f-c58a-40ae-9f2a-fb96b6d10fd2@dd5a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-26T12:30:06&endDate=2025-01-27T01:29:00">Disruption map.</a>\n\nMetropolitan Line: Severe delays Moor Park to Amersham\, the next train expected to depart Amersham will be 13:22. MINOR DELAYS Harrow-on-the-Hill to Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line. 
+DTEND:20250127T012900Z
+DTSTART:20250126T123006Z
+SUMMARY:Metropolitan: Minor Delays
+UID:d367f08f-619e-42dd-ab07-5c6538156134@d367.org
+END:VEVENT
 END:VCALENDAR

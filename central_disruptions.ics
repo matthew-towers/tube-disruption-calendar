@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-22T04:30:00&endDate=2025-02-24T01:29:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 22 and Sunday 23 February\, no service between Leytonstone and Hainault (via Newbury Park). Replacement buses operate: Service CL4 Leytonstone - Newbury Park via Wanstead\, Redbridge and Gants Hill and Service CL6 Newbury Park - Hainault via Barkingside and Fullwell Cross (for Fairlop).
-DTEND:20250224T012900Z
-DTSTART:20250222T043000Z
-SUMMARY:Central: Part Closure
-UID:fe69df5e-a3f6-4426-bc4a-5871c1d0705f@fe69.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-08T04:30:00&endDate=2025-02-10T01:29:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 8 and Sunday 9 February\, no service between North Acton and West Ruislip. Replacement buses operate: Service CL2 between Northolt and Hillingdon (for Metropolitan line) via South Ruislip\, Ruislip Gardens\, West Ruislip and Ickenham (for Metropolitan line)\, Service CL3 between North Acton and Northolt via Hanger Lane\, Alperton (for Piccadilly line)\, Perivale and Greenford\, and Service CL12 between North Acton and Northolt\, non-stop.
 DTEND:20250210T012900Z
 DTSTART:20250208T043000Z
 SUMMARY:Central: Part Closure
-UID:ab134b4d-cecf-4535-9936-6406ebdb25dc@ab13.org
+UID:2c43c9c4-dc69-4e6e-89a1-7f47bc4af694@2c43.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-22T04:30:00&endDate=2025-02-24T01:29:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 22 and Sunday 23 February\, no service between Leytonstone and Hainault (via Newbury Park). Replacement buses operate: Service CL4 Leytonstone - Newbury Park via Wanstead\, Redbridge and Gants Hill and Service CL6 Newbury Park - Hainault via Barkingside and Fullwell Cross (for Fairlop).
+DTEND:20250224T012900Z
+DTSTART:20250222T043000Z
+SUMMARY:Central: Part Closure
+UID:ce1cb80e-8f05-4d96-a3f1-daf92233e00d@ce1c.org
 END:VEVENT
 END:VCALENDAR
