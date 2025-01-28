@@ -3,66 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-15T03:15:00&endDate=2025-02-17T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 15 and Sunday 16 February\, no service between Acton Town and Rayners Lane. Use Metropolitan line services between Rayners Lane and Uxbridge
+DTEND:20250217T012900Z
+DTSTART:20250215T031500Z
+SUMMARY:Piccadilly: Part Closure
+UID:3b4b504c-0cc8-4653-992b-442151f45435@3b4b.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-01T01:00:00&endDate=2025-02-01T03:30:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 1 February\, from 0100 until 0330\, no service between Hyde Park Corner and Cockfosters. Replacement bus service PL6 operates between Finsbury Park and Cockfosters via Manor House\, Turnpike Lane\, Wood Green\, Bounds Green\, New Southgate National Rail station\, Arnos Grove\, Southgate and Oakwood.
 DTEND:20250201T033000Z
 DTSTART:20250201T010000Z
 SUMMARY:Piccadilly: Part Closure
-UID:bbd2ca3c-96c1-478c-9339-6c2981ef8e1c@bbd2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-28T04:15:00&endDate=2025-01-29T01:30:00">Disruption map.</a>\n\nPICCADILLY LINE: No service between Rayners Lane and Uxbridge due a shortage of Piccadilly line trains while we fix damage caused by leaf fall. Please use the Metropolitan line to complete your journey.
-DTEND:20250129T013000Z
-DTSTART:20250128T041500Z
-SUMMARY:Piccadilly: Part Closure
-UID:e6e8d460-f6f7-4f79-81c0-b78b8a138618@e6e8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-29T04:15:00&endDate=2025-01-30T01:30:00">Disruption map.</a>\n\nPICCADILLY LINE: No service between Rayners Lane and Uxbridge due a shortage of Piccadilly line trains while we fix damage caused by leaf fall. Please use the Metropolitan line to complete your journey.
-DTEND:20250130T013000Z
-DTSTART:20250129T041500Z
-SUMMARY:Piccadilly: Part Closure
-UID:07d76db7-3348-4420-a6aa-a17a18a19e7c@07d7.org
+UID:15f0f422-e994-4700-b332-813df8b88a3a@15f0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-01T03:00:00&endDate=2025-02-03T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 1\, from 0330\, and all day Sunday 2 February (including Friday and Saturday Night Tube)\, no service between Kings Cross St Pancras and Cockfosters. Replacement buses operate.
 DTEND:20250203T012900Z
 DTSTART:20250201T030000Z
 SUMMARY:Piccadilly: Part Closure
-UID:f0840c15-d489-4b3e-9f97-ef2eb8db7781@f084.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-27T00:00:00&endDate=2025-01-27T01:30:00">Disruption map.</a>\n\nPICCADILLY LINE: No service between Rayners Lane and Uxbridge due a shortage of Piccadilly line trains while we fix damage caused by leaf fall. Please use the Metropolitan line to complete your journey.
-DTEND:20250127T013000Z
-DTSTART:20250127T000000Z
-SUMMARY:Piccadilly: Part Closure
-UID:b209c7a0-bfc6-4e71-b0bc-eb054cd36252@b209.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-27T04:15:00&endDate=2025-01-28T01:30:00">Disruption map.</a>\n\nPICCADILLY LINE: No service between Rayners Lane and Uxbridge due a shortage of Piccadilly line trains while we fix damage caused by leaf fall. Please use the Metropolitan line to complete your journey.
-DTEND:20250128T013000Z
-DTSTART:20250127T041500Z
-SUMMARY:Piccadilly: Part Closure
-UID:9d0b6039-2f10-4de1-b6ec-ff28a982b47f@9d0b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-31T04:15:00&endDate=2025-01-31T23:59:00">Disruption map.</a>\n\nPICCADILLY LINE: No service between Rayners Lane and Uxbridge due a shortage of Piccadilly line trains while we fix damage caused by leaf fall. Please use the Metropolitan line to complete your journey.
-DTEND:20250131T235900Z
-DTSTART:20250131T041500Z
-SUMMARY:Piccadilly: Part Closure
-UID:03abc442-33d7-4ac4-8bf8-465bafe893fb@03ab.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-15T03:15:00&endDate=2025-02-17T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 15 and Sunday 16 February\, no service between Acton Town and Rayners Lane. Use Metropolitan line services between Rayners Lane and Uxbridge
-DTEND:20250217T012900Z
-DTSTART:20250215T031500Z
-SUMMARY:Piccadilly: Part Closure
-UID:73a02bc6-2e01-4c89-a90c-2a7ce7f0628f@73a0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-30T04:15:00&endDate=2025-01-31T01:30:00">Disruption map.</a>\n\nPICCADILLY LINE: No service between Rayners Lane and Uxbridge due a shortage of Piccadilly line trains while we fix damage caused by leaf fall. Please use the Metropolitan line to complete your journey.
-DTEND:20250131T013000Z
-DTSTART:20250130T041500Z
-SUMMARY:Piccadilly: Part Closure
-UID:d79f6ff3-ffea-4d9d-843f-55b806024ff5@d79f.org
+UID:6bca39e2-2271-4665-a886-b04f1e65b742@6bca.org
 END:VEVENT
 END:VCALENDAR
