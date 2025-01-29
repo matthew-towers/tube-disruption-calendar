@@ -2,4 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Victoria disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-29T06:58:19&endDate=2025-01-29T12:32:12">Disruption map.</a>\n\nVictoria Line: No service between Victoria and Brixton and SEVERE DELAYS on the rest of the line while we fix a signal failure at Stockwell. Tickets are being accepted on London Buses\, the Weaver and Suffragette lines\, Greater Anglia\, South Western Railway and Southeastern. 
+DTEND:20250129T123212Z
+DTSTART:20250129T065819Z
+SUMMARY:Victoria: Part Suspended
+UID:d7559316-6d55-40b8-a49e-72d0996aa27f@d755.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-01-29T06:58:19&endDate=2025-01-30T01:29:00">Disruption map.</a>\n\nVictoria Line: No service between Victoria and Brixton and SEVERE DELAYS on the rest of the line while we fix a signal failure at Stockwell. Tickets are being accepted on London Buses\, the Weaver and Suffragette lines\, Greater Anglia\, South Western Railway and Southeastern. 
+DTEND:20250130T012900Z
+DTSTART:20250129T065819Z
+SUMMARY:Victoria: Severe Delays
+UID:699df8b3-dd99-45f5-bc38-2c3f48186b00@699d.org
+END:VEVENT
 END:VCALENDAR

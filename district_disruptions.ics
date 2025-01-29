@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-01T04:30:00&endDate=2025-03-03T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 1 and Sunday 2 March\, no service between Barking and Upminster. Please note c2c services will not operate between Fenchurch Street and Upminster on this weekend. A limited Liverpool Street to Shoeburyness service operates via Stratford\, Barking and stations via Rainham. Replacement buses operate: Service DL7: Barking - Dagenham East via Upney\, Becontree and Dagenham Heathway. Service DL8: Barking - Upminster via Dagenham East\, Elm Park\, Hornchurch and Upminster Bridge.
-DTEND:20250303T012900Z
-DTSTART:20250301T043000Z
-SUMMARY:District: Part Closure
-UID:0a8250a8-4242-497a-b346-a5a268d0b942@0a82.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-01T04:30:00&endDate=2025-03-03T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 1 and Sunday 2 March\, no service between Earls Court and Kensington Olympia. Replacement buses operate.
 DTEND:20250303T012900Z
 DTSTART:20250301T043000Z
 SUMMARY:District: Part Closure
-UID:4b29dee6-5bb8-4ff4-a8cb-0af6f1b9c35f@4b29.org
+UID:1e2c631f-bc49-44d6-a58a-b427fbaac0ef@1e2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-01T04:30:00&endDate=2025-03-03T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 1 and Sunday 2 March\, no service between Barking and Upminster. Please note c2c services will not operate between Fenchurch Street and Upminster on this weekend. A limited Liverpool Street to Shoeburyness service operates via Stratford\, Barking and stations via Rainham. Replacement buses operate: Service DL7: Barking - Dagenham East via Upney\, Becontree and Dagenham Heathway. Service DL8: Barking - Upminster via Dagenham East\, Elm Park\, Hornchurch and Upminster Bridge.
+DTEND:20250303T012900Z
+DTSTART:20250301T043000Z
+SUMMARY:District: Part Closure
+UID:84f8d340-b8ae-45d8-87ed-e874abaa443a@84f8.org
 END:VEVENT
 END:VCALENDAR
