@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Jubilee disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-01T09:58:48&endDate=2025-02-02T01:29:00">Disruption map.</a>\n\nJubilee Line: Severe delays due to an earlier points failure at North Greenwich. Valid tickets will be accepted on DLR and London Buses. 
+DTEND:20250202T012900Z
+DTSTART:20250201T095848Z
+SUMMARY:Jubilee: Severe Delays
+UID:030aab31-ba38-4941-ae12-5a6bfab8b06d@030a.org
+END:VEVENT
 END:VCALENDAR
