@@ -8,7 +8,6 @@ lineid_to_name = {
     "central": "Central",
     "circle": "Circle",
     "district": "District",
-    "dlr": "DLR",
     "elizabeth": "Elizabeth line",
     "hammersmith-city": "Hammersmith & City",
     "jubilee": "Jubilee",
@@ -17,13 +16,37 @@ lineid_to_name = {
     "piccadilly": "Piccadilly",
     "victoria": "Victoria",
     "waterloo-city": "Waterloo & City",
+    "dlr": "DLR",
     "liberty": "Liberty line",
-    "windrush": "Windrush line",
     "lioness": "Lioness line",
     "mildmay": "Mildmay line",
-    "weaver": "Weaver line",
     "suffragette": "Suffragette line",
+    "weaver": "Weaver line",
+    "windrush": "Windrush line",
 }
+
+lineid_to_colour = {
+    "bakerloo": "#B36305",
+    "central": "#E32017",
+    "circle": "#FFD300",
+    "district": "#00782A",
+    "elizabeth": "#6950A1",
+    "hammersmith-city": "#F3A9BB",
+    "jubilee": "#A0A5A9",
+    "metropolitan": "#9B0056",
+    "northern": "#000000",
+    "piccadilly": "#003688",
+    "victoria": "#0098D4",
+    "waterloo-city": "#95CDBA",
+    "dlr": "#00A4A7",
+    "liberty": "#5F696F",
+    "lioness": "#FDB931",
+    "mildmay": "#328CCB",
+    "suffragette": "#36B560",
+    "weaver": "#CB4D8F",
+    "windrush": "#EE2E2C",
+}
+
 
 all_lineids = list(lineid_to_name.keys())
 
