@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-16T13:02:18&endDate=2025-02-17T01:29:00">Disruption map.</a>\n\nCentral Line: Minor delays due to an earlier signal failure at Stratford. 
+DTEND:20250217T012900Z
+DTSTART:20250216T130218Z
+SUMMARY:Central: Minor Delays
+UID:5bc82cff-cbf3-4e21-bd8a-c979e2a42f98@5bc8.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-22T04:30:00&endDate=2025-02-24T01:29:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 22 and Sunday 23 February\, no service between Leytonstone and Hainault (via Newbury Park). Replacement buses operate: Service CL4 Leytonstone - Newbury Park via Wanstead\, Redbridge and Gants Hill and Service CL6 Newbury Park - Hainault via Barkingside and Fullwell Cross (for Fairlop).
 DTEND:20250224T012900Z
 DTSTART:20250222T043000Z
 SUMMARY:Central: Part Closure
-UID:9743c20d-3910-4c36-8428-099a890ddbef@9743.org
+UID:6da5652d-5939-407f-955a-6c2da4e52747@6da5.org
 END:VEVENT
 END:VCALENDAR
