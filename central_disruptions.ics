@@ -3,10 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-15T04:30:00&endDate=2025-03-17T01:29:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 15 and Sunday 16 March\, no service between Leytonstone and Epping / Hainault (via Woodford). Replacement buses operate.
+DTEND:20250317T012900Z
+DTSTART:20250315T043000Z
+SUMMARY:Central: Part Closure
+UID:01e772fc-e816-4eee-a9aa-6379cc86973c@01e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-01T04:30:00&endDate=2025-03-03T01:29:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 1 and Sunday 2 March\, no service between North Acton and West Ruislip.
+DTEND:20250303T012900Z
+DTSTART:20250301T043000Z
+SUMMARY:Central: Part Closure
+UID:4f5e9276-f4bb-4727-bca4-1e3348ce102c@4f5e.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-22T04:30:00&endDate=2025-02-24T01:29:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 22 and Sunday 23 February\, no service between Leytonstone and Hainault (via Newbury Park). Replacement buses operate: Service CL4 Leytonstone - Newbury Park via Wanstead\, Redbridge and Gants Hill and Service CL6 Newbury Park - Hainault via Barkingside and Fullwell Cross (for Fairlop).
 DTEND:20250224T012900Z
 DTSTART:20250222T043000Z
 SUMMARY:Central: Part Closure
-UID:78818482-ed2b-4825-b3e0-0685aecd68a2@7881.org
+UID:424f3f5a-0bed-4514-8237-ded4b0801305@424f.org
 END:VEVENT
 END:VCALENDAR
