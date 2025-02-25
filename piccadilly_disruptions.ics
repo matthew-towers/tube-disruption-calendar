@@ -3,24 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-08T04:30:00&endDate=2025-03-10T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 8\, from 0430 and all day Sunday 9 March\, no service between Wood Green and Cockfosters. Replacement bus service PL5 operates between Wood Green and Cockfosters via Bounds Green\, Arnos Grove\, Southgate and Oakwood.
-DTEND:20250310T012900Z
-DTSTART:20250308T043000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-22T04:30:00&endDate=2025-03-24T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 22 and Sunday 23 March\, no service between Acton Town and Uxbridge. Use Metropolitan line services between Rayners Lane and Uxbridge
+DTEND:20250324T012900Z
+DTSTART:20250322T043000Z
 SUMMARY:Piccadilly: Part Closure
-UID:d8479570-cd06-4ab2-96dd-7a6db71dd35a@d847.org
+UID:4515b9af-da8a-46c5-88c0-b02fd2de98d6@4515.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-08T01:00:00&endDate=2025-03-08T04:30:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 8 March\, between 0100 and 0430\, no service between Kings Cross St Pancras and Cockfosters. Use Victoria line services between Kings Cross St Pancras and Finsbury Park. Replacement bus service PL5 operates between Finsbury Park and Cockfosters via Manor House\, Turnpike Lane\, Wood Green\, Bounds Green\, Arnos Grove\, Southgate and Oakwood.
 DTEND:20250308T043000Z
 DTSTART:20250308T010000Z
 SUMMARY:Piccadilly: Part Closure
-UID:716e50cc-364a-491d-b698-34a767da21b8@716e.org
+UID:28b0cf0f-dbf2-4ace-89bb-f5935f30b4de@28b0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-22T04:30:00&endDate=2025-03-24T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 22 and Sunday 23 March\, no service between Acton Town and Uxbridge. Use Metropolitan line services between Rayners Lane and Uxbridge
-DTEND:20250324T012900Z
-DTSTART:20250322T043000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-25T06:31:19&endDate=2025-02-26T01:29:00">Disruption map.</a>\n\nPiccadilly Line: Severe delays following a late finish of engineering work at Acton Town. Tickets are being accepted on London Buses\, the Weaver line\, the Elizabeth line\, South Western Railway and Great Northern. 
+DTEND:20250226T012900Z
+DTSTART:20250225T063119Z
+SUMMARY:Piccadilly: Severe Delays
+UID:c20f0bad-6bf3-497c-9c10-1531e21e5589@c20f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-08T04:30:00&endDate=2025-03-10T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 8\, from 0430 and all day Sunday 9 March\, no service between Wood Green and Cockfosters. Replacement bus service PL5 operates between Wood Green and Cockfosters via Bounds Green\, Arnos Grove\, Southgate and Oakwood.
+DTEND:20250310T012900Z
+DTSTART:20250308T043000Z
 SUMMARY:Piccadilly: Part Closure
-UID:10653bb6-76b5-41a3-b264-7bb3425ea095@1065.org
+UID:ac398818-3d05-426e-8d6a-fb21f3310e6d@ac39.org
 END:VEVENT
 END:VCALENDAR
