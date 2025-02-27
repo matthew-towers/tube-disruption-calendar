@@ -3,24 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-02-26T07:55:53&endDate=2025-02-27T01:29:00">Disruption map.</a>\n\nCentral Line: Minor delays due to a shortage of trains. 
-DTEND:20250227T012900Z
-DTSTART:20250226T075553Z
-SUMMARY:Central: Minor Delays
-UID:f5716707-88bf-48a8-8d9e-152abff6e64e@f571.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-01T04:30:00&endDate=2025-03-03T01:29:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 1 and Sunday 2 March\, no service between North Acton and West Ruislip. Replacement buses operate.
+DTEND:20250303T012900Z
+DTSTART:20250301T043000Z
+SUMMARY:Central: Part Closure
+UID:16d031bb-d419-4367-b790-4b4e430597d8@16d0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-15T04:30:00&endDate=2025-03-17T01:29:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 15 and Sunday 16 March\, no service between Leytonstone and Epping / Hainault (via Woodford). Replacement buses operate.
 DTEND:20250317T012900Z
 DTSTART:20250315T043000Z
 SUMMARY:Central: Part Closure
-UID:27d79cdf-72fa-4579-b60c-286f610f0b35@27d7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-01T04:30:00&endDate=2025-03-03T01:29:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 1 and Sunday 2 March\, no service between North Acton and West Ruislip. Replacement buses operate.
-DTEND:20250303T012900Z
-DTSTART:20250301T043000Z
-SUMMARY:Central: Part Closure
-UID:656fab1f-c20b-4c3c-b086-12d83c7cefbf@656f.org
+UID:162fa69c-6f50-46da-b5d9-0ebfb6439862@162f.org
 END:VEVENT
 END:VCALENDAR

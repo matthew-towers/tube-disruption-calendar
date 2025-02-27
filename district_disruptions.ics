@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-01T04:30:00&endDate=2025-03-03T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 1 and Sunday 2 March\, no service between Earls Court and Kensington Olympia. Replacement buses operate.
-DTEND:20250303T012900Z
-DTSTART:20250301T043000Z
-SUMMARY:District: Part Closure
-UID:95c13eea-59ab-40fb-b2af-0a03df12df4b@95c1.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-22T04:30:00&endDate=2025-03-24T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 22 and Sunday 23 March\, no service between Turnham Green and Ealing Broadway.
 DTEND:20250324T012900Z
 DTSTART:20250322T043000Z
 SUMMARY:District: Part Closure
-UID:ee9fadae-ab39-46b2-8d92-a90da98f9ade@ee9f.org
+UID:4d979edf-7974-4975-8c32-bf5b5f905cd7@4d97.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-01T04:30:00&endDate=2025-03-03T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 1 and Sunday 2 March\, no service between Barking and Upminster. Please note c2c services will not operate between Barking and Upminster on this weekend. A limited Fenchurch Street to Shoeburyness service operates via Stratford\, Barking and stations via Rainham. Replacement buses operate: Service DL7: Barking - Dagenham East via Upney\, Becontree and Dagenham Heathway. Service DL8: Barking - Upminster via Dagenham East\, Elm Park\, Hornchurch and Upminster Bridge.
 DTEND:20250303T012900Z
 DTSTART:20250301T043000Z
 SUMMARY:District: Part Closure
-UID:060b5976-66a5-446a-aaaa-2695ebd1a835@060b.org
+UID:c3fa6225-1e27-4961-b2e9-c15578f9a3e9@c3fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-01T04:30:00&endDate=2025-03-03T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 1 and Sunday 2 March\, no service between Earls Court and Kensington Olympia. Replacement buses operate.
+DTEND:20250303T012900Z
+DTSTART:20250301T043000Z
+SUMMARY:District: Part Closure
+UID:749e1982-3262-4a24-b508-023a4d3f80ef@749e.org
 END:VEVENT
 END:VCALENDAR
