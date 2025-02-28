@@ -3,31 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-06T03:30:00&endDate=2025-04-07T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Sunday 6 April\, no service between Richmond and Turnham Green. There is also no MILDMAY LINE service between Richmond and Willesden Junction. Replacement bus service DL3 operates between Richmond and Willesden Junction via Kew Gardens (Royal Botanic Gardens)\, Gunnersbury\, Chiswick Park\, Turnham Green\, South Acton (Acton Lane) and Acton Central.
-DTEND:20250407T002900Z
-DTSTART:20250406T033000Z
-SUMMARY:District: Part Closure
-UID:239836a4-e6a4-4e02-8d51-c3e17a518d43@2398.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-01T04:30:00&endDate=2025-03-03T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 1 and Sunday 2 March\, no service between Earls Court and Kensington Olympia. Replacement buses operate.
 DTEND:20250303T012900Z
 DTSTART:20250301T043000Z
 SUMMARY:District: Part Closure
-UID:c3ad2190-65d5-4cea-b0af-4b96b1dbd6b4@c3ad.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-01T04:30:00&endDate=2025-03-03T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 1 and Sunday 2 March\, no service between Barking and Upminster. Please note c2c services will not operate between Barking and Upminster on this weekend. A limited Fenchurch Street to Shoeburyness service operates via West Ham\, Barking and stations via Rainham. Replacement buses operate: Service DL7: Barking - Dagenham East via Upney\, Becontree and Dagenham Heathway. Service DL8: Barking - Upminster via Dagenham East\, Elm Park\, Hornchurch and Upminster Bridge.
-DTEND:20250303T012900Z
-DTSTART:20250301T043000Z
-SUMMARY:District: Part Closure
-UID:b894deec-d013-4a84-89e9-925bfc8e1110@b894.org
+UID:5e41dc90-0d68-4f3d-9dbd-ffdef880957a@5e41.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-22T04:30:00&endDate=2025-03-24T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 22 and Sunday 23 March\, no service between Turnham Green and Ealing Broadway.
 DTEND:20250324T012900Z
 DTSTART:20250322T043000Z
 SUMMARY:District: Part Closure
-UID:a8162cbe-c242-4cdc-a81d-0c6909cc9ef9@a816.org
+UID:bc0edcbe-94bf-402b-810f-96907cf303c0@bc0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-06T03:30:00&endDate=2025-04-07T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Sunday 6 April\, no service between Richmond and Turnham Green. There is also no MILDMAY LINE service between Richmond and Willesden Junction. Replacement bus service DL3 operates between Richmond and Willesden Junction via Kew Gardens (Royal Botanic Gardens)\, Gunnersbury\, Chiswick Park\, Turnham Green\, South Acton (Acton Lane) and Acton Central.
+DTEND:20250407T002900Z
+DTSTART:20250406T033000Z
+SUMMARY:District: Part Closure
+UID:eaa9c624-17b2-417a-908d-8a6246644a22@eaa9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-01T04:30:00&endDate=2025-03-03T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 1 and Sunday 2 March\, no service between Barking and Upminster. Please note c2c services will not operate between Barking and Upminster on this weekend. A limited Fenchurch Street to Shoeburyness service operates via West Ham\, Barking and stations via Rainham. Replacement buses operate: Service DL7: Barking - Dagenham East via Upney\, Becontree and Dagenham Heathway. Service DL8: Barking - Upminster via Dagenham East\, Elm Park\, Hornchurch and Upminster Bridge.
+DTEND:20250303T012900Z
+DTSTART:20250301T043000Z
+SUMMARY:District: Part Closure
+UID:f0507ff9-7843-4265-ae7f-3cbf29c9d1a7@f050.org
 END:VEVENT
 END:VCALENDAR
