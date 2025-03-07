@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Bakerloo disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-07T10:26:06&endDate=2025-03-08T01:29:00">Disruption map.</a>\n\nBakerloo Line: Minor delays due to an earlier faulty train at Lambeth North. 
+DTEND:20250308T012900Z
+DTSTART:20250307T102606Z
+SUMMARY:Bakerloo: Minor Delays
+UID:0fe3927f-27b7-42b3-9f64-6af82dbe3022@0fe3.org
+END:VEVENT
 END:VCALENDAR
