@@ -3,38 +3,38 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-08T01:00:00&endDate=2025-03-08T04:30:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 8 March\, between 0100 and 0430\, no service between Kings Cross St Pancras and Cockfosters. Use Victoria line services between Kings Cross St Pancras and Finsbury Park. Replacement bus service PL5 operates between Finsbury Park and Cockfosters via Manor House\, Turnpike Lane\, Wood Green\, Bounds Green\, Arnos Grove\, Southgate and Oakwood.
-DTEND:20250308T043000Z
-DTSTART:20250308T010000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-18T03:30:00&endDate=2025-04-22T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Good Friday 18\, Saturday 19\, Sunday 20 and Easter Monday 21 April\, no service between Acton Town and Uxbridge. Use Metropolitan line services between Rayners Lane and Uxbridge
+DTEND:20250422T002900Z
+DTSTART:20250418T033000Z
 SUMMARY:Piccadilly: Part Closure
-UID:40c7a03b-f06d-41f2-ab18-5ab89be9008f@40c7.org
+UID:f4c70981-da31-447c-85e6-914445626f0c@f4c7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-08T04:30:00&endDate=2025-03-10T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 8\, from 0430 and all day Sunday 9 March\, no service between Wood Green and Cockfosters. Replacement bus service PL5 operates between Wood Green and Cockfosters via Bounds Green\, Arnos Grove\, Southgate and Oakwood.
-DTEND:20250310T012900Z
-DTSTART:20250308T043000Z
-SUMMARY:Piccadilly: Part Closure
-UID:5d59479d-3a70-4324-afab-a270fd227aa9@5d59.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-08T12:22:44&endDate=2025-03-09T01:29:00">Disruption map.</a>\n\nPiccadilly Line: There is no service between Wood Green and Cockfosters and between Rayners Lane and Uxbridge due to planned engineering work. SERVERE DELAYS between Acton Town and Rayners Lane/Heathrow Airport while we fix a signal failure at Turnham Green. MINOR DELAYS to the rest of the line. Tickets are being accepted on London Buses via any reasonable route. 
+DTEND:20250309T012900Z
+DTSTART:20250308T122244Z
+SUMMARY:Piccadilly: Severe Delays
+UID:b03d9290-4502-4a44-acaf-73cc15753f06@b03d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-22T04:30:00&endDate=2025-03-24T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 22 and Sunday 23 March\, no service between Acton Town and Uxbridge. Use Metropolitan line services between Rayners Lane and Uxbridge
 DTEND:20250324T012900Z
 DTSTART:20250322T043000Z
 SUMMARY:Piccadilly: Part Closure
-UID:283ff066-e276-4b85-91e2-77b47d256b54@283f.org
+UID:a26e5e3a-5b74-4c24-a605-eb6c3fb3143b@a26e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-08T04:30:00&endDate=2025-03-10T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 8\, from 0430 and all day Sunday 9 March\, no service between Wood Green and Cockfosters. Replacement bus service PL5 operates between Wood Green and Cockfosters via Bounds Green\, Arnos Grove\, Southgate and Oakwood.
+DTEND:20250310T012900Z
+DTSTART:20250308T043000Z
+SUMMARY:Piccadilly: Part Closure
+UID:7a63c50b-95df-4ef9-9375-48ae97a9997b@7a63.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-08T04:30:00&endDate=2025-03-10T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 8 and Sunday 9 March\, no service between Rayners Lane and Uxbridge. Please use Metropolitan line services.
 DTEND:20250310T012900Z
 DTSTART:20250308T043000Z
 SUMMARY:Piccadilly: Part Closure
-UID:ff91cf77-5e0c-496d-a8ba-9205893f799a@ff91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-18T03:30:00&endDate=2025-04-22T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Good Friday 18\, Saturday 19\, Sunday 20 and Easter Monday 21 April\, no service between Acton Town and Uxbridge. Use Metropolitan line services between Rayners Lane and Uxbridge
-DTEND:20250422T002900Z
-DTSTART:20250418T033000Z
-SUMMARY:Piccadilly: Part Closure
-UID:dbc28dd3-9c6b-43ae-bbcb-18009ade1bc6@dbc2.org
+UID:640d1c81-df08-4235-8c43-fb2a00590308@640d.org
 END:VEVENT
 END:VCALENDAR
