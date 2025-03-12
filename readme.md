@@ -1,12 +1,14 @@
 # Tube disruption calendar
 
-A Python script that uses the TFL API  to produce an `ics` calendar of planned disruption on specified tube or Overground lines, suitable for importing into Google Calendar or similar. According to [this Medium post from 2016](https://medium.com/@ed.sparkes/a-tube-planned-works-calendar-91c7a483c3c4) there used to be a similar service available at [tubecal.uk](http://tubecal.uk/) but it is gone now.
+A Python script that uses the [TfL API](https://tfl.gov.uk/info-for/open-data-users/unified-api?intcmp=29422)  to produce an `ics` calendar of planned disruption on specified tube or Overground lines, suitable for importing into Google Calendar or similar. According to [this Medium post from 2016](https://medium.com/@ed.sparkes/a-tube-planned-works-calendar-91c7a483c3c4) there used to be a similar service available at [tubecal.uk](http://tubecal.uk/) but it is gone now.
 
-Calendar events include a link to the TFL disruption map for their date and time so that you can see the affected area on the tube map -- usually they just list the start and end station of the affected area, so this lets you see all affected stations.
+Calendar events include a link to the TfL disruption map for their date and time so that you can see the affected area on the tube map -- usually they just list the start and end station of the affected area, so this lets you see all affected stations.
+
+"Powered by TfL Open Data"
 
 ## Instructions
 
-I have made these available as shared Google Calendars.  Either click the Google Calendar link and add it to your calendar, or right-click/long press the ics file link, copy it, and import it into your calendar app of choice. You'll want to set the colour of the calendar to the official TFL colour for the line, so I've provided the hex codes. The calendars go 60 days into the future and are updated daily.
+I have made these available as shared Google Calendars.  Either click the Google Calendar link and add it to your calendar, or right-click/long press the ics file link, copy it, and import it into your calendar app of choice. You'll want to make calendar the correct colour so I've provided the hex codes for the colours used by TfT. The calendars go 60 days into the future and are updated daily.
 
 ## Calendars
 
