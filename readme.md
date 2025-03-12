@@ -8,7 +8,7 @@ Calendar events include a link to the TfL disruption map for their date and time
 
 ## Instructions
 
-I have made these available as shared Google Calendars.  Either click the Google Calendar link and add it to your calendar, or right-click/long press the ics file link, copy it, and import it into your calendar app of choice. You'll want to make calendar the correct colour so I've provided the hex codes for the colours used by TfT. The calendars go 60 days into the future and are updated daily.
+I have made these available as shared Google Calendars.  Either click the Google Calendar link and add it to your calendar, or right-click/long press the ics file link, copy it, and import it into your calendar app of choice. You'll want to make calendar the correct colour so I've provided the hex codes for the colours used by TfL. The calendars go 60 days into the future and are updated daily.
 
 ## Calendars
 
