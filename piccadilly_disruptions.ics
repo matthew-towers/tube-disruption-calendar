@@ -3,24 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-12T10:04:37&endDate=2025-03-13T01:29:00">Disruption map.</a>\n\nPiccadilly Line: Minor delays due to a track fault Cockfosters. 
-DTEND:20250313T012900Z
-DTSTART:20250312T100437Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-13T07:41:36&endDate=2025-03-14T01:29:00">Disruption map.</a>\n\nPiccadilly Line: Minor delays between Acton Town and Uxbridge / Heathrow Airport and between Arnos Grove and Cockfosters while we fix a fault with the track at Cockfosters. GOOD SERVICE on the rest of the line. 
+DTEND:20250314T012900Z
+DTSTART:20250313T074136Z
 SUMMARY:Piccadilly: Minor Delays
-UID:a57c321d-9b8d-4b09-8c4c-e06304a8cdf6@a57c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-22T04:30:00&endDate=2025-03-24T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 22 and Sunday 23 March\, no service between Acton Town and Uxbridge. Use Metropolitan line services between Rayners Lane and Uxbridge
-DTEND:20250324T012900Z
-DTSTART:20250322T043000Z
-SUMMARY:Piccadilly: Part Closure
-UID:371f147a-aa72-4b7a-9aa8-f70a9ed3b87c@371f.org
+UID:a0ef00d6-c0ee-4831-9c6a-b5844da853db@a0ef.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-18T03:30:00&endDate=2025-04-22T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Good Friday 18\, Saturday 19\, Sunday 20 and Easter Monday 21 April\, no service between Acton Town and Uxbridge. Use Metropolitan line services between Rayners Lane and Uxbridge
 DTEND:20250422T002900Z
 DTSTART:20250418T033000Z
 SUMMARY:Piccadilly: Part Closure
-UID:f22e7925-9db1-44c6-90a6-6a43d461075c@f22e.org
+UID:19dcebb0-e850-43cb-b116-2f4e463a02f5@19dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-22T04:30:00&endDate=2025-03-24T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 22 and Sunday 23 March\, no service between Acton Town and Uxbridge. Use Metropolitan line services between Rayners Lane and Uxbridge
+DTEND:20250324T012900Z
+DTSTART:20250322T043000Z
+SUMMARY:Piccadilly: Part Closure
+UID:8696f2a0-dd4f-47d4-87bd-10b5209186fb@8696.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-13T07:41:37&endDate=2025-03-14T01:29:00">Disruption map.</a>\n\nPiccadilly Line: Minor delays between Acton Town and Uxbridge / Heathrow Airport and between Arnos Grove and Cockfosters while we fix a fault with the track at Cockfosters. GOOD SERVICE on the rest of the line. 
+DTEND:20250314T012900Z
+DTSTART:20250313T074137Z
+SUMMARY:Piccadilly: Minor Delays
+UID:f36dd65d-1994-4750-98aa-17d4aab81fac@f36d.org
 END:VEVENT
 END:VCALENDAR
