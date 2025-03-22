@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-22T04:30:00&endDate=2025-03-24T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 22 and Sunday 23 March\, no service between Acton Town and Uxbridge. Use Metropolitan line services between Rayners Lane and Uxbridge
-DTEND:20250324T012900Z
-DTSTART:20250322T043000Z
-SUMMARY:Piccadilly: Part Closure
-UID:260fc9d2-f280-4a24-aaed-351b9e3774f4@260f.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-18T03:30:00&endDate=2025-04-22T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Good Friday 18\, Saturday 19\, Sunday 20 and Easter Monday 21 April\, no service between Acton Town and Uxbridge. Use Metropolitan line services between Rayners Lane and Uxbridge
 DTEND:20250422T002900Z
 DTSTART:20250418T033000Z
 SUMMARY:Piccadilly: Part Closure
-UID:0af6c71b-660f-4896-a644-22f4064b99cd@0af6.org
+UID:0ab49be3-d033-474a-a7cc-054f917481b0@0ab4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-22T04:30:00&endDate=2025-03-24T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 22 and Sunday 23 March\, no service between Acton Town and Uxbridge. Use Metropolitan line services between Rayners Lane and Uxbridge
+DTEND:20250324T012900Z
+DTSTART:20250322T043000Z
+SUMMARY:Piccadilly: Part Closure
+UID:78352072-7234-4bfc-a943-5d1bd928cf6f@7835.org
 END:VEVENT
 END:VCALENDAR
