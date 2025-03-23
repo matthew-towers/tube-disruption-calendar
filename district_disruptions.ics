@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-23T09:22:43&endDate=2025-03-23T12:39:37">Disruption map.</a>\n\nDistrict Line: No service between Earl's Court and Ealing Broadway / Richmond due to a signal systems failure. Tickets are being accepted on London Buses\, Mildmay Line and Southwestern Railway services via reasonable routes. GOOD SERVICE on the rest of the line. 
+DTEND:20250323T123937Z
+DTSTART:20250323T092243Z
+SUMMARY:District: Part Suspended
+UID:f4a2eae6-9158-449b-b18e-69476cbe8aa8@f4a2.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-06T03:30:00&endDate=2025-04-07T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Sunday 6 April\, no service between Richmond and Turnham Green. There is also no MILDMAY LINE service between Richmond and Willesden Junction. Replacement bus service DL3 operates between Richmond and Willesden Junction via Kew Gardens (Royal Botanic Gardens)\, Gunnersbury\, Chiswick Park\, Turnham Green\, South Acton (Acton Lane) and Acton Central.
 DTEND:20250407T002900Z
 DTSTART:20250406T033000Z
 SUMMARY:District: Part Closure
-UID:495ea861-113b-41b9-9a98-3be77a823837@495e.org
+UID:e1a0066f-0deb-427d-91dd-7eb9973a1887@e1a0.org
 END:VEVENT
 END:VCALENDAR
