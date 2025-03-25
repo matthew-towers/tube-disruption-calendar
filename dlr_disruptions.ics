@@ -3,38 +3,38 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-29T04:30:00&endDate=2025-03-31T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 29 and Sunday 30 March\, no service between Poplar / Stratford International and Beckton / Woolwich Arsenal. Use ELIZABETH LINE services between Custom House and Woolwich. Replacement buses operate.
-DTEND:20250331T002900Z
-DTSTART:20250329T043000Z
-SUMMARY:DLR: Part Closure
-UID:0dc3df7d-72c8-4bda-9da7-21534a51da6f@0dc3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-11T03:30:00&endDate=2025-04-12T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Friday 11 April\, a reduced service operates throughout the network.
-DTEND:20250412T002900Z
-DTSTART:20250411T033000Z
-SUMMARY:DLR: Reduced Service
-UID:9901861b-3994-4dff-9b4f-bd8e5ee9a6d4@9901.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-18T03:30:00&endDate=2025-04-22T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Good Friday 18\, Saturday 19\, Sunday 20 and Easter Monday 21 April\, no service between Tower Gateway and Shadwell.
 DTEND:20250422T002900Z
 DTSTART:20250418T033000Z
 SUMMARY:DLR: Part Closure
-UID:b69a7d19-d100-47bb-a7c8-357d1709f19b@b69a.org
+UID:b857002a-dacc-4626-9ae6-f053d6f82a67@b857.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-18T03:30:00&endDate=2025-04-22T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Good Friday 18\, Saturday 19\, Sunday 20 and Easter Monday 21 April\, no service between Westferry / West India Quay and Stratford / Canning Town.
 DTEND:20250422T002900Z
 DTSTART:20250418T033000Z
 SUMMARY:DLR: Part Closure
-UID:029e35aa-f454-48da-92fd-d602f0ec5cd5@029e.org
+UID:40835bf0-04ce-47e2-83eb-f6341da5a72a@4083.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-11T03:30:00&endDate=2025-04-12T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Friday 11 April\, a reduced service operates throughout the network.
+DTEND:20250412T002900Z
+DTSTART:20250411T033000Z
+SUMMARY:DLR: Reduced Service
+UID:3a9d8e92-5bdf-4788-aa23-a7258049a7a9@3a9d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-05T03:30:00&endDate=2025-04-07T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 5 and Sunday 6 April\, no service between Bank / Tower Gateway / Stratford and Lewisham / Canning Town (via Poplar). Trains continue to operate between Stratford International\, Canning Town and Beckton / King George V. Use Jubilee line connections between Canary Wharf and Canada Water. Replacement buses operate.
 DTEND:20250407T002900Z
 DTSTART:20250405T033000Z
 SUMMARY:DLR: Part Closure
-UID:f8a5717c-db1b-40fe-b206-266cffe4490c@f8a5.org
+UID:e0d95763-9c61-4721-a9c8-94821d3c616c@e0d9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-29T04:30:00&endDate=2025-03-31T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 29 and Sunday 30 March\, no service between Poplar / Stratford International and Beckton / Woolwich Arsenal. Use ELIZABETH LINE services between Custom House and Woolwich. Replacement buses operate.
+DTEND:20250331T002900Z
+DTSTART:20250329T043000Z
+SUMMARY:DLR: Part Closure
+UID:6ea1884a-71fb-48b0-9ad6-a5fea148a988@6ea1.org
 END:VEVENT
 END:VCALENDAR

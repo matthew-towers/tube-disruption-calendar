@@ -3,101 +3,108 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Windrush line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-16T23:00:00&endDate=2025-04-17T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 14\, Tuesday 15\, Wednesday 16 and Thursday 17 April\, the last train from New Cross Gate to West Croydon at 2355 will not run. The last train from New Cross Gate to Crystal Palace at 0004 will not run. Customers should use the previous trains at 2340 (for West Croydon) and at 2349 (for Crystal Palace).
-DTEND:20250417T002900Z
-DTSTART:20250416T230000Z
-SUMMARY:Windrush line: Reduced Service
-UID:b1fc8ffe-8390-4c8c-b4d8-6071bf691f2c@b1fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-15T23:00:00&endDate=2025-04-16T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 14\, Tuesday 15\, Wednesday 16 and Thursday 17 April\, the last train from New Cross Gate to West Croydon at 2355 will not run. The last train from New Cross Gate to Crystal Palace at 0004 will not run. Customers should use the previous trains at 2340 (for West Croydon) and at 2349 (for Crystal Palace).
-DTEND:20250416T002900Z
-DTSTART:20250415T230000Z
-SUMMARY:Windrush line: Reduced Service
-UID:4b6932ab-470b-4db6-8e6a-4a65306bb0e3@4b69.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-18T03:30:00&endDate=2025-04-22T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Good Friday 18\, Saturday 19\, Sunday 20 and Easter Monday 21 April\, no service between Surrey Quays and Clapham Junction / Battersea Park. Replacement bus service M operates between Canada Water and Clapham Junction via Surrey Quays\, Queens Road Peckham\, Peckham Rye\, Denmark Hill\, Clapham High Street and Wandsworth Road
+DTEND:20250422T002900Z
+DTSTART:20250418T033000Z
+SUMMARY:Windrush line: Part Closure
+UID:e51d2860-1daf-4e47-9dbf-477f905731db@e51d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-21T21:15:00&endDate=2025-04-21T21:55:00">Disruption map.</a>\n\nWINDRUSH LINE: Easter Monday 21 April\, the 2202 train from Highbury & Islington to West Croydon will terminate at New Cross Gate
 DTEND:20250421T215500Z
 DTSTART:20250421T211500Z
 SUMMARY:Windrush line: Reduced Service
-UID:06afdff7-46d3-4ca5-9a1b-7ef241243804@06af.org
+UID:d14d694c-2a66-4d1e-a826-1cd3448859bf@d14d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-17T22:30:00&endDate=2025-04-17T22:59:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 14\, Tuesday 15\, Wednesday 16 and Thursday 17 April\, the last train from New Cross Gate to West Croydon at 2355 will not run. The last train from New Cross Gate to Crystal Palace at 0004 will not run. Customers should use the previous trains at 2340 (for West Croydon) and at 2349 (for Crystal Palace).
-DTEND:20250417T225900Z
-DTSTART:20250417T223000Z
-SUMMARY:Windrush line: Reduced Service
-UID:4df70b58-6b6d-4b7f-8c06-34db4815ec30@4df7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-18T03:30:00&endDate=2025-04-22T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Good Friday 18\, Saturday 19\, Sunday 20 and Easter Monday 21 April\, no service between Surrey Quays and Clapham Junction / Battersea Park. Replacement bus service M operates between Canada Water and Clapham Junction via Surrey Quays\, Queens Road Peckham\, Peckham Rye\, Denmark Hill\, Clapham High Street and Wandsworth Road
-DTEND:20250422T002900Z
-DTSTART:20250418T033000Z
-SUMMARY:Windrush line: Part Closure
-UID:8f7f8f94-fad6-41ca-9833-114cd63995fd@8f7f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-30T03:30:00&endDate=2025-03-31T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 30 March\, no service between Surrey Quays and Clapham Junction / Battersea Park. Replacement bus service M operates between Canada Water and Clapham Junction via Surrey Quays\, Queens Road Peckham\, Peckham Rye\, Denmark Hill\, Clapham High Street and Wandsworth Road
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-30T03:30:00&endDate=2025-03-31T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 30 March\, no service between Surrey Quays and New Cross. Customers should use Windrush line services to New Cross Gate\, then walk or use local bus routes 53\, 177 or 453
 DTEND:20250331T002900Z
 DTSTART:20250330T033000Z
 SUMMARY:Windrush line: Part Closure
-UID:fd77daa5-05df-4ad9-94df-ee67d599ce2b@fd77.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-06T21:15:00&endDate=2025-04-07T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 6 April\, from 2215\, no service between Highbury & Islington and Dalston Junction. Rail replacement buses will run as follows: Service S: Highbury & Islington - Canonbury (St Paul's Road) - Dalston Junction. Alternatively\, use local bus route 30 between Highbury & Islington\, Canonbury and Dalston. Last through trains are at 2219 from Highbury & Islington to Dalston Junction and at 2210 Dalston Junction to Highbury & Islington. A later train runs from Dalston Kingsland to Highbury & Islington at 2218. In addition\, trains at 2159 and 2229 from New Cross to Dalston Junction will not run.
-DTEND:20250407T002900Z
-DTSTART:20250406T211500Z
-SUMMARY:Windrush line: Part Closure
-UID:c24173e9-dc5f-47c8-9655-7d620844accc@c241.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-14T22:30:00&endDate=2025-04-14T22:59:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 14\, Tuesday 15\, Wednesday 16 and Thursday 17 April\, the last train from New Cross Gate to West Croydon at 2355 will not run. The last train from New Cross Gate to Crystal Palace at 0004 will not run. Customers should use the previous trains at 2340 (for West Croydon) and at 2349 (for Crystal Palace).
-DTEND:20250414T225900Z
-DTSTART:20250414T223000Z
-SUMMARY:Windrush line: Reduced Service
-UID:17687889-75bf-4ebc-956a-bccef7746488@1768.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-16T22:30:00&endDate=2025-04-16T22:59:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 14\, Tuesday 15\, Wednesday 16 and Thursday 17 April\, the last train from New Cross Gate to West Croydon at 2355 will not run. The last train from New Cross Gate to Crystal Palace at 0004 will not run. Customers should use the previous trains at 2340 (for West Croydon) and at 2349 (for Crystal Palace).
-DTEND:20250416T225900Z
-DTSTART:20250416T223000Z
-SUMMARY:Windrush line: Reduced Service
-UID:feda7ea0-9016-4de4-b83b-38479354c2ab@feda.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-17T23:00:00&endDate=2025-04-18T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 14\, Tuesday 15\, Wednesday 16 and Thursday 17 April\, the last train from New Cross Gate to West Croydon at 2355 will not run. The last train from New Cross Gate to Crystal Palace at 0004 will not run. Customers should use the previous trains at 2340 (for West Croydon) and at 2349 (for Crystal Palace).
-DTEND:20250418T002900Z
-DTSTART:20250417T230000Z
-SUMMARY:Windrush line: Reduced Service
-UID:5079806d-d2fc-4dbc-b7e3-cc29e4d7b2f5@5079.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-30T00:30:00&endDate=2025-03-31T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 30 March\, from 0030 (including Night service)\, no service between Highbury & Islington and Dalston Junction. Use local bus route 30 between Highbury & Islington\, Canonbury and Dalston Junction. Last through trains are at 0040 from Highbury & Islington to Dalston Junction and at 0027 Dalston Junction to Highbury & Islington. During the day\, replacement bus service S operates between Camden Road and Stratford via Highbury & Islington\, Canonbury and Dalston Kingsland.
-DTEND:20250331T002900Z
-DTSTART:20250330T003000Z
-SUMMARY:Windrush line: Part Closure
-UID:d90bc06f-c354-4f62-9c2a-8e953390aaad@d90b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-14T23:00:00&endDate=2025-04-15T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 14\, Tuesday 15\, Wednesday 16 and Thursday 17 April\, the last train from New Cross Gate to West Croydon at 2355 will not run. The last train from New Cross Gate to Crystal Palace at 0004 will not run. Customers should use the previous trains at 2340 (for West Croydon) and at 2349 (for Crystal Palace).
-DTEND:20250415T002900Z
-DTSTART:20250414T230000Z
-SUMMARY:Windrush line: Reduced Service
-UID:0c02c8e8-0904-4205-868b-9addab02438f@0c02.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-15T22:30:00&endDate=2025-04-15T22:59:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 14\, Tuesday 15\, Wednesday 16 and Thursday 17 April\, the last train from New Cross Gate to West Croydon at 2355 will not run. The last train from New Cross Gate to Crystal Palace at 0004 will not run. Customers should use the previous trains at 2340 (for West Croydon) and at 2349 (for Crystal Palace).
-DTEND:20250415T225900Z
-DTSTART:20250415T223000Z
-SUMMARY:Windrush line: Reduced Service
-UID:6e75b126-3801-4b6f-b0d8-263e677dcb6f@6e75.org
+UID:5c02bc03-0ee5-4d2c-9724-0338b4a8ddaa@5c02.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-21T22:30:00&endDate=2025-04-22T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Easter Monday 21 April\, from 2330\, no southbound service from Sydenham to West Croydon. The last two trains to West Croydon\, from Highbury & Islington (2317) and from Dalston Junction (2338) are diverted to Crystal Palace. Rail replacement bus (Operated by Southern Railway) departs Sydenham at 0100 and runs as follows: Sydenham - Penge West - Anerley - Norwood Junction (Set down only) - Selhurst (Set down only) - East Croydon. Tickets will be accepted on Southern Railway services between Crystal Palace and West Croydon via Norwood Junction. Alternatively\, use local buses or trams via any reasonable route.
 DTEND:20250422T002900Z
 DTSTART:20250421T223000Z
 SUMMARY:Windrush line: Part Closure
-UID:ee71f0ab-a04e-4428-94d4-1db6bcf456b5@ee71.org
+UID:25fd4cb2-7694-41f4-9c35-7977eff3ad7e@25fd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-17T23:00:00&endDate=2025-04-18T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 14\, Tuesday 15\, Wednesday 16 and Thursday 17 April\, the last train from New Cross Gate to West Croydon at 2355 will not run. The last train from New Cross Gate to Crystal Palace at 0004 will not run. Customers should use the previous trains at 2340 (for West Croydon) and at 2349 (for Crystal Palace).
+DTEND:20250418T002900Z
+DTSTART:20250417T230000Z
+SUMMARY:Windrush line: Reduced Service
+UID:79dec578-bfc6-4f7a-99ed-1893ee5431a4@79de.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-30T00:30:00&endDate=2025-03-31T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 30 March\, from 0030 (including Night service)\, no service between Highbury & Islington and Dalston Junction. Use local bus route 30 between Highbury & Islington\, Canonbury and Dalston Junction. Last through trains are at 0040 from Highbury & Islington to Dalston Junction and at 0027 Dalston Junction to Highbury & Islington. During the day\, replacement bus service S operates between Camden Road and Stratford via Highbury & Islington\, Canonbury and Dalston Kingsland.
+DTEND:20250331T002900Z
+DTSTART:20250330T003000Z
+SUMMARY:Windrush line: Part Closure
+UID:1d98c0d8-5788-406d-bad9-f96d8e711938@1d98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-15T22:30:00&endDate=2025-04-15T22:59:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 14\, Tuesday 15\, Wednesday 16 and Thursday 17 April\, the last train from New Cross Gate to West Croydon at 2355 will not run. The last train from New Cross Gate to Crystal Palace at 0004 will not run. Customers should use the previous trains at 2340 (for West Croydon) and at 2349 (for Crystal Palace).
+DTEND:20250415T225900Z
+DTSTART:20250415T223000Z
+SUMMARY:Windrush line: Reduced Service
+UID:3944bc4b-95e7-46f8-8859-9487bb919724@3944.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-15T23:00:00&endDate=2025-04-16T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 14\, Tuesday 15\, Wednesday 16 and Thursday 17 April\, the last train from New Cross Gate to West Croydon at 2355 will not run. The last train from New Cross Gate to Crystal Palace at 0004 will not run. Customers should use the previous trains at 2340 (for West Croydon) and at 2349 (for Crystal Palace).
+DTEND:20250416T002900Z
+DTSTART:20250415T230000Z
+SUMMARY:Windrush line: Reduced Service
+UID:44326eb0-a9d6-4f71-b4c3-5de6f7ac5feb@4432.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-14T23:00:00&endDate=2025-04-15T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 14\, Tuesday 15\, Wednesday 16 and Thursday 17 April\, the last train from New Cross Gate to West Croydon at 2355 will not run. The last train from New Cross Gate to Crystal Palace at 0004 will not run. Customers should use the previous trains at 2340 (for West Croydon) and at 2349 (for Crystal Palace).
+DTEND:20250415T002900Z
+DTSTART:20250414T230000Z
+SUMMARY:Windrush line: Reduced Service
+UID:2901984e-f610-4d2b-a797-6e10f8fca063@2901.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-14T22:30:00&endDate=2025-04-14T22:59:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 14\, Tuesday 15\, Wednesday 16 and Thursday 17 April\, the last train from New Cross Gate to West Croydon at 2355 will not run. The last train from New Cross Gate to Crystal Palace at 0004 will not run. Customers should use the previous trains at 2340 (for West Croydon) and at 2349 (for Crystal Palace).
+DTEND:20250414T225900Z
+DTSTART:20250414T223000Z
+SUMMARY:Windrush line: Reduced Service
+UID:3d8165a3-57ae-420d-bd25-b84447a06554@3d81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-16T22:30:00&endDate=2025-04-16T22:59:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 14\, Tuesday 15\, Wednesday 16 and Thursday 17 April\, the last train from New Cross Gate to West Croydon at 2355 will not run. The last train from New Cross Gate to Crystal Palace at 0004 will not run. Customers should use the previous trains at 2340 (for West Croydon) and at 2349 (for Crystal Palace).
+DTEND:20250416T225900Z
+DTSTART:20250416T223000Z
+SUMMARY:Windrush line: Reduced Service
+UID:e190c10a-8fbb-4050-84ed-bcd73f47613d@e190.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-30T03:30:00&endDate=2025-03-31T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 30 March\, no service between Surrey Quays and Clapham Junction / Battersea Park. Replacement bus service M operates between Canada Water and Clapham Junction via Surrey Quays\, Queens Road Peckham\, Peckham Rye\, Denmark Hill\, Clapham High Street and Wandsworth Road
+DTEND:20250331T002900Z
+DTSTART:20250330T033000Z
+SUMMARY:Windrush line: Part Closure
+UID:22a251d5-0a9d-4784-bfa3-8bbee04a10bf@22a2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-16T23:00:00&endDate=2025-04-17T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 14\, Tuesday 15\, Wednesday 16 and Thursday 17 April\, the last train from New Cross Gate to West Croydon at 2355 will not run. The last train from New Cross Gate to Crystal Palace at 0004 will not run. Customers should use the previous trains at 2340 (for West Croydon) and at 2349 (for Crystal Palace).
+DTEND:20250417T002900Z
+DTSTART:20250416T230000Z
+SUMMARY:Windrush line: Reduced Service
+UID:3562c2e9-53cf-444e-baa0-c75e3b5abede@3562.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-06T21:15:00&endDate=2025-04-07T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 6 April\, from 2215\, no service between Highbury & Islington and Dalston Junction. Rail replacement buses will run as follows: Service S: Highbury & Islington - Canonbury (St Paul's Road) - Dalston Junction. Alternatively\, use local bus route 30 between Highbury & Islington\, Canonbury and Dalston. Last through trains are at 2219 from Highbury & Islington to Dalston Junction and at 2210 Dalston Junction to Highbury & Islington. A later train runs from Dalston Kingsland to Highbury & Islington at 2218. In addition\, trains at 2159 and 2229 from New Cross to Dalston Junction will not run.
+DTEND:20250407T002900Z
+DTSTART:20250406T211500Z
+SUMMARY:Windrush line: Part Closure
+UID:a4819007-88f6-48be-9ff9-c132e5eab4db@a481.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-17T22:30:00&endDate=2025-04-17T22:59:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 14\, Tuesday 15\, Wednesday 16 and Thursday 17 April\, the last train from New Cross Gate to West Croydon at 2355 will not run. The last train from New Cross Gate to Crystal Palace at 0004 will not run. Customers should use the previous trains at 2340 (for West Croydon) and at 2349 (for Crystal Palace).
+DTEND:20250417T225900Z
+DTSTART:20250417T223000Z
+SUMMARY:Windrush line: Reduced Service
+UID:4bb683f4-b306-4047-bee9-950cb78f2500@4bb6.org
 END:VEVENT
 END:VCALENDAR
