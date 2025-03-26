@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Circle disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-26T08:12:50&endDate=2025-03-27T01:29:00">Disruption map.</a>\n\nCircle Line: Minor delays clockwise only\, due to train cancellations. 
+DTEND:20250327T012900Z
+DTSTART:20250326T081250Z
+SUMMARY:Circle: Minor Delays
+UID:88f17be3-b8b5-4b78-abfd-09de003b3b7a@88f1.org
+END:VEVENT
 END:VCALENDAR
