@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-27T07:22:02&endDate=2025-03-28T01:29:00">Disruption map.</a>\n\nCentral Line: Severe delays while we fix a signal failure at Shepherd's Bush. Tickets are being accepted on London Buses\, Elizabeth line\, Liberty line\, Great Western Railway\, Chiltern Railway and Greater Anglia services via reasonable routes. 
+DTEND:20250328T012900Z
+DTSTART:20250327T072202Z
+SUMMARY:Central: Severe Delays
+UID:3a4d2ba7-5d6b-466a-bc5c-17067634e587@3a4d.org
+END:VEVENT
 END:VCALENDAR

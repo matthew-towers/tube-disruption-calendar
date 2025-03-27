@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-27T07:34:26&endDate=2025-03-28T01:29:00">Disruption map.</a>\n\nDistrict Line: Severe delays between Barking and Upminster due to an earlier faulty train. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses and C2C services via reasonable routes.\r\n 
+DTEND:20250328T012900Z
+DTSTART:20250327T073426Z
+SUMMARY:District: Minor Delays
+UID:797adb2c-7c69-491f-8dcb-341414efb01d@797a.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-06T03:30:00&endDate=2025-04-07T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Sunday 6 April\, no service between Richmond and Turnham Green. There is also no MILDMAY LINE service between Richmond and Willesden Junction. Replacement bus service DL3 operates between Richmond and Willesden Junction via Kew Gardens (Royal Botanic Gardens)\, Gunnersbury\, Chiswick Park\, Turnham Green\, South Acton (Acton Lane) and Acton Central.
 DTEND:20250407T002900Z
 DTSTART:20250406T033000Z
 SUMMARY:District: Part Closure
-UID:84f0d833-ca42-4e7c-8207-c515f9be5004@84f0.org
+UID:789a9c6c-d13d-4c7f-9f00-e9c4b6c00261@789a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-26T07:37:51&endDate=2025-03-27T01:29:00">Disruption map.</a>\n\nDistrict Line: Minor delays between Turnham Green and Ealing Broadway and between Earl's Court and Wimbledon due to an earlier fire alert at Upton Park. GOOD SERVICE on the rest of the line. 
-DTEND:20250327T012900Z
-DTSTART:20250326T073751Z
-SUMMARY:District: Minor Delays
-UID:c9a720ae-e71b-48cf-a740-00b61d869e7a@c9a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-26T07:37:50&endDate=2025-03-27T01:29:00">Disruption map.</a>\n\nDistrict Line: Minor delays between Turnham Green and Ealing Broadway and between Earl's Court and Wimbledon due to an earlier fire alert at Upton Park. GOOD SERVICE on the rest of the line. 
-DTEND:20250327T012900Z
-DTSTART:20250326T073750Z
-SUMMARY:District: Minor Delays
-UID:c0de2ed3-d590-44c7-b863-a9b407cc2ea3@c0de.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-27T07:34:26&endDate=2025-03-28T01:29:00">Disruption map.</a>\n\nDistrict Line: Severe delays between Barking and Upminster due to an earlier faulty train. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses and C2C services via reasonable routes.\r\n 
+DTEND:20250328T012900Z
+DTSTART:20250327T073426Z
+SUMMARY:District: Severe Delays
+UID:0cafc2da-fedb-44bf-a991-651e761d20dc@0caf.org
 END:VEVENT
 END:VCALENDAR
