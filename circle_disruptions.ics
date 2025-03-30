@@ -2,4 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Circle disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-30T08:47:47&endDate=2025-03-31T00:29:00">Disruption map.</a>\n\nCircle Line: No service between Edgware Road and Moorgate\, via Victoria due to a points failure at Aldgate. MINOR DELAYS on the rest of the line. 
+DTEND:20250331T002900Z
+DTSTART:20250330T084747Z
+SUMMARY:Circle: Minor Delays
+UID:e26f8f28-2079-4f12-9729-3e901f2ce01f@e26f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-30T08:47:42&endDate=2025-03-30T12:24:27">Disruption map.</a>\n\nCircle Line: No service between Edgware Road and Moorgate\, via Victoria due to a points failure at Aldgate. MINOR DELAYS on the rest of the line. 
+DTEND:20250330T122427Z
+DTSTART:20250330T084742Z
+SUMMARY:Circle: Part Suspended
+UID:326c6bef-fe30-41e7-9f6c-7f27852b2b6e@326c.org
+END:VEVENT
 END:VCALENDAR

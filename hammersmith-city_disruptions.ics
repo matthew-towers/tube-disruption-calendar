@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Hammersmith & City disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-29T09:41:43&endDate=2025-03-30T00:29:00">Disruption map.</a>\n\nHammersmith and City Line: Minor delays due to train cancellations. 
-DTEND:20250330T002900Z
-DTSTART:20250329T094143Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-30T09:02:20&endDate=2025-03-30T12:24:27">Disruption map.</a>\n\nHammersmith and City Line: No service between Barking and Liverpool Street due to a points failure at Aldgate. Tickets are valid on London Buses. MINOR DELAYS on the rest of the line. 
+DTEND:20250330T122427Z
+DTSTART:20250330T090220Z
+SUMMARY:Hammersmith & City: Part Suspended
+UID:ab4ccd65-f739-4651-93b4-7e85a10bdafe@ab4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-03-30T09:02:20&endDate=2025-03-31T00:29:00">Disruption map.</a>\n\nHammersmith and City Line: No service between Barking and Liverpool Street due to a points failure at Aldgate. Tickets are valid on London Buses. MINOR DELAYS on the rest of the line. 
+DTEND:20250331T002900Z
+DTSTART:20250330T090220Z
 SUMMARY:Hammersmith & City: Minor Delays
-UID:ceef36d2-9421-4035-8595-0e8655e5f725@ceef.org
+UID:c37907c3-bf43-472d-8c31-2631d8c7101a@c379.org
 END:VEVENT
 END:VCALENDAR
