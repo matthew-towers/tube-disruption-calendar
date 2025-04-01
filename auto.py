@@ -27,6 +27,7 @@ try:
     o.pull()
 except:
     os.system("notify-send -a 'Tube disruption calendar' 'Error pulling'")
+    repo.close()
     sys.exit(0)
 
 latest_commit_date = repo.head.commit.authored_datetime
@@ -36,6 +37,7 @@ if current_date - latest_commit_date > dt.timedelta(hours=12):
     disruption_calendar.make_all_calendars()
 else:
     os.system("notify-send -a 'Tube disruption calendar' 'Not updating, too recent'")
+    repo.close()
     sys.exit(0)
 
 repo.git.add(all=True)
@@ -48,3 +50,5 @@ try:
     os.system("notify-send -a 'Tube disruption calendar' 'calendars updated'")
 except:
     os.system("notify-send -a 'Tube disruption calendar' 'Error pushing'")
+
+repo.close()
