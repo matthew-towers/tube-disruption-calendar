@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Bakerloo disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-02T08:05:44&endDate=2025-04-03T00:29:00">Disruption map.</a>\n\nBakerloo Line: Minor delays between Queen's Park and Harrow & Wealdstone due to an earlier faulty train at Queen's Park. GOOD SERVICE on the rest of the line. 
+DTEND:20250403T002900Z
+DTSTART:20250402T080544Z
+SUMMARY:Bakerloo: Minor Delays
+UID:f06347c5-c3dc-4a09-99ee-a192a27574fa@f063.org
+END:VEVENT
 END:VCALENDAR
