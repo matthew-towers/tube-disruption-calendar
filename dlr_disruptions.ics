@@ -3,31 +3,52 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-18T03:30:00&endDate=2025-04-22T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Good Friday 18\, Saturday 19\, Sunday 20 and Easter Monday 21 April\, no service between Westferry / West India Quay and Stratford / Canning Town.
-DTEND:20250422T002900Z
-DTSTART:20250418T033000Z
-SUMMARY:DLR: Part Closure
-UID:2f888035-bbb2-41a3-9729-59b0018ee088@2f88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-11T03:30:00&endDate=2025-04-12T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Friday 11 April\, a reduced service operates throughout the network.
-DTEND:20250412T002900Z
-DTSTART:20250411T033000Z
-SUMMARY:DLR: Reduced Service
-UID:0ac2e740-ef5a-42a2-9799-2392a2569799@0ac2.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-27T02:30:00&endDate=2025-04-27T16:00:00">Disruption map.</a>\n\nDOCKALNDS LIGHT RAILWAY: Sunday 27 April\, London Marathon Day. A modified service will operate during the London Marathon until 16:00. Trains will not stop at Cutty Sark station.  Use Greenwich for the London Marathon or town centre .  Plan your journey at tfl.gov.uk and TfL Go.
 DTEND:20250427T160000Z
 DTSTART:20250427T023000Z
 SUMMARY:DLR: Special Service
-UID:54a54424-92d3-472f-849e-269d8d95ec7d@54a5.org
+UID:91c3097c-ed52-4dff-afb3-5bea8ee93dcd@91c3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-18T03:30:00&endDate=2025-04-22T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Good Friday 18\, Saturday 19\, Sunday 20 and Easter Monday 21 April\, no service between Tower Gateway and Shadwell.
 DTEND:20250422T002900Z
 DTSTART:20250418T033000Z
 SUMMARY:DLR: Part Closure
-UID:55481635-c9c7-494b-8e7a-d56da15eb559@5548.org
+UID:17685f22-388d-442a-bd7f-e0a6aa434768@1768.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-18T03:30:00&endDate=2025-04-22T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Good Friday 18\, Saturday 19\, Sunday 20 and Easter Monday 21 April\, no service between Westferry / West India Quay and Stratford / Canning Town. West India Quay station will be served by trains from Lewisham towards Bank only. Replacement bus service DLR1 operates between Westferry and Canning Town via Canary Wharf\, Blackwall (for Poplar)\, All Saints and East India.
+DTEND:20250422T002900Z
+DTSTART:20250418T033000Z
+SUMMARY:DLR: Part Closure
+UID:a319b5db-f3fe-48c7-a947-e4c63b856321@a319.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-03T03:30:00&endDate=2025-05-06T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 3\, Sunday 4 and Bank Holiday Monday 5 May\, no service between Canning Town and Stratford International. Please use JUBILEE LINE services instead.
+DTEND:20250506T002900Z
+DTSTART:20250503T033000Z
+SUMMARY:DLR: Part Closure
+UID:491cd4d0-4d1f-463e-886f-dc38b0772002@491c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-11T03:30:00&endDate=2025-04-12T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Friday 11 April\, a reduced service operates throughout the network.
+DTEND:20250412T002900Z
+DTSTART:20250411T033000Z
+SUMMARY:DLR: Reduced Service
+UID:987e4128-9760-4853-962f-88b246ff9dfd@987e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-10T03:30:00&endDate=2025-05-12T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 10 and Sunday 11 May\, no service between Bank / Tower Gateway and Canning Town / Lewisham\, or between Stratford and Canary Wharf. Replacement buses operate between Westferry and Canning Town / Island Gardens\, and between Canada Water and Lewisham. Please use Jubilee line connections between Central London\, Canada Water\, Canary Wharf and Canning Town.
+DTEND:20250512T002900Z
+DTSTART:20250510T033000Z
+SUMMARY:DLR: Part Closure
+UID:f4626cdb-c538-4270-a0e8-4b67aac8d3ca@f462.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-03T03:30:00&endDate=2025-05-06T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 3\, Sunday 4 and Bank Holiday Monday 5 May\, no service between Westferry / Poplar and Lewisham.
+DTEND:20250506T002900Z
+DTSTART:20250503T033000Z
+SUMMARY:DLR: Part Closure
+UID:dceff4ae-20de-4610-afd0-ac671e754984@dcef.org
 END:VEVENT
 END:VCALENDAR

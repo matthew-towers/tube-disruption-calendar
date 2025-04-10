@@ -2,4 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-03T03:30:00&endDate=2025-05-05T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 3 and Sunday 4 May\, no service between Edgware Road / Embankment and Kensington (Olympia) / Wimbledon / Richmond / Ealing Broadway. The PICCADILLY LINE will be suspended between Hyde Park Corner and Acton Town on Saturday\, between 0100 and 0700. From 0700 Saturday and all day Sunday\, PICCADILLY LINE trains call additionally at Turnham Green. Use MILDMAY LINE services between Gunnersbury and Richmond where available. Replacement buses operate.
+DTEND:20250505T002900Z
+DTSTART:20250503T033000Z
+SUMMARY:District: Part Closure
+UID:78b9027c-9b35-4abb-b789-accf41d63342@78b9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-10T15:39:31&endDate=2025-04-11T00:29:00">Disruption map.</a>\n\nDistrict Line: Minor delays between Turnham Green and Richmond due to a trespasser on track in the Richmond area. GOOD SERVICE on the rest of the line. 
+DTEND:20250411T002900Z
+DTSTART:20250410T153931Z
+SUMMARY:District: Minor Delays
+UID:b4d810e4-3955-40c3-a3d0-faaaee0c98f8@b4d8.org
+END:VEVENT
 END:VCALENDAR
