@@ -3,24 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-10T00:00:00&endDate=2025-05-10T04:00:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 10 May\, from 0100 to 0500\, no service between White City and Woodford / Newbury Park. Replacement buses operate between Stratford\, Leytonstone and Woodford / Newbury Park.
-DTEND:20250510T040000Z
-DTSTART:20250510T000000Z
-SUMMARY:Central: Part Closure
-UID:0ee65cc9-2cea-4455-99a7-feb51ba872a4@0ee6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-14T21:28:41&endDate=2025-04-15T00:29:00">Disruption map.</a>\n\nCentral Line: Minor delays between Leytonstone and Epping/Hainault via Newbury Park. MINOR DELAYS between White City and Ealing Broadway/West Ruislip due to train cancellations. GOOD SERVICE on the rest of the line. 
-DTEND:20250415T002900Z
-DTSTART:20250414T212841Z
-SUMMARY:Central: Minor Delays
-UID:0c9b0b46-7457-4019-a4f1-10366640e69d@0c9b.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-10T04:00:00&endDate=2025-05-12T00:29:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 10\, from 0500\, and all day Sunday 11 May\, no service between White City and Leytonstone. Replacement bus service CL1 operates between Stratford\, Leyton and Leytonstone. If required by customers from Stratford\, Leyton and Leytonstone\, some late Sunday evening buses continue to set down at all stations to Epping or Hainault (via Newbury Park)
 DTEND:20250512T002900Z
 DTSTART:20250510T040000Z
 SUMMARY:Central: Part Closure
-UID:a77fa4ab-768f-4829-84f1-e2b9a767f656@a77f.org
+UID:5edc6620-9fd4-4e6b-8943-75556fdd6569@5edc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-10T00:00:00&endDate=2025-05-10T04:00:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 10 May\, from 0100 to 0500\, no service between White City and Woodford / Newbury Park. Replacement buses operate between Stratford\, Leytonstone and Woodford / Newbury Park.
+DTEND:20250510T040000Z
+DTSTART:20250510T000000Z
+SUMMARY:Central: Part Closure
+UID:40e05ad0-f4c5-4fee-8ea7-3cb135640e3e@40e0.org
 END:VEVENT
 END:VCALENDAR
