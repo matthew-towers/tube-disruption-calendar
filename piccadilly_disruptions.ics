@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-18T03:30:00&endDate=2025-04-22T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Good Friday 18\, Saturday 19\, Sunday 20 and Easter Monday 21 April\, no service between Acton Town and Uxbridge. Use Metropolitan line services between Rayners Lane and Uxbridge
-DTEND:20250422T002900Z
-DTSTART:20250418T033000Z
-SUMMARY:Piccadilly: Part Closure
-UID:61a7d6af-6eb9-436f-b951-c689947e8d5a@61a7.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-03T00:00:00&endDate=2025-05-03T06:00:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 3 May\, from 0100 until 0700\, no service between Hyde Park Corner and Acton Town. Replacement bus service PL1 operates between Green Park and Acton Town via Hyde Park Corner\, Knightsbridge\, South Kensington\, Gloucester Road\, Earls Court\, Hammersmith (for Barons Court) and Turnham Green.
 DTEND:20250503T060000Z
 DTSTART:20250503T000000Z
 SUMMARY:Piccadilly: Part Closure
-UID:e78b2fa3-16d9-47b4-8f5a-8ddf12c4e01c@e78b.org
+UID:5cfc1bf5-b0ec-4a9b-a089-71b4ee6bb0d3@5cfc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-18T03:30:00&endDate=2025-04-22T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Good Friday 18\, Saturday 19\, Sunday 20 and Easter Monday 21 April\, no service between Acton Town and Uxbridge. Use Metropolitan line services between Rayners Lane and Uxbridge
+DTEND:20250422T002900Z
+DTSTART:20250418T033000Z
+SUMMARY:Piccadilly: Part Closure
+UID:37e91b14-444e-4e90-9283-0206cc7ff6d0@37e9.org
 END:VEVENT
 END:VCALENDAR
