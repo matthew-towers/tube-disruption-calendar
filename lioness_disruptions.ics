@@ -3,45 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Lioness line disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-04T03:30:00&endDate=2025-05-05T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Sunday 4 May\, no service between Euston and Watford Junction. No BAKERLOO LINE service between Queens Park and Harrow & Wealdstone. There will be NO LONDON NORTH WESTERN RAILWAY or SOUTHERN services at Euston\, Wembley Central\, Harrow & Wealdstone\, Bushey and Watford Junction on this day. Special bus services operate: Route 718 between Queens Park and Harrow & Wealdstone\, and Route 720 between Harrow & Wealdstone and Watford Junction.
+DTEND:20250505T002900Z
+DTSTART:20250504T033000Z
+SUMMARY:Lioness line: Planned Closure
+UID:7735535a-f660-43e9-8e5d-c2bfaf0e6766@7735.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-03T19:30:00&endDate=2025-05-04T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Saturday 3 May\, after 2030\, a reduced timetable will run between Watford Junction and Euston. Trains will run every 30 minutes after this time and will depart from both Euston and Watford Junction at 15 and 45 minutes past each hour. In addition\, the 1945 and 2045 trains from Euston will terminate at Willesden Junction instead of Watford Junction.
 DTEND:20250504T002900Z
 DTSTART:20250503T193000Z
 SUMMARY:Lioness line: Reduced Service
-UID:d9d6ff2a-d1f5-40d7-bd1e-4485dc316d90@d9d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-21T18:30:00&endDate=2025-04-22T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Easter Monday 21 April\, from 1930\, a reduced  timetable will run between Kilburn High Road and Watford Junction. Trains will depart Kilburn High Road at 1907 and 1937 and then every 30 minutes until the last train at 0005. Additional trains will run at 1922 and 1952 from Kilburn High Road to Willesden Junction only. Trains will depart Watford Junction at 1930 and 2000 and then every 30 minutes until the last train at 2330. The 0008 train from Watford Junction to Kilburn High Road will not run.
-DTEND:20250422T002900Z
-DTSTART:20250421T183000Z
-SUMMARY:Lioness line: Reduced Service
-UID:7aa7d859-b965-46e3-b8e4-9d687f30d261@7aa7.org
+UID:ae5afa9d-327d-4052-abce-00e45c59fc58@ae5a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-04T03:30:00&endDate=2025-05-05T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Bank Holiday Monday 5 May\, no service between Euston and Willesden Junction. No BAKERLOO LINE service between Queens Park and Harrow & Wealdstone. There will be NO LONDON NORTH WESTERN RAILWAY or SOUTHERN services between Euston\, Wembley Central\, Harrow & Wealdstone\, Bushey and Watford Junction on this day. Special bus service 718 operates between Queens Park and Willesden Junction.
 DTEND:20250505T002900Z
 DTSTART:20250504T033000Z
 SUMMARY:Lioness line: Planned Closure
-UID:1010f452-0317-4027-82e2-d609c6e38f1d@1010.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-21T03:30:00&endDate=2025-04-22T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Easter Monday 21 April\, no service between Kilburn High Road and Euston. Use local London Buses and London Underground services.
-DTEND:20250422T002900Z
-DTSTART:20250421T033000Z
-SUMMARY:Lioness line: Part Closure
-UID:2dfd206d-5ef0-435a-a744-e76295b03d2b@2dfd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-21T10:09:35&endDate=2025-04-21T13:09:39">Disruption map.</a>\n\nLondon Overground: LIONESS LINE: No service between Watford Junction and Willesden Junction while Network Rail fix a broken rail at Watford Junction. No service Euston to Kilburn High Road due to planned engineering work. GOOD SERVICE on the rest of the Lioness line.  MILDMAY LINE: After 19:30\, NO SERVICE between Willesden Junction and Richmond due to planned engineering work. WINDRUSH LINE: NO SERVICE between Surrey Quays and Clapham Junction due to planned engineering work. GOOD SERVICE on other London Overground lines.
-DTEND:20250421T130939Z
-DTSTART:20250421T100935Z
-SUMMARY:Lioness line: Part Suspended
-UID:59d4b948-53c2-4f44-82f9-bab810c041d7@59d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-04T03:30:00&endDate=2025-05-05T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Sunday 4 May\, no service between Euston and Watford Junction. No BAKERLOO LINE service between Queens Park and Harrow & Wealdstone. There will be NO LONDON NORTH WESTERN RAILWAY or SOUTHERN services at Euston\, Wembley Central\, Harrow & Wealdstone\, Bushey and Watford Junction on this day. Special bus services operate: Route 718 between Queens Park and Harrow & Wealdstone\, and Route 720 between Harrow & Wealdstone and Watford Junction.
-DTEND:20250505T002900Z
-DTSTART:20250504T033000Z
-SUMMARY:Lioness line: Planned Closure
-UID:dc3588d1-a2c6-4496-9478-9b93f43eadb9@dc35.org
+UID:c75d06d0-732b-4aeb-bee5-b08c5ff5d6a9@c75d.org
 END:VEVENT
 END:VCALENDAR

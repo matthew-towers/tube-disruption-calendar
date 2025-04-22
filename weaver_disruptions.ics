@@ -2,4 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Weaver line disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-22T03:23:52&endDate=2025-04-22T13:08:39">Disruption map.</a>\n\nWEAVER LINE: No service between Hackney Downs and Cheshunt/Enfield while Network Rail fixes a fault with the overhead power lines. GOOD SERVICE on the rest of the line 
+DTEND:20250422T130839Z
+DTSTART:20250422T032352Z
+SUMMARY:Weaver line: Part Suspended
+UID:14315b74-fb3a-485f-857a-017c11b0e084@1431.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-22T03:24:00&endDate=2025-04-22T13:08:39">Disruption map.</a>\n\nWEAVER LINE: No service between Hackney Downs and Cheshunt/Enfield while Network Rail fixes a fault with the overhead power lines. GOOD SERVICE on the rest of the line 
+DTEND:20250422T130839Z
+DTSTART:20250422T032400Z
+SUMMARY:Weaver line: Part Suspended
+UID:9917d791-2a6f-4119-8a17-1726eb972346@9917.org
+END:VEVENT
 END:VCALENDAR
