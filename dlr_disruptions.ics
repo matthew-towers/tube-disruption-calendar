@@ -3,31 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-27T02:30:00&endDate=2025-04-27T16:00:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 27 April\, London Marathon Day. A modified service will operate during the London Marathon until 16:00. Cutty Sark station will be entry only. For exit to Greenwich town centre please use Greenwich station. Services from Tower Gateway will operate to Lewisham starting earlier at 05:30 with all other services starting at 07:00.  Trains to and from Beckton will terminate at Poplar.  Trains to and from Woolwich Arsenal will operate to and from Stratford International only.  Usual services will operate on remaining routes but will be busier than normal. Plan your journey at tfl.gov.uk and TfL Go.
-DTEND:20250427T160000Z
-DTSTART:20250427T023000Z
-SUMMARY:DLR: Special Service
-UID:2d48b039-a335-4e03-a584-bff23ba55a5e@2d48.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-10T03:30:00&endDate=2025-05-12T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 10 and Sunday 11 May\, no service between Bank / Tower Gateway and Canning Town / Lewisham\, or between Stratford and Canary Wharf. Replacement buses operate between Westferry and Canning Town / Island Gardens\, and between Canada Water and Lewisham. Please use Jubilee line connections between Central London\, Canada Water\, Canary Wharf and Canning Town.
 DTEND:20250512T002900Z
 DTSTART:20250510T033000Z
 SUMMARY:DLR: Part Closure
-UID:182bffd3-ca3d-4843-b0ac-2855513912d3@182b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-03T03:30:00&endDate=2025-05-06T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 3\, Sunday 4 and Bank Holiday Monday 5 May\, no service between Westferry / Poplar and Lewisham.
-DTEND:20250506T002900Z
-DTSTART:20250503T033000Z
-SUMMARY:DLR: Part Closure
-UID:7878edcb-5bdb-4bcb-a962-0099b77606bb@7878.org
+UID:05277cbf-cc36-4390-a48c-ef8093574f34@0527.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-03T03:30:00&endDate=2025-05-06T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 3\, Sunday 4 and Bank Holiday Monday 5 May\, no service between Canning Town and Stratford International. Please use JUBILEE LINE services instead.
 DTEND:20250506T002900Z
 DTSTART:20250503T033000Z
 SUMMARY:DLR: Part Closure
-UID:e852827e-8362-4c75-a5dc-6a089855a223@e852.org
+UID:5111e2ad-a2d8-4bfb-9693-ef6b36178bac@5111.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-27T02:30:00&endDate=2025-04-27T16:00:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 27 April\, London Marathon Day. A modified service will operate during the London Marathon until 16:00. Cutty Sark station will be entry only. For exit to Greenwich town centre please use Greenwich station. Services from Tower Gateway will operate to Lewisham starting earlier at 05:30 with all other services starting at 07:00.  Trains to and from Beckton will terminate at Poplar.  Trains to and from Woolwich Arsenal will operate to and from Stratford International only.  Usual services will operate on remaining routes but will be busier than normal. Plan your journey at tfl.gov.uk and TfL Go.
+DTEND:20250427T160000Z
+DTSTART:20250427T023000Z
+SUMMARY:DLR: Special Service
+UID:fd3651a6-e357-4c30-9d11-64193000dcce@fd36.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-03T03:30:00&endDate=2025-05-06T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 3\, Sunday 4 and Bank Holiday Monday 5 May\, no service between Westferry / Poplar and Lewisham.
+DTEND:20250506T002900Z
+DTSTART:20250503T033000Z
+SUMMARY:DLR: Part Closure
+UID:7ba5150d-23fa-4ad0-87ce-6cbbd131d57e@7ba5.org
 END:VEVENT
 END:VCALENDAR
