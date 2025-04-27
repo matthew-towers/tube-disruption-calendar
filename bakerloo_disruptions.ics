@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Bakerloo disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-04-27T08:33:08&endDate=2025-04-28T00:29:00">Disruption map.</a>\n\nBakerloo Line: Severe delays due to a power supply failure. Tickets being accepted on London Buses\, Lioness line. 
+DTEND:20250428T002900Z
+DTSTART:20250427T083308Z
+SUMMARY:Bakerloo: Severe Delays
+UID:5fa35f8b-c9f9-4fdc-af3d-87db9026239e@5fa3.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-04T03:30:00&endDate=2025-05-06T00:29:00">Disruption map.</a>\n\nBAKERLOO LINE: Sunday 4 and Bank Holiday Monday 5 May\, no service between Queens Park and Harrow & Wealdstone. On Sunday\, no LIONESS line service between Euston and Watford Junction\, and on Monday\, no LIONESS line service between Euston and Willesden Junction. Special bus service 718 operates between Queens Park and Willesden Junction\, serving stations to/from Harrow & Wealdstone on Sunday only.
 DTEND:20250506T002900Z
 DTSTART:20250504T033000Z
 SUMMARY:Bakerloo: Part Closure
-UID:e9e5d5da-0113-46f1-afae-b21711a4550b@e9e5.org
+UID:dbd1ef6e-dde8-454d-9a80-ffb2d2ca1c8d@dbd1.org
 END:VEVENT
 END:VCALENDAR
