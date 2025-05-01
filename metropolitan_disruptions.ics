@@ -2,4 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-01T07:36:40&endDate=2025-05-02T00:29:00">Disruption map.</a>\n\nMetropolitan Line: Severe delays between Wembley Park and Aldgate due to an earlier faulty train at Finchley Road. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses and Chiltern Railways via reasonable routes. 
+DTEND:20250502T002900Z
+DTSTART:20250501T073640Z
+SUMMARY:Metropolitan: Severe Delays
+UID:cee0c9a9-2185-4c57-a0fa-6a45f6bf15c5@cee0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-01T07:36:40&endDate=2025-05-02T00:29:00">Disruption map.</a>\n\nMetropolitan Line: Severe delays between Wembley Park and Aldgate due to an earlier faulty train at Finchley Road. MINOR DELAYS on the rest of the line. Tickets are being accepted on London Buses and Chiltern Railways via reasonable routes. 
+DTEND:20250502T002900Z
+DTSTART:20250501T073640Z
+SUMMARY:Metropolitan: Minor Delays
+UID:3078a0db-d9a9-4fae-98e7-5aae812111cc@3078.org
+END:VEVENT
 END:VCALENDAR
