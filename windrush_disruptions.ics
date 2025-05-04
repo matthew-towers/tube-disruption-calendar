@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Windrush line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-04T20:00:00&endDate=2025-05-05T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 4 May after 21:00 no service between Highbury & Islington and Clapham Junction\, Crystal Palace\, New Cross and West Croydon.
-DTEND:20250505T002900Z
-DTSTART:20250504T200000Z
-SUMMARY:Windrush line: Part Closure
-UID:eac65f96-d985-4d71-b51e-f1009b551bd0@eac6.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-11T03:30:00&endDate=2025-05-11T09:15:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 11 May\, until 1015\, no service between Wandsworth Road and Clapham Junction until 10:15. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction\, where tickets will be accepted. First through trains: Clapham Junction - Surrey Quays 1029\; Surrey Quays - Clapham Junction 0954
 DTEND:20250511T091500Z
 DTSTART:20250511T033000Z
 SUMMARY:Windrush line: Part Closure
-UID:58d67066-2b61-4b9c-aeeb-918817638c3a@58d6.org
+UID:ce6de90d-4ff3-4335-8cd7-a93ddd374c82@ce6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-04T20:00:00&endDate=2025-05-05T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 4 May after 21:00 no service between Highbury & Islington and Clapham Junction\, Crystal Palace\, New Cross and West Croydon.
+DTEND:20250505T002900Z
+DTSTART:20250504T200000Z
+SUMMARY:Windrush line: Part Closure
+UID:f8311447-5db1-4562-a565-b71452a34e98@f831.org
 END:VEVENT
 END:VCALENDAR
