@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-10T04:00:00&endDate=2025-05-12T00:29:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 10\, from 0500\, and all day Sunday 11 May\, no service between White City and Leytonstone. Replacement bus service CL1 operates between Stratford\, Leyton and Leytonstone. If required by customers from Stratford\, Leyton and Leytonstone\, some late Sunday evening buses continue to set down at all stations to Epping or Hainault (via Newbury Park)
-DTEND:20250512T002900Z
-DTSTART:20250510T040000Z
-SUMMARY:Central: Part Closure
-UID:d8a1e37f-2f45-4aac-abe2-e3f239ba7f33@d8a1.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-10T00:00:00&endDate=2025-05-10T04:00:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 10 May\, from 0100 to 0500\, no service between White City and Woodford / Newbury Park. Replacement buses operate between Stratford\, Leytonstone and Woodford / Newbury Park.
 DTEND:20250510T040000Z
 DTSTART:20250510T000000Z
 SUMMARY:Central: Part Closure
-UID:1540f41a-e174-47db-bb03-9cf4d95cb5ff@1540.org
+UID:b388c792-4886-4202-a7e9-f7fc12df3d69@b388.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-10T04:00:00&endDate=2025-05-12T00:29:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 10\, from 0500\, and all day Sunday 11 May\, no service between White City and Leytonstone. Replacement bus service CL1 operates between Stratford\, Leyton and Leytonstone. If required by customers from Stratford\, Leyton and Leytonstone\, some late Sunday evening buses continue to set down at all stations to Epping or Hainault (via Newbury Park)
+DTEND:20250512T002900Z
+DTSTART:20250510T040000Z
+SUMMARY:Central: Part Closure
+UID:3465879d-d4ea-47ad-a4d8-ba66baafca61@3465.org
 END:VEVENT
 END:VCALENDAR
