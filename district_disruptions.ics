@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-08T08:26:24&endDate=2025-05-08T11:43:48">Disruption map.</a>\n\nDistrict Line: No service between Turnham Green and Richmond while network rail fix a faulty train at Richmond. GOOD SERVICE on the rest of the line. Valid tickets are being accepted on London Buses and South Western Rail way. 
+DTEND:20250508T114348Z
+DTSTART:20250508T082624Z
+SUMMARY:District: Part Suspended
+UID:5de6319e-d9e7-4d09-8a49-0262894bb81c@5de6.org
+END:VEVENT
 END:VCALENDAR
