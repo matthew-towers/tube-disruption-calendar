@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-17T03:30:00&endDate=2025-05-19T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 17 and Sunday 18 May\, no service between Turnham Green and Ealing Broadway. Replacement bus service PL1 operates between Hammersmith and Osterley via Turnham Green\, Chiswick Park\, Gunnersbury\, Acton Town\, Ealing Common\, Ealing Broadway\, South Ealing\, Northfields and Boston Manor.
+DTEND:20250519T002900Z
+DTSTART:20250517T033000Z
+SUMMARY:District: Part Closure
+UID:5ade5eec-15b2-4802-81e6-e72c0a42eb4d@5ade.org
+END:VEVENT
 END:VCALENDAR
