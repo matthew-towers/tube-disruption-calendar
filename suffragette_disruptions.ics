@@ -2,18 +2,4 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Suffragette line disruption
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-11T03:30:00&endDate=2025-05-12T00:29:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 11 May\, a reduced timetable will run between Gospel Oak and Barking. Trains will run every 20 minutes and will use Platform 1 at Barking.
-DTEND:20250512T002900Z
-DTSTART:20250511T033000Z
-SUMMARY:Suffragette line: Reduced Service
-UID:3cb793d2-bf62-4037-b1ef-8f67c33cd4a9@3cb7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-11T03:30:00&endDate=2025-05-12T00:29:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 11 May\, no service between Barking and Barking Riverside. Please use local London Buses Routes EL1 EL2 or EL3.
-DTEND:20250512T002900Z
-DTSTART:20250511T033000Z
-SUMMARY:Suffragette line: Part Closure
-UID:cfbd94dc-cc52-4a21-9498-ea29af1c8254@cfbd.org
-END:VEVENT
 END:VCALENDAR
