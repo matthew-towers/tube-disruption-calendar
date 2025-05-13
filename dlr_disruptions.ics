@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-17T03:30:00&endDate=2025-05-19T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 17 and Sunday 18 May\, no service between Poplar / Stratford International and Beckton / Woolwich Arsenal. Use JUBILEE LINE connections between Stratford and Canning Town. ELIZABETH LINE connections between Custom House and Woolwich. Replacement buses operate.
-DTEND:20250519T002900Z
-DTSTART:20250517T033000Z
-SUMMARY:DLR: Part Closure
-UID:0db61e37-7007-450d-b1bd-45ef9e38ba50@0db6.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-31T02:30:00&endDate=2025-06-02T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 31 May and Sunday 1 June\, no service Prince Regent - Beckton. Replacement Buses will operate.
 DTEND:20250602T002900Z
 DTSTART:20250531T023000Z
 SUMMARY:DLR: Part Closure
-UID:7fcab8ee-2a9c-49c3-a3e1-aa2f37e7867e@7fca.org
+UID:bed14cff-1415-457a-b831-bd2cd99aebd3@bed1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-17T03:30:00&endDate=2025-05-19T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 17 and Sunday 18 May\, no service between Poplar / Stratford International and Beckton / Woolwich Arsenal. Use JUBILEE LINE connections between Stratford and Canning Town. ELIZABETH LINE connections between Custom House and Woolwich. Replacement buses operate.
+DTEND:20250519T002900Z
+DTSTART:20250517T033000Z
+SUMMARY:DLR: Part Closure
+UID:8cddff69-894e-45e7-b060-875b2a458e2a@8cdd.org
 END:VEVENT
 END:VCALENDAR
