@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-13T06:30:38&endDate=2025-05-14T00:29:00">Disruption map.</a>\n\nMetropolitan Line: Minor delays following a late finish of engineering work at Baker Street. 
-DTEND:20250514T002900Z
-DTSTART:20250513T063038Z
-SUMMARY:Metropolitan: Minor Delays
-UID:4f72d4b3-e992-4c87-8fa0-b80bafa1a763@4f72.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-31T03:30:00&endDate=2025-06-02T00:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 31 May and Sunday 1 June\, no service between Aldgate and Watford. Trains will continue to operate between Harrow-on-the-Hill and Amersham / Chesham\, but operate non-stop between Harrow-on-the-Hill and Moor Park. CHILTERN RAILWAYS services continue to operate between Marylebone and Amersham. Replacement buses operate.
+DTEND:20250602T002900Z
+DTSTART:20250531T033000Z
+SUMMARY:Metropolitan: Part Closure
+UID:4d9418d6-04ba-4449-bee5-d4833ed66068@4d94.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-31T03:30:00&endDate=2025-05-31T15:00:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 31 May\, until 1600\, no service between Harrow-on-the-Hill and Uxbridge. Use PICCADILLY LINE services between Rayners Lane and Uxbridge. Replacement bus service ML1 operates between Stonebridge Park (for Bakerloo and Lioness lines) and Rayners Lane via Wembley Park\, Preston Road\, Northwick Park (Hospital)\, Harrow-on-the-Hill\, West Harrow (Pinner Road) and North Harrow (Station Road)
+DTEND:20250531T150000Z
+DTSTART:20250531T033000Z
+SUMMARY:Metropolitan: Part Closure
+UID:4512a55a-8135-4a17-aaa5-572fcf2f6aea@4512.org
 END:VEVENT
 END:VCALENDAR

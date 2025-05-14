@@ -3,17 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-31T02:30:00&endDate=2025-06-02T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 31 May and Sunday 1 June\, no service Prince Regent - Beckton. Replacement Buses will operate.
-DTEND:20250602T002900Z
-DTSTART:20250531T023000Z
-SUMMARY:DLR: Part Closure
-UID:bed14cff-1415-457a-b831-bd2cd99aebd3@bed1.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-17T03:30:00&endDate=2025-05-19T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 17 and Sunday 18 May\, no service between Poplar / Stratford International and Beckton / Woolwich Arsenal. Use JUBILEE LINE connections between Stratford and Canning Town. ELIZABETH LINE connections between Custom House and Woolwich. Replacement buses operate.
 DTEND:20250519T002900Z
 DTSTART:20250517T033000Z
 SUMMARY:DLR: Part Closure
-UID:8cddff69-894e-45e7-b060-875b2a458e2a@8cdd.org
+UID:30024eb7-6e3c-4d11-a2e3-ac9789ac8fd3@3002.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-31T02:30:00&endDate=2025-06-02T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 31 May and Sunday 1 June\, no service Prince Regent - Beckton. Replacement Buses will operate between Prince Regent and Gallions Reach via Royal Albert\, Beckton Park\, Cyprus and Beckton.
+DTEND:20250602T002900Z
+DTSTART:20250531T023000Z
+SUMMARY:DLR: Part Closure
+UID:bc110550-14aa-4cc6-82a3-2a8e2c42be6b@bc11.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-07T03:30:00&endDate=2025-06-09T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 7 and Sunday 8 June\, no service between Bank / Tower Gateway and Canning Town / Lewisham\, or between Stratford and Canary Wharf.
+DTEND:20250609T002900Z
+DTSTART:20250607T033000Z
+SUMMARY:DLR: Part Closure
+UID:db9c4bda-5533-4d68-8383-f5499b9039ca@db9c.org
 END:VEVENT
 END:VCALENDAR
