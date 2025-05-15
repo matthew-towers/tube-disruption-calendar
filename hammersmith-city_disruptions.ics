@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Hammersmith & City disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-31T10:00:00&endDate=2025-05-31T15:00:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Saturday 31 May\, between 1100 and 1600\, no service between Edgware Road and Moorgate.
-DTEND:20250531T150000Z
-DTSTART:20250531T100000Z
-SUMMARY:Hammersmith & City: Part Closure
-UID:eb96a546-27b1-42fa-b7af-e28d7d219776@eb96.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-31T03:30:00&endDate=2025-05-31T10:00:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Saturday 31 May\, until 1100\, no service on the entire line.
 DTEND:20250531T100000Z
 DTSTART:20250531T033000Z
 SUMMARY:Hammersmith & City: Planned Closure
-UID:035d5f20-9cc1-466a-bcfe-23607b23da0e@035d.org
+UID:d04eaf81-5182-4d4a-9cc4-62e30558b813@d04e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-31T10:00:00&endDate=2025-05-31T15:00:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Saturday 31 May\, between 1100 and 1600\, no service between Edgware Road and Moorgate.
+DTEND:20250531T150000Z
+DTSTART:20250531T100000Z
+SUMMARY:Hammersmith & City: Part Closure
+UID:9d11317c-94f7-44f6-a3fb-2fa8606d49c6@9d11.org
 END:VEVENT
 END:VCALENDAR
