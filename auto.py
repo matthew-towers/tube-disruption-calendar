@@ -12,6 +12,7 @@ import datetime as dt
 #
 # gitpython docs: https://gitpython.readthedocs.io/en/stable/index.html
 
+args = sys.argv
 this_dir = pathlib.Path(__file__).parent.resolve()
 os.chdir(this_dir)
 
@@ -33,7 +34,9 @@ except:
 latest_commit_date = repo.head.commit.authored_datetime
 local_tz = dt.datetime.now(dt.timezone.utc).astimezone().tzinfo
 current_date = dt.datetime.now(local_tz)
-if current_date - latest_commit_date > dt.timedelta(hours=12):
+
+force = len(args) == 2 and args[1] == "force"
+if force or current_date - latest_commit_date > dt.timedelta(hours=12):
     disruption_calendar.make_all_calendars()
 else:
     os.system("notify-send -a 'Tube disruption calendar' 'Not updating, too recent'")
