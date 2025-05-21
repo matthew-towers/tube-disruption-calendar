@@ -3,24 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-31T03:30:00&endDate=2025-06-02T00:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 31 May and Sunday 1 June\, no service between Aldgate and Watford. Trains will continue to operate between Harrow-on-the-Hill and Amersham / Chesham\, but operate non-stop between Harrow-on-the-Hill and Moor Park. CHILTERN RAILWAYS services continue to operate between Marylebone and Amersham. Replacement buses operate.
-DTEND:20250602T002900Z
-DTSTART:20250531T033000Z
-SUMMARY:Metropolitan: Part Closure
-UID:72666a1b-a08e-40f9-be54-67db7ef3e55a@7266.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-21T09:04:32&endDate=2025-05-22T00:29:00">Disruption map.</a>\n\nMetropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge\, Amersham\, Chesham and Watford due to an earlier signal failure at Harrow-on-the-Hill. MINOR DELAYS on the rest of the line. London Underground tickets will be accepted on London buses\, Lioness line and Chiltern Railways. 
+DTEND:20250522T002900Z
+DTSTART:20250521T090432Z
+SUMMARY:Metropolitan: Severe Delays
+UID:a878d8ea-0ed9-4611-b60b-04919cad42d5@a878.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-31T03:30:00&endDate=2025-05-31T15:00:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 31 May\, until 1600\, no service between Harrow-on-the-Hill and Uxbridge. Use PICCADILLY LINE services between Rayners Lane and Uxbridge. Replacement bus service ML1 operates between Stonebridge Park (for Bakerloo and Lioness lines) and Rayners Lane via Wembley Park\, Preston Road\, Northwick Park (Hospital)\, Harrow-on-the-Hill\, West Harrow (Pinner Road) and North Harrow (Station Road)
 DTEND:20250531T150000Z
 DTSTART:20250531T033000Z
 SUMMARY:Metropolitan: Part Closure
-UID:a15cf75c-1523-4afb-8c44-21cdeb78f62a@a15c.org
+UID:585c6091-2746-4f2d-9e13-9135fabdc457@585c.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-19T14:36:27&endDate=2025-05-20T00:29:00">Disruption map.</a>\n\nMetropolitan Line: Severe delays between Harrow on the Hill and Watford while we fix a signal failure Pinner. Valid tickets will be accepted on local buses. GOOD SERVICE on the  rest of the line. 
-DTEND:20250520T002900Z
-DTSTART:20250519T143627Z
-SUMMARY:Metropolitan: Severe Delays
-UID:411b75a3-5284-40d1-8f7d-97cba2cb2dcb@411b.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-21T09:04:32&endDate=2025-05-22T00:29:00">Disruption map.</a>\n\nMetropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge\, Amersham\, Chesham and Watford due to an earlier signal failure at Harrow-on-the-Hill. MINOR DELAYS on the rest of the line. London Underground tickets will be accepted on London buses\, Lioness line and Chiltern Railways. 
+DTEND:20250522T002900Z
+DTSTART:20250521T090432Z
+SUMMARY:Metropolitan: Minor Delays
+UID:13c1ea24-2262-49f2-927d-ade2a90fd7ee@13c1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-31T03:30:00&endDate=2025-06-02T00:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 31 May and Sunday 1 June\, no service between Aldgate and Watford. Trains will continue to operate between Harrow-on-the-Hill and Amersham / Chesham\, but operate non-stop between Harrow-on-the-Hill and Moor Park. CHILTERN RAILWAYS services continue to operate between Marylebone and Amersham. Replacement buses operate.
+DTEND:20250602T002900Z
+DTSTART:20250531T033000Z
+SUMMARY:Metropolitan: Part Closure
+UID:11fd7a1f-d6d0-44be-ba32-85943bad1fe2@11fd.org
 END:VEVENT
 END:VCALENDAR
