@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Jubilee disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-31T10:00:00&endDate=2025-06-02T00:29:00">Disruption map.</a>\n\nJUBILEE LINE: Saturday 31 May\, from 1100\, and all day Sunday 1 June (including Saturday Night Tube)\, no service between Waterloo and Stanmore. Replacement buses operate.
-DTEND:20250602T002900Z
-DTSTART:20250531T100000Z
-SUMMARY:Jubilee: Part Closure
-UID:0e5d91b2-a4a3-455b-8c70-4b76262f7bf0@0e5d.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-31T00:00:00&endDate=2025-05-31T10:00:00">Disruption map.</a>\n\nJUBILEE LINE: Saturday 31 May\, between 0100 and 1100 approximately\, no service on the entire line. Replacement buses operate during the daytime only. Please use Night Buses for overnight journeys.
 DTEND:20250531T100000Z
 DTSTART:20250531T000000Z
 SUMMARY:Jubilee: Planned Closure
-UID:e069aa24-0270-4b0a-86cd-17bb3765f6ee@e069.org
+UID:97f309cd-37c3-431a-aa45-5678bc15b1a5@97f3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-31T10:00:00&endDate=2025-06-02T00:29:00">Disruption map.</a>\n\nJUBILEE LINE: Saturday 31 May\, from 1100\, and all day Sunday 1 June (including Saturday Night Tube)\, no service between Waterloo and Stanmore. Replacement buses operate.
+DTEND:20250602T002900Z
+DTSTART:20250531T100000Z
+SUMMARY:Jubilee: Part Closure
+UID:e5d072c1-9a31-4ee6-8e28-9d65b497f385@e5d0.org
 END:VEVENT
 END:VCALENDAR
