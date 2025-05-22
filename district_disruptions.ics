@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-22T20:38:55&endDate=2025-05-23T00:29:00">Disruption map.</a>\n\nDistrict Line: Severe delays between Tower Hill and Ealing Broadway / Richmond due to an earlier Network Rail signal system failure at Barking. GOOD SERVICE on the rest of the line. London Underground tickets will be accepted on South Western Railway\, Mildmay Line and local bus services via any reasonable route. 
+DTEND:20250523T002900Z
+DTSTART:20250522T203855Z
+SUMMARY:District: Severe Delays
+UID:331201b2-b588-4326-865f-3123db6ca266@3312.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-31T03:30:00&endDate=2025-05-31T10:00:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 31 May\, until 1100\, no service on the entire line. Replacement buses operate. PICCADILLY LINE trains call additionally at Turnham Green.
 DTEND:20250531T100000Z
 DTSTART:20250531T033000Z
 SUMMARY:District: Planned Closure
-UID:c959d182-0c17-45a7-bc73-1823b446fa7d@c959.org
+UID:c030c019-e9c0-44c4-8eb2-e79e7eef4120@c030.org
 END:VEVENT
 END:VCALENDAR
