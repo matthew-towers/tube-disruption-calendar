@@ -7,9 +7,9 @@ import pathlib
 import datetime as dt
 
 # Set up a Repo object for the repository storing the tube disruption calendar.
-# Pull the latest files. If the latest commit was more than 12 hours ago,
-# update the calendars, add and commit the new calendar files, then push to the
-# remote repo.
+# Pull the latest files. If the latest commit was more than 12 hours ago, or if
+# the command line option "force" was used, update the calendars, add and commit
+# the new calendar files, then push to the remote repo.
 #
 # gitpython docs: https://gitpython.readthedocs.io/en/stable/index.html
 
@@ -45,6 +45,7 @@ if force or time_since_last_commit > dt.timedelta(hours=12):
     disruption_calendar.make_all_calendars()
 else:
     os.system("notify-send -a 'Tube disruption calendar' 'Not updating, too recent'")
+    print("Not updating - latest commit was too recent.")
     repo.close()
     sys.exit(1)
 
@@ -61,5 +62,5 @@ except:
     sys.exit(1)
 
 os.system("notify-send -a 'Tube disruption calendar' 'calendars updated'")
-
+print("Push successful.")
 repo.close()
