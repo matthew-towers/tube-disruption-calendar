@@ -3,24 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Jubilee disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-24T08:32:32&endDate=2025-05-25T00:29:00">Disruption map.</a>\n\nJubilee Line: Minor delays while we fix a signal failure at Bond Street. 
-DTEND:20250525T002900Z
-DTSTART:20250524T083232Z
-SUMMARY:Jubilee: Minor Delays
-UID:a6bdc439-bfa4-4b15-943a-aaa63b8525bc@a6bd.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-31T00:00:00&endDate=2025-05-31T10:00:00">Disruption map.</a>\n\nJUBILEE LINE: Saturday 31 May\, between 0100 and 1100 approximately\, no service on the entire line. Replacement buses operate during the daytime only. Please use Night Buses for overnight journeys.
+DTEND:20250531T100000Z
+DTSTART:20250531T000000Z
+SUMMARY:Jubilee: Planned Closure
+UID:cb475990-b193-4ac5-bd4d-e9ec00f3a7dc@cb47.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-31T10:00:00&endDate=2025-06-02T00:29:00">Disruption map.</a>\n\nJUBILEE LINE: Saturday 31 May\, from 1100\, and all day Sunday 1 June (including Saturday Night Tube)\, no service between Waterloo and Stanmore. Replacement buses operate.
 DTEND:20250602T002900Z
 DTSTART:20250531T100000Z
 SUMMARY:Jubilee: Part Closure
-UID:2b8b05ee-6233-4d3f-a4e7-9d1f2ea5ea02@2b8b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-31T00:00:00&endDate=2025-05-31T10:00:00">Disruption map.</a>\n\nJUBILEE LINE: Saturday 31 May\, between 0100 and 1100 approximately\, no service on the entire line. Replacement buses operate during the daytime only. Please use Night Buses for overnight journeys.
-DTEND:20250531T100000Z
-DTSTART:20250531T000000Z
-SUMMARY:Jubilee: Planned Closure
-UID:1175916a-657c-45ac-a4fc-70395b8773fa@1175.org
+UID:271e433e-aee8-447d-a0d3-a28d7ef891e0@271e.org
 END:VEVENT
 END:VCALENDAR
