@@ -3,17 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-31T03:30:00&endDate=2025-06-02T00:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 31 May and Sunday 1 June\, no service between Aldgate and Watford. Trains will continue to operate between Harrow-on-the-Hill and Amersham / Chesham\, but operate non-stop between Harrow-on-the-Hill and Moor Park. CHILTERN RAILWAYS services continue to operate between Marylebone and Amersham. Replacement buses operate.
-DTEND:20250602T002900Z
-DTSTART:20250531T033000Z
-SUMMARY:Metropolitan: Part Closure
-UID:835e9e90-79f0-426b-92fb-7ac8fa3902a2@835e.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-31T03:30:00&endDate=2025-05-31T15:00:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 31 May\, until 1600\, no service between Harrow-on-the-Hill and Uxbridge. Use PICCADILLY LINE services between Rayners Lane and Uxbridge. Replacement bus service ML1 operates between Stonebridge Park (for Bakerloo and Lioness lines) and Rayners Lane via Wembley Park\, Preston Road\, Northwick Park (Hospital)\, Harrow-on-the-Hill\, West Harrow (Pinner Road) and North Harrow (Station Road)
 DTEND:20250531T150000Z
 DTSTART:20250531T033000Z
 SUMMARY:Metropolitan: Part Closure
-UID:c22f0528-b0f1-4830-89b1-3850cd5942f9@c22f.org
+UID:8844b32d-f6b2-4e02-9385-52985cda3c1f@8844.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-31T03:30:00&endDate=2025-06-02T00:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 31 May and Sunday 1 June\, no service between Aldgate and Watford. Trains will continue to operate between Harrow-on-the-Hill and Amersham / Chesham\, but operate non-stop between Harrow-on-the-Hill and Moor Park. CHILTERN RAILWAYS services continue to operate between Marylebone and Amersham. Replacement buses operate.
+DTEND:20250602T002900Z
+DTSTART:20250531T033000Z
+SUMMARY:Metropolitan: Part Closure
+UID:18353289-4f4a-401b-a9e6-4df05a2cbdcd@1835.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-27T07:25:37&endDate=2025-05-28T00:29:00">Disruption map.</a>\n\nMetropolitan Line: Minor delays Baker Street to Aldgate while we fix a faulty train at Barbican. GOOD SERVICE on the rest of the line.  
+DTEND:20250528T002900Z
+DTSTART:20250527T072537Z
+SUMMARY:Metropolitan: Minor Delays
+UID:b2f43bf1-7389-4571-9359-dc82190794f6@b2f4.org
 END:VEVENT
 END:VCALENDAR
