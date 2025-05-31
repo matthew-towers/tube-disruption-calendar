@@ -3,38 +3,94 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Suffragette line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-04T05:15:00&endDate=2025-06-04T05:25:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Tuesday 3\, Wednesday 4\, Thursday 5 and Friday 6 June\, the 0618 train from Barking Riverside will start from Barking\, platform 1\, at 0624
-DTEND:20250604T052500Z
-DTSTART:20250604T051500Z
-SUMMARY:Suffragette line: Reduced Service
-UID:46e2be98-0a73-4ada-b9b3-d4fd72b8148c@46e2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-30T22:30:00&endDate=2025-05-30T22:45:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Friday 30 May\, the 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338
-DTEND:20250530T224500Z
-DTSTART:20250530T223000Z
-SUMMARY:Suffragette line: Reduced Service
-UID:1850ffe6-a8a2-4d63-b9d7-43e1f34de435@1850.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-03T05:15:00&endDate=2025-06-03T05:25:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Tuesday 3\, Wednesday 4\, Thursday 5 and Friday 6 June\, the 0618 train from Barking Riverside will start from Barking\, platform 1\, at 0624
 DTEND:20250603T052500Z
 DTSTART:20250603T051500Z
 SUMMARY:Suffragette line: Reduced Service
-UID:b9bed6d3-78ac-4aa7-a386-d28623901ffa@b9be.org
+UID:67f0eec3-7e5b-45d0-a6c7-9464223a100b@67f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-15T03:30:00&endDate=2025-06-15T09:00:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 15 June\, until 1000\, no service between Gospel Oak and Barking Riverside. Use local buses between South Tottenham and Barking via all reasonable routes or London Underground Victoria line (entrance/exit at Seven Sisters\, Tottenham Hale\, Blackhorse Road and Walthamstow Central stations) via any reasonable route\; London Underground Central line (entrance/exit at Leyton and Leytonstone stations) via any reasonable route\; or London Underground District / Hammersmith & City line (entrance/exit at East Ham and Barking) via any reasonable route. Use local bus routes EL1\, EL2 and EL3 for Barking Riverside. First through trains: Gospel Oak to Barking 0954\; Barking to Gospel Oak 1014
+DTEND:20250615T090000Z
+DTSTART:20250615T033000Z
+SUMMARY:Suffragette line: Planned Closure
+UID:f092434f-5abb-4409-9903-d70e74b16d79@f092.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-15T09:00:00&endDate=2025-06-16T00:29:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 15 June\, from 1000\, a reduced service operates between Gospel Oak and Barking. Trains will operate every 20 minutes and will use Platform 1 at Barking
+DTEND:20250616T002900Z
+DTSTART:20250615T090000Z
+SUMMARY:Suffragette line: Reduced Service
+UID:5f64fb85-906b-4079-bd99-c610a66ddd62@5f64.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-18T04:30:00&endDate=2025-06-18T06:00:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Tuesday 17\, Wednesday 18\, Thursday 19 and Friday 20 June\, the 0548 train from Barking Riverside to Gospel Oak and the 0624 train from Gospel Oak to Barking Riverside will not run.
+DTEND:20250618T060000Z
+DTSTART:20250618T043000Z
+SUMMARY:Suffragette line: Reduced Service
+UID:bfab7aad-a420-4358-9d81-123bd4ead7f2@bfab.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-04T05:15:00&endDate=2025-06-04T05:25:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Tuesday 3\, Wednesday 4\, Thursday 5 and Friday 6 June\, the 0618 train from Barking Riverside will start from Barking\, platform 1\, at 0624
+DTEND:20250604T052500Z
+DTSTART:20250604T051500Z
+SUMMARY:Suffragette line: Reduced Service
+UID:fc6a589f-5bad-4d04-aa2b-034bb00eb55c@fc6a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-10T22:30:00&endDate=2025-06-10T22:45:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Tuesday 10 June\, the 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338
+DTEND:20250610T224500Z
+DTSTART:20250610T223000Z
+SUMMARY:Suffragette line: Reduced Service
+UID:4f4d9588-c64a-4059-9dd6-811c37a3a1c0@4f4d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-20T04:30:00&endDate=2025-06-20T06:00:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Tuesday 17\, Wednesday 18\, Thursday 19 and Friday 20 June\, the 0548 train from Barking Riverside to Gospel Oak and the 0624 train from Gospel Oak to Barking Riverside will not run.
+DTEND:20250620T060000Z
+DTSTART:20250620T043000Z
+SUMMARY:Suffragette line: Reduced Service
+UID:ab552376-6ec8-4b88-bd8e-93a36f13bf11@ab55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-13T22:30:00&endDate=2025-06-13T22:45:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Friday 13 June\, the 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338
+DTEND:20250613T224500Z
+DTSTART:20250613T223000Z
+SUMMARY:Suffragette line: Reduced Service
+UID:2cf2bda6-e161-4668-b752-4544c6daa0c1@2cf2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-06T05:15:00&endDate=2025-06-06T05:25:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Tuesday 3\, Wednesday 4\, Thursday 5 and Friday 6 June\, the 0618 train from Barking Riverside will start from Barking\, platform 1\, at 0624
 DTEND:20250606T052500Z
 DTSTART:20250606T051500Z
 SUMMARY:Suffragette line: Reduced Service
-UID:f03cb289-737b-4a6f-9e41-f14d9a112fd5@f03c.org
+UID:8ef3c32b-e0b4-4c6b-aac2-de3dd681740b@8ef3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-19T04:30:00&endDate=2025-06-19T06:00:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Tuesday 17\, Wednesday 18\, Thursday 19 and Friday 20 June\, the 0548 train from Barking Riverside to Gospel Oak and the 0624 train from Gospel Oak to Barking Riverside will not run.
+DTEND:20250619T060000Z
+DTSTART:20250619T043000Z
+SUMMARY:Suffragette line: Reduced Service
+UID:582adcec-c693-4e3a-80a4-f2e2895f4c95@582a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-17T04:30:00&endDate=2025-06-17T06:00:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Tuesday 17\, Wednesday 18\, Thursday 19 and Friday 20 June\, the 0548 train from Barking Riverside to Gospel Oak and the 0624 train from Gospel Oak to Barking Riverside will not run.
+DTEND:20250617T060000Z
+DTSTART:20250617T043000Z
+SUMMARY:Suffragette line: Reduced Service
+UID:8636954a-8550-4d06-a77c-da83ee9a904d@8636.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-15T09:00:00&endDate=2025-06-16T00:29:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 15 June\, from 1000\, no service between Barking and Barking Riverside. Use local bus routes EL1\, EL2 and EL3 for Barking Riverside.
+DTEND:20250616T002900Z
+DTSTART:20250615T090000Z
+SUMMARY:Suffragette line: Part Closure
+UID:7fd5cbbd-7883-4caa-aa64-7b95e24ae4c2@7fd5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-05T05:15:00&endDate=2025-06-05T05:25:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Tuesday 3\, Wednesday 4\, Thursday 5 and Friday 6 June\, the 0618 train from Barking Riverside will start from Barking\, platform 1\, at 0624
 DTEND:20250605T052500Z
 DTSTART:20250605T051500Z
 SUMMARY:Suffragette line: Reduced Service
-UID:5ac0743d-c8de-4c76-b19f-f2a8ba71f9be@5ac0.org
+UID:a242ce9e-b4c1-44fd-af95-b4938cd4c4a5@a242.org
 END:VEVENT
 END:VCALENDAR
