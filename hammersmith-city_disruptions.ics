@@ -3,17 +3,10 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Hammersmith & City disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-31T03:30:00&endDate=2025-05-31T10:00:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Saturday 31 May\, until 1100\, no service on the entire line.
-DTEND:20250531T100000Z
-DTSTART:20250531T033000Z
-SUMMARY:Hammersmith & City: Planned Closure
-UID:d9989f92-c791-4974-a564-c680adc33504@d998.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-05-31T10:00:00&endDate=2025-05-31T15:00:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Saturday 31 May\, between 1100 and 1600\, no service between Edgware Road and Moorgate.
-DTEND:20250531T150000Z
-DTSTART:20250531T100000Z
-SUMMARY:Hammersmith & City: Part Closure
-UID:92a047fc-b2de-4878-a30f-f6baecb1e6d3@92a0.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-02T07:09:26&endDate=2025-06-03T00:29:00">Disruption map.</a>\n\nHammersmith and City Line: Minor delays due to an earlier points failure at Edgware Road.  
+DTEND:20250603T002900Z
+DTSTART:20250602T070926Z
+SUMMARY:Hammersmith & City: Minor Delays
+UID:579951c3-7848-4a98-8aec-3d832df5b5ba@5799.org
 END:VEVENT
 END:VCALENDAR
