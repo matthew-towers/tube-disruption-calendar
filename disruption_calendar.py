@@ -109,7 +109,8 @@ def make_calendar(lineid, disruption_data):
             # A disruption may have many validity periods each of which should
             # give rise to a calendar event, except that some continuous validity
             # periods are split when they go over a date boundary.
-            # These should be joined.
+            # These should be joined. The code assumes that validity periods are
+            # non-overlapping and in time order
             one_minute = dt.timedelta(minutes=1)
             n = len(disruption["validityPeriods"])
             i = 0
@@ -117,8 +118,9 @@ def make_calendar(lineid, disruption_data):
                 start = from_date(i)
                 while (
                     (i < n - 1)
-                    and (to_date(i).hour == 23)
-                    and (to_date(i).minute == 59)
+                    # and (to_date(i).hour == 23)
+                    # and (to_date(i).minute == 59)
+                    # No. Time zones! TfL data is in Zulu tz.
                     and (to_date(i) + one_minute == from_date(i + 1))
                 ):
                     i += 1
