@@ -1,0 +1,650 @@
+
+[{'$type': 'Tfl.Api.Presentation.Entities.Line, Tfl.Api.Presentation.Entities',
+  'id': 'mildmay',
+  'name': 'Mildmay',
+  'modeName': 'overground',
+  'disruptions': [],
+  'created': '2025-06-05T11:18:08.03Z',
+  'modified': '2025-06-05T11:18:08.03Z',
+  'lineStatuses': [{'$type': 'Tfl.Api.Presentation.Entities.LineStatus, Tfl.Api.
+Presentation.Entities',
+    'id': 0,
+    'lineId': 'mildmay',
+    'statusSeverity': 7,
+    'statusSeverityDescription': 'Reduced Service',
+    'reason': 'MILDMAY LINE: Monday 9 and Tuesday 10 June, the 2147 train from C
+lapham Junction to Stratford will not run, the 2159 train from Stratford to Rich
+mond will terminate at Camden Road at 2219, the 2203 and 2234 trains from Clapha
+m Junction to Stratford terminate at Willesden Junction, the 2247 train from Ric
+hmond to Stratford terminates at Willesden Junction. The 2317 train from Richmon
+d to Willesden Junction will not run.',
+    'created': '0001-01-01T00:00:00',
+    'validityPeriods': [{'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod,
+ Tfl.Api.Presentation.Entities',
+      'fromDate': '2025-06-09T20:45:00Z',
+      'toDate': '2025-06-09T22:59:00Z',
+      'isNow': False},
+     {'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod, Tfl.Api.Presentati
+on.Entities',
+      'fromDate': '2025-06-10T20:45:00Z',
+      'toDate': '2025-06-10T22:59:00Z',
+      'isNow': False}],
+    'disruption': {'$type': 'Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.P
+resentation.Entities',
+     'category': 'PlannedWork',
+     'categoryDescription': 'PlannedWork',
+     'description': 'MILDMAY LINE: Monday 9 and Tuesday 10 June, the 2147 train 
+from Clapham Junction to Stratford will not run, the 2159 train from Stratford t
+o Richmond will terminate at Camden Road at 2219, the 2203 and 2234 trains from 
+Clapham Junction to Stratford terminate at Willesden Junction, the 2247 train fr
+om Richmond to Stratford terminates at Willesden Junction. The 2317 train from R
+ichmond to Willesden Junction will not run.',
+     'created': '2025-05-30T14:17:00Z',
+     'affectedRoutes': [],
+     'affectedStops': [],
+     'closureText': 'reducedService'}},
+   {'$type': 'Tfl.Api.Presentation.Entities.LineStatus, Tfl.Api.Presentation.Ent
+ities',
+    'id': 0,
+    'lineId': 'mildmay',
+    'statusSeverity': 5,
+    'statusSeverityDescription': 'Part Closure',
+    'reason': 'MILDMAY LINE: Monday 9, Tuesday 10, Wednesday 11 and Thursday 12 
+June, after 2345 each evening. no westbound service from Stratford to Camden Roa
+d. The 2359 and 0015 services from Stratford will start from Camden Road at 0018
+ and 0034. Customers should use the last westbound service from Stratford at 234
+4, or local bus routes 30, 274, 388, 393 or 488.',
+    'created': '0001-01-01T00:00:00',
+    'validityPeriods': [{'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod,
+ Tfl.Api.Presentation.Entities',
+      'fromDate': '2025-06-09T22:45:00Z',
+      'toDate': '2025-06-09T22:59:00Z',
+      'isNow': False},
+     {'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod, Tfl.Api.Presentati
+on.Entities',
+      'fromDate': '2025-06-09T23:00:00Z',
+      'toDate': '2025-06-10T00:29:00Z',
+      'isNow': False},
+     {'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod, Tfl.Api.Presentati
+on.Entities',
+      'fromDate': '2025-06-10T22:45:00Z',
+      'toDate': '2025-06-10T22:59:00Z',
+      'isNow': False},
+     {'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod, Tfl.Api.Presentati
+on.Entities',
+      'fromDate': '2025-06-10T23:00:00Z',
+      'toDate': '2025-06-11T00:29:00Z',
+      'isNow': False},
+     {'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod, Tfl.Api.Presentati
+on.Entities',
+      'fromDate': '2025-06-11T22:45:00Z',
+      'toDate': '2025-06-11T22:59:00Z',
+      'isNow': False},
+     {'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod, Tfl.Api.Presentati
+on.Entities',
+      'fromDate': '2025-06-11T23:00:00Z',
+      'toDate': '2025-06-12T00:29:00Z',
+      'isNow': False},
+     {'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod, Tfl.Api.Presentati
+on.Entities',
+      'fromDate': '2025-06-12T22:45:00Z',
+      'toDate': '2025-06-12T22:59:00Z',
+      'isNow': False},
+     {'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod, Tfl.Api.Presentati
+on.Entities',
+      'fromDate': '2025-06-12T23:00:00Z',
+      'toDate': '2025-06-13T00:29:00Z',
+      'isNow': False}],
+    'disruption': {'$type': 'Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.P
+resentation.Entities',
+     'category': 'PlannedWork',
+     'categoryDescription': 'PlannedWork',
+     'description': 'MILDMAY LINE: Monday 9, Tuesday 10, Wednesday 11 and Thursd
+ay 12 June, after 2345 each evening. no westbound service from Stratford to Camd
+en Road. The 2359 and 0015 services from Stratford will start from Camden Road a
+t 0018 and 0034. Customers should use the last westbound service from Stratford 
+at 2344, or local bus routes 30, 274, 388, 393 or 488.',
+     'created': '2025-05-30T14:23:00Z',
+     'affectedRoutes': [],
+     'affectedStops': [],
+     'closureText': 'partClosure'}},
+   {'$type': 'Tfl.Api.Presentation.Entities.LineStatus, Tfl.Api.Presentation.Ent
+ities',
+    'id': 0,
+    'lineId': 'mildmay',
+    'statusSeverity': 5,
+    'statusSeverityDescription': 'Part Closure',
+    'reason': 'MILDMAY LINE: Wednesday 11 and Thursday 12 June, after 2300, no s
+ervice eastbound from Willesden Junction to Stratford. Customers should use the 
+last eastbound services detailed below or London Overground services to Euston. 
+Last through trains: Clapham Junction to Stratford 2234; Richmond to Stratford 2
+235; Willesden Junction to Stratford 2256. The 2249 train from Clapham Junction 
+to Stratford will not run. The 2305 train from Richmond to Stratford will termin
+ate at Willesden Junction at 2322. The 2317 train from Richmond to Willesden Jun
+ction will not run',
+    'created': '0001-01-01T00:00:00',
+    'validityPeriods': [{'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod,
+ Tfl.Api.Presentation.Entities',
+      'fromDate': '2025-06-11T22:00:00Z',
+      'toDate': '2025-06-11T22:59:00Z',
+      'isNow': False},
+     {'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod, Tfl.Api.Presentati
+on.Entities',
+      'fromDate': '2025-06-11T23:00:00Z',
+      'toDate': '2025-06-12T00:29:00Z',
+      'isNow': False},
+     {'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod, Tfl.Api.Presentati
+on.Entities',
+      'fromDate': '2025-06-12T22:00:00Z',
+      'toDate': '2025-06-12T22:59:00Z',
+      'isNow': False},
+     {'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod, Tfl.Api.Presentati
+on.Entities',
+      'fromDate': '2025-06-12T23:00:00Z',
+      'toDate': '2025-06-13T00:29:00Z',
+      'isNow': False}],
+    'disruption': {'$type': 'Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.P
+resentation.Entities',
+     'category': 'PlannedWork',
+     'categoryDescription': 'PlannedWork',
+     'description': 'MILDMAY LINE: Wednesday 11 and Thursday 12 June, after 2300
+, no service eastbound from Willesden Junction to Stratford. Customers should us
+e the last eastbound services detailed below or London Overground services to Eu
+ston. Last through trains: Clapham Junction to Stratford 2234; Richmond to Strat
+ford 2235; Willesden Junction to Stratford 2256. The 2249 train from Clapham Jun
+ction to Stratford will not run. The 2305 train from Richmond to Stratford will 
+terminate at Willesden Junction at 2322. The 2317 train from Richmond to Willesd
+en Junction will not run',
+     'created': '2025-05-30T15:50:00Z',
+     'affectedRoutes': [],
+     'affectedStops': [],
+     'closureText': 'partClosure'}},
+   {'$type': 'Tfl.Api.Presentation.Entities.LineStatus, Tfl.Api.Presentation.Ent
+ities',
+    'id': 0,
+    'lineId': 'mildmay',
+    'statusSeverity': 7,
+    'statusSeverityDescription': 'Reduced Service',
+    'reason': 'MILDMAY LINE: Wednesday 11 and Thursday 12 June, the 2129 and 215
+9 trains from Stratford to Richmond, and 2135 train from Stratford to Richmond, 
+will terminate at Camden Road. The 2147 train from Clapham Junction to Stratford
+ will not run and the 2203 train from Clapham Junction to Stratford will termina
+te at Willesden Junction.',
+    'created': '0001-01-01T00:00:00',
+    'validityPeriods': [{'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod,
+ Tfl.Api.Presentation.Entities',
+      'fromDate': '2025-06-11T20:25:00Z',
+      'toDate': '2025-06-11T22:00:00Z',
+      'isNow': False},
+     {'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod, Tfl.Api.Presentati
+on.Entities',
+      'fromDate': '2025-06-12T20:25:00Z',
+      'toDate': '2025-06-12T22:00:00Z',
+      'isNow': False}],
+    'disruption': {'$type': 'Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.P
+resentation.Entities',
+     'category': 'PlannedWork',
+     'categoryDescription': 'PlannedWork',
+     'description': 'MILDMAY LINE: Wednesday 11 and Thursday 12 June, the 2129 a
+nd 2159 trains from Stratford to Richmond, and 2135 train from Stratford to Rich
+mond, will terminate at Camden Road. The 2147 train from Clapham Junction to Str
+atford will not run and the 2203 train from Clapham Junction to Stratford will t
+erminate at Willesden Junction.',
+     'created': '2025-05-30T15:58:00Z',
+     'affectedRoutes': [],
+     'affectedStops': [],
+     'closureText': 'reducedService'}},
+   {'$type': 'Tfl.Api.Presentation.Entities.LineStatus, Tfl.Api.Presentation.Ent
+ities',
+    'id': 0,
+    'lineId': 'mildmay',
+    'statusSeverity': 7,
+    'statusSeverityDescription': 'Reduced Service',
+    'reason': 'MILDMAY LINE: Friday 13 June, the 2159 train from Stratford to Ri
+chmond will terminate at Camden Road at 2219. The 2317 train from Richmond to Wi
+llesden Junction will not run',
+    'created': '0001-01-01T00:00:00',
+    'validityPeriods': [{'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod,
+ Tfl.Api.Presentation.Entities',
+      'fromDate': '2025-06-13T20:55:00Z',
+      'toDate': '2025-06-13T22:59:00Z',
+      'isNow': False}],
+    'disruption': {'$type': 'Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.P
+resentation.Entities',
+     'category': 'PlannedWork',
+     'categoryDescription': 'PlannedWork',
+     'description': 'MILDMAY LINE: Friday 13 June, the 2159 train from Stratford
+ to Richmond will terminate at Camden Road at 2219. The 2317 train from Richmond
+ to Willesden Junction will not run',
+     'created': '2025-05-30T16:03:00Z',
+     'affectedRoutes': [],
+     'affectedStops': [],
+     'closureText': 'reducedService'}},
+   {'$type': 'Tfl.Api.Presentation.Entities.LineStatus, Tfl.Api.Presentation.Ent
+ities',
+    'id': 0,
+    'lineId': 'mildmay',
+    'statusSeverity': 7,
+    'statusSeverityDescription': 'Reduced Service',
+    'reason': "MILDMAY LINE: Sunday 15 June, reduced service will run between Sh
+epherd's Bush and Clapham Junction. A joint Mildmay line and Southern service wi
+ll run every 15 minutes.",
+    'created': '0001-01-01T00:00:00',
+    'validityPeriods': [{'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod,
+ Tfl.Api.Presentation.Entities',
+      'fromDate': '2025-06-15T03:30:00Z',
+      'toDate': '2025-06-16T00:29:00Z',
+      'isNow': False}],
+    'disruption': {'$type': 'Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.P
+resentation.Entities',
+     'category': 'PlannedWork',
+     'categoryDescription': 'PlannedWork',
+     'description': "MILDMAY LINE: Sunday 15 June, reduced service will run betw
+een Shepherd's Bush and Clapham Junction. A joint Mildmay line and Southern serv
+ice will run every 15 minutes.",
+     'created': '2025-05-30T16:23:00Z',
+     'affectedRoutes': [],
+     'affectedStops': [],
+     'closureText': 'reducedService'}},
+   {'$type': 'Tfl.Api.Presentation.Entities.LineStatus, Tfl.Api.Presentation.Ent
+ities',
+    'id': 0,
+    'lineId': 'mildmay',
+    'statusSeverity': 5,
+    'statusSeverityDescription': 'Part Closure',
+    'reason': 'MILDMAY LINE: Monday 16 June, no London Overground service westbo
+und from Camden Road to Willesden Junction after 2345. The 2359 and 0015 service
+s from Stratford will terminate at Camden Road. Use London Overground services f
+rom Euston to Willesden Junction, Northern line from Camden Town, or local bus r
+outes 1, 24, 46 88 and 214 from Camden Road / Camden Town.',
+    'created': '0001-01-01T00:00:00',
+    'validityPeriods': [{'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod,
+ Tfl.Api.Presentation.Entities',
+      'fromDate': '2025-06-16T22:45:00Z',
+      'toDate': '2025-06-17T00:29:00Z',
+      'isNow': False}],
+    'disruption': {'$type': 'Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.P
+resentation.Entities',
+     'category': 'PlannedWork',
+     'categoryDescription': 'PlannedWork',
+     'description': 'MILDMAY LINE: Monday 16 June, no London Overground service 
+westbound from Camden Road to Willesden Junction after 2345. The 2359 and 0015 s
+ervices from Stratford will terminate at Camden Road. Use London Overground serv
+ices from Euston to Willesden Junction, Northern line from Camden Town, or local
+ bus routes 1, 24, 46 88 and 214 from Camden Road / Camden Town.',
+     'created': '2025-05-30T16:43:00Z',
+     'affectedRoutes': [],
+     'affectedStops': [],
+     'closureText': 'partClosure'}},
+   {'$type': 'Tfl.Api.Presentation.Entities.LineStatus, Tfl.Api.Presentation.Ent
+ities',
+    'id': 0,
+    'lineId': 'mildmay',
+    'statusSeverity': 5,
+    'statusSeverityDescription': 'Part Closure',
+    'reason': 'MILDMAY LINE: Wednesday 18 and Thursday 19 June, no London Overgr
+ound service westbound from Camden Road to Willesden Junction after 2345. The 23
+59 and 0015 services from Stratford will terminate at Camden Road. Use London Ov
+erground services from Euston to Willesden Junction, Northern line from Camden T
+own, or local bus routes 1, 24, 46 88 and 214 from Camden Road / Camden Town.',
+    'created': '0001-01-01T00:00:00',
+    'validityPeriods': [{'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod,
+ Tfl.Api.Presentation.Entities',
+      'fromDate': '2025-06-18T22:45:00Z',
+      'toDate': '2025-06-18T22:59:00Z',
+      'isNow': False},
+     {'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod, Tfl.Api.Presentati
+on.Entities',
+      'fromDate': '2025-06-18T23:00:00Z',
+      'toDate': '2025-06-19T00:29:00Z',
+      'isNow': False},
+     {'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod, Tfl.Api.Presentati
+on.Entities',
+      'fromDate': '2025-06-19T22:45:00Z',
+      'toDate': '2025-06-19T22:59:00Z',
+      'isNow': False},
+     {'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod, Tfl.Api.Presentati
+on.Entities',
+      'fromDate': '2025-06-19T23:00:00Z',
+      'toDate': '2025-06-20T00:29:00Z',
+      'isNow': False}],
+    'disruption': {'$type': 'Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.P
+resentation.Entities',
+     'category': 'PlannedWork',
+     'categoryDescription': 'PlannedWork',
+     'description': 'MILDMAY LINE: Wednesday 18 and Thursday 19 June, no London 
+Overground service westbound from Camden Road to Willesden Junction after 2345. 
+The 2359 and 0015 services from Stratford will terminate at Camden Road. Use Lon
+don Overground services from Euston to Willesden Junction, Northern line from Ca
+mden Town, or local bus routes 1, 24, 46 88 and 214 from Camden Road / Camden To
+wn.',
+     'created': '2025-05-30T16:46:00Z',
+     'affectedRoutes': [],
+     'affectedStops': [],
+     'closureText': 'partClosure'}},
+   {'$type': 'Tfl.Api.Presentation.Entities.LineStatus, Tfl.Api.Presentation.Ent
+ities',
+    'id': 0,
+    'lineId': 'mildmay',
+    'statusSeverity': 7,
+    'statusSeverityDescription': 'Reduced Service',
+    'reason': 'MILDMAY LINE: Monday 16 June, the 2203 and 2234 trains from Claph
+am Junction to Stratford terminate at Willesden Junction.',
+    'created': '0001-01-01T00:00:00',
+    'validityPeriods': [{'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod,
+ Tfl.Api.Presentation.Entities',
+      'fromDate': '2025-06-16T21:00:00Z',
+      'toDate': '2025-06-16T22:00:00Z',
+      'isNow': False}],
+    'disruption': {'$type': 'Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.P
+resentation.Entities',
+     'category': 'PlannedWork',
+     'categoryDescription': 'PlannedWork',
+     'description': 'MILDMAY LINE: Monday 16 June, the 2203 and 2234 trains from
+ Clapham Junction to Stratford terminate at Willesden Junction.',
+     'created': '2025-05-30T16:48:00Z',
+     'affectedRoutes': [],
+     'affectedStops': [],
+     'closureText': 'reducedService'}},
+   {'$type': 'Tfl.Api.Presentation.Entities.LineStatus, Tfl.Api.Presentation.Ent
+ities',
+    'id': 0,
+    'lineId': 'mildmay',
+    'statusSeverity': 7,
+    'statusSeverityDescription': 'Reduced Service',
+    'reason': 'MILDMAY LINE: Wednesday 18 and Thursday 19 June, the 2203 and 223
+4 trains from Clapham Junction to Stratford terminate at Willesden Junction.',
+    'created': '0001-01-01T00:00:00',
+    'validityPeriods': [{'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod,
+ Tfl.Api.Presentation.Entities',
+      'fromDate': '2025-06-18T21:00:00Z',
+      'toDate': '2025-06-18T22:00:00Z',
+      'isNow': False},
+     {'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod, Tfl.Api.Presentati
+on.Entities',
+      'fromDate': '2025-06-19T21:00:00Z',
+      'toDate': '2025-06-19T22:00:00Z',
+      'isNow': False}],
+    'disruption': {'$type': 'Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.P
+resentation.Entities',
+     'category': 'PlannedWork',
+     'categoryDescription': 'PlannedWork',
+     'description': 'MILDMAY LINE: Wednesday 18 and Thursday 19 June, the 2203 a
+nd 2234 trains from Clapham Junction to Stratford terminate at Willesden Junctio
+n.',
+     'created': '2025-05-30T16:50:00Z',
+     'affectedRoutes': [],
+     'affectedStops': [],
+     'closureText': 'reducedService'}},
+   {'$type': 'Tfl.Api.Presentation.Entities.LineStatus, Tfl.Api.Presentation.Ent
+ities',
+    'id': 0,
+    'lineId': 'mildmay',
+    'statusSeverity': 5,
+    'statusSeverityDescription': 'Part Closure',
+    'reason': "MILDMAY LINE: Tuesday 17 June, until 0615, no southbound service 
+from Willesden Junction to Shepherds Bush, the 0552 first train from Willesden J
+unction to Clapham Junction starts from Shepherd's Bush at 0600 and the 06:08 se
+cond train from Willesden Junction to Clapham Junction does not run. Use the nex
+t service at 06:23 or local bus routes 220 or 228. the 0611 train from Stratford
+ to Clapham Junction will start from Shepherds Bush at 0701 and the 0651 train f
+rom Stratford to Richmond will start from Willesden Junction at 0737.",
+    'created': '0001-01-01T00:00:00',
+    'validityPeriods': [{'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod,
+ Tfl.Api.Presentation.Entities',
+      'fromDate': '2025-06-17T03:30:00Z',
+      'toDate': '2025-06-17T05:15:00Z',
+      'isNow': False}],
+    'disruption': {'$type': 'Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.P
+resentation.Entities',
+     'category': 'PlannedWork',
+     'categoryDescription': 'PlannedWork',
+     'description': "MILDMAY LINE: Tuesday 17 June, until 0615, no southbound se
+rvice from Willesden Junction to Shepherds Bush, the 0552 first train from Wille
+sden Junction to Clapham Junction starts from Shepherd's Bush at 0600 and the 06
+:08 second train from Willesden Junction to Clapham Junction does not run. Use t
+he next service at 06:23 or local bus routes 220 or 228. the 0611 train from Str
+atford to Clapham Junction will start from Shepherds Bush at 0701 and the 0651 t
+rain from Stratford to Richmond will start from Willesden Junction at 0737.",
+     'created': '2025-05-30T17:10:00Z',
+     'affectedRoutes': [],
+     'affectedStops': [],
+     'closureText': 'partClosure'}},
+   {'$type': 'Tfl.Api.Presentation.Entities.LineStatus, Tfl.Api.Presentation.Ent
+ities',
+    'id': 0,
+    'lineId': 'mildmay',
+    'statusSeverity': 5,
+    'statusSeverityDescription': 'Part Closure',
+    'reason': "MILDMAY LINE: Thursday 19 and Friday 20 June, until 0615, no sout
+hbound service from Willesden Junction to Shepherds Bush, the 0552 first train f
+rom Willesden Junction to Clapham Junction starts from Shepherd's Bush at 0600 a
+nd the 06:08 second train from Willesden Junction to Clapham Junction does not r
+un. Use the next service at 06:23 or local bus routes 220 or 228. the 0611 train
+ from Stratford to Clapham Junction will start from Shepherds Bush at 0701 and t
+he 0651 train from Stratford to Richmond will start from Willesden Junction at 0
+737.",
+    'created': '0001-01-01T00:00:00',
+    'validityPeriods': [{'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod,
+ Tfl.Api.Presentation.Entities',
+      'fromDate': '2025-06-19T03:30:00Z',
+      'toDate': '2025-06-19T05:15:00Z',
+      'isNow': False},
+     {'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod, Tfl.Api.Presentati
+on.Entities',
+      'fromDate': '2025-06-20T03:30:00Z',
+      'toDate': '2025-06-20T05:15:00Z',
+      'isNow': False}],
+    'disruption': {'$type': 'Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.P
+resentation.Entities',
+     'category': 'PlannedWork',
+     'categoryDescription': 'PlannedWork',
+     'description': "MILDMAY LINE: Thursday 19 and Friday 20 June, until 0615, n
+o southbound service from Willesden Junction to Shepherds Bush, the 0552 first t
+rain from Willesden Junction to Clapham Junction starts from Shepherd's Bush at 
+0600 and the 06:08 second train from Willesden Junction to Clapham Junction does
+ not run. Use the next service at 06:23 or local bus routes 220 or 228. the 0611
+ train from Stratford to Clapham Junction will start from Shepherds Bush at 0701
+ and the 0651 train from Stratford to Richmond will start from Willesden Junctio
+n at 0737.",
+     'created': '2025-05-30T17:15:00Z',
+     'affectedRoutes': [],
+     'affectedStops': [],
+     'closureText': 'partClosure'}},
+   {'$type': 'Tfl.Api.Presentation.Entities.LineStatus, Tfl.Api.Presentation.Ent
+ities',
+    'id': 0,
+    'lineId': 'mildmay',
+    'statusSeverity': 7,
+    'statusSeverityDescription': 'Reduced Service',
+    'reason': "MILDMAY LINE: Sunday 22 June, reduced service will run between Sh
+epherd's Bush and Clapham Junction. A joint Mildmay line and Southern service wi
+ll run every 15 minutes.",
+    'created': '0001-01-01T00:00:00',
+    'validityPeriods': [{'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod,
+ Tfl.Api.Presentation.Entities',
+      'fromDate': '2025-06-22T03:30:00Z',
+      'toDate': '2025-06-23T00:29:00Z',
+      'isNow': False}],
+    'disruption': {'$type': 'Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.P
+resentation.Entities',
+     'category': 'PlannedWork',
+     'categoryDescription': 'PlannedWork',
+     'description': "MILDMAY LINE: Sunday 22 June, reduced service will run betw
+een Shepherd's Bush and Clapham Junction. A joint Mildmay line and Southern serv
+ice will run every 15 minutes.",
+     'created': '2025-05-30T17:34:00Z',
+     'affectedRoutes': [],
+     'affectedStops': [],
+     'closureText': 'reducedService'}},
+   {'$type': 'Tfl.Api.Presentation.Entities.LineStatus, Tfl.Api.Presentation.Ent
+ities',
+    'id': 0,
+    'lineId': 'mildmay',
+    'statusSeverity': 7,
+    'statusSeverityDescription': 'Reduced Service',
+    'reason': 'MILDMAY LINE: Friday 27 June, the 2159 train from Stratford to Ri
+chmond will terminate at Camden Road at 2219. The 2317 train from Richmond to Wi
+llesden Junction will not run',
+    'created': '0001-01-01T00:00:00',
+    'validityPeriods': [{'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod,
+ Tfl.Api.Presentation.Entities',
+      'fromDate': '2025-06-27T20:55:00Z',
+      'toDate': '2025-06-27T22:59:00Z',
+      'isNow': False}],
+    'disruption': {'$type': 'Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.P
+resentation.Entities',
+     'category': 'PlannedWork',
+     'categoryDescription': 'PlannedWork',
+     'description': 'MILDMAY LINE: Friday 27 June, the 2159 train from Stratford
+ to Richmond will terminate at Camden Road at 2219. The 2317 train from Richmond
+ to Willesden Junction will not run',
+     'created': '2025-06-02T10:23:00Z',
+     'affectedRoutes': [],
+     'affectedStops': [],
+     'closureText': 'reducedService'}},
+   {'$type': 'Tfl.Api.Presentation.Entities.LineStatus, Tfl.Api.Presentation.Ent
+ities',
+    'id': 0,
+    'lineId': 'mildmay',
+    'statusSeverity': 7,
+    'statusSeverityDescription': 'Reduced Service',
+    'reason': "MILDMAY LINE: Sunday 29 June, reduced service will run between Sh
+epherd's Bush and Clapham Junction. A joint Mildmay line and Southern service wi
+ll run every 15 minutes.",
+    'created': '0001-01-01T00:00:00',
+    'validityPeriods': [{'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod,
+ Tfl.Api.Presentation.Entities',
+      'fromDate': '2025-06-29T03:30:00Z',
+      'toDate': '2025-06-30T00:29:00Z',
+      'isNow': False}],
+    'disruption': {'$type': 'Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.P
+resentation.Entities',
+     'category': 'PlannedWork',
+     'categoryDescription': 'PlannedWork',
+     'description': "MILDMAY LINE: Sunday 29 June, reduced service will run betw
+een Shepherd's Bush and Clapham Junction. A joint Mildmay line and Southern serv
+ice will run every 15 minutes.",
+     'created': '2025-06-02T10:28:00Z',
+     'affectedRoutes': [],
+     'affectedStops': [],
+     'closureText': 'reducedService'}},
+   {'$type': 'Tfl.Api.Presentation.Entities.LineStatus, Tfl.Api.Presentation.Ent
+ities',
+    'id': 0,
+    'lineId': 'mildmay',
+    'statusSeverity': 5,
+    'statusSeverityDescription': 'Part Closure',
+    'reason': 'MILDMAY LINE: Sunday 15 June, no service between Gospel Oak and R
+ichmond / Shepherds Bush, A special train service operates between Stratford and
+ Willesden Junction (Low Level) via all stations to Camden Road, then South Hamp
+stead, Kilburn High Road, Queens Park and Kensal Green. Use DISTRICT LINE servic
+es between Gunnersbury, Kew Gardens and Richmond and local London Buses routes 2
+20 and 228 between Willesden Junction and Shepherds Bush. Replacement buses oper
+ate.',
+    'created': '0001-01-01T00:00:00',
+    'validityPeriods': [{'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod,
+ Tfl.Api.Presentation.Entities',
+      'fromDate': '2025-06-15T03:30:00Z',
+      'toDate': '2025-06-16T00:29:00Z',
+      'isNow': False}],
+    'disruption': {'$type': 'Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.P
+resentation.Entities',
+     'category': 'PlannedWork',
+     'categoryDescription': 'PlannedWork',
+     'description': 'MILDMAY LINE: Sunday 15 June, no service between Gospel Oak
+ and Richmond / Shepherds Bush, A special train service operates between Stratfo
+rd and Willesden Junction (Low Level) via all stations to Camden Road, then Sout
+h Hampstead, Kilburn High Road, Queens Park and Kensal Green. Use DISTRICT LINE 
+services between Gunnersbury, Kew Gardens and Richmond and local London Buses ro
+utes 220 and 228 between Willesden Junction and Shepherds Bush. Replacement buse
+s operate.',
+     'additionalInfo': 'Replacement bus service R operates:Camden Road - Kentish
+ Town West - Gospel Oak (Southampton Road / Agincourt Road) - Hampstead Heath - 
+Finchley Road Underground station (for Finchley Road & Frognal) - West Hampstead
+ - Brondesbury - Queens Park (for Brondesbury Park) - Kensal Rise - Willesden Ju
+nction - Acton Central - South Acton (Acton Lane) - Gunnersbury;',
+     'created': '2025-05-30T16:14:00Z',
+     'affectedRoutes': [],
+     'affectedStops': [],
+     'closureText': 'partClosure'}},
+   {'$type': 'Tfl.Api.Presentation.Entities.LineStatus, Tfl.Api.Presentation.Ent
+ities',
+    'id': 0,
+    'lineId': 'mildmay',
+    'statusSeverity': 5,
+    'statusSeverityDescription': 'Part Closure',
+    'reason': 'MILDMAY LINE: Sunday 22 June, no service between Gospel Oak and R
+ichmond / Shepherds Bush, A special train service operates between Stratford and
+ Willesden Junction (Low Level) via all stations to Camden Road, then South Hamp
+stead, Kilburn High Road, Queens Park and Kensal Green. No DISTRICT LINE service
+s between Gunnersbury, Kew Gardens and Richmond and local London Buses routes 22
+0 and 228 between Willesden Junction and Shepherds Bush. Replacement buses opera
+te.',
+    'created': '0001-01-01T00:00:00',
+    'validityPeriods': [{'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod,
+ Tfl.Api.Presentation.Entities',
+      'fromDate': '2025-06-22T03:30:00Z',
+      'toDate': '2025-06-23T00:29:00Z',
+      'isNow': False}],
+    'disruption': {'$type': 'Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.P
+resentation.Entities',
+     'category': 'PlannedWork',
+     'categoryDescription': 'PlannedWork',
+     'description': 'MILDMAY LINE: Sunday 22 June, no service between Gospel Oak
+ and Richmond / Shepherds Bush, A special train service operates between Stratfo
+rd and Willesden Junction (Low Level) via all stations to Camden Road, then Sout
+h Hampstead, Kilburn High Road, Queens Park and Kensal Green. No DISTRICT LINE s
+ervices between Gunnersbury, Kew Gardens and Richmond and local London Buses rou
+tes 220 and 228 between Willesden Junction and Shepherds Bush. Replacement buses
+ operate.',
+     'additionalInfo': 'Replacement bus service R operates:Camden Road - Kentish
+ Town West - Gospel Oak (Southampton Road / Agincourt Road) - Hampstead Heath - 
+Finchley Road Underground station (for Finchley Road & Frognal) - West Hampstead
+ - Brondesbury - Queens Park (for Brondesbury Park) - Kensal Rise - Willesden Ju
+nctionReplacement bus service DL3 operates: Willesden Junction - Acton Central -
+ South Acton (Acton Lane) - Gunnersbury - Kew Gardens (Royal Botanic Gardens) - 
+Richmond;\xa0',
+     'created': '2025-05-30T17:31:00Z',
+     'affectedRoutes': [],
+     'affectedStops': [],
+     'closureText': 'partClosure'}},
+   {'$type': 'Tfl.Api.Presentation.Entities.LineStatus, Tfl.Api.Presen
+ities',
+    'id': 0,
+    'lineId': 'mildmay',
+    'statusSeverity': 5,
+    'statusSeverityDescription': 'Part Closure',
+    'reason': 'MILDMAY LINE: Sunday 29 June, no service between Gospel
+    'created': '0001-01-01T00:00:00',
+    'validityPeriods': [{'$type': 'Tfl.Api.Presentation.Entities.ValidityPeriod, T
+fl.Api.Presentation.Entities',
+      'fromDate': '2025-06-29T03:30:00Z',
+      'toDate': '2025-06-30T00:29:00Z',
+      'isNow': False}],
+    'disruption': {'$type': 'Tfl.Api.Presentation.Entities.Disruption, Tfl.Api.Pre
+sentation.Entities',
+     'category': 'PlannedWork',
+     'categoryDescription': 'PlannedWork',
+     'description': 'MILDMAY LINE: Sunday 29 June, no service between Gospel Oak a
+nd Richmond / Shepherds Bush, A special train service operates between Stratford a
+nd Willesden Junction (Low Level) via all stations to Camden Road, then South Hamp
+stead, Kilburn High Road, Queens Park and Kensal Green. Use DISTRICT LINE services
+ between Gunnersbury, Kew Gardens and Richmond and local London Buses routes 220 a
+nd 228 between Willesden Junction and Shepherds Bush. Replacement buses operate.',
+     'additionalInfo': 'Replacement bus service R operates:Camden Road - Kentish T
+own West - Gospel Oak (Southampton Road / Agincourt Road) - Hampstead Heath - Finc
+hley Road Underground station (for Finchley Road & Frognal) - West Hampstead - Bro
+ndesbury - Queens Park (for Brondesbury Park) - Kensal Rise - Willesden Junction -
+ Acton Central - South Acton (Acton Lane) - Gunnersbury;',
+     'created': '2025-06-02T10:26:00Z',
+     'affectedRoutes': [],
+     'affectedStops': [],
+     'closureText': 'partClosure'}}],
+  'routeSections': [],
+  'serviceTypes': [{'$type': 'Tfl.Api.Presentation.Entities.LineServiceTypeInfo, T
+fl.Api.Presentation.Entities',
+    'name': 'Regular',
+    'uri': '/Line/Route?ids=Mildmay&serviceTypes=Regular'}],
+  'crowding': {'$type': 'Tfl.Api.Presentation.Entities.Crowding, Tfl.Api.Presentat
+ion.Entities'}}]
