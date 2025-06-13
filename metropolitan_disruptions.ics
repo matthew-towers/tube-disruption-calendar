@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-13T07:21:10&endDate=2025-06-14T00:29:00">Disruption map.</a>\n\nMetropolitan Line: Severe delays between Harrow-on-the-Hill and Uxbridge while we fix a signal failure at Rayners Lane. GOOD SERVICE on the rest of the line.\r\nTickets are being accepted on London Buses via reasonable routes. 
+DTEND:20250614T002900Z
+DTSTART:20250613T072110Z
+SUMMARY:Metropolitan: Severe Delays
+UID:6974f872-2880-47a5-8248-b72eaab643bc@6974.org
+END:VEVENT
 END:VCALENDAR

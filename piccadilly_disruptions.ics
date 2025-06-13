@@ -2,4 +2,25 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-13T07:29:32&endDate=2025-06-13T10:32:36">Disruption map.</a>\n\nPiccadilly Line: No service between Northfields and Heathrow Airport and SEVERE DELAYS between Acton Town and Northfields\r\n while we respond to a fire alert at Hatton Cross. Tickets are being accepted on London Buses and Elizabeth \r\nLine services via reasonable routes. MINOR DELAYS between South Harrow and \r\nUxbridge while we fix a signal failure. GOOD SERVICE on the rest of the line.  
+DTEND:20250613T103236Z
+DTSTART:20250613T072932Z
+SUMMARY:Piccadilly: Part Suspended
+UID:57ee9f47-d9ea-4882-9ade-4d18a803f0ae@57ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-13T07:29:32&endDate=2025-06-14T00:29:00">Disruption map.</a>\n\nPiccadilly Line: No service between Northfields and Heathrow Airport and SEVERE DELAYS between Acton Town and Northfields\r\n while we respond to a fire alert at Hatton Cross. Tickets are being accepted on London Buses and Elizabeth \r\nLine services via reasonable routes. MINOR DELAYS between South Harrow and \r\nUxbridge while we fix a signal failure. GOOD SERVICE on the rest of the line.  
+DTEND:20250614T002900Z
+DTSTART:20250613T072932Z
+SUMMARY:Piccadilly: Severe Delays
+UID:1e8e7320-2f3d-45ac-bfff-28ea4cb365bc@1e8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-13T07:29:32&endDate=2025-06-14T00:29:00">Disruption map.</a>\n\nPiccadilly Line: No service between Northfields and Heathrow Airport and SEVERE DELAYS between Acton Town and Northfields\r\n while we respond to a fire alert at Hatton Cross. Tickets are being accepted on London Buses and Elizabeth \r\nLine services via reasonable routes. MINOR DELAYS between South Harrow and \r\nUxbridge while we fix a signal failure. GOOD SERVICE on the rest of the line.  
+DTEND:20250614T002900Z
+DTSTART:20250613T072932Z
+SUMMARY:Piccadilly: Minor Delays
+UID:31df401a-b681-4a59-9178-2838b4e586f6@31df.org
+END:VEVENT
 END:VCALENDAR
