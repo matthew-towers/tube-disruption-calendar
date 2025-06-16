@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-16T06:47:38&endDate=2025-06-17T00:29:00">Disruption map.</a>\n\nDistrict Line: Minor delays between Turnham Green and Richmond due to an earlier faulty train at Sloane Square. GOOD SERVICE on the rest of the line.  
+DTEND:20250617T002900Z
+DTSTART:20250616T064738Z
+SUMMARY:District: Minor Delays
+UID:ef5ad709-f9ce-4368-a5b5-1bb027476e23@ef5a.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-22T03:30:00&endDate=2025-06-23T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Sunday 22 June\, no service between Turnham Green and Richmond. This includes the last westbound train in the early hours of Sunday morning. There will also be no MILDMAY LINE service between Gospel Oak and Richmond. Replacement bus service DL3 operates between Willesden Junction and Richmond via Acton Central\, South Acton (Acton Lane)\, Turnham Green\, Chiswick Park\, Gunnersbury and Kew Gardens (Royal Botanic Gardens).
 DTEND:20250623T002900Z
 DTSTART:20250622T033000Z
 SUMMARY:District: Part Closure
-UID:5773047f-27c7-45bf-82db-d483680da133@5773.org
+UID:2d4b8388-6ec9-429c-a44f-6e9c7576c349@2d4b.org
 END:VEVENT
 END:VCALENDAR
