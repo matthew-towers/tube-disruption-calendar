@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Victoria disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-19T07:04:01&endDate=2025-06-20T00:29:00">Disruption map.</a>\n\nVictoria Line: Minor delays while we fix a points failure at Walthamstow Central. 
+DTEND:20250620T002900Z
+DTSTART:20250619T070401Z
+SUMMARY:Victoria: Minor Delays
+UID:f1774799-0cce-4ce7-b37a-ee25590e1d28@f177.org
+END:VEVENT
 END:VCALENDAR

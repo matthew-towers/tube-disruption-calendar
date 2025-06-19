@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-19T07:22:38&endDate=2025-06-20T00:29:00">Disruption map.</a>\n\nDistrict Line: Severe delays while we fix a faulty train at Earl's Court. Tickets are being accepted on London Buses\, DLR\, London Overground and C2C services via reasonable routes. 
+DTEND:20250620T002900Z
+DTSTART:20250619T072238Z
+SUMMARY:District: Severe Delays
+UID:7010f591-15aa-4ca3-bf68-35729519052f@7010.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-22T03:30:00&endDate=2025-06-23T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Sunday 22 June\, no service between Turnham Green and Richmond. This includes the last westbound train in the early hours of Sunday morning. There will also be no MILDMAY LINE service between Gospel Oak and Richmond. Replacement bus service DL3 operates between Willesden Junction and Richmond via Acton Central\, South Acton (Acton Lane)\, Turnham Green\, Chiswick Park\, Gunnersbury and Kew Gardens (Royal Botanic Gardens).
 DTEND:20250623T002900Z
 DTSTART:20250622T033000Z
 SUMMARY:District: Part Closure
-UID:b6da78b6-ee4e-4290-bd7f-936a163d7645@b6da.org
+UID:e4d79791-8b51-4d6b-b84b-43556f6e03fc@e4d7.org
 END:VEVENT
 END:VCALENDAR

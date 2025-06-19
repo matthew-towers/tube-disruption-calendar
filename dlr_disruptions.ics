@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-28T02:30:00&endDate=2025-06-30T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 28 and Sunday 29 June\, no service Prince Regent - Beckton. Replacement Buses will operate between Prince Regent and Gallions Reach via Royal Albert\, Beckton Park\, Cyprus and Beckton.
+DTEND:20250630T002900Z
+DTSTART:20250628T023000Z
+SUMMARY:DLR: Part Closure
+UID:b0c03a63-503c-4fec-90ee-ff3d73d81e3b@b0c0.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-21T03:30:00&endDate=2025-06-23T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 21 and Sunday 22 June\, no service between Poplar / Stratford International and Beckton / Woolwich Arsenal). Use ELIZABETH LINE services between Custom House and Woolwich\, and JUBILEE LINE services between Stratford and Canning Town. Replacement buses operate.
 DTEND:20250623T002900Z
 DTSTART:20250621T033000Z
 SUMMARY:DLR: Part Closure
-UID:3267d845-600e-4bdf-8a3d-b5b5dd199d51@3267.org
+UID:0037c8c5-3af8-42a2-80dd-9966eb48dcad@0037.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-07-05T03:30:00&endDate=2025-07-07T00:15:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 5 and Sunday 6 July\, no service between Bank / Tower Gateway and Canning Town / Lewisham\, or between Stratford and Canary Wharf. Replacement buses operate.
 DTEND:20250707T001500Z
 DTSTART:20250705T033000Z
 SUMMARY:DLR: Part Closure
-UID:7971bb4f-44fa-48bd-820c-1c672d33a417@7971.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-28T02:30:00&endDate=2025-06-30T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 28 and Sunday 29 June\, no service Prince Regent - Beckton. Replacement Buses will operate between Prince Regent and Gallions Reach via Royal Albert\, Beckton Park\, Cyprus and Beckton.
-DTEND:20250630T002900Z
-DTSTART:20250628T023000Z
-SUMMARY:DLR: Part Closure
-UID:1197edda-3f2b-49c1-9b26-1160c7a0a08d@1197.org
+UID:03410506-22b9-47ab-8675-7f376ebfec87@0341.org
 END:VEVENT
 END:VCALENDAR
