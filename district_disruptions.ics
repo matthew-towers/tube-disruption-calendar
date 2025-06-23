@@ -3,24 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-22T09:14:23&endDate=2025-06-22T13:11:07">Disruption map.</a>\n\nDistrict Line: No service between Turnham Green and Richmond due to planned engineering work.\r\nNO SERVICE between Parsons Green and Wimbledon and MINOR DELAYS between Barking and Upminster while we fix a signal failure at Southfields. Tickets are being accepted on London Buses and South Western Railway. GOOD SERVICE on the rest of the line. 
-DTEND:20250622T131107Z
-DTSTART:20250622T091423Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-23T08:17:41&endDate=2025-06-24T00:29:00">Disruption map.</a>\n\nDistrict Line: No service between Earl's Court and Embankment while we deal with a trespasser at South Kensington. SEVERE DELAYS on the rest of the line. 
+DTEND:20250624T002900Z
+DTSTART:20250623T081741Z
+SUMMARY:District: Severe Delays
+UID:05ebd8a7-8e05-4ec9-bb1b-3cf35e8070ea@05eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-23T08:17:41&endDate=2025-06-23T11:18:43">Disruption map.</a>\n\nDistrict Line: No service between Earl's Court and Embankment while we deal with a trespasser at South Kensington. SEVERE DELAYS on the rest of the line. 
+DTEND:20250623T111843Z
+DTSTART:20250623T081741Z
 SUMMARY:District: Part Suspended
-UID:0b5462b7-1b14-41b0-9570-9275eca95844@0b54.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-22T03:30:00&endDate=2025-06-23T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Sunday 22 June\, no service between Turnham Green and Richmond. This includes the last westbound train in the early hours of Sunday morning. There will also be no MILDMAY LINE service between Gospel Oak and Richmond. Replacement bus service DL3 operates between Willesden Junction and Richmond via Acton Central\, South Acton (Acton Lane)\, Turnham Green\, Chiswick Park\, Gunnersbury and Kew Gardens (Royal Botanic Gardens).
-DTEND:20250623T002900Z
-DTSTART:20250622T033000Z
-SUMMARY:District: Part Closure
-UID:b15199c4-ec07-460e-92a3-4d914da90ac0@b151.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-22T09:14:23&endDate=2025-06-23T00:29:00">Disruption map.</a>\n\nDistrict Line: No service between Turnham Green and Richmond due to planned engineering work.\r\nNO SERVICE between Parsons Green and Wimbledon and MINOR DELAYS between Barking and Upminster while we fix a signal failure at Southfields. Tickets are being accepted on London Buses and South Western Railway. GOOD SERVICE on the rest of the line. 
-DTEND:20250623T002900Z
-DTSTART:20250622T091423Z
-SUMMARY:District: Minor Delays
-UID:40331d8a-84c6-473f-a8f4-631e5d816a95@4033.org
+UID:58d617a5-f1c9-4d87-8da3-dbc6edfba692@58d6.org
 END:VEVENT
 END:VCALENDAR
