@@ -3,17 +3,10 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-23T08:17:41&endDate=2025-06-24T00:29:00">Disruption map.</a>\n\nDistrict Line: No service between Earl's Court and Embankment while we deal with a trespasser at South Kensington. SEVERE DELAYS on the rest of the line. 
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-23T20:25:25&endDate=2025-06-24T00:29:00">Disruption map.</a>\n\nDistrict Line: Minor delays between Turnham Green and Richmond due to an earlier faulty train. GOOD SERVICE on the rest of the line. 
 DTEND:20250624T002900Z
-DTSTART:20250623T081741Z
-SUMMARY:District: Severe Delays
-UID:05ebd8a7-8e05-4ec9-bb1b-3cf35e8070ea@05eb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-23T08:17:41&endDate=2025-06-23T11:18:43">Disruption map.</a>\n\nDistrict Line: No service between Earl's Court and Embankment while we deal with a trespasser at South Kensington. SEVERE DELAYS on the rest of the line. 
-DTEND:20250623T111843Z
-DTSTART:20250623T081741Z
-SUMMARY:District: Part Suspended
-UID:58d617a5-f1c9-4d87-8da3-dbc6edfba692@58d6.org
+DTSTART:20250623T202525Z
+SUMMARY:District: Minor Delays
+UID:4461ecf6-d402-4e28-a811-c5b3eb57370c@4461.org
 END:VEVENT
 END:VCALENDAR
