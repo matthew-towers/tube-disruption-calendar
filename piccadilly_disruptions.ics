@@ -7,13 +7,27 @@ DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineI
 DTEND:20250707T002900Z
 DTSTART:20250705T033000Z
 SUMMARY:Piccadilly: Part Closure
-UID:309149ae-32e7-4a37-9c2b-370e79428fd5@3091.org
+UID:02e738ba-8a0d-45ed-8edb-bba20649fe11@02e7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-24T19:39:01&endDate=2025-06-25T00:29:00">Disruption map.</a>\n\nPiccadilly Line: Severe delays due to an earlier signal failure at Southgate. Tickets will be accepted on London Buses\, Elizabeth Line\, Great Northern\, Weaver Line and Southwestern Railway via any reasonable route. 
-DTEND:20250625T002900Z
-DTSTART:20250624T193901Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-07-19T00:00:00&endDate=2025-07-19T03:30:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 19 July\, between 0100 and 0430 approximately\, no service on the entire line. Replacement buses operate.
+DTEND:20250719T033000Z
+DTSTART:20250719T000000Z
+SUMMARY:Piccadilly: Planned Closure
+UID:07c30d48-60ad-4646-8fed-7902a0f2d614@07c3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-07-19T03:30:00&endDate=2025-07-21T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 19 July\, from 0430 approximately\, and all day Sunday 20 July (including Saturday Night Tube)\, no service between Kings Cross St Pancras and Heathrow (all terminals) / Uxbridge. There will also be no DISTRICT LINE service between Earls Court and Ealing Broadway / Richmond. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate.
+DTEND:20250721T002900Z
+DTSTART:20250719T033000Z
+SUMMARY:Piccadilly: Part Closure
+UID:790de327-8166-4401-bf0b-c729d9b7c2ac@790d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-26T08:01:48&endDate=2025-06-27T00:29:00">Disruption map.</a>\n\nPiccadilly Line: Severe delays while we fix a signal failure at Holborn. Tickets will be accepted on London buses\, Elizabeth line\, Weaver line\, Great Northern and South Western Railway via any reasonable route. 
+DTEND:20250627T002900Z
+DTSTART:20250626T080148Z
 SUMMARY:Piccadilly: Severe Delays
-UID:fdeb884f-3396-4041-8b71-e1f3b44bf548@fdeb.org
+UID:84423e74-a271-43d0-b8d0-d780bcd5e789@8442.org
 END:VEVENT
 END:VCALENDAR
