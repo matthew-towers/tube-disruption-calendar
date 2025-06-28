@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-06-28T13:34:50&endDate=2025-06-29T00:29:00">Disruption map.</a>\n\nCentral Line: Minor delays due to train cancellations. 
+DTEND:20250629T002900Z
+DTSTART:20250628T133450Z
+SUMMARY:Central: Minor Delays
+UID:b4a12eea-1509-4b78-bf87-dd0771adf69f@b4a1.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-07-12T00:00:00&endDate=2025-07-14T00:29:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 12 and Sunday 13 July (including Friday and Saturday Night Tube)\, no service between Leytonstone and Epping / Woodford (via Hainault). Replacement buses operate.
 DTEND:20250714T002900Z
 DTSTART:20250712T000000Z
 SUMMARY:Central: Part Closure
-UID:c629a534-0b05-433c-911c-fda65e8572db@c629.org
+UID:21656da1-24e9-425a-aa8f-bc3ec9f27fa2@2165.org
 END:VEVENT
 END:VCALENDAR
