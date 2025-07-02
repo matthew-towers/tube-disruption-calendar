@@ -3,10 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-07-02T08:33:01&endDate=2025-07-02T11:53:18">Disruption map.</a>\n\nMetropolitan Line: Part suspended between Baker Street and Aldgate. MINOR DELAYS between Baker Street and Harrow-on-the-Hill while we deal with trespasser on the track at Euston Square. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. 
+DTEND:20250702T115318Z
+DTSTART:20250702T083301Z
+SUMMARY:Metropolitan: Part Suspended
+UID:0252678a-9393-484f-b7c4-7adbe7d855a0@0252.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-07-02T08:33:02&endDate=2025-07-03T00:29:00">Disruption map.</a>\n\nMetropolitan Line: Part suspended between Baker Street and Aldgate. MINOR DELAYS between Baker Street and Harrow-on-the-Hill while we deal with trespasser on the track at Euston Square. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses. 
+DTEND:20250703T002900Z
+DTSTART:20250702T083302Z
+SUMMARY:Metropolitan: Minor Delays
+UID:188ca1a1-0129-4e1e-9ce5-80e285b911ad@188c.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-07-05T03:30:00&endDate=2025-07-07T00:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 5 and Sunday 6 July\, no service on the entire line. Use JUBILEE LINE services between Baker Street and Wembley Park. There will also be no CHILTERN RAILWAYS service between Marylebone and Aylesbury Vale Parkway. Replacement buses operate.
 DTEND:20250707T002900Z
 DTSTART:20250705T033000Z
 SUMMARY:Metropolitan: Planned Closure
-UID:7b3ca3f5-0ce9-42f4-b9d2-0c59f7ed80c9@7b3c.org
+UID:bb556fc4-8ce5-4154-b9fc-43f8c2cec6d6@bb55.org
 END:VEVENT
 END:VCALENDAR

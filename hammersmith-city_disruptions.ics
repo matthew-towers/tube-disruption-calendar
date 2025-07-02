@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Hammersmith & City disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-07-02T08:39:57&endDate=2025-07-02T11:53:18">Disruption map.</a>\n\nHammersmith and City Line: No service between Barking and Edgeware Road while we deal with a trespasser at Euston Square. GOOD SERVICE on the rest of the line. London Buses are accepting tickets via any reasonable route. 
+DTEND:20250702T115318Z
+DTSTART:20250702T083957Z
+SUMMARY:Hammersmith & City: Part Suspended
+UID:bf4c9e3d-08f5-4e65-ad35-54432e4628cb@bf4c.org
+END:VEVENT
 END:VCALENDAR
