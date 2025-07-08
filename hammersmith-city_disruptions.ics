@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Hammersmith & City disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-07-08T09:18:33&endDate=2025-07-09T00:29:00">Disruption map.</a>\n\nHammersmith and City Line: Severe delays due to an earlier customer incident. Tickets are being accepted on London Buses and C2C. 
+DTEND:20250709T002900Z
+DTSTART:20250708T091833Z
+SUMMARY:Hammersmith & City: Severe Delays
+UID:920dafe2-669e-4a90-96e5-bb3704f17c26@920d.org
+END:VEVENT
 END:VCALENDAR
