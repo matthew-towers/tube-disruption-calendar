@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-07-09T06:57:11&endDate=2025-07-10T00:29:00">Disruption map.</a>\n\nCentral Line: Severe delays due an earlier signal failure at Stratford. Tickets are being accepted on London Buses\, Elizabeth line and Greater Anglia.  
+DTEND:20250710T002900Z
+DTSTART:20250709T065711Z
+SUMMARY:Central: Severe Delays
+UID:7a5f38c6-be3e-4ef0-bfb9-cb6400cadf86@7a5f.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-07-12T00:00:00&endDate=2025-07-14T00:29:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 12 and Sunday 13 July (including Friday and Saturday Night Tube)\, no service between Leytonstone and Epping / Woodford (via Hainault). Replacement buses operate.
 DTEND:20250714T002900Z
 DTSTART:20250712T000000Z
 SUMMARY:Central: Part Closure
-UID:2f0ae5a5-952c-4e7c-b7eb-94ef065462f5@2f0a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-07-08T08:31:31&endDate=2025-07-09T00:29:00">Disruption map.</a>\n\nCentral Line: Severe delays due to an earlier faulty train at Bond Street. Tickets are being accepted London Buses\, Elizabeth line\, Greater Anglia and Great Western Railway.  
-DTEND:20250709T002900Z
-DTSTART:20250708T083131Z
-SUMMARY:Central: Severe Delays
-UID:69e0bb50-c0a3-41d4-a00b-99da00b79662@69e0.org
+UID:a3a1772d-8d06-4b54-aab8-14b6bf390050@a3a1.org
 END:VEVENT
 END:VCALENDAR
