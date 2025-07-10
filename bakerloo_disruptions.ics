@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Bakerloo disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-07-10T06:14:32&endDate=2025-07-11T00:29:00">Disruption map.</a>\n\nBakerloo Line: Minor delays due to train cancellations.  
+DTEND:20250711T002900Z
+DTSTART:20250710T061432Z
+SUMMARY:Bakerloo: Minor Delays
+UID:7b6813c6-ba20-480a-b3ff-f4b8722617a0@7b68.org
+END:VEVENT
 END:VCALENDAR
