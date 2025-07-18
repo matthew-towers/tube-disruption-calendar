@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-07-19T03:30:00&endDate=2025-07-21T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 19 and Sunday 20 July\, no service between Earls Court and Ealing Broadway / Richmond. There will also be no PICCADILLY LINE service west of Kings Cross (and no Friday Night Tube on the whole line). Use MILDMAY LINE services where available between Gunnersbury\, Kew Gardens and Richmond. Replacement buses operate.
-DTEND:20250721T002900Z
-DTSTART:20250719T033000Z
-SUMMARY:District: Part Closure
-UID:6e25766f-d8ec-4c95-9fd3-ef25ebd3c03a@6e25.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-02T03:30:00&endDate=2025-08-04T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 2 and Sunday 3 August\, no service between Turnham Green and Ealing Broadway. Replacement buses operate.
 DTEND:20250804T002900Z
 DTSTART:20250802T033000Z
 SUMMARY:District: Part Closure
-UID:4ddfd561-a270-4afd-bc4a-9fd658e4f6c5@4ddf.org
+UID:086e192c-40fd-46d8-8a53-5788903c0794@086e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-07-19T03:30:00&endDate=2025-07-21T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 19 and Sunday 20 July\, no service between Earls Court and Ealing Broadway / Richmond. There will also be no PICCADILLY LINE service west of Kings Cross (and no Friday Night Tube on the whole line). Use MILDMAY LINE services where available between Gunnersbury\, Kew Gardens and Richmond. Replacement buses operate.
+DTEND:20250721T002900Z
+DTSTART:20250719T033000Z
+SUMMARY:District: Part Closure
+UID:288d7714-370c-42db-817d-7b179639600f@288d.org
 END:VEVENT
 END:VCALENDAR
