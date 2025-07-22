@@ -2,4 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Northern disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-07-22T08:49:14&endDate=2025-07-23T00:29:00">Disruption map.</a>\n\nNorthern Line: No service between  Kennington and Camden Town via Charing Cross southbound only\, and between Kennington and Battersea Power station while emergency services deal with a casualty on the track. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses\, Southeastern\, Thameslink\, and South Western Railway.  
+DTEND:20250723T002900Z
+DTSTART:20250722T084914Z
+SUMMARY:Northern: Severe Delays
+UID:71e8711a-8738-4669-ac1a-15b1924d6af4@71e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-07-22T08:49:14&endDate=2025-07-22T12:49:31">Disruption map.</a>\n\nNorthern Line: No service between  Kennington and Camden Town via Charing Cross southbound only\, and between Kennington and Battersea Power station while emergency services deal with a casualty on the track. SEVERE DELAYS on the rest of the line. Tickets are being accepted on London Buses\, Southeastern\, Thameslink\, and South Western Railway.  
+DTEND:20250722T124931Z
+DTSTART:20250722T084914Z
+SUMMARY:Northern: Part Suspended
+UID:2e6b501b-724b-4067-90a9-9d02ca482f1c@2e6b.org
+END:VEVENT
 END:VCALENDAR
