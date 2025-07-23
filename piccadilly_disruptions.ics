@@ -3,24 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-07-22T08:43:35&endDate=2025-07-23T00:29:00">Disruption map.</a>\n\nPiccadilly Line: Severe delays due to an earlier signal failure at Bounds Green. Tickets are being accepted on London Buses\, Elizabeth line and Great Northern services. 
-DTEND:20250723T002900Z
-DTSTART:20250722T084335Z
-SUMMARY:Piccadilly: Severe Delays
-UID:cbac8c08-3b0c-46cc-ba1a-413d270819dc@cbac.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-01T23:45:00&endDate=2025-08-02T05:00:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 2 August\, between 0045 and 0600 approximately\, no service between Kings Cross St Pancras and Heathrow (all terminals). Replacement buses operate.
+DTEND:20250802T050000Z
+DTSTART:20250801T234500Z
+SUMMARY:Piccadilly: Part Closure
+UID:e91ab33f-8ca6-4719-909f-8e826c1af523@e91a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-02T05:00:00&endDate=2025-08-04T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 2\, from 0600 approximately\, and all day Sunday 3 August (including Saturday Night Tube)\, no service between Kings Cross St Pancras and Osterley / Uxbridge. There will also be no DISTRICT LINE service between Turnham Green and Ealing Broadway. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate.
 DTEND:20250804T002900Z
 DTSTART:20250802T050000Z
 SUMMARY:Piccadilly: Part Closure
-UID:eb8e48b1-3e18-4208-b1c5-c92c09fb605b@eb8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-01T23:45:00&endDate=2025-08-02T05:00:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 2 August\, between 0045 and 0600 approximately\, no service between Kings Cross St Pancras and Heathrow (all terminals). Replacement buses operate.
-DTEND:20250802T050000Z
-DTSTART:20250801T234500Z
-SUMMARY:Piccadilly: Part Closure
-UID:a2301252-a2bf-4705-91ed-f1bc03eca63e@a230.org
+UID:cd233a92-13a3-43bc-8d8a-5f2bde8ead79@cd23.org
 END:VEVENT
 END:VCALENDAR
