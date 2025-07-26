@@ -3,45 +3,45 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-07-28T22:00:00&endDate=2025-07-29T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Monday 28\, Tuesday 29 and Friday 30 July\, from 2300\, no service on the entire network.
-DTEND:20250729T002900Z
-DTSTART:20250728T220000Z
-SUMMARY:DLR: Planned Closure
-UID:6d2aae1f-4a8c-4c6a-8074-c7be440fa24d@6d2a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-02T03:30:00&endDate=2025-08-04T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 2 and Sunday 3 August\, no service between Poplar / Stratford International and Beckton / Woolwich Arsenal. Use JUBILEE LINE trains between Stratford and Canning Town\, and ELIZABETH LINE connections between Custom House and Woolwich. Replacement buses operate.
-DTEND:20250804T002900Z
-DTSTART:20250802T033000Z
-SUMMARY:DLR: Part Closure
-UID:609f1e13-e9d1-4efb-849a-77aa16cc4b56@609f.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-07-29T22:00:00&endDate=2025-07-30T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Monday 28\, Tuesday 29 and Friday 30 July\, from 2300\, no service on the entire network.
 DTEND:20250730T002900Z
 DTSTART:20250729T220000Z
 SUMMARY:DLR: Planned Closure
-UID:822e5d1b-59ee-43bb-a961-6394bc56a1c2@822e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-16T03:30:00&endDate=2025-08-18T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 16 and Sunday 17 August\, no service between Poplar and Beckton. Replacement bus service DLR2 operates between Canary Wharf and Gallions Reach via Blackwall (for Poplar)\, East India\, Canning Town\, Royal Victoria\, Custom House\, Prince Regent\, Royal Albert\, Beckton Park\, Cyprus and Beckton.
-DTEND:20250818T002900Z
-DTSTART:20250816T033000Z
-SUMMARY:DLR: Part Closure
-UID:e07b3d5d-9022-41b9-9d98-4b3c8bae6bdd@e07b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-07-26T03:30:00&endDate=2025-07-28T00:15:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 26 and Sunday 27 July\, no service between Bank / Tower Gateway and Canning Town / Canary Wharf\, or between Stratford and Canary Wharf. Replacement buses operate.
-DTEND:20250728T001500Z
-DTSTART:20250726T033000Z
-SUMMARY:DLR: Part Closure
-UID:6b77cbcf-a8b9-4661-9d0c-dd3186050960@6b77.org
+UID:68f4e0a8-c8e3-40c5-bcae-efe42d4db17e@68f4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-07-30T22:00:00&endDate=2025-07-31T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Monday 28\, Tuesday 29 and Friday 30 July\, from 2300\, no service on the entire network.
 DTEND:20250731T002900Z
 DTSTART:20250730T220000Z
 SUMMARY:DLR: Planned Closure
-UID:2fd5bf8d-0dda-43f4-bf35-98fa4159c819@2fd5.org
+UID:b360c6a2-550e-4c9d-9ce3-52181eb5dcb5@b360.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-16T03:30:00&endDate=2025-08-18T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 16 and Sunday 17 August\, no service between Poplar and Beckton. Replacement bus service DLR2 operates between Canary Wharf and Gallions Reach via Blackwall (for Poplar)\, East India\, Canning Town\, Royal Victoria\, Custom House\, Prince Regent\, Royal Albert\, Beckton Park\, Cyprus and Beckton.
+DTEND:20250818T002900Z
+DTSTART:20250816T033000Z
+SUMMARY:DLR: Part Closure
+UID:592d5bb3-e316-4510-af9c-7cafcb1ccea2@592d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-07-28T22:00:00&endDate=2025-07-29T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Monday 28\, Tuesday 29 and Friday 30 July\, from 2300\, no service on the entire network.
+DTEND:20250729T002900Z
+DTSTART:20250728T220000Z
+SUMMARY:DLR: Planned Closure
+UID:409ae6b6-1611-4642-a8d6-d674ad3ca71d@409a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-07-26T03:30:00&endDate=2025-07-28T00:15:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 26 and Sunday 27 July\, no service between Bank / Tower Gateway and Canning Town / Canary Wharf\, or between Stratford and Canary Wharf. Replacement buses operate.
+DTEND:20250728T001500Z
+DTSTART:20250726T033000Z
+SUMMARY:DLR: Part Closure
+UID:bcb104cf-4fe5-46f5-8601-398766cf7508@bcb1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-02T03:30:00&endDate=2025-08-04T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 2 and Sunday 3 August\, no service between Poplar / Stratford International and Beckton / Woolwich Arsenal. Use JUBILEE LINE trains between Stratford and Canning Town\, and ELIZABETH LINE connections between Custom House and Woolwich. Replacement buses operate.
+DTEND:20250804T002900Z
+DTSTART:20250802T033000Z
+SUMMARY:DLR: Part Closure
+UID:5b6cc6e5-d196-4e29-a2ce-c8d41aad3c0a@5b6c.org
 END:VEVENT
 END:VCALENDAR
