@@ -3,38 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-02T03:30:00&endDate=2025-08-04T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 2 and Sunday 3 August\, no service between Poplar / Stratford International and Beckton / Woolwich Arsenal. Use JUBILEE LINE trains between Stratford and Canning Town\, and ELIZABETH LINE connections between Custom House and Woolwich. Replacement buses operate.
-DTEND:20250804T002900Z
-DTSTART:20250802T033000Z
-SUMMARY:DLR: Part Closure
-UID:2bbd20a0-86e0-4b19-9eec-8056f79d8857@2bbd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-07-29T22:00:00&endDate=2025-07-30T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Monday 28\, Tuesday 29 and Friday 30 July\, from 2300\, no service on the entire network.
-DTEND:20250730T002900Z
-DTSTART:20250729T220000Z
-SUMMARY:DLR: Planned Closure
-UID:d9a65393-d4af-47b6-a4db-9a2693f929e1@d9a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-07-28T23:00:00&endDate=2025-07-29T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Monday 28\, Tuesday 29 and Friday 30 July\, from 2300\, no service on the entire network.
-DTEND:20250729T002900Z
-DTSTART:20250728T230000Z
-SUMMARY:DLR: Planned Closure
-UID:f036470a-6ec6-4d68-b608-59d1291b9f7d@f036.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-16T03:30:00&endDate=2025-08-18T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 16 and Sunday 17 August\, no service between Poplar and Beckton. Replacement bus service DLR2 operates between Canary Wharf and Gallions Reach via Blackwall (for Poplar)\, East India\, Canning Town\, Royal Victoria\, Custom House\, Prince Regent\, Royal Albert\, Beckton Park\, Cyprus and Beckton.
 DTEND:20250818T002900Z
 DTSTART:20250816T033000Z
 SUMMARY:DLR: Part Closure
-UID:9f21a47f-f456-405f-83eb-5e1f2b135d10@9f21.org
+UID:cb1610d3-a143-4563-9982-568c521a7c37@cb16.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-07-29T23:00:00&endDate=2025-07-30T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Monday 28\, Tuesday 29 and Friday 30 July\, from 2300\, no service on the entire network.
+DTEND:20250730T002900Z
+DTSTART:20250729T230000Z
+SUMMARY:DLR: Planned Closure
+UID:d8b60212-62af-43ea-96a9-dcd1f3378301@d8b6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-02T03:30:00&endDate=2025-08-04T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 2 and Sunday 3 August\, no service between Poplar / Stratford International and Beckton / Woolwich Arsenal. Use JUBILEE LINE trains between Stratford and Canning Town\, and ELIZABETH LINE connections between Custom House and Woolwich. Replacement buses operate.
+DTEND:20250804T002900Z
+DTSTART:20250802T033000Z
+SUMMARY:DLR: Part Closure
+UID:bc4ee335-f7cd-4ac6-8e6c-7480c22fefc6@bc4e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-07-30T22:00:00&endDate=2025-07-31T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Monday 28\, Tuesday 29 and Friday 30 July\, from 2300\, no service on the entire network.
 DTEND:20250731T002900Z
 DTSTART:20250730T220000Z
 SUMMARY:DLR: Planned Closure
-UID:82198aaf-e4b4-46fd-9df8-a9d772815da7@8219.org
+UID:4969ba30-1ab7-44c5-8ebb-a17e440d8a32@4969.org
 END:VEVENT
 END:VCALENDAR
