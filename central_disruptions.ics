@@ -3,17 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-02T06:44:08&endDate=2025-08-03T00:29:00">Disruption map.</a>\n\nCentral Line: Minor delays due to unavailability of control room staff.  
+DTEND:20250803T002900Z
+DTSTART:20250802T064408Z
+SUMMARY:Central: Minor Delays
+UID:579b1df0-73dc-469e-b14f-972b78f559f9@579b.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-09T01:00:00&endDate=2025-08-09T05:10:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 9 August\, between 0200 and 0610\, no service between Leytonstone and Loughton / Woodford (via Hainault). Replacement bus service CL5 operates between Leytonstone and Loughton via Snaresbrook\, South Woodford\, Woodford and Buckhurst Hill. For stations between Leytonstone and Hainault\, please use London Buses Night Bus N8.
 DTEND:20250809T051000Z
 DTSTART:20250809T010000Z
 SUMMARY:Central: Part Closure
-UID:2dff71cd-0f24-4a1f-a317-038dda986c8b@2dff.org
+UID:fc47201b-d7fb-4cdd-993a-d4fcb140abf8@fc47.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-09T05:10:00&endDate=2025-08-11T00:29:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 9 August\, from 0610 and all day Sunday 10 August (including Saturday Night Tube)\, no service between Leytonstone and Loughton or between Newbury Park and Woodford (via Hainault). Replacement buses operate. For night journeys to/from Barkingside\, Fairlop and Hainault\, please use London Buses Night Bus N8.
 DTEND:20250811T002900Z
 DTSTART:20250809T051000Z
 SUMMARY:Central: Part Closure
-UID:d0f1f52c-11fd-4e3a-8b58-8d83ce0a625b@d0f1.org
+UID:0f90c154-2981-4a29-adf9-7a7f133e09ba@0f90.org
 END:VEVENT
 END:VCALENDAR
