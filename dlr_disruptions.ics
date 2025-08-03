@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-02T03:30:00&endDate=2025-08-04T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 2 and Sunday 3 August\, no service between Poplar / Stratford International and Beckton / Woolwich Arsenal. Use JUBILEE LINE trains between Stratford and Canning Town\, and ELIZABETH LINE connections between Custom House and Woolwich. Replacement buses operate.
-DTEND:20250804T002900Z
-DTSTART:20250802T033000Z
-SUMMARY:DLR: Part Closure
-UID:f79a0221-6c24-4a14-8118-0fd0bec88fa7@f79a.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-16T03:30:00&endDate=2025-08-18T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 16 and Sunday 17 August\, no service between Poplar and Beckton. Replacement bus service DLR2 operates between Canary Wharf and Gallions Reach via Blackwall (for Poplar)\, East India\, Canning Town\, Royal Victoria\, Custom House\, Prince Regent\, Royal Albert\, Beckton Park\, Cyprus and Beckton.
 DTEND:20250818T002900Z
 DTSTART:20250816T033000Z
 SUMMARY:DLR: Part Closure
-UID:6b5c5ab3-4783-406c-88a9-22971c29fd7d@6b5c.org
+UID:0c2a1d16-4729-4398-a3af-d266dde38dac@0c2a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-02T03:30:00&endDate=2025-08-04T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 2 and Sunday 3 August\, no service between Poplar / Stratford International and Beckton / Woolwich Arsenal. Use JUBILEE LINE trains between Stratford and Canning Town\, and ELIZABETH LINE connections between Custom House and Woolwich. Replacement buses operate.
+DTEND:20250804T002900Z
+DTSTART:20250802T033000Z
+SUMMARY:DLR: Part Closure
+UID:33fc6ab6-2f81-405a-8bbb-96c44014416b@33fc.org
 END:VEVENT
 END:VCALENDAR
