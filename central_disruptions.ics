@@ -3,24 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-03T08:55:17&endDate=2025-08-04T00:29:00">Disruption map.</a>\n\nCentral Line: Minor delays due to a shortage of control room staff.\r\n\r\n\r\n 
-DTEND:20250804T002900Z
-DTSTART:20250803T085517Z
-SUMMARY:Central: Minor Delays
-UID:cc4a8932-3dd6-4529-b509-a7fefb6e926f@cc4a.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-09T01:00:00&endDate=2025-08-09T05:10:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 9 August\, between 0200 and 0610\, no service between Leytonstone and Loughton / Woodford (via Hainault). Replacement bus service CL5 operates between Leytonstone and Loughton via Snaresbrook\, South Woodford\, Woodford and Buckhurst Hill. For stations between Leytonstone and Hainault\, please use London Buses Night Bus N8.
+DTEND:20250809T051000Z
+DTSTART:20250809T010000Z
+SUMMARY:Central: Part Closure
+UID:299ae500-49c8-4eac-89f4-e7c0d7a80b4b@299a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-09T05:10:00&endDate=2025-08-11T00:29:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 9 August\, from 0610 and all day Sunday 10 August (including Saturday Night Tube)\, no service between Leytonstone and Loughton or between Newbury Park and Woodford (via Hainault). Replacement buses operate. For night journeys to/from Barkingside\, Fairlop and Hainault\, please use London Buses Night Bus N8.
 DTEND:20250811T002900Z
 DTSTART:20250809T051000Z
 SUMMARY:Central: Part Closure
-UID:f6f41296-cb9e-4b68-860d-0c01e48b56b5@f6f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-09T01:00:00&endDate=2025-08-09T05:10:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 9 August\, between 0200 and 0610\, no service between Leytonstone and Loughton / Woodford (via Hainault). Replacement bus service CL5 operates between Leytonstone and Loughton via Snaresbrook\, South Woodford\, Woodford and Buckhurst Hill. For stations between Leytonstone and Hainault\, please use London Buses Night Bus N8.
-DTEND:20250809T051000Z
-DTSTART:20250809T010000Z
-SUMMARY:Central: Part Closure
-UID:ad6d636f-a7fa-4c3b-9f96-3ab7c600e58b@ad6d.org
+UID:4daedd66-be63-41ac-b836-54a1b05d069b@4dae.org
 END:VEVENT
 END:VCALENDAR
