@@ -2,18 +2,4 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Hammersmith & City disruption
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-07T08:27:40&endDate=2025-08-07T11:28:04">Disruption map.</a>\n\nHammersmith and City Line: No service between Edgware Road and Hammersmith while we fix a points failure at Edgware Road. Tickets are being accepted on London Buses. SEVERE DELAYS on the rest of the line. 
-DTEND:20250807T112804Z
-DTSTART:20250807T082740Z
-SUMMARY:Hammersmith & City: Part Suspended
-UID:705f82e4-2b21-4d5f-a2e3-5aebc1077b8b@705f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-07T08:27:40&endDate=2025-08-08T00:29:00">Disruption map.</a>\n\nHammersmith and City Line: No service between Edgware Road and Hammersmith while we fix a points failure at Edgware Road. Tickets are being accepted on London Buses. SEVERE DELAYS on the rest of the line. 
-DTEND:20250808T002900Z
-DTSTART:20250807T082740Z
-SUMMARY:Hammersmith & City: Severe Delays
-UID:051cc859-251d-495c-8ad8-edde80fbf6e9@051c.org
-END:VEVENT
 END:VCALENDAR
