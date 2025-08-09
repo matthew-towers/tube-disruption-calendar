@@ -3,45 +3,38 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Suffragette line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-08T22:30:00&endDate=2025-08-08T22:45:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Friday 8 August\, the 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338
-DTEND:20250808T224500Z
-DTSTART:20250808T223000Z
-SUMMARY:Suffragette line: Reduced Service
-UID:10b6c0c8-e556-4e17-a993-c5646fb9f956@10b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-17T03:30:00&endDate=2025-08-18T00:29:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 17 August\, no service between Barking and Barking Riverside. Use local bus routes EL1\, EL2 and EL3 for Barking Riverside.
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-17T03:30:00&endDate=2025-08-18T00:29:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 17 August\, a reduced service operates between Gospel Oak and Barking\, with trains every 20 minutes. Trains use Platform 1 at Barking.
 DTEND:20250818T002900Z
 DTSTART:20250817T033000Z
-SUMMARY:Suffragette line: Part Closure
-UID:fb5067f4-3673-4fa0-826b-5cc20e2136a9@fb50.org
+SUMMARY:Suffragette line: Reduced Service
+UID:e7c16997-1855-4814-819c-8ab88a26998e@e7c1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-10T03:30:00&endDate=2025-08-11T00:29:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 10 August\, no service between Gospel Oak and Barking Riverside. Rail replacement bus services have been restored between Gospel Oak and Seven Sisters (for South Tottenham) and between Walthamstow Central and Barking. Use London Underground Victoria line connections between Seven Sisters\, Blackhorse Road and Walthamstow Central\, and local bus services EL1 and EL3 between Barking and Barking Riverside.
 DTEND:20250811T002900Z
 DTSTART:20250810T033000Z
 SUMMARY:Suffragette line: Planned Closure
-UID:0211bb5b-219f-448a-a863-0799461782c1@0211.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-17T03:30:00&endDate=2025-08-18T00:29:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 17 August\, a reduced service operates between Gospel Oak and Barking\, with trains every 20 minutes. Trains use Platform 1 at Barking.
-DTEND:20250818T002900Z
-DTSTART:20250817T033000Z
-SUMMARY:Suffragette line: Reduced Service
-UID:7ad95870-2577-4f0f-9f64-6c900fea081b@7ad9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-09T03:30:00&endDate=2025-08-10T00:29:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Saturday 9 August\, no service between Gospel Oak and Woodgrange Park. Rail replacement bus services have been restored between Gospel Oak and Seven Sisters (for South Tottenham) and between Walthamstow Central and Woodgrange Park. Use London Underground Victoria line connections between Seven Sisters\, Blackhorse Road and Walthamstow Central.
-DTEND:20250810T002900Z
-DTSTART:20250809T033000Z
-SUMMARY:Suffragette line: Part Closure
-UID:4c8b9923-04f1-4fe9-953f-c346a9e1714f@4c8b.org
+UID:4e5f58b3-bef9-4257-a8d7-ac3e5f4754aa@4e5f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-22T22:30:00&endDate=2025-08-22T22:45:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Friday 22 August\, the 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338
 DTEND:20250822T224500Z
 DTSTART:20250822T223000Z
 SUMMARY:Suffragette line: Reduced Service
-UID:0d9f227c-46d3-4c2f-a98f-8df897e3f75e@0d9f.org
+UID:71d2aadb-c0d3-4565-b7fd-4c20a6a1d8e9@71d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-17T03:30:00&endDate=2025-08-18T00:29:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 17 August\, no service between Barking and Barking Riverside. Use local bus routes EL1\, EL2 and EL3 for Barking Riverside.
+DTEND:20250818T002900Z
+DTSTART:20250817T033000Z
+SUMMARY:Suffragette line: Part Closure
+UID:dd03c004-8793-43b1-8a94-a3bc654f37e8@dd03.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-09T03:30:00&endDate=2025-08-10T00:29:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Saturday 9 August\, no service between Gospel Oak and Woodgrange Park. Rail replacement bus services have been restored between Gospel Oak and Seven Sisters (for South Tottenham) and between Walthamstow Central and Woodgrange Park. Use London Underground Victoria line connections between Seven Sisters\, Blackhorse Road and Walthamstow Central.
+DTEND:20250810T002900Z
+DTSTART:20250809T033000Z
+SUMMARY:Suffragette line: Part Closure
+UID:bfea3217-0c6c-485a-bce4-cf3fe74822cd@bfea.org
 END:VEVENT
 END:VCALENDAR

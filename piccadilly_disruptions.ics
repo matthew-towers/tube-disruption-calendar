@@ -3,31 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-08T11:29:35&endDate=2025-08-08T14:34:09">Disruption map.</a>\n\nPiccadilly Line: No service between Heathrow Terminals 2 & 3 and Heathrow Terminal 5 while we deal with a customer incident at Heathrow Terminal 5. GOOD SERVICE on the rest of the line. 
-DTEND:20250808T143409Z
-DTSTART:20250808T112935Z
-SUMMARY:Piccadilly: Part Suspended
-UID:db998d0c-0573-47c2-911b-1ff5bc3fd773@db99.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-15T23:30:00&endDate=2025-08-16T05:00:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 16 August\, between 0030 and 0600\, no service between Kings Cross St Pancras and Cockfosters. Replacement bus service PL5 operates between Finsbury Park (for Victoria line) and Cockfosters via Manor House\, Turnpike Lane\, Wood Green\, Bounds Green\, New Southgate (for Great Northern)\, Arnos Grove\, Southgate and Oakwood.
+DTEND:20250816T050000Z
+DTSTART:20250815T233000Z
+SUMMARY:Piccadilly: Part Closure
+UID:30503c77-0260-400c-8c4c-b0c36d46615e@3050.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-16T03:30:00&endDate=2025-08-18T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 16 and Sunday 17 August\, no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services instead.
 DTEND:20250818T002900Z
 DTSTART:20250816T033000Z
 SUMMARY:Piccadilly: Part Closure
-UID:21d9b26a-b4af-4417-86c9-ebf8f55bfe8a@21d9.org
+UID:e22da95e-486f-4721-ae5a-8bae9d41ed3c@e22d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-16T05:00:00&endDate=2025-08-18T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 16 August\, from 0600\, and all day Sunday 17 August (including Saturday Night Tube)\, no service between Wood Green and Cockfosters. Replacement bus service PL5 operates between Wood Green and Cockfosters via Bounds Green\, New Southgate (for Great Northern)\, Arnos Grove\, Southgate and Oakwood.
 DTEND:20250818T002900Z
 DTSTART:20250816T050000Z
 SUMMARY:Piccadilly: Part Closure
-UID:6ee47bf9-5195-47e6-b3f1-c17982c42ba5@6ee4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-15T23:30:00&endDate=2025-08-16T05:00:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 16 August\, between 0030 and 0600\, no service between Kings Cross St Pancras and Cockfosters. Replacement bus service PL5 operates between Finsbury Park (for Victoria line) and Cockfosters via Manor House\, Turnpike Lane\, Wood Green\, Bounds Green\, New Southgate (for Great Northern)\, Arnos Grove\, Southgate and Oakwood.
-DTEND:20250816T050000Z
-DTSTART:20250815T233000Z
-SUMMARY:Piccadilly: Part Closure
-UID:14760ca9-6566-41ac-b853-c3eeb06755ca@1476.org
+UID:259e77b1-b865-47be-960c-31652a1bd3e2@259e.org
 END:VEVENT
 END:VCALENDAR
