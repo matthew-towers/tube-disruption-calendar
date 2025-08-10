@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Victoria disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-10T08:04:58&endDate=2025-08-11T00:29:00">Disruption map.</a>\n\nVictoria Line: Minor delays due to train cancellations.  
+DTEND:20250811T002900Z
+DTSTART:20250810T080458Z
+SUMMARY:Victoria: Minor Delays
+UID:83ff31d9-2253-4f24-9d87-a4ad13f1bffb@83ff.org
+END:VEVENT
 END:VCALENDAR
