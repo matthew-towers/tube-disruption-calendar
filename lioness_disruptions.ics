@@ -3,10 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Lioness line disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-24T10:30:00&endDate=2025-08-24T20:15:00">Disruption map.</a>\n\nLIONESS LINE: Saturday 23\, Sunday 24 and Bank Holiday Monday 25 August\, a reduced service operates at certain times between Euston and Kilburn High Road. On Saturday\, trains departing from Watford Junction at xx30 minutes past each hour from 0630 to 2030 terminate at Kilburn High Road instead of Euston. Trains from Euston at xx15 minutes past each hour from 0715 to 2115 start at Kilburn High Road\, seven minutes later\, instead of Euston. On Sunday and Bank Holiday Monday\, trains departing from Watford Junction at xx30 minutes past each hour from 1130 to 2030 terminate at Kilburn High Road instead of Euston. Trains from Euston at xx15 minutes past each hour from 1215 to 2115 start at Kilburn High Road\, seven minutes later\, instead of Euston.
+DTEND:20250824T201500Z
+DTSTART:20250824T103000Z
+SUMMARY:Lioness line: Reduced Service
+UID:c67c1dc8-2d7a-41c0-bc98-7ec1e37d052e@c67c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-25T10:30:00&endDate=2025-08-25T20:15:00">Disruption map.</a>\n\nLIONESS LINE: Saturday 23\, Sunday 24 and Bank Holiday Monday 25 August\, a reduced service operates at certain times between Euston and Kilburn High Road. On Saturday\, trains departing from Watford Junction at xx30 minutes past each hour from 0630 to 2030 terminate at Kilburn High Road instead of Euston. Trains from Euston at xx15 minutes past each hour from 0715 to 2115 start at Kilburn High Road\, seven minutes later\, instead of Euston. On Sunday and Bank Holiday Monday\, trains departing from Watford Junction at xx30 minutes past each hour from 1130 to 2030 terminate at Kilburn High Road instead of Euston. Trains from Euston at xx15 minutes past each hour from 1215 to 2115 start at Kilburn High Road\, seven minutes later\, instead of Euston.
+DTEND:20250825T201500Z
+DTSTART:20250825T103000Z
+SUMMARY:Lioness line: Reduced Service
+UID:9d78aabf-577b-4c14-81e6-36fd7862b644@9d78.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-16T03:30:00&endDate=2025-08-18T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Saturday 16 and Sunday 17 August\, no service between Euston and Watford Junction. There will also be no BAKERLOO LINE service between Queens Park and Harrow & Wealdstone. Use local London Buses services for South Hampstead and Kilburn High Road. SOUTHERN services will continue to serve Wembley Central\, Harrow & Wealdstone and Watford Junction on Saturday only. LONDON NORTH WESTERN RAILWAY services will serve Euston\, Harrow & Wealdstone\, Bushey and Watford Junction on both days. Special bus services operate.
 DTEND:20250818T002900Z
 DTSTART:20250816T033000Z
 SUMMARY:Lioness line: Planned Closure
-UID:a47a19bd-6705-4689-bc1c-fdbd975ebf4f@a47a.org
+UID:48dbc8be-6609-4fb9-af01-3024c0c14d89@48db.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-23T05:30:00&endDate=2025-08-23T20:15:00">Disruption map.</a>\n\nLIONESS LINE: Saturday 23\, Sunday 24 and Bank Holiday Monday 25 August\, a reduced service operates at certain times between Euston and Kilburn High Road. On Saturday\, trains departing from Watford Junction at xx30 minutes past each hour from 0630 to 2030 terminate at Kilburn High Road instead of Euston. Trains from Euston at xx15 minutes past each hour from 0715 to 2115 start at Kilburn High Road\, seven minutes later\, instead of Euston. On Sunday and Bank Holiday Monday\, trains departing from Watford Junction at xx30 minutes past each hour from 1130 to 2030 terminate at Kilburn High Road instead of Euston. Trains from Euston at xx15 minutes past each hour from 1215 to 2115 start at Kilburn High Road\, seven minutes later\, instead of Euston.
+DTEND:20250823T201500Z
+DTSTART:20250823T053000Z
+SUMMARY:Lioness line: Reduced Service
+UID:2a072472-184e-4d2f-83b8-a8f6a5d1777d@2a07.org
 END:VEVENT
 END:VCALENDAR
