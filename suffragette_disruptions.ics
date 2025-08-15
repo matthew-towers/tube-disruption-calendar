@@ -3,31 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Suffragette line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-22T22:30:00&endDate=2025-08-22T22:45:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Friday 22 August\, the 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338
-DTEND:20250822T224500Z
-DTSTART:20250822T223000Z
-SUMMARY:Suffragette line: Reduced Service
-UID:ed4fc8cc-f8e9-4393-8dde-e0810030bde9@ed4f.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-17T03:30:00&endDate=2025-08-18T00:29:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 17 August\, a reduced service operates between Gospel Oak and Barking\, with trains every 20 minutes. Trains use Platform 1 at Barking.
 DTEND:20250818T002900Z
 DTSTART:20250817T033000Z
 SUMMARY:Suffragette line: Reduced Service
-UID:bef66dc1-d982-4cea-a060-4368272472a5@bef6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-17T03:30:00&endDate=2025-08-18T00:29:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 17 August\, no service between Barking and Barking Riverside. Use local bus routes EL1\, EL2 and EL3 for Barking Riverside.
-DTEND:20250818T002900Z
-DTSTART:20250817T033000Z
-SUMMARY:Suffragette line: Part Closure
-UID:084369a7-7e01-432b-921d-047025212d73@0843.org
+UID:c271b0f6-1ed7-449f-abb3-d64e7cd52bcf@c271.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-09T03:30:00&endDate=2025-10-10T00:29:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Saturday 9 August\, trains operate every 30 minutes between Woodgrange Park and Barking Riverside.
 DTEND:20251010T002900Z
 DTSTART:20251009T033000Z
 SUMMARY:Suffragette line: Reduced Service
-UID:ad8b5e36-228f-43f7-8294-24f0b9c356f6@ad8b.org
+UID:82e74405-a0e9-43e9-9c2d-bdffbb7de04c@82e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-22T22:30:00&endDate=2025-08-22T22:45:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Friday 22 August\, the 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338
+DTEND:20250822T224500Z
+DTSTART:20250822T223000Z
+SUMMARY:Suffragette line: Reduced Service
+UID:69dfb11b-bde4-44da-9202-c13a7adcac40@69df.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-17T03:30:00&endDate=2025-08-18T00:29:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 17 August\, no service between Barking and Barking Riverside. Use local bus routes EL1\, EL2 and EL3 for Barking Riverside.
+DTEND:20250818T002900Z
+DTSTART:20250817T033000Z
+SUMMARY:Suffragette line: Part Closure
+UID:493f7dfb-cf6e-4368-ad2f-4adb15bca44f@493f.org
 END:VEVENT
 END:VCALENDAR

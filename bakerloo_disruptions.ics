@@ -3,24 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Bakerloo disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-15T09:20:20&endDate=2025-08-16T00:29:00">Disruption map.</a>\n\nBakerloo Line: Minor delays between Queen's Park and Harrow & Wealdstone due to a Network Rail signal failure at Kilburn High Road. GOOD SERVICE on the rest of the line.  
+DTEND:20250816T002900Z
+DTSTART:20250815T092020Z
+SUMMARY:Bakerloo: Minor Delays
+UID:70dfd105-eb6c-4449-8909-12a05505ed20@70df.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-16T03:30:00&endDate=2025-08-18T00:29:00">Disruption map.</a>\n\nBAKERLOO LINE: Saturday 16 and Sunday 17 August\, no service between Queens Park and Harrow & Wealdstone. There will also be no LIONESS LINE service between Euston and Watford Junction. SOUTHERN services will continue to serve Wembley Central and Harrow & Wealdstone on Saturday only. LONDON NORTH WESTERN RAILWAY services will serve Harrow & Wealdstone\, on both days. Special bus services operate.
 DTEND:20250818T002900Z
 DTSTART:20250816T033000Z
 SUMMARY:Bakerloo: Part Closure
-UID:8828c9b2-c440-474a-b461-876554464c8a@8828.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-13T23:09:43&endDate=2025-08-15T00:29:00">Disruption map.</a>\n\nBakerloo Line: No service between Queen's Park and Elephant & Castle while we fix a points failure at Lambeth North. SEVERE DELAYS on the rest of the line. London Underground tickets will be accepted on London buses and Thameslink. 
-DTEND:20250815T002900Z
-DTSTART:20250813T230943Z
-SUMMARY:Bakerloo: Severe Delays
-UID:4aa04dfa-ae37-414a-93b5-5f8216dba22b@4aa0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-13T23:09:43&endDate=2025-08-14T02:46:09">Disruption map.</a>\n\nBakerloo Line: No service between Queen's Park and Elephant & Castle while we fix a points failure at Lambeth North. SEVERE DELAYS on the rest of the line. London Underground tickets will be accepted on London buses and Thameslink. 
-DTEND:20250814T024609Z
-DTSTART:20250813T230943Z
-SUMMARY:Bakerloo: Part Suspended
-UID:fd04b532-2cd8-4601-9d10-7ceebeb4d9b7@fd04.org
+UID:1c141f0a-b934-4945-b232-b4d80684d112@1c14.org
 END:VEVENT
 END:VCALENDAR
