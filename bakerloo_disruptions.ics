@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Bakerloo disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-16T03:30:00&endDate=2025-08-18T00:29:00">Disruption map.</a>\n\nBAKERLOO LINE: Saturday 16 and Sunday 17 August\, no service between Queens Park and Harrow & Wealdstone. There will also be no LIONESS LINE service between Euston and Watford Junction. LONDON NORTH WESTERN RAILWAY services will serve Harrow & Wealdstone\, on both days. Special bus services operate.
-DTEND:20250818T002900Z
-DTSTART:20250816T033000Z
-SUMMARY:Bakerloo: Part Closure
-UID:9e48a81a-edee-438e-bdf7-3d32292c34ae@9e48.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-18T06:44:43&endDate=2025-08-19T00:29:00">Disruption map.</a>\n\nBakerloo Line: No service between Queen's Park and Harrow & Wealdstone while Network Rail fix a signal failure at Harlesden. MINOR DELAYS on the rest of the line due to train cancellations. Tickets are being accepted on London Buses and the Lioness Line via any reasonable route.   
+DTEND:20250819T002900Z
+DTSTART:20250818T064443Z
+SUMMARY:Bakerloo: Minor Delays
+UID:7bccbea2-096f-4cca-9bc9-c9fc52ff6eb8@7bcc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-18T06:44:43&endDate=2025-08-18T11:02:59">Disruption map.</a>\n\nBakerloo Line: No service between Queen's Park and Harrow & Wealdstone while Network Rail fix a signal failure at Harlesden. MINOR DELAYS on the rest of the line due to train cancellations. Tickets are being accepted on London Buses and the Lioness Line via any reasonable route.   
+DTEND:20250818T110259Z
+DTSTART:20250818T064443Z
+SUMMARY:Bakerloo: Part Suspended
+UID:f06a1120-ee44-49e4-8ebd-f90c9fd98c39@f06a.org
 END:VEVENT
 END:VCALENDAR
