@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-19T08:21:28&endDate=2025-08-20T00:29:00">Disruption map.</a>\n\nMetropolitan Line: Minor delays between Aldgate and Harrow-on-the-Hill due to an earlier trespasser on the track at Moorgate. 
+DTEND:20250820T002900Z
+DTSTART:20250819T082128Z
+SUMMARY:Metropolitan: Minor Delays
+UID:531fc606-9044-4541-94ab-f3ffa6b46f8e@531f.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-09T11:00:00&endDate=2025-09-09T13:00:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Tuesday 9 September\, the 13:09 departure from Chalfont & Latimer to Chesham will be diverted to terminate at Amersham. The 13:30 departure from Chesham will depart from Amersham at 13:36. A replacement bus service will operate between Amersham and Chesham.
 DTEND:20250909T130000Z
 DTSTART:20250909T110000Z
 SUMMARY:Metropolitan: Part Closure
-UID:a4d75b4d-40c7-45f6-9f5f-91fd7c78b510@a4d7.org
+UID:168ee177-ee39-4656-8fb6-5eedfc88937a@168e.org
 END:VEVENT
 END:VCALENDAR
