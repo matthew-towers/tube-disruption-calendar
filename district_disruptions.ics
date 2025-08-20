@@ -2,4 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-20T08:36:45&endDate=2025-08-20T12:01:08">Disruption map.</a>\n\nDistrict Line: No service between Parsons Green and Wimbledon and SEVERE DELAYS between Parsons Green to Edgware Road while we fix a track fault at Wimbledon Park. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.  
+DTEND:20250820T120108Z
+DTSTART:20250820T083645Z
+SUMMARY:District: Part Suspended
+UID:ed37a2d4-a93f-4dbb-a24e-48b5635a26d0@ed37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-20T08:36:45&endDate=2025-08-21T00:29:00">Disruption map.</a>\n\nDistrict Line: No service between Parsons Green and Wimbledon and SEVERE DELAYS between Parsons Green to Edgware Road while we fix a track fault at Wimbledon Park. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.  
+DTEND:20250821T002900Z
+DTSTART:20250820T083645Z
+SUMMARY:District: Severe Delays
+UID:d5b25ef5-ff2d-4ce5-94f7-36bc55eb7d7a@d5b2.org
+END:VEVENT
 END:VCALENDAR
