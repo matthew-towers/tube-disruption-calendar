@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-30T03:30:00&endDate=2025-09-01T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 30 and Sunday 31 August\, no service between Stratford International / Poplar and Woolwich Arsenal / Beckton. Use JUBILEE LINE between Stratford\, West Ham and Canning Town and Use ELIZABETH LINE connections between Custom House and Woolwich. Replacement buses operate.
+DTEND:20250901T002900Z
+DTSTART:20250830T033000Z
+SUMMARY:DLR: Part Closure
+UID:7ecca9d2-538e-4ef6-934b-540e52e7cbb2@7ecc.org
+END:VEVENT
 END:VCALENDAR

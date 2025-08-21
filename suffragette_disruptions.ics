@@ -3,17 +3,45 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Suffragette line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-09T03:30:00&endDate=2025-10-10T00:29:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Saturday 9 August\, trains operate every 30 minutes between Woodgrange Park and Barking Riverside.
-DTEND:20251010T002900Z
-DTSTART:20251009T033000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-28T05:10:00&endDate=2025-08-28T05:30:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Tuesday 26\, Wednesday 27\, Thursday 28 and Friday 29 August\, the 0618 train from Barking Riverside will start from Barking at 0624
+DTEND:20250828T053000Z
+DTSTART:20250828T051000Z
 SUMMARY:Suffragette line: Reduced Service
-UID:56c00721-542c-4bbf-a236-2c771a033d19@56c0.org
+UID:3f2bc9cc-e6e8-44db-9891-a56cfaec22a5@3f2b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-22T22:30:00&endDate=2025-08-22T22:45:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Friday 22 August\, the 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338
 DTEND:20250822T224500Z
 DTSTART:20250822T223000Z
 SUMMARY:Suffragette line: Reduced Service
-UID:b79f0eba-00a4-4367-9c38-bbbd480a90fc@b79f.org
+UID:8b5534fa-9a8e-45d2-9167-a9409a60fe45@8b55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-09T03:30:00&endDate=2025-10-10T00:29:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Saturday 9 August\, trains operate every 30 minutes between Woodgrange Park and Barking Riverside.
+DTEND:20251010T002900Z
+DTSTART:20251009T033000Z
+SUMMARY:Suffragette line: Reduced Service
+UID:92d5da01-531c-4b2f-9899-97e16a85f0f0@92d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-26T05:10:00&endDate=2025-08-26T05:30:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Tuesday 26\, Wednesday 27\, Thursday 28 and Friday 29 August\, the 0618 train from Barking Riverside will start from Barking at 0624
+DTEND:20250826T053000Z
+DTSTART:20250826T051000Z
+SUMMARY:Suffragette line: Reduced Service
+UID:bef3a8f1-bea5-4cbb-a61d-ed59cd6951c2@bef3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-27T05:10:00&endDate=2025-08-27T05:30:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Tuesday 26\, Wednesday 27\, Thursday 28 and Friday 29 August\, the 0618 train from Barking Riverside will start from Barking at 0624
+DTEND:20250827T053000Z
+DTSTART:20250827T051000Z
+SUMMARY:Suffragette line: Reduced Service
+UID:08a8a6ae-4781-47f8-b6c3-b027e633c680@08a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-29T05:10:00&endDate=2025-08-29T05:30:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Tuesday 26\, Wednesday 27\, Thursday 28 and Friday 29 August\, the 0618 train from Barking Riverside will start from Barking at 0624
+DTEND:20250829T053000Z
+DTSTART:20250829T051000Z
+SUMMARY:Suffragette line: Reduced Service
+UID:23f8451d-8a10-41f9-a8bb-beb09d61b4ea@23f8.org
 END:VEVENT
 END:VCALENDAR
