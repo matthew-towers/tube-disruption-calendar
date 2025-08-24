@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-24T11:44:31&endDate=2025-08-25T00:29:00">Disruption map.</a>\n\nDistrict Line: Minor delays between Edgware Road and Wimbledon due to an earlier fire alert at East Putney. GOOD SERVICE on the rest of the line. 
+DTEND:20250825T002900Z
+DTSTART:20250824T114431Z
+SUMMARY:District: Minor Delays
+UID:24e798c7-c0ff-4d5b-bc62-07db556509ab@24e7.org
+END:VEVENT
 END:VCALENDAR
