@@ -64,7 +64,7 @@ def make_event(name, description, start, end, alarms=None):
     return e
 
 
-def fetch_disruptions(lineid, n_days=60):
+def fetch_disruptions(lineid, n_days=90):
     """Use the TFL API to get planned disruptions for the next n_days days on
     the line with id lineid"""
 
