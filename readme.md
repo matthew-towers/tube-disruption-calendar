@@ -1,6 +1,6 @@
 # Tube disruption calendar
 
-A Python script that uses the [TfL API](https://tfl.gov.uk/info-for/open-data-users/unified-api?intcmp=29422)  to produce an `ics` calendar of planned disruption on specified tube or Overground lines, suitable for importing into Google Calendar or similar. According to [this Medium post from 2016](https://medium.com/@ed.sparkes/a-tube-planned-works-calendar-91c7a483c3c4) there used to be a similar service available at [tubecal.uk](http://tubecal.uk/) but it is gone now. Someone has made calendars by station [this site](https://tfldisruptioncalendars.uk/).
+A Python script that uses the [TfL API](https://tfl.gov.uk/info-for/open-data-users/unified-api?intcmp=29422)  to produce an `ics` calendar of planned disruption on specified tube or Overground lines, suitable for importing into Google Calendar or similar. According to [this Medium post from 2016](https://medium.com/@ed.sparkes/a-tube-planned-works-calendar-91c7a483c3c4) there used to be a similar service available at [tubecal.uk](http://tubecal.uk/) but it is gone now. Someone has made calendars by station available on [this site](https://tfldisruptioncalendars.uk/).
 
 Calendar events include a link to the TfL disruption map for their date and time so that you can see the affected area on the tube map -- usually they just list the start and end station of the affected area, so this lets you see all affected stations. This might not work now due to some TfL website changes.
 
