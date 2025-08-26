@@ -2,4 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Bakerloo disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-26T07:57:35&endDate=2025-08-27T00:29:00">Disruption map.</a>\n\nBakerloo Line: Severe delays between Stonebridge Park and Harrow & Wealdstone. MINOR DELAYS between Elephant & Castle and Stonebridge Park due to an earlier signal failure at Lambeth North. Tickets are valid on London Buses\, Lioness Line and Thameslink. 
+DTEND:20250827T002900Z
+DTSTART:20250826T075735Z
+SUMMARY:Bakerloo: Minor Delays
+UID:c9e93d7e-b8bd-4e38-8bd2-ec3400e6bd06@c9e9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-26T07:57:35&endDate=2025-08-27T00:29:00">Disruption map.</a>\n\nBakerloo Line: Severe delays between Stonebridge Park and Harrow & Wealdstone. MINOR DELAYS between Elephant & Castle and Stonebridge Park due to an earlier signal failure at Lambeth North. Tickets are valid on London Buses\, Lioness Line and Thameslink. 
+DTEND:20250827T002900Z
+DTSTART:20250826T075735Z
+SUMMARY:Bakerloo: Severe Delays
+UID:3db18fca-f271-45da-84de-49e3f03bafd3@3db1.org
+END:VEVENT
 END:VCALENDAR
