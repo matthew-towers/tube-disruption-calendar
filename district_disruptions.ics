@@ -2,4 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-28T06:28:29&endDate=2025-08-29T00:29:00">Disruption map.</a>\n\nDistrict Line: Minor delays between Earl's Court and Tower Hill eastbound only and Turnham Green and Ealing Broadway due to an earlier points failure at Whitechapel. GOOD SERVICE on the rest of the line.\r\n 
+DTEND:20250829T002900Z
+DTSTART:20250828T062829Z
+SUMMARY:District: Minor Delays
+UID:35e607ef-2037-465a-9fa5-31b767952b5a@35e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-13T03:30:00&endDate=2025-09-15T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 13 and Sunday 14 September\, no service between Turnham Green and Ealing Broadway. There will also be no PICCADILLY LINE service between Hammersmith and Osterley / Uxbridge. Replacement buses operate.
+DTEND:20250915T002900Z
+DTSTART:20250913T033000Z
+SUMMARY:District: Part Closure
+UID:b2e00fcb-200e-4cc2-b5ad-4724122fb76d@b2e0.org
+END:VEVENT
 END:VCALENDAR
