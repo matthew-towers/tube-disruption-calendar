@@ -3,73 +3,87 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Lioness line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-10T04:25:00&endDate=2025-09-10T05:05:00">Disruption map.</a>\n\nLIONESS LINE: Tuesday 9\, Wednesday 10\, Thursday 11 and Friday 12 September\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
-DTEND:20250910T050500Z
-DTSTART:20250910T042500Z
-SUMMARY:Lioness line: Reduced Service
-UID:55767561-ce58-44dc-8696-b4da7a08a183@5576.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-10T22:30:00&endDate=2025-09-10T22:59:00">Disruption map.</a>\n\nLIONESS LINE: Monday 8\, Tuesday 9\, Wednesday 10 and Thursday 11 September\, the 2345 train from Euston to Watford Junction will not run
-DTEND:20250910T225900Z
-DTSTART:20250910T223000Z
-SUMMARY:Lioness line: Reduced Service
-UID:9a994807-f6fb-4e13-bafe-d304f48ba8bf@9a99.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-11T04:25:00&endDate=2025-09-11T05:05:00">Disruption map.</a>\n\nLIONESS LINE: Tuesday 9\, Wednesday 10\, Thursday 11 and Friday 12 September\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
-DTEND:20250911T050500Z
-DTSTART:20250911T042500Z
-SUMMARY:Lioness line: Reduced Service
-UID:715a8898-74f3-4a0d-9c12-65c5ead2f367@715a.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-31T03:30:00&endDate=2025-08-31T11:00:00">Disruption map.</a>\n\nLIONESS LINE: Sunday 31 August\, until 1200 and from 2030\, no service between Kilburn High Road and Euston\, please use local London Buses and London Underground services. First through trains operate at 1130 from Watford Junction to Euston and at 1215 from Euston to Watford Junction. Last through trains operate at 2015 from Watford Junction to Euston and at 2057 from Euston to Watford Junction.
+DTEND:20250831T110000Z
+DTSTART:20250831T033000Z
+SUMMARY:Lioness line: Part Closure
+UID:331a618c-f5cc-47be-ae23-ef34e16b7e6f@331a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-09T22:30:00&endDate=2025-09-09T22:59:00">Disruption map.</a>\n\nLIONESS LINE: Monday 8\, Tuesday 9\, Wednesday 10 and Thursday 11 September\, the 2345 train from Euston to Watford Junction will not run
 DTEND:20250909T225900Z
 DTSTART:20250909T223000Z
 SUMMARY:Lioness line: Reduced Service
-UID:67b68f74-eba7-46d1-98f4-8831de8506a0@67b6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-31T03:30:00&endDate=2025-08-31T11:00:00">Disruption map.</a>\n\nLIONESS LINE: Sunday 31 August\, until 1200 and from 2030\, no service between Kilburn High Road and Euston\, please use local London Buses and London Underground services. First through trains operate at 1130 from Watford Junction to Euston and at 1215 from Euston to Watford Junction. Last through trains operate at 2015 from Watford Junction to Euston and at 2057 from Euston to Watford Junction.
-DTEND:20250831T110000Z
-DTSTART:20250831T033000Z
-SUMMARY:Lioness line: Part Closure
-UID:804710e0-5259-4053-9680-cf2b4df9e083@8047.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-11T22:30:00&endDate=2025-09-11T22:59:00">Disruption map.</a>\n\nLIONESS LINE: Monday 8\, Tuesday 9\, Wednesday 10 and Thursday 11 September\, the 2345 train from Euston to Watford Junction will not run
-DTEND:20250911T225900Z
-DTSTART:20250911T223000Z
-SUMMARY:Lioness line: Reduced Service
-UID:e118da11-f1f8-4052-8d7c-1c6fa610d3af@e118.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-31T19:30:00&endDate=2025-09-01T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Sunday 31 August\, until 1200 and from 2030\, no service between Kilburn High Road and Euston\, please use local London Buses and London Underground services. First through trains operate at 1130 from Watford Junction to Euston and at 1215 from Euston to Watford Junction. Last through trains operate at 2015 from Watford Junction to Euston and at 2057 from Euston to Watford Junction.
-DTEND:20250901T002900Z
-DTSTART:20250831T193000Z
-SUMMARY:Lioness line: Part Closure
-UID:fb492307-0df8-4ae7-89da-214866dae266@fb49.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-08T22:30:00&endDate=2025-09-08T22:59:00">Disruption map.</a>\n\nLIONESS LINE: Monday 8\, Tuesday 9\, Wednesday 10 and Thursday 11 September\, the 2345 train from Euston to Watford Junction will not run
-DTEND:20250908T225900Z
-DTSTART:20250908T223000Z
-SUMMARY:Lioness line: Reduced Service
-UID:8a6ffc86-9bb5-46fd-9899-551f87d1b95f@8a6f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-09T04:25:00&endDate=2025-09-09T05:05:00">Disruption map.</a>\n\nLIONESS LINE: Tuesday 9\, Wednesday 10\, Thursday 11 and Friday 12 September\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
-DTEND:20250909T050500Z
-DTSTART:20250909T042500Z
-SUMMARY:Lioness line: Reduced Service
-UID:f152fdaf-59db-459e-a620-0c892b933bd7@f152.org
+UID:ca23dbce-2ff5-4d83-872e-03bcc02127ef@ca23.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-12T04:25:00&endDate=2025-09-12T05:05:00">Disruption map.</a>\n\nLIONESS LINE: Tuesday 9\, Wednesday 10\, Thursday 11 and Friday 12 September\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
 DTEND:20250912T050500Z
 DTSTART:20250912T042500Z
 SUMMARY:Lioness line: Reduced Service
-UID:af07dac3-15e4-48c7-879f-7c12bc57a089@af07.org
+UID:d6610011-45ff-4e77-9514-dfa6a9bad245@d661.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-09T04:25:00&endDate=2025-09-09T05:05:00">Disruption map.</a>\n\nLIONESS LINE: Tuesday 9\, Wednesday 10\, Thursday 11 and Friday 12 September\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
+DTEND:20250909T050500Z
+DTSTART:20250909T042500Z
+SUMMARY:Lioness line: Reduced Service
+UID:f9e026d5-fb78-4595-882d-2ac4925c8835@f9e0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-31T19:30:00&endDate=2025-09-01T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Sunday 31 August\, until 1200 and from 2030\, no service between Kilburn High Road and Euston\, please use local London Buses and London Underground services. First through trains operate at 1130 from Watford Junction to Euston and at 1215 from Euston to Watford Junction. Last through trains operate at 2015 from Watford Junction to Euston and at 2057 from Euston to Watford Junction.
+DTEND:20250901T002900Z
+DTSTART:20250831T193000Z
+SUMMARY:Lioness line: Part Closure
+UID:307539c4-1e65-4dce-837e-2a267e1e0ba1@3075.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-27T03:30:00&endDate=2025-09-29T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Saturday 27 and Sunday 28 September\, a reduced service operates\, with trains every 30 minutes between Euston and Willesden Junction.
+DTEND:20250929T002900Z
+DTSTART:20250927T033000Z
+SUMMARY:Lioness line: Reduced Service
+UID:858e78ea-e41b-49f0-84c6-7e04fbdc4dab@858e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-10T04:25:00&endDate=2025-09-10T05:05:00">Disruption map.</a>\n\nLIONESS LINE: Tuesday 9\, Wednesday 10\, Thursday 11 and Friday 12 September\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
+DTEND:20250910T050500Z
+DTSTART:20250910T042500Z
+SUMMARY:Lioness line: Reduced Service
+UID:9972addf-e3a5-4e80-9cdd-f9d27b20b4c0@9972.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-27T03:30:00&endDate=2025-09-29T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Saturday 27 and Sunday 28 September\, no service between Willesden Junction and Watford Junction. There will also be no BAKERLOO LINE service between Stonebridge Park and Harrow & Wealdstone on Saturday\, but through services operate on Sunday. SOUTHERN services will not call at Wembley Central\, Harrow & Wealdstone and Watford Junction. Use LONDON NORTHWESTERN RAILWAY services between Euston\, Harrow & Wealdstone and Watford Junction. Special bus services also operate.
+DTEND:20250929T002900Z
+DTSTART:20250927T033000Z
+SUMMARY:Lioness line: Part Closure
+UID:ad791294-b69f-4dce-9909-44ebdd95bf4f@ad79.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-11T22:30:00&endDate=2025-09-11T22:59:00">Disruption map.</a>\n\nLIONESS LINE: Monday 8\, Tuesday 9\, Wednesday 10 and Thursday 11 September\, the 2345 train from Euston to Watford Junction will not run
+DTEND:20250911T225900Z
+DTSTART:20250911T223000Z
+SUMMARY:Lioness line: Reduced Service
+UID:c786b646-2108-4ae6-a8d1-8fd63b99eff7@c786.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-10T22:30:00&endDate=2025-09-10T22:59:00">Disruption map.</a>\n\nLIONESS LINE: Monday 8\, Tuesday 9\, Wednesday 10 and Thursday 11 September\, the 2345 train from Euston to Watford Junction will not run
+DTEND:20250910T225900Z
+DTSTART:20250910T223000Z
+SUMMARY:Lioness line: Reduced Service
+UID:79e34e1c-d2bb-4d1f-8f53-f661afeaeaf6@79e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-08T22:30:00&endDate=2025-09-08T22:59:00">Disruption map.</a>\n\nLIONESS LINE: Monday 8\, Tuesday 9\, Wednesday 10 and Thursday 11 September\, the 2345 train from Euston to Watford Junction will not run
+DTEND:20250908T225900Z
+DTSTART:20250908T223000Z
+SUMMARY:Lioness line: Reduced Service
+UID:a84696b1-45db-4971-b071-6d20e9cdfcf8@a846.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-11T04:25:00&endDate=2025-09-11T05:05:00">Disruption map.</a>\n\nLIONESS LINE: Tuesday 9\, Wednesday 10\, Thursday 11 and Friday 12 September\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
+DTEND:20250911T050500Z
+DTSTART:20250911T042500Z
+SUMMARY:Lioness line: Reduced Service
+UID:13680841-ba3e-4ba9-90cc-bb575056ca20@1368.org
 END:VEVENT
 END:VCALENDAR

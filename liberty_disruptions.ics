@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Liberty line disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-29T11:57:48&endDate=2025-08-29T15:03:36">Disruption map.</a>\n\nLiberty Line: No service due to a faulty train at Romford.  
+DTEND:20250829T150336Z
+DTSTART:20250829T115748Z
+SUMMARY:Liberty line: Suspended
+UID:56ec89ce-0a4f-4e97-b636-27ab37f62996@56ec.org
+END:VEVENT
 END:VCALENDAR
