@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-27T03:30:00&endDate=2025-09-29T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 27 and Sunday 28 September\, no service between Bank / Tower Gateway and Poplar / West India Quay.
-DTEND:20250929T002900Z
-DTSTART:20250927T033000Z
-SUMMARY:DLR: Part Closure
-UID:bb314b21-08d5-44a6-8cf5-353bdb5d0315@bb31.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-30T03:30:00&endDate=2025-09-01T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 30 and Sunday 31 August\, no service between Stratford International / Poplar and Woolwich Arsenal / Beckton. Use JUBILEE LINE between Stratford\, West Ham and Canning Town and Use ELIZABETH LINE connections between Custom House and Woolwich. Replacement buses operate.
 DTEND:20250901T002900Z
 DTSTART:20250830T033000Z
 SUMMARY:DLR: Part Closure
-UID:c12859aa-dcc7-4b20-9220-eac23a4903e2@c128.org
+UID:621c9004-c2c1-4cae-928c-ff547236d4e2@621c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-27T03:30:00&endDate=2025-09-29T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 27 and Sunday 28 September\, no service between Bank / Tower Gateway and Poplar / West India Quay.
+DTEND:20250929T002900Z
+DTSTART:20250927T033000Z
+SUMMARY:DLR: Part Closure
+UID:7f11d36a-b3e6-4ca7-a35f-92ddedfad301@7f11.org
 END:VEVENT
 END:VCALENDAR
