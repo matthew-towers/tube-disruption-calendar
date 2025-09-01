@@ -3,24 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-27T03:30:00&endDate=2025-09-29T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 27 and Sunday 28 September\, no service between Turnham Green and Ealing Broadway. There will also be no PICCADILLY LINE service between Kings Cross St Pancras and Osterley / Uxbridge. Replacement buses operate.
-DTEND:20250929T002900Z
-DTSTART:20250927T033000Z
-SUMMARY:District: Part Closure
-UID:15793271-51dc-43ba-ae75-2b8680b092ca@1579.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-08-31T10:28:31&endDate=2025-09-01T00:29:00">Disruption map.</a>\n\nDistrict Line: Severe delays between Tower Hill and Upminster while we fix faulty trains at Upton Park. Tickets are being accepted on London Buses\, Elizabeth line and C2C services via reasonable routes.  
-DTEND:20250901T002900Z
-DTSTART:20250831T102831Z
-SUMMARY:District: Severe Delays
-UID:6c837f74-975f-411d-8160-cf2e91acad40@6c83.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-13T03:30:00&endDate=2025-09-15T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 13 and Sunday 14 September\, no service between Turnham Green and Ealing Broadway. There will also be no PICCADILLY LINE service between Hammersmith and Osterley / Uxbridge. Replacement buses operate.
 DTEND:20250915T002900Z
 DTSTART:20250913T033000Z
 SUMMARY:District: Part Closure
-UID:b24e91a1-f9b6-429e-9371-2fe1a00d43ac@b24e.org
+UID:5f670515-5d17-4e11-afec-6b490282d380@5f67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-27T03:30:00&endDate=2025-09-29T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 27 and Sunday 28 September\, no service between Turnham Green and Ealing Broadway. There will also be no PICCADILLY LINE service between Kings Cross St Pancras and Osterley / Uxbridge. Replacement buses operate.
+DTEND:20250929T002900Z
+DTSTART:20250927T033000Z
+SUMMARY:District: Part Closure
+UID:59eed9ee-88ee-4d5c-83e6-e15fd615accd@59ee.org
 END:VEVENT
 END:VCALENDAR
