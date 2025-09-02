@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Jubilee disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-02T07:28:45&endDate=2025-09-03T00:29:00">Disruption map.</a>\n\nJubilee Line: Severe delays due to an earlier faulty train at Waterloo.  Tickets are being accepted on London Buses\, Elizabeth line\, DLR\, C2C\, Thameslink\, and Southeastern.  
+DTEND:20250903T002900Z
+DTSTART:20250902T072845Z
+SUMMARY:Jubilee: Severe Delays
+UID:d50d9aa9-fa64-4196-8983-4bb3d8755264@d50d.org
+END:VEVENT
 END:VCALENDAR
