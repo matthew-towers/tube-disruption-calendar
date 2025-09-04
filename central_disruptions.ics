@@ -3,31 +3,38 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-03T09:12:00&endDate=2025-09-04T00:29:00">Disruption map.</a>\n\nCentral Line: Minor delays due to train cancellations. 
-DTEND:20250904T002900Z
-DTSTART:20250903T091200Z
-SUMMARY:Central: Minor Delays
-UID:fc4f3d55-4c7a-4b04-80ec-a58edc239a49@fc4f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-12T03:30:00&endDate=2025-09-13T00:29:00">Disruption map.</a>\n\nTUBE STRIKE: Friday 12 September\, no service is expected to run before 0800 but a normal service is expected to resume on all lines by mid-morning.
-DTEND:20250913T002900Z
-DTSTART:20250912T033000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-08T03:30:00&endDate=2025-09-12T07:00:00">Disruption map.</a>\n\nTUBE STRIKES: Monday 8 to Thursday 11 September\, disruption will be expected across the Tube network with little or no service expected to run\, and no trains before 0800. You are advised to complete your journey by 1800 each day.
+DTEND:20250912T070000Z
+DTSTART:20250908T033000Z
 SUMMARY:Central: Reduced Service
-UID:e6836a9d-16cc-40db-91f4-157d337b3adc@e683.org
+UID:51349a56-767f-4255-8246-4ec7da52500a@5134.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-07T03:30:00&endDate=2025-09-08T00:29:00">Disruption map.</a>\n\nTUBE STRIKE: Sunday 7 September\, there will be disruption across the Tube network\, with limited services running and an early finish. You are advised to complete your journey by 1800.
 DTEND:20250908T002900Z
 DTSTART:20250907T033000Z
 SUMMARY:Central: Reduced Service
-UID:6f3b07cd-20a4-48bc-919a-f6ce8c583c15@6f3b.org
+UID:2801af92-a4a4-4f85-a681-71e9137e24df@2801.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-08T03:30:00&endDate=2025-09-12T07:00:00">Disruption map.</a>\n\nTUBE STRIKES: Monday 8 to Thursday 11 September\, disruption will be expected across the Tube network with little or no service expected to run\, and no trains before 0800. You are advised to complete your journey by 1800 each day.
-DTEND:20250912T070000Z
-DTSTART:20250908T033000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-06T00:00:00&endDate=2025-09-06T04:30:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 6 September\, between 0100 and 0530\, no service between Marble Arch and Loughton / Hainault (via Newbury Park). For Stratford\, please use Jubilee line Night Tube. No replacement bus services will operate. Please use Night Buses N8 between Oxford Circus and Hainault\, N25 between Oxford Circus and Stratford via Mile End\, N55 between Oxford Circus\, Wanstead\, Snaresbrook and South Woodford\, 24 hour route 69 between Stratford and Walthamstow Central (for Victoria line Night Tube) via Leyton and 24 hour route 158 between Stratford and Blackhorse Road (for Victoria line Night Tube) via Leyton.
+DTEND:20250906T043000Z
+DTSTART:20250906T000000Z
+SUMMARY:Central: Part Closure
+UID:a4fa78ad-1053-4dce-8e10-9b9decd2a449@a4fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-12T03:30:00&endDate=2025-09-13T00:29:00">Disruption map.</a>\n\nTUBE STRIKE: Friday 12 September\, no service is expected to run before 0800 but a normal service is expected to resume on all lines by mid-morning.
+DTEND:20250913T002900Z
+DTSTART:20250912T033000Z
 SUMMARY:Central: Reduced Service
-UID:c701f0f2-c2ee-4ae2-8404-1ba5ca26b239@c701.org
+UID:671e1198-e1f9-45e4-8690-4bfbe6ed95f6@671e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-06T04:30:00&endDate=2025-09-08T00:29:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 6 September\, from 0530 and all day Sunday 7 September\, including Saturday Night Tube\, no service between Liverpool Street and Woodford / Newbury Park. Please use local London Buses services as replacement bus services will not operate.  For Stratford\, use Jubilee line\, and for Mile End use District and Hammersmith & City lines. For Night journeys\, please use Night Buses N8 between Oxford Circus and Hainault\, N25 between Oxford Circus and Stratford via Mile End\, N55 between Oxford Circus\, Wanstead\, Snaresbrook and South Woodford\, 24 hour route 69 between Stratford and Walthamstow Central (for Victoria line Night Tube) via Leyton and 24 hour route 158 between Stratford and Blackhorse Road (for Victoria line Night Tube) via Leyton.
+DTEND:20250908T002900Z
+DTSTART:20250906T043000Z
+SUMMARY:Central: Part Closure
+UID:e12842ae-0c61-4d26-aa65-c9d8b3ad6048@e128.org
 END:VEVENT
 END:VCALENDAR

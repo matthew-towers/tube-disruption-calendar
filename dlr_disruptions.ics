@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-27T03:30:00&endDate=2025-09-29T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 27 and Sunday 28 September\, no service between Bank / Tower Gateway and Poplar / West India Quay.
-DTEND:20250929T002900Z
-DTSTART:20250927T033000Z
-SUMMARY:DLR: Part Closure
-UID:6faa4b4c-3d85-4eed-933e-39d94382f7c3@6faa.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-11T03:30:00&endDate=2025-09-12T00:29:00">Disruption map.</a>\n\nDLR STRIKES: Tuesday 9 and Thursday 11 September\, there will be no DLR service due to a strike. A full service is expected to run for the rest of the week
+DTEND:20250912T002900Z
+DTSTART:20250911T033000Z
+SUMMARY:DLR: Suspended
+UID:bb20c7a2-1fb6-4777-9fd9-87e6eb09decd@bb20.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-09T03:30:00&endDate=2025-09-10T00:29:00">Disruption map.</a>\n\nDLR STRIKES: Tuesday 9 and Thursday 11 September\, there will be no DLR service due to a strike. A full service is expected to run for the rest of the week
 DTEND:20250910T002900Z
 DTSTART:20250909T033000Z
 SUMMARY:DLR: Suspended
-UID:9aa95da6-a7e8-4b01-a434-8b3ffd9d802d@9aa9.org
+UID:f6efeda7-8b29-4428-a59c-785840f26d1d@f6ef.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-11T03:30:00&endDate=2025-09-12T00:29:00">Disruption map.</a>\n\nDLR STRIKES: Tuesday 9 and Thursday 11 September\, there will be no DLR service due to a strike. A full service is expected to run for the rest of the week
-DTEND:20250912T002900Z
-DTSTART:20250911T033000Z
-SUMMARY:DLR: Suspended
-UID:956b9505-af6e-4e06-a9d2-3c98d9a387ac@956b.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-27T03:30:00&endDate=2025-09-29T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 27 and Sunday 28 September\, no service between Bank / Tower Gateway and Poplar / West India Quay.
+DTEND:20250929T002900Z
+DTSTART:20250927T033000Z
+SUMMARY:DLR: Part Closure
+UID:9770cda5-a9c2-40ef-b997-3f63b0fe2d56@9770.org
 END:VEVENT
 END:VCALENDAR

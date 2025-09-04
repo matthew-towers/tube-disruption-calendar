@@ -3,38 +3,38 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-12T03:30:00&endDate=2025-09-13T00:29:00">Disruption map.</a>\n\nTUBE STRIKE: Friday 12 September\, no service is expected to run before 0800 but a normal service is expected to resume on all lines by mid-morning.
-DTEND:20250913T002900Z
-DTSTART:20250912T033000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-08T03:30:00&endDate=2025-09-12T07:00:00">Disruption map.</a>\n\nTUBE STRIKES: Monday 8 to Thursday 11 September\, disruption will be expected across the Tube network with little or no service expected to run\, and no trains before 0800. You are advised to complete your journey by 1800 each day.
+DTEND:20250912T070000Z
+DTSTART:20250908T033000Z
 SUMMARY:District: Reduced Service
-UID:be1a92dc-6518-4538-8358-8bf2b3982368@be1a.org
+UID:bca435b3-1f60-4a71-98e0-f5b293f242b2@bca4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-07T03:30:00&endDate=2025-09-08T00:29:00">Disruption map.</a>\n\nTUBE STRIKE: Sunday 7 September\, there will be disruption across the Tube network\, with limited services running and an early finish. You are advised to complete your journey by 1800.
 DTEND:20250908T002900Z
 DTSTART:20250907T033000Z
 SUMMARY:District: Reduced Service
-UID:321891d8-9a42-4169-9d09-1b1fd5f84041@3218.org
+UID:f2bd6fd9-c5b9-4df1-a6e6-b0ebae32c8c4@f2bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-12T03:30:00&endDate=2025-09-13T00:29:00">Disruption map.</a>\n\nTUBE STRIKE: Friday 12 September\, no service is expected to run before 0800 but a normal service is expected to resume on all lines by mid-morning.
+DTEND:20250913T002900Z
+DTSTART:20250912T033000Z
+SUMMARY:District: Reduced Service
+UID:9034a0fa-862d-4d4d-a5b5-2f53a37b47ac@9034.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-13T03:30:00&endDate=2025-09-15T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 13 and Sunday 14 September\, no service between Turnham Green and Ealing Broadway. There will also be no PICCADILLY LINE service between Hammersmith and Osterley / Uxbridge. Replacement buses operate.
 DTEND:20250915T002900Z
 DTSTART:20250913T033000Z
 SUMMARY:District: Part Closure
-UID:c25ef488-bcaf-4581-83ad-139fbdfbe040@c25e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-08T03:30:00&endDate=2025-09-12T07:00:00">Disruption map.</a>\n\nTUBE STRIKES: Monday 8 to Thursday 11 September\, disruption will be expected across the Tube network with little or no service expected to run\, and no trains before 0800. You are advised to complete your journey by 1800 each day.
-DTEND:20250912T070000Z
-DTSTART:20250908T033000Z
-SUMMARY:District: Reduced Service
-UID:eadd2802-d41b-4186-9726-446c1ac7a9c7@eadd.org
+UID:4953ec60-c324-4017-b318-39e7edeb246b@4953.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-27T03:30:00&endDate=2025-09-29T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 27 and Sunday 28 September\, no service between Turnham Green and Ealing Broadway. There will also be no PICCADILLY LINE service between Kings Cross St Pancras and Osterley / Uxbridge. Replacement buses operate.
 DTEND:20250929T002900Z
 DTSTART:20250927T033000Z
 SUMMARY:District: Part Closure
-UID:c63316b0-7eb8-4368-8b0f-43194d5ce20e@c633.org
+UID:cb524adf-ce62-433f-91eb-3e013374467b@cb52.org
 END:VEVENT
 END:VCALENDAR
