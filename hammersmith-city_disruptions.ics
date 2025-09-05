@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Hammersmith & City disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-08T03:30:00&endDate=2025-09-12T07:00:00">Disruption map.</a>\n\nTUBE STRIKES: Monday 8 to Thursday 11 September\, disruption will be expected across the Tube network with little or no service expected to run\, and no trains before 0800. You are advised to complete your journey by 1800 each day.
-DTEND:20250912T070000Z
-DTSTART:20250908T033000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-12T03:30:00&endDate=2025-09-13T00:29:00">Disruption map.</a>\n\nTUBE STRIKE: Friday 12 September\, no service is expected to run before 0800 but a normal service is expected to resume on all lines by mid-morning.
+DTEND:20250913T002900Z
+DTSTART:20250912T033000Z
 SUMMARY:Hammersmith & City: Reduced Service
-UID:f3e083bd-6307-43b9-ad96-81952ef89ea8@f3e0.org
+UID:d078df3e-3e00-4cde-9f54-ff0a029213b2@d078.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-07T03:30:00&endDate=2025-09-08T00:29:00">Disruption map.</a>\n\nTUBE STRIKE: Sunday 7 September\, there will be disruption across the Tube network\, with limited services running and an early finish. You are advised to complete your journey by 1800.
 DTEND:20250908T002900Z
 DTSTART:20250907T033000Z
 SUMMARY:Hammersmith & City: Reduced Service
-UID:f71af651-9429-485b-820a-d79c3950c580@f71a.org
+UID:e52b55f1-c075-4f64-b159-fec72d4a0dc4@e52b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-12T03:30:00&endDate=2025-09-13T00:29:00">Disruption map.</a>\n\nTUBE STRIKE: Friday 12 September\, no service is expected to run before 0800 but a normal service is expected to resume on all lines by mid-morning.
-DTEND:20250913T002900Z
-DTSTART:20250912T033000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-08T03:30:00&endDate=2025-09-12T07:00:00">Disruption map.</a>\n\nTUBE STRIKES: Monday 8 to Thursday 11 September\, disruption will be expected across the Tube network with little or no service expected to run\, and no trains before 0800. You are advised to complete your journey by 1800 each day.
+DTEND:20250912T070000Z
+DTSTART:20250908T033000Z
 SUMMARY:Hammersmith & City: Reduced Service
-UID:80d837ab-ee35-4108-901d-dcb55bec83dd@80d8.org
+UID:f08e3da6-a912-4421-bd9b-ac7987912f68@f08e.org
 END:VEVENT
 END:VCALENDAR
