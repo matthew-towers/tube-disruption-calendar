@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-27T03:30:00&endDate=2025-09-29T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 27 and Sunday 28 September\, no service between Bank / Tower Gateway and Poplar / West India Quay.
+DTEND:20250929T002900Z
+DTSTART:20250927T033000Z
+SUMMARY:DLR: Part Closure
+UID:2f43709b-564e-4de1-ae60-c94cbd8b437c@2f43.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-09T03:30:00&endDate=2025-09-10T00:29:00">Disruption map.</a>\n\nDLR STRIKES: Tuesday 9 and Thursday 11 September\, there will be no DLR service due to a strike. A full service is expected to run for the rest of the week
 DTEND:20250910T002900Z
 DTSTART:20250909T033000Z
 SUMMARY:DLR: Suspended
-UID:2ae88db3-8248-424d-9d2f-fb2cc41d0e35@2ae8.org
+UID:7ace151e-ab12-46e9-a88d-bd0436d9b00c@7ace.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-11T03:30:00&endDate=2025-09-12T00:29:00">Disruption map.</a>\n\nDLR STRIKES: Tuesday 9 and Thursday 11 September\, there will be no DLR service due to a strike. A full service is expected to run for the rest of the week
 DTEND:20250912T002900Z
 DTSTART:20250911T033000Z
 SUMMARY:DLR: Suspended
-UID:91e971e0-ee49-4ae9-9ff9-453b82dc7759@91e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-27T03:30:00&endDate=2025-09-29T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 27 and Sunday 28 September\, no service between Bank / Tower Gateway and Poplar / West India Quay.
-DTEND:20250929T002900Z
-DTSTART:20250927T033000Z
-SUMMARY:DLR: Part Closure
-UID:55b1ee51-5317-42a3-a9f7-9e0f0f454f33@55b1.org
+UID:06802129-7a45-471e-83cb-c26e2dd93f5a@0680.org
 END:VEVENT
 END:VCALENDAR
