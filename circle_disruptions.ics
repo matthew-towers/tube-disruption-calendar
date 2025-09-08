@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Circle disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-08T03:14:51&endDate=2025-09-08T11:51:29">Disruption map.</a>\n\nCircle Line: No service on the entire line due to strike action. 
+DTEND:20250908T115129Z
+DTSTART:20250908T031451Z
+SUMMARY:Circle: Suspended
+UID:2e73cf47-df74-4e30-bf03-b54cf508d592@2e73.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-09T03:30:00&endDate=2025-09-12T07:00:00">Disruption map.</a>\n\nTUBE STRIKES: Tuesday 9 to Thursday 11 September\, disruption will be expected across the Tube network with little or no service expected to run\, and no trains before 0800. You are advised to complete your journey by 1800 each day.
+DTEND:20250912T070000Z
+DTSTART:20250909T033000Z
+SUMMARY:Circle: Reduced Service
+UID:c9cc29d2-de30-449b-b164-f32f15cf0ee0@c9cc.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-12T03:30:00&endDate=2025-09-13T00:29:00">Disruption map.</a>\n\nTUBE STRIKE: Friday 12 September\, no service is expected to run before 0800 but a normal service is expected to resume on all lines by mid-morning.
 DTEND:20250913T002900Z
 DTSTART:20250912T033000Z
 SUMMARY:Circle: Reduced Service
-UID:76dc7d5c-47cf-43b5-bbe7-b134e3409af8@76dc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-07T03:35:00&endDate=2025-09-07T12:17:56">Disruption map.</a>\n\nCircle Line: No service on the entire line due to strike action. Use the Hammersmith & City and District lines to complete your journey.  
-DTEND:20250907T121756Z
-DTSTART:20250907T033500Z
-SUMMARY:Circle: Suspended
-UID:fa448260-0113-4586-a523-52d22b3d333c@fa44.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-08T03:30:00&endDate=2025-09-12T07:00:00">Disruption map.</a>\n\nTUBE STRIKES: Monday 8 to Thursday 11 September\, disruption will be expected across the Tube network with little or no service expected to run\, and no trains before 0800. You are advised to complete your journey by 1800 each day.
-DTEND:20250912T070000Z
-DTSTART:20250908T033000Z
-SUMMARY:Circle: Reduced Service
-UID:9944b5b6-4fdb-4ffb-aab9-3d954ba21bcd@9944.org
+UID:b54661b2-f5b3-47d1-b089-b04ed6caafd4@b546.org
 END:VEVENT
 END:VCALENDAR
