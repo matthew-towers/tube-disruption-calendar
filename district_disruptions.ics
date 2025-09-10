@@ -3,38 +3,45 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-13T03:30:00&endDate=2025-09-15T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 13 and Sunday 14 September\, no service between Turnham Green and Ealing Broadway. There will also be no PICCADILLY LINE service between Hammersmith and Osterley / Uxbridge. Replacement buses operate.
+DTEND:20250915T002900Z
+DTSTART:20250913T033000Z
+SUMMARY:District: Part Closure
+UID:fb9faf3c-3efb-4b55-b352-f974fb59ef51@fb9f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-10T09:54:15&endDate=2025-09-10T13:22:37">Disruption map.</a>\n\nDistrict Line: Service is operating with minor delays between Upminster and Whitechapel only. No service on the rest of the line due to strike action. Please note that some stations are closed. Please check before you travel. 
+DTEND:20250910T132237Z
+DTSTART:20250910T095415Z
+SUMMARY:District: Part Suspended
+UID:59368d3f-be19-4704-af9b-3835af437c82@5936.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-27T03:30:00&endDate=2025-09-29T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 27 and Sunday 28 September\, no service between Turnham Green and Ealing Broadway. There will also be no PICCADILLY LINE service between Kings Cross St Pancras and Osterley / Uxbridge. Replacement buses operate.
 DTEND:20250929T002900Z
 DTSTART:20250927T033000Z
 SUMMARY:District: Part Closure
-UID:37abce7b-cf91-407c-bc5c-22483712aff5@37ab.org
+UID:16e74d8e-bc48-4489-9006-6e2fe62a6fd3@16e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-11T03:30:00&endDate=2025-09-12T07:00:00">Disruption map.</a>\n\nTUBE STRIKES: Thursday 11 September\, disruption will be expected across the Tube network with little or no service expected to run\, and no trains before 0800. You are advised to complete your journey by 1800 each day.
+DTEND:20250912T070000Z
+DTSTART:20250911T033000Z
+SUMMARY:District: Reduced Service
+UID:60bddf66-da1e-4b37-98b5-6bffb3426b66@60bd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-12T03:30:00&endDate=2025-09-13T00:29:00">Disruption map.</a>\n\nTUBE STRIKE: Friday 12 September\, no service is expected to run before 0800 but a normal service is expected to resume on all lines by mid-morning.
 DTEND:20250913T002900Z
 DTSTART:20250912T033000Z
 SUMMARY:District: Reduced Service
-UID:5aff90f2-a53c-46a0-9527-ac4aa05cbf34@5aff.org
+UID:707d033d-6b6d-4129-ae2a-d70d7faf553e@707d.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-10T03:30:00&endDate=2025-09-12T07:00:00">Disruption map.</a>\n\nTUBE STRIKES: Wednesday 10 and Thursday 11 September\, disruption will be expected across the Tube network with little or no service expected to run\, and no trains before 0800. You are advised to complete your journey by 1800 each day.
-DTEND:20250912T070000Z
-DTSTART:20250910T033000Z
-SUMMARY:District: Reduced Service
-UID:94399b58-084b-4a19-bf4d-9259c9b74e22@9439.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-09T03:15:22&endDate=2025-09-09T11:48:18">Disruption map.</a>\n\nDistrict Line: No service on the entire line due to strike action. 
-DTEND:20250909T114818Z
-DTSTART:20250909T031522Z
-SUMMARY:District: Suspended
-UID:11dadee8-0506-4c5b-b5c3-567d33630447@11da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-13T03:30:00&endDate=2025-09-15T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 13 and Sunday 14 September\, no service between Turnham Green and Ealing Broadway. There will also be no PICCADILLY LINE service between Hammersmith and Osterley / Uxbridge. Replacement buses operate.
-DTEND:20250915T002900Z
-DTSTART:20250913T033000Z
-SUMMARY:District: Part Closure
-UID:59809d29-7f24-4ff4-824f-55a4ea27ad76@5980.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-10T09:54:15&endDate=2025-09-11T00:29:00">Disruption map.</a>\n\nDistrict Line: Service is operating with minor delays between Upminster and Whitechapel only. No service on the rest of the line due to strike action. Please note that some stations are closed. Please check before you travel. 
+DTEND:20250911T002900Z
+DTSTART:20250910T095415Z
+SUMMARY:District: Minor Delays
+UID:01c0fd32-28e0-45e2-9f2c-7f1237d7a21e@01c0.org
 END:VEVENT
 END:VCALENDAR

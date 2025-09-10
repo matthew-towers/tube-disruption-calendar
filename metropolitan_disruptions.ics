@@ -3,31 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-09T03:16:28&endDate=2025-09-09T11:48:18">Disruption map.</a>\n\nMetropolitan Line: No service on the entire line due to strike action. 
-DTEND:20250909T114818Z
-DTSTART:20250909T031628Z
-SUMMARY:Metropolitan: Suspended
-UID:61a662eb-4256-46d4-8f42-7e6a5cc59efe@61a6.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-10T06:36:05&endDate=2025-09-10T13:22:37">Disruption map.</a>\n\nMetropolitan Line: Service is operating with minor delays between Harrow-on-the-Hill and Amersham/Chesham/Watford/Uxbridge only. No service on the rest of the line due to strike action. Please note that some stations are closed. Please check before you travel. 
+DTEND:20250910T132237Z
+DTSTART:20250910T063605Z
+SUMMARY:Metropolitan: Part Suspended
+UID:af6885ef-3a59-4995-820e-93ae13e28d41@af68.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-09T11:00:00&endDate=2025-09-09T13:00:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Tuesday 9 September\, the 13:09 departure from Chalfont & Latimer to Chesham will be diverted to terminate at Amersham. The 13:30 departure from Chesham will depart from Amersham at 13:36. A replacement bus service will operate between Amersham and Chesham.
-DTEND:20250909T130000Z
-DTSTART:20250909T110000Z
-SUMMARY:Metropolitan: Part Closure
-UID:cda9a218-0c2f-4d70-8ce8-878ef08bb44d@cda9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-10T03:30:00&endDate=2025-09-12T07:00:00">Disruption map.</a>\n\nTUBE STRIKES: Wednesday 10 and Thursday 11 September\, disruption will be expected across the Tube network with little or no service expected to run\, and no trains before 0800. You are advised to complete your journey by 1800 each day.
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-11T03:30:00&endDate=2025-09-12T07:00:00">Disruption map.</a>\n\nTUBE STRIKES: Thursday 11 September\, disruption will be expected across the Tube network with little or no service expected to run\, and no trains before 0800. You are advised to complete your journey by 1800 each day.
 DTEND:20250912T070000Z
-DTSTART:20250910T033000Z
+DTSTART:20250911T033000Z
 SUMMARY:Metropolitan: Reduced Service
-UID:2237f82e-86b2-44e4-82ca-fafa9f9ff3b1@2237.org
+UID:02d06c44-9b26-4698-a3c8-cb7368a68599@02d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-10T06:36:05&endDate=2025-09-11T00:29:00">Disruption map.</a>\n\nMetropolitan Line: Service is operating with minor delays between Harrow-on-the-Hill and Amersham/Chesham/Watford/Uxbridge only. No service on the rest of the line due to strike action. Please note that some stations are closed. Please check before you travel. 
+DTEND:20250911T002900Z
+DTSTART:20250910T063605Z
+SUMMARY:Metropolitan: Minor Delays
+UID:8f7f7a7d-1fb2-48ff-a3ad-f7f288bfcb0e@8f7f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-12T03:30:00&endDate=2025-09-13T00:29:00">Disruption map.</a>\n\nTUBE STRIKE: Friday 12 September\, no service is expected to run before 0800 but a normal service is expected to resume on all lines by mid-morning.
 DTEND:20250913T002900Z
 DTSTART:20250912T033000Z
 SUMMARY:Metropolitan: Reduced Service
-UID:79e5003e-f4b4-4ca5-a30e-9824ec73cffa@79e5.org
+UID:7f2562aa-dea2-421b-9bae-486334bb48e7@7f25.org
 END:VEVENT
 END:VCALENDAR

@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Victoria disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-11T03:30:00&endDate=2025-09-12T07:00:00">Disruption map.</a>\n\nTUBE STRIKES: Thursday 11 September\, disruption will be expected across the Tube network with little or no service expected to run\, and no trains before 0800. You are advised to complete your journey by 1800 each day.
+DTEND:20250912T070000Z
+DTSTART:20250911T033000Z
+SUMMARY:Victoria: Reduced Service
+UID:af62dcee-b419-45fe-b73a-9ee6379f2c43@af62.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-10T03:20:53&endDate=2025-09-10T13:22:37">Disruption map.</a>\n\nVictoria Line: No service on the entire line due to strike action. 
+DTEND:20250910T132237Z
+DTSTART:20250910T032053Z
+SUMMARY:Victoria: Suspended
+UID:41babcc6-31fc-4693-8323-b48174c8e2aa@41ba.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-12T03:30:00&endDate=2025-09-13T00:29:00">Disruption map.</a>\n\nTUBE STRIKE: Friday 12 September\, no service is expected to run before 0800 but a normal service is expected to resume on all lines by mid-morning.
 DTEND:20250913T002900Z
 DTSTART:20250912T033000Z
 SUMMARY:Victoria: Reduced Service
-UID:8a0c066c-7cb3-4c86-b764-c97554da146d@8a0c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-09T03:18:07&endDate=2025-09-09T11:48:18">Disruption map.</a>\n\nVictoria Line: No service on the entire line due to strike action. 
-DTEND:20250909T114818Z
-DTSTART:20250909T031807Z
-SUMMARY:Victoria: Suspended
-UID:dd6b4a88-8baa-4567-97c6-7207e477b7ae@dd6b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-10T03:30:00&endDate=2025-09-12T07:00:00">Disruption map.</a>\n\nTUBE STRIKES: Wednesday 10 and Thursday 11 September\, disruption will be expected across the Tube network with little or no service expected to run\, and no trains before 0800. You are advised to complete your journey by 1800 each day.
-DTEND:20250912T070000Z
-DTSTART:20250910T033000Z
-SUMMARY:Victoria: Reduced Service
-UID:57af774f-82bc-41c0-b4e0-6cb5e994d45a@57af.org
+UID:7891e45d-0866-4230-bf5a-b4dda5312c68@7891.org
 END:VEVENT
 END:VCALENDAR

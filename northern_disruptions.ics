@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Northern disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-09T07:22:41&endDate=2025-09-10T00:29:00">Disruption map.</a>\n\nNorthern Line: Minor delays due to strike action. 
-DTEND:20250910T002900Z
-DTSTART:20250909T072241Z
-SUMMARY:Northern: Minor Delays
-UID:eb8c8ba3-82d1-4575-ab47-8417cd0bbb62@eb8c.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-12T03:30:00&endDate=2025-09-13T00:29:00">Disruption map.</a>\n\nTUBE STRIKE: Friday 12 September\, no service is expected to run before 0800 but a normal service is expected to resume on all lines by mid-morning.
 DTEND:20250913T002900Z
 DTSTART:20250912T033000Z
 SUMMARY:Northern: Reduced Service
-UID:3275e1be-9a98-4685-a7aa-f225828bbbc9@3275.org
+UID:1a7a5a02-df5f-414e-91f3-8aef29142b24@1a7a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-10T03:30:00&endDate=2025-09-12T07:00:00">Disruption map.</a>\n\nTUBE STRIKES: Wednesday 10 and Thursday 11 September\, disruption will be expected across the Tube network with little or no service expected to run\, and no trains before 0800. You are advised to complete your journey by 1800 each day.
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-11T03:30:00&endDate=2025-09-12T07:00:00">Disruption map.</a>\n\nTUBE STRIKES: Thursday 11 September\, disruption will be expected across the Tube network with little or no service expected to run\, and no trains before 0800. You are advised to complete your journey by 1800 each day.
 DTEND:20250912T070000Z
-DTSTART:20250910T033000Z
+DTSTART:20250911T033000Z
 SUMMARY:Northern: Reduced Service
-UID:a0f32664-00c8-4f07-bf8c-f0c1eba24cec@a0f3.org
+UID:88d44f03-d2f6-4a9a-a9a8-d5f51f794d36@88d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-10T06:53:27&endDate=2025-09-10T13:22:37">Disruption map.</a>\n\nNorthern Line: Service is operating between High Barnet and East Finchley/Mill Hill East and between Golder Green and Edgware only. No service on the rest of the line due to strike action. Please note that some stations are closed. Please check before you travel. 
+DTEND:20250910T132237Z
+DTSTART:20250910T065327Z
+SUMMARY:Northern: Part Suspended
+UID:376c1268-256a-40bb-bb3c-36b5df0680dd@376c.org
 END:VEVENT
 END:VCALENDAR
