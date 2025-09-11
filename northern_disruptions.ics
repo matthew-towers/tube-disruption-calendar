@@ -3,24 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Northern disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-11T03:16:40&endDate=2025-09-11T11:47:38">Disruption map.</a>\n\nNorthern Line: No service due to strike action. 
+DTEND:20250911T114738Z
+DTSTART:20250911T031640Z
+SUMMARY:Northern: Suspended
+UID:66e9736d-301b-41fe-9f5b-4953d91cabd7@66e9.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-12T03:30:00&endDate=2025-09-13T00:29:00">Disruption map.</a>\n\nTUBE STRIKE: Friday 12 September\, no service is expected to run before 0800 but a normal service is expected to resume on all lines by mid-morning.
 DTEND:20250913T002900Z
 DTSTART:20250912T033000Z
 SUMMARY:Northern: Reduced Service
-UID:1a7a5a02-df5f-414e-91f3-8aef29142b24@1a7a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-11T03:30:00&endDate=2025-09-12T07:00:00">Disruption map.</a>\n\nTUBE STRIKES: Thursday 11 September\, disruption will be expected across the Tube network with little or no service expected to run\, and no trains before 0800. You are advised to complete your journey by 1800 each day.
-DTEND:20250912T070000Z
-DTSTART:20250911T033000Z
-SUMMARY:Northern: Reduced Service
-UID:88d44f03-d2f6-4a9a-a9a8-d5f51f794d36@88d4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-10T06:53:27&endDate=2025-09-10T13:22:37">Disruption map.</a>\n\nNorthern Line: Service is operating between High Barnet and East Finchley/Mill Hill East and between Golder Green and Edgware only. No service on the rest of the line due to strike action. Please note that some stations are closed. Please check before you travel. 
-DTEND:20250910T132237Z
-DTSTART:20250910T065327Z
-SUMMARY:Northern: Part Suspended
-UID:376c1268-256a-40bb-bb3c-36b5df0680dd@376c.org
+UID:b05027f2-3f15-41e6-932c-2782e8224f36@b050.org
 END:VEVENT
 END:VCALENDAR

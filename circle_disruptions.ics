@@ -3,24 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Circle disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-10T03:14:37&endDate=2025-09-10T13:22:37">Disruption map.</a>\n\nCircle Line: No service on the entire line due to strike action. 
-DTEND:20250910T132237Z
-DTSTART:20250910T031437Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-11T03:15:29&endDate=2025-09-11T11:47:38">Disruption map.</a>\n\nCircle Line: No service due to strike action. 
+DTEND:20250911T114738Z
+DTSTART:20250911T031529Z
 SUMMARY:Circle: Suspended
-UID:5638afa4-20f1-43a7-98b3-5588a5638b56@5638.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-11T03:30:00&endDate=2025-09-12T07:00:00">Disruption map.</a>\n\nTUBE STRIKES: Thursday 11 September\, disruption will be expected across the Tube network with little or no service expected to run\, and no trains before 0800. You are advised to complete your journey by 1800 each day.
-DTEND:20250912T070000Z
-DTSTART:20250911T033000Z
-SUMMARY:Circle: Reduced Service
-UID:414b959a-8383-4d60-bfb9-1e46cdbebe7a@414b.org
+UID:6222794c-1a09-4891-9576-121e99874eb0@6222.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-12T03:30:00&endDate=2025-09-13T00:29:00">Disruption map.</a>\n\nTUBE STRIKE: Friday 12 September\, no service is expected to run before 0800 but a normal service is expected to resume on all lines by mid-morning.
 DTEND:20250913T002900Z
 DTSTART:20250912T033000Z
 SUMMARY:Circle: Reduced Service
-UID:d674a58e-7e26-4c97-afc7-a961c1bd379d@d674.org
+UID:151fd10d-c7fb-471b-a504-dc7911970a8d@151f.org
 END:VEVENT
 END:VCALENDAR
