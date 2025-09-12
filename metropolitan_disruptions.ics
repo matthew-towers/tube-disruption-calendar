@@ -3,24 +3,10 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-12T03:30:00&endDate=2025-09-13T00:29:00">Disruption map.</a>\n\nTUBE STRIKE: Friday 12 September\, no service is expected to run before 0800 but a normal service is expected to resume on all lines by mid-morning.
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-12T07:47:44&endDate=2025-09-13T00:29:00">Disruption map.</a>\n\nMetropolitan Line: Severe delays following strike action.  
 DTEND:20250913T002900Z
-DTSTART:20250912T033000Z
-SUMMARY:Metropolitan: Reduced Service
-UID:ad2d45ba-e2a4-4f06-af07-db0e061e7d4d@ad2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-11T08:20:15&endDate=2025-09-11T11:47:38">Disruption map.</a>\n\nMetropolitan Line: Service is operating with minor delays between Harrow-On-The-Hill and Baker Street only. No service on the rest of the line due to strike action. Please note that some stations are closed. Please check before you travel. 
-DTEND:20250911T114738Z
-DTSTART:20250911T082015Z
-SUMMARY:Metropolitan: Part Suspended
-UID:e3c98746-9885-4025-af42-d91e7fce3444@e3c9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-11T08:20:15&endDate=2025-09-12T00:29:00">Disruption map.</a>\n\nMetropolitan Line: Service is operating with minor delays between Harrow-On-The-Hill and Baker Street only. No service on the rest of the line due to strike action. Please note that some stations are closed. Please check before you travel. 
-DTEND:20250912T002900Z
-DTSTART:20250911T082015Z
-SUMMARY:Metropolitan: Minor Delays
-UID:f43a7380-de01-4e73-bbfc-ac6fb7649c74@f43a.org
+DTSTART:20250912T074744Z
+SUMMARY:Metropolitan: Severe Delays
+UID:88a234a7-ced5-40aa-a659-a0890e273e68@88a2.org
 END:VEVENT
 END:VCALENDAR

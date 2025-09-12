@@ -3,17 +3,10 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Circle disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-11T03:15:29&endDate=2025-09-11T11:47:38">Disruption map.</a>\n\nCircle Line: No service due to strike action. 
-DTEND:20250911T114738Z
-DTSTART:20250911T031529Z
-SUMMARY:Circle: Suspended
-UID:6222794c-1a09-4891-9576-121e99874eb0@6222.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-12T03:30:00&endDate=2025-09-13T00:29:00">Disruption map.</a>\n\nTUBE STRIKE: Friday 12 September\, no service is expected to run before 0800 but a normal service is expected to resume on all lines by mid-morning.
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-12T07:26:20&endDate=2025-09-13T00:29:00">Disruption map.</a>\n\nCircle Line: Severe delays following strike action.  
 DTEND:20250913T002900Z
-DTSTART:20250912T033000Z
-SUMMARY:Circle: Reduced Service
-UID:151fd10d-c7fb-471b-a504-dc7911970a8d@151f.org
+DTSTART:20250912T072620Z
+SUMMARY:Circle: Severe Delays
+UID:c90d5c78-00fa-46b9-928f-98138977e089@c90d.org
 END:VEVENT
 END:VCALENDAR

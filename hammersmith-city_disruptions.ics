@@ -3,17 +3,10 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Hammersmith & City disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-12T03:30:00&endDate=2025-09-13T00:29:00">Disruption map.</a>\n\nTUBE STRIKE: Friday 12 September\, no service is expected to run before 0800 but a normal service is expected to resume on all lines by mid-morning.
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-12T07:26:29&endDate=2025-09-13T00:29:00">Disruption map.</a>\n\nHammersmith and City Line: Severe delays following strike action.  
 DTEND:20250913T002900Z
-DTSTART:20250912T033000Z
-SUMMARY:Hammersmith & City: Reduced Service
-UID:d508b209-83fb-432c-b7b9-c7bd7315e12f@d508.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-11T03:16:06&endDate=2025-09-11T11:47:38">Disruption map.</a>\n\nHammersmith and City Line: No service due to strike action. 
-DTEND:20250911T114738Z
-DTSTART:20250911T031606Z
-SUMMARY:Hammersmith & City: Suspended
-UID:0ced8b84-7378-4a8b-b92b-2fc1ef966e45@0ced.org
+DTSTART:20250912T072629Z
+SUMMARY:Hammersmith & City: Severe Delays
+UID:97c61527-9e1d-416b-a21d-78ac24c3afe4@97c6.org
 END:VEVENT
 END:VCALENDAR

@@ -3,17 +3,10 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Victoria disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-12T03:30:00&endDate=2025-09-13T00:29:00">Disruption map.</a>\n\nTUBE STRIKE: Friday 12 September\, no service is expected to run before 0800 but a normal service is expected to resume on all lines by mid-morning.
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-12T07:26:53&endDate=2025-09-13T00:29:00">Disruption map.</a>\n\nVictoria Line: Minor delays following strike action.  
 DTEND:20250913T002900Z
-DTSTART:20250912T033000Z
-SUMMARY:Victoria: Reduced Service
-UID:b35ee710-85d6-4088-a7cb-4d79921e54ea@b35e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-11T03:18:22&endDate=2025-09-11T11:47:38">Disruption map.</a>\n\nVictoria Line: No service due to strike action. 
-DTEND:20250911T114738Z
-DTSTART:20250911T031822Z
-SUMMARY:Victoria: Suspended
-UID:6f2b65d2-ccb5-422f-a157-cb6ae6043f74@6f2b.org
+DTSTART:20250912T072653Z
+SUMMARY:Victoria: Minor Delays
+UID:c8cc747b-8ca3-422b-b5b6-910cbef01d5d@c8cc.org
 END:VEVENT
 END:VCALENDAR

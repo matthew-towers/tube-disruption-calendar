@@ -2,18 +2,4 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Northern disruption
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-11T03:16:40&endDate=2025-09-11T11:47:38">Disruption map.</a>\n\nNorthern Line: No service due to strike action. 
-DTEND:20250911T114738Z
-DTSTART:20250911T031640Z
-SUMMARY:Northern: Suspended
-UID:66e9736d-301b-41fe-9f5b-4953d91cabd7@66e9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-12T03:30:00&endDate=2025-09-13T00:29:00">Disruption map.</a>\n\nTUBE STRIKE: Friday 12 September\, no service is expected to run before 0800 but a normal service is expected to resume on all lines by mid-morning.
-DTEND:20250913T002900Z
-DTSTART:20250912T033000Z
-SUMMARY:Northern: Reduced Service
-UID:b05027f2-3f15-41e6-932c-2782e8224f36@b050.org
-END:VEVENT
 END:VCALENDAR
