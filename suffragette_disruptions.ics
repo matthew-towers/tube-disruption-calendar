@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Suffragette line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-14T03:30:00&endDate=2025-09-15T00:29:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 14 September\, no service between Barking and Barking Riverside. Use local London Buses services EL1 EL2 and EL3. At Barking\, trains to/from Gospel Oak use Platform 1.
-DTEND:20250915T002900Z
-DTSTART:20250914T033000Z
-SUMMARY:Suffragette line: Part Closure
-UID:1403c4bf-6910-407b-a592-298f44ddada9@1403.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-19T22:35:00&endDate=2025-09-19T22:55:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Friday 19 September\, the 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway.
 DTEND:20250919T225500Z
 DTSTART:20250919T223500Z
 SUMMARY:Suffragette line: Reduced Service
-UID:7aa9e017-6a46-47ce-83ed-2d62f1851d74@7aa9.org
+UID:97c71997-f780-467f-b3ac-dca0da532fb2@97c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-14T03:30:00&endDate=2025-09-15T00:29:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 14 September\, no service between Barking and Barking Riverside. Use local London Buses services EL1 EL2 and EL3. At Barking\, trains to/from Gospel Oak use Platform 1.
+DTEND:20250915T002900Z
+DTSTART:20250914T033000Z
+SUMMARY:Suffragette line: Part Closure
+UID:e0f710ef-8221-4753-98e9-6a93f85aa18f@e0f7.org
 END:VEVENT
 END:VCALENDAR
