@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-17T08:27:43&endDate=2025-09-18T00:29:00">Disruption map.</a>\n\nDistrict Line: Minor delays between Parsons Green and Wimbledon due to an earlier signal failure at East Putney. GOOD SERVICE on the rest of the line.  
+DTEND:20250918T002900Z
+DTSTART:20250917T082743Z
+SUMMARY:District: Minor Delays
+UID:d16a0042-075b-49de-bcf6-93d89746f890@d16a.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-27T03:30:00&endDate=2025-09-29T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 27 and Sunday 28 September\, no service between Turnham Green and Ealing Broadway. There will also be no PICCADILLY LINE service between Kings Cross St Pancras and Osterley / Uxbridge. Replacement buses operate.
 DTEND:20250929T002900Z
 DTSTART:20250927T033000Z
 SUMMARY:District: Part Closure
-UID:7ad5d765-f90a-44c6-98bf-dc16ca2643dc@7ad5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-16T08:16:32&endDate=2025-09-17T00:29:00">Disruption map.</a>\n\nDistrict Line: Minor delays between Edgware Road and Wimbledon due to an earlier signalling problem at Wimbledon Park. GOOD SERVICE on the rest of the line. 
-DTEND:20250917T002900Z
-DTSTART:20250916T081632Z
-SUMMARY:District: Minor Delays
-UID:0afe7bf7-07ec-4d92-af51-8363d626a493@0afe.org
+UID:d401e387-2208-48d8-a12b-17ed20929c46@d401.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-04T03:30:00&endDate=2025-10-06T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 4 and Sunday 5 October\, no service between Embankment / Edgware Road and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. In addition\, between 0150 and 0630 Saturday\, there will be no PICCADILLY LINE services between Hyde Park Corner and Acton Town. At other times\, PICCADILLY LINE trains call additionally at Turnham Green. Use MILDMAY LINE services between Gunnersbury\, Kew Gardens and Richmonmd when available. Replacement buses operate.
 DTEND:20251006T002900Z
 DTSTART:20251004T033000Z
 SUMMARY:District: Part Closure
-UID:f39df0fa-80a1-41b8-a2af-ecdbfda17f34@f39d.org
+UID:36da014e-65c2-401a-ab6f-73a7a4f27955@36da.org
 END:VEVENT
 END:VCALENDAR
