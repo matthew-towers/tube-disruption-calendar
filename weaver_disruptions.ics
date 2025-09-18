@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Weaver line disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-17T23:00:00&endDate=2025-09-18T00:29:00">Disruption map.</a>\n\nWEAVER LINE: Sunday 14\, Monday 15\, Wednesday 17 and Thursday 18 September\, after 2245 each evening\, no service between Hackney Downs and Chingford. Last through trains are at 2233 from Liverpool Street to Chingford (2248 Sunday) and at 2255 from Chingford to Liverpool Street. Replacement bus service L3 operates between Hackney Downs and Chingford via Clapton\, St James Street\, Walthamstow Central\, Wood Street and Highams Park. On Tuesday to Friday mornings\, the last three northbound buses start at Liverpool Street at 0014 0044 and 0114 and call additionally at Bethnal Green\, Cambridge Heath and London Fields.
+DTEND:20250918T002900Z
+DTSTART:20250917T230000Z
+SUMMARY:Weaver line: Part Closure
+UID:b7895340-efe5-4113-92b2-3b509c4f6eea@b789.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-18T21:45:00&endDate=2025-09-19T00:29:00">Disruption map.</a>\n\nWEAVER LINE: Sunday 14\, Monday 15\, Wednesday 17 and Thursday 18 September\, after 2245 each evening\, no service between Hackney Downs and Chingford. Last through trains are at 2233 from Liverpool Street to Chingford (2248 Sunday) and at 2255 from Chingford to Liverpool Street. Replacement bus service L3 operates between Hackney Downs and Chingford via Clapton\, St James Street\, Walthamstow Central\, Wood Street and Highams Park. On Tuesday to Friday mornings\, the last three northbound buses start at Liverpool Street at 0014 0044 and 0114 and call additionally at Bethnal Green\, Cambridge Heath and London Fields.
 DTEND:20250919T002900Z
 DTSTART:20250918T214500Z
 SUMMARY:Weaver line: Part Closure
-UID:43be96c4-5b5a-4086-842e-57bd1c87e983@43be.org
+UID:aefb2e6a-1a44-4e26-9312-8a8ac4c76523@aefb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-28T03:30:00&endDate=2025-09-28T09:15:00">Disruption map.</a>\n\nWEAVER LINE: Sunday 28 September\, until 1015\, no service between Liverpool Street and Cheshunt / Chingford / Enfield Town. Use local London Buses and London Underground services between Liverpool Street and Hackney Downs / Seven Sisters. Replacement buses operate. First through trains from Liverpool Street are at 0959 to Enfield Town\, 1003 to Chingford and 1014 to Cheshunt\, and at 0953 from Enfield Town\, 1002 from Cheshunt and 1014 from Chingford.
 DTEND:20250928T091500Z
 DTSTART:20250928T033000Z
 SUMMARY:Weaver line: Planned Closure
-UID:91ba8726-c7f1-486c-b5bf-812cb95f02dd@91ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-17T21:45:00&endDate=2025-09-18T00:29:00">Disruption map.</a>\n\nWEAVER LINE: Sunday 14\, Monday 15\, Wednesday 17 and Thursday 18 September\, after 2245 each evening\, no service between Hackney Downs and Chingford. Last through trains are at 2233 from Liverpool Street to Chingford (2248 Sunday) and at 2255 from Chingford to Liverpool Street. Replacement bus service L3 operates between Hackney Downs and Chingford via Clapton\, St James Street\, Walthamstow Central\, Wood Street and Highams Park. On Tuesday to Friday mornings\, the last three northbound buses start at Liverpool Street at 0014 0044 and 0114 and call additionally at Bethnal Green\, Cambridge Heath and London Fields.
-DTEND:20250918T002900Z
-DTSTART:20250917T214500Z
-SUMMARY:Weaver line: Part Closure
-UID:7a9497ce-a62d-4e51-803e-74f8402c8860@7a94.org
+UID:7751b5bc-c994-4253-98b1-936b1e5faacd@7751.org
 END:VEVENT
 END:VCALENDAR
