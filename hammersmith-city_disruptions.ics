@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Hammersmith & City disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-19T05:27:50&endDate=2025-09-20T00:29:00">Disruption map.</a>\n\nHammersmith and City Line: Minor delays due to a late finish of engineering work.  
+DTEND:20250920T002900Z
+DTSTART:20250919T052750Z
+SUMMARY:Hammersmith & City: Minor Delays
+UID:7da88282-f77d-47c2-8d47-08c064bbb3b0@7da8.org
+END:VEVENT
 END:VCALENDAR
