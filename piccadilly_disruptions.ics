@@ -3,52 +3,59 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-26T23:45:00&endDate=2025-09-27T04:00:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 27 September\, between 0045 and 0500\, no service between Kings Cross St Pancras and Heathrow. Replacement buses operate: Service PL1 between Green Park and Osterley via Hyde Park Corner\, Knightsbridge\, South Kensington\, Gloucester Road\, Earls Court\, Hammersmith (for Barons Court)\, Turnham Green\, Acton Town\, Ealing Common\, Ealing Broadway (for Central line)\, South Ealing\, Northfields and Boston Manor. Service PL7 between Hammersmith and Heathrow Terminal 5 via Osterley\, Hounslow East\, Hounslow Central (Bell Corner)\, Hounslow West\, Hatton Cross and Heathrow Central Bus Station (for Terminals 2 and 3)
+DTEND:20250927T040000Z
+DTSTART:20250926T234500Z
+SUMMARY:Piccadilly: Part Closure
+UID:bc88cfc2-fb57-45d6-92c8-36c1715bcfb5@bc88.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-21T08:08:10&endDate=2025-09-22T00:29:00">Disruption map.</a>\n\nPiccadilly Line: No service between Uxbridge and Acton Town due to planned engineering works. SEVERE DELAYS on the rest of the line while we fix a points failure at Northfields. Tickets are being accepted on London Buses and the Elizabeth line. 
+DTEND:20250922T002900Z
+DTSTART:20250921T080810Z
+SUMMARY:Piccadilly: Severe Delays
+UID:df596b34-e2c6-45e6-b99d-b429b4dcf62e@df59.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-11T00:45:00&endDate=2025-10-13T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: From 0145 Saturday 11 and all day Sunday 12 October\, no service between Hammersmith and Cockfosters (including Friday and Saturday Night Tube). Replacement buses operate.
 DTEND:20251013T002900Z
 DTSTART:20251011T004500Z
 SUMMARY:Piccadilly: Part Closure
-UID:9c90d2da-2628-44d2-ae64-e72fed422c56@9c90.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-11T03:30:00&endDate=2025-10-13T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 11 and Sunday 12 October\, no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services.
-DTEND:20251013T002900Z
-DTSTART:20251011T033000Z
-SUMMARY:Piccadilly: Part Closure
-UID:99083828-9db8-46db-9e95-078c58bfdd75@9908.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-04T03:30:00&endDate=2025-10-06T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 4 and Sunday 5 October\, no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services.
-DTEND:20251006T002900Z
-DTSTART:20251004T033000Z
-SUMMARY:Piccadilly: Part Closure
-UID:e148275a-ac71-4ea3-8631-38d08ccc2bba@e148.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-27T04:00:00&endDate=2025-09-29T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 27 September\, from 0500 and all day Sunday 28 September (including Saturday Night Tube)\, no service between Kings Cross St Pancras and Osterley / Uxbridge. There will also be no DISTRICT LINE service between Turnham Green and Ealing Broadway. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate.
-DTEND:20250929T002900Z
-DTSTART:20250927T040000Z
-SUMMARY:Piccadilly: Part Closure
-UID:f2cc8c02-b9f7-4915-9d7e-8a2493a8f37b@f2cc.org
+UID:5e17c1a6-e4c5-46ca-adbb-69750558b29f@5e17.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-20T03:30:00&endDate=2025-09-22T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 20 and Sunday 21 September\, no service between Acton Town and Uxbridge. There will also be no METROPOLITAN LINE service between Harrow-on-the-Hill and Uxbridge. Replacement buses operate.
 DTEND:20250922T002900Z
 DTSTART:20250920T033000Z
 SUMMARY:Piccadilly: Part Closure
-UID:2d883fd2-54c6-4807-9bb4-e9e915b5d188@2d88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-26T23:45:00&endDate=2025-09-27T04:00:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 27 September\, between 0045 and 0500\, no service between Kings Cross St Pancras and Heathrow. Replacement buses operate: Service PL1 between Green Park and Osterley via Hyde Park Corner\, Knightsbridge\, South Kensington\, Gloucester Road\, Earls Court\, Hammersmith (for Barons Court)\, Turnham Green\, Acton Town\, Ealing Common\, Ealing Broadway (for Central line)\, South Ealing\, Northfields and Boston Manor. Service PL7 between Hammersmith and Heathrow Terminal 5 via Osterley\, Hounslow East\, Hounslow Central (Bell Corner)\, Hounslow West\, Hatton Cross and Heathrow Central Bus Station (for Terminals 2 and 3)
-DTEND:20250927T040000Z
-DTSTART:20250926T234500Z
-SUMMARY:Piccadilly: Part Closure
-UID:ceaa0c0c-988f-4308-97ab-1e998c3053ec@ceaa.org
+UID:5b01a958-d980-415c-abdb-7a6a5f52091d@5b01.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-04T00:50:00&endDate=2025-10-04T05:30:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 4 October\, between 0150 and 0630\, no Night Tube service between Hyde Park Corner and Acton Town. Replacement bus service PL1 operates between Green Park and Acton Town via Hyde Park Corner\, Knightsbridge\, South Kensington\, Gloucester Road\, Earls Court\, Hammersmith (for Barons Court) and Turnham Green.
 DTEND:20251004T053000Z
 DTSTART:20251004T005000Z
 SUMMARY:Piccadilly: Part Closure
-UID:d3fe5595-0224-421e-a53d-c79037c0fad4@d3fe.org
+UID:d2b82d1e-7c76-4f12-b20b-85c898090f63@d2b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-04T03:30:00&endDate=2025-10-06T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 4 and Sunday 5 October\, no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services.
+DTEND:20251006T002900Z
+DTSTART:20251004T033000Z
+SUMMARY:Piccadilly: Part Closure
+UID:21b48746-c806-4290-805d-76b7b4476671@21b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-11T03:30:00&endDate=2025-10-13T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 11 and Sunday 12 October\, no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services.
+DTEND:20251013T002900Z
+DTSTART:20251011T033000Z
+SUMMARY:Piccadilly: Part Closure
+UID:498d335d-7535-410d-b1bb-2a46fe486ce9@498d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-27T04:00:00&endDate=2025-09-29T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 27 September\, from 0500 and all day Sunday 28 September (including Saturday Night Tube)\, no service between Kings Cross St Pancras and Osterley / Uxbridge. There will also be no DISTRICT LINE service between Turnham Green and Ealing Broadway. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate.
+DTEND:20250929T002900Z
+DTSTART:20250927T040000Z
+SUMMARY:Piccadilly: Part Closure
+UID:7abe9b19-88e6-4a19-804e-aa31674743c4@7abe.org
 END:VEVENT
 END:VCALENDAR

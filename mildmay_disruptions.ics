@@ -3,59 +3,45 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Mildmay line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-20T20:00:00&endDate=2025-09-20T22:30:00">Disruption map.</a>\n\nMILDMAY LINE: Saturday 20 September\, the 2104 and 2234 trains from Clapham Junction to Stratford and the 2319 train from Clapham Junction to Willesden Junction will not run
-DTEND:20250920T223000Z
-DTSTART:20250920T200000Z
-SUMMARY:Mildmay line: Reduced Service
-UID:18a72d85-167e-417f-8355-ce0990b3b4d0@18a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-28T02:30:00&endDate=2025-09-28T10:30:00">Disruption map.</a>\n\nMILDMAY LINE: Sunday 28 September until 11:30 no service between Willesden Junction and Clapham Junction. No replacement bus services will operate\, customers are advised to use local bus services.
-DTEND:20250928T103000Z
-DTSTART:20250928T023000Z
-SUMMARY:Mildmay line: Part Closure
-UID:6f0418e9-7749-430a-8ba2-9724e9bbec19@6f04.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-25T21:30:00&endDate=2025-09-25T22:30:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 22\, Tuesday 23\, Wednesday 24 and Thursday 25 September\, the 2229 train from Stratford to Richmond will terminate at Camden Road at 2249
 DTEND:20250925T223000Z
 DTSTART:20250925T213000Z
 SUMMARY:Mildmay line: Reduced Service
-UID:6657f50a-1984-480f-a765-e25352d885e3@6657.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-21T21:15:00&endDate=2025-09-22T00:29:00">Disruption map.</a>\n\nMILDMAY LINE: Sunday 21 September\, from 2215\, no service between Camden Road and Stratford. No WINDRUSH LINE services between Highbury & Islington\, Canonbury and Dalston Junction. Replacement bus service S operates between Camden Road and Stratford.
-DTEND:20250922T002900Z
-DTSTART:20250921T211500Z
-SUMMARY:Mildmay line: Part Closure
-UID:31dd8748-5349-4c05-bad8-49324b7aa9e3@31dd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-21T03:30:00&endDate=2025-09-21T09:30:00">Disruption map.</a>\n\nMILDMAY LINE: Sunday 21 September\, the 0848 Willesden Junction to Clapham Junction train operates from Shepherds Bush to Clapham Junction only\, the 0915 (first) train from Gospel Oak to Clapham Junction operates from Shepherds Bush to Clapham Junction only. The 0951 Camden Road to Willesden Junction train will not run. The 0958 Camden Road to Clapham Junction train operates from Willesden Junction to Clapham Junction only.
-DTEND:20250921T093000Z
-DTSTART:20250921T033000Z
-SUMMARY:Mildmay line: Reduced Service
-UID:6ab9a39b-8043-4318-8fe4-4b0cd6448fe1@6ab9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-24T21:30:00&endDate=2025-09-24T22:30:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 22\, Tuesday 23\, Wednesday 24 and Thursday 25 September\, the 2229 train from Stratford to Richmond will terminate at Camden Road at 2249
-DTEND:20250924T223000Z
-DTSTART:20250924T213000Z
-SUMMARY:Mildmay line: Reduced Service
-UID:5bc545d7-817d-46f1-8062-d0b4e3c85276@5bc5.org
+UID:d4f39f7c-1be2-4819-8bbb-ed5db0a33981@d4f3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-23T21:30:00&endDate=2025-09-23T22:30:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 22\, Tuesday 23\, Wednesday 24 and Thursday 25 September\, the 2229 train from Stratford to Richmond will terminate at Camden Road at 2249
 DTEND:20250923T223000Z
 DTSTART:20250923T213000Z
 SUMMARY:Mildmay line: Reduced Service
-UID:21becefd-9026-4ca2-91b7-0ab3721c27ee@21be.org
+UID:0baa72b8-86ce-49c5-b40e-2fd781305d6d@0baa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-24T21:30:00&endDate=2025-09-24T22:30:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 22\, Tuesday 23\, Wednesday 24 and Thursday 25 September\, the 2229 train from Stratford to Richmond will terminate at Camden Road at 2249
+DTEND:20250924T223000Z
+DTSTART:20250924T213000Z
+SUMMARY:Mildmay line: Reduced Service
+UID:0581ddba-a7bf-4ce3-b9ee-52aaeff3c9d2@0581.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-21T21:15:00&endDate=2025-09-22T00:29:00">Disruption map.</a>\n\nMILDMAY LINE: Sunday 21 September\, from 2215\, no service between Camden Road and Stratford. No WINDRUSH LINE services between Highbury & Islington\, Canonbury and Dalston Junction. Replacement bus service S operates between Camden Road and Stratford.
+DTEND:20250922T002900Z
+DTSTART:20250921T211500Z
+SUMMARY:Mildmay line: Part Closure
+UID:ec2fbce0-6528-47e5-811d-5b9eb4978390@ec2f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-28T02:30:00&endDate=2025-09-28T10:30:00">Disruption map.</a>\n\nMILDMAY LINE: Sunday 28 September until 11:30 no service between Willesden Junction and Clapham Junction. No replacement bus services will operate\, customers are advised to use local bus services.
+DTEND:20250928T103000Z
+DTSTART:20250928T023000Z
+SUMMARY:Mildmay line: Part Closure
+UID:72774f34-1191-413e-9afd-512e415634da@7277.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-22T21:30:00&endDate=2025-09-22T22:30:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 22\, Tuesday 23\, Wednesday 24 and Thursday 25 September\, the 2229 train from Stratford to Richmond will terminate at Camden Road at 2249
 DTEND:20250922T223000Z
 DTSTART:20250922T213000Z
 SUMMARY:Mildmay line: Reduced Service
-UID:fc612708-079e-41a0-a715-ca9c2fb32842@fc61.org
+UID:e8b7401d-c1c4-47b9-8e81-d7acd692f754@e8b7.org
 END:VEVENT
 END:VCALENDAR
