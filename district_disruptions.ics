@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-22T07:25:46&endDate=2025-09-23T00:29:00">Disruption map.</a>\n\nDistrict Line: Severe delays between Parsons Green and Wimbledon while Network Rail fix a signal failure. Tickets are valid on London Buses & South Western Railway. GOOD SERVICE on the rest of the line.  
+DTEND:20250923T002900Z
+DTSTART:20250922T072546Z
+SUMMARY:District: Severe Delays
+UID:24611ea9-c906-42cb-ae4c-3a621654fc04@2461.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-27T03:30:00&endDate=2025-09-29T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 27 and Sunday 28 September\, no service between Turnham Green and Ealing Broadway. There will also be no PICCADILLY LINE service between Kings Cross St Pancras and Osterley / Uxbridge. Replacement buses operate.
 DTEND:20250929T002900Z
 DTSTART:20250927T033000Z
 SUMMARY:District: Part Closure
-UID:fd76d4c3-8850-42cb-a9ba-f0fcd675727f@fd76.org
+UID:91c3419e-7725-4ffd-9559-9bb515d12c15@91c3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-04T03:30:00&endDate=2025-10-06T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 4 and Sunday 5 October\, no service between Embankment / Edgware Road and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. In addition\, between 0150 and 0630 Saturday\, there will be no PICCADILLY LINE services between Hyde Park Corner and Acton Town. At other times\, PICCADILLY LINE trains call additionally at Turnham Green. Use MILDMAY LINE services between Gunnersbury\, Kew Gardens and Richmonmd when available. Replacement buses operate.
 DTEND:20251006T002900Z
 DTSTART:20251004T033000Z
 SUMMARY:District: Part Closure
-UID:bc9a99cd-3daf-4f42-bc4b-90bbdd3863ae@bc9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-21T07:34:20&endDate=2025-09-22T00:29:00">Disruption map.</a>\n\nDistrict Line: Minor delays between Edgware Road and Wimbledon while Network Rail fix a signal failure at East Putney. GOOD SERVICE on the rest of the line. 
-DTEND:20250922T002900Z
-DTSTART:20250921T073420Z
-SUMMARY:District: Minor Delays
-UID:53028c6b-b4cd-4bc2-9787-cfdc53b00de3@5302.org
+UID:80b81d70-863a-4f38-82ee-f9e929c7e974@80b8.org
 END:VEVENT
 END:VCALENDAR
