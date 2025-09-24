@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Lioness line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-27T03:30:00&endDate=2025-09-29T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Saturday 27 and Sunday 28 September\, a reduced service operates\, with trains every 30 minutes between Euston and Willesden Junction.
-DTEND:20250929T002900Z
-DTSTART:20250927T033000Z
-SUMMARY:Lioness line: Reduced Service
-UID:bbca1ab6-f700-4f75-9d3b-9099a7e65d30@bbca.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-27T03:30:00&endDate=2025-09-29T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Saturday 27 and Sunday 28 September\, no service between Willesden Junction and Watford Junction. There will also be no BAKERLOO LINE service between Stonebridge Park and Harrow & Wealdstone on Saturday\, but through services operate on Sunday. SOUTHERN services will not call at Wembley Central\, Harrow & Wealdstone and Watford Junction. Use LONDON NORTHWESTERN RAILWAY services between Euston\, Harrow & Wealdstone and Watford Junction. Special bus services also operate.
 DTEND:20250929T002900Z
 DTSTART:20250927T033000Z
 SUMMARY:Lioness line: Part Closure
-UID:715d8ac0-aeae-4a47-a822-f345a4b00f3e@715d.org
+UID:46c5729b-7272-47d5-9803-331ddccf0392@46c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-27T03:30:00&endDate=2025-09-29T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Saturday 27 and Sunday 28 September\, a reduced service operates\, with trains every 30 minutes between Euston and Willesden Junction.
+DTEND:20250929T002900Z
+DTSTART:20250927T033000Z
+SUMMARY:Lioness line: Reduced Service
+UID:e373250c-2d04-42b9-9d1a-86ec966380a5@e373.org
 END:VEVENT
 END:VCALENDAR
