@@ -3,94 +3,80 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Lioness line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-26T04:30:00&endDate=2025-10-26T07:45:00">Disruption map.</a>\n\nLIONESS LINE: Sunday 26 October\, until 0745\, no service between Euston and Watford Junction. First through trains are at 0729 from Willesden Junction to Watford Junction\, and at 0745 from Watford Junction to Willesden Junction. BAKERLOO LINE services will not operate between Queens Park and Harrow & Wealdstone. Use local London Buses and London Underground services between Euston and Queens Park\, and LONDON NORTH WESTERN RAILWAY services for Harrow & Wealdstone and Watford Junction. Special bus service 718 operates between Queens Park and Harrow & Wealdstone via Kensal Green\, Willesden Junction (Harrow Road)\, Harlesden Town Centre\, Stonebridge Park\, Wembley Central (Park Lane and Station)\, North Wembley\, Preston Road (for Metropolitan line and South Kenton) and Kenton. For Headstone Lane\, Hatch End\, Carpenders Park\, Bushey and Watford High Street\, please use local bus services\, where available.
-DTEND:20251026T074500Z
-DTSTART:20251026T043000Z
-SUMMARY:Lioness line: Planned Closure
-UID:65bfa600-cd0f-4cfa-8971-d91d34ea0b11@65bf.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-22T04:25:00&endDate=2025-10-22T05:05:00">Disruption map.</a>\n\nLIONESS LINE: Tuesday 21\, Wednesday 22\, Thursday 23 and Friday 24 October\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
 DTEND:20251022T050500Z
 DTSTART:20251022T042500Z
 SUMMARY:Lioness line: Reduced Service
-UID:45549658-442e-464b-856a-fae146bacd6e@4554.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-21T04:25:00&endDate=2025-10-21T05:05:00">Disruption map.</a>\n\nLIONESS LINE: Tuesday 21\, Wednesday 22\, Thursday 23 and Friday 24 October\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
-DTEND:20251021T050500Z
-DTSTART:20251021T042500Z
-SUMMARY:Lioness line: Reduced Service
-UID:38c4644b-a491-421b-9fd2-e3d12e79a50b@38c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-27T03:30:00&endDate=2025-09-29T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Saturday 27 and Sunday 28 September\, no service between Willesden Junction and Watford Junction. There will also be no BAKERLOO LINE service between Stonebridge Park and Harrow & Wealdstone on Saturday\, but through services operate on Sunday. SOUTHERN services will not call at Wembley Central\, Harrow & Wealdstone and Watford Junction. Use LONDON NORTHWESTERN RAILWAY services between Euston\, Harrow & Wealdstone\, Bushey and Watford Junction. Special bus services also operate.
-DTEND:20250929T002900Z
-DTSTART:20250927T033000Z
-SUMMARY:Lioness line: Part Closure
-UID:57a9871e-54fc-4058-a1a2-b9fae89ed5e6@57a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-23T04:25:00&endDate=2025-10-23T05:05:00">Disruption map.</a>\n\nLIONESS LINE: Tuesday 21\, Wednesday 22\, Thursday 23 and Friday 24 October\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
-DTEND:20251023T050500Z
-DTSTART:20251023T042500Z
-SUMMARY:Lioness line: Reduced Service
-UID:1fdcbd7a-6043-495b-999b-a40e41a93f75@1fdc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-22T22:45:00&endDate=2025-10-23T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Monday 20\, Tuesday 21\, Wednesday 22 and Thursday 23 October\, the 2345 train from Euston to Watford Junction will not run
-DTEND:20251023T002900Z
-DTSTART:20251022T224500Z
-SUMMARY:Lioness line: Reduced Service
-UID:45bed860-f5cb-431c-9d5f-d186901f15df@45be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-20T22:45:00&endDate=2025-10-21T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Monday 20\, Tuesday 21\, Wednesday 22 and Thursday 23 October\, the 2345 train from Euston to Watford Junction will not run
-DTEND:20251021T002900Z
-DTSTART:20251020T224500Z
-SUMMARY:Lioness line: Reduced Service
-UID:9288fd0c-305e-4ef2-ba3b-07116762e9b0@9288.org
+UID:3ea0a537-991a-4e6c-aa2e-48bf14747ee4@3ea0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-26T07:45:00&endDate=2025-10-27T01:29:00">Disruption map.</a>\n\nLIONESS LINE: Sunday 26 October\, from 0745\, no service between Euston and Willesden Junction. BAKERLOO LINE services will not operate between Queens Park and Harrow & Wealdstone. Use local London Buses and London Underground services between Euston and Queens Park. Special bus service 718 operates between Queens Park and Willesden Junction Station via Kensal Green and Willesden Junction (Harrow Road).
 DTEND:20251027T012900Z
 DTSTART:20251026T074500Z
 SUMMARY:Lioness line: Part Closure
-UID:c0c55244-edca-4e20-9577-44b1ff1cfcb4@c0c5.org
+UID:a52b35c3-d3f2-472f-bc54-c9c3b525671f@a52b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-23T22:45:00&endDate=2025-10-24T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Monday 20\, Tuesday 21\, Wednesday 22 and Thursday 23 October\, the 2345 train from Euston to Watford Junction will not run
-DTEND:20251024T002900Z
-DTSTART:20251023T224500Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-22T22:45:00&endDate=2025-10-23T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Monday 20\, Tuesday 21\, Wednesday 22 and Thursday 23 October\, the 2345 train from Euston to Watford Junction will not run
+DTEND:20251023T002900Z
+DTSTART:20251022T224500Z
 SUMMARY:Lioness line: Reduced Service
-UID:e4643679-15c6-4b28-934c-82ab13e83528@e464.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-25T03:30:00&endDate=2025-10-26T01:29:00">Disruption map.</a>\n\nLIONESS LINE: Saturday 25 October\, no service between Euston and Willesden Junction. Trains will operate to/from Stratford calling at all MILDMAY LINE stations via Hampstead Heath. BAKERLOO LINE services will not operate between Queens Park and Harrow & Wealdstone. Use local London Buses and London Underground services between Euston and Queens Park. Special bus service 718 operates between Queens Park and Willesden Junction Station via Kensal Green and Willesden Junction (Harrow Road).
-DTEND:20251026T012900Z
-DTSTART:20251025T033000Z
-SUMMARY:Lioness line: Part Closure
-UID:19ffa115-4b62-4e7a-81f1-b1431903ec07@19ff.org
+UID:fdf6b449-9d6f-4ef5-96c4-5d9a71be36f2@fdf6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-21T22:45:00&endDate=2025-10-22T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Monday 20\, Tuesday 21\, Wednesday 22 and Thursday 23 October\, the 2345 train from Euston to Watford Junction will not run
 DTEND:20251022T002900Z
 DTSTART:20251021T224500Z
 SUMMARY:Lioness line: Reduced Service
-UID:b029f467-3ba3-48f9-8df5-80af18af275d@b029.org
+UID:99171078-7885-49ff-89ed-947a2bf2f503@9917.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-26T04:30:00&endDate=2025-10-26T07:45:00">Disruption map.</a>\n\nLIONESS LINE: Sunday 26 October\, until 0745\, no service between Euston and Watford Junction. First through trains are at 0729 from Willesden Junction to Watford Junction\, and at 0745 from Watford Junction to Willesden Junction. BAKERLOO LINE services will not operate between Queens Park and Harrow & Wealdstone. Use local London Buses and London Underground services between Euston and Queens Park\, and LONDON NORTH WESTERN RAILWAY services for Harrow & Wealdstone and Watford Junction. Special bus service 718 operates between Queens Park and Harrow & Wealdstone via Kensal Green\, Willesden Junction (Harrow Road)\, Harlesden Town Centre\, Stonebridge Park\, Wembley Central (Park Lane and Station)\, North Wembley\, Preston Road (for Metropolitan line and South Kenton) and Kenton. For Headstone Lane\, Hatch End\, Carpenders Park\, Bushey and Watford High Street\, please use local bus services\, where available.
+DTEND:20251026T074500Z
+DTSTART:20251026T043000Z
+SUMMARY:Lioness line: Planned Closure
+UID:9e16464c-2e4a-45c6-adfe-78e74e892892@9e16.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-24T04:25:00&endDate=2025-10-24T05:05:00">Disruption map.</a>\n\nLIONESS LINE: Tuesday 21\, Wednesday 22\, Thursday 23 and Friday 24 October\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
 DTEND:20251024T050500Z
 DTSTART:20251024T042500Z
 SUMMARY:Lioness line: Reduced Service
-UID:eb5fdbc3-f21e-4bfa-8f40-936a48472701@eb5f.org
+UID:dc12bd1b-bf63-414e-87da-95deb19875f0@dc12.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-27T03:30:00&endDate=2025-09-29T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Saturday 27 and Sunday 28 September\, a reduced service operates\, with trains every 30 minutes between Euston and Willesden Junction.
-DTEND:20250929T002900Z
-DTSTART:20250927T033000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-23T22:45:00&endDate=2025-10-24T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Monday 20\, Tuesday 21\, Wednesday 22 and Thursday 23 October\, the 2345 train from Euston to Watford Junction will not run
+DTEND:20251024T002900Z
+DTSTART:20251023T224500Z
 SUMMARY:Lioness line: Reduced Service
-UID:ed63958f-ee19-4c0e-97d5-5ea9705f608d@ed63.org
+UID:84ed244b-7a43-47e8-b7a9-5ab5fa3ee1c6@84ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-20T22:45:00&endDate=2025-10-21T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Monday 20\, Tuesday 21\, Wednesday 22 and Thursday 23 October\, the 2345 train from Euston to Watford Junction will not run
+DTEND:20251021T002900Z
+DTSTART:20251020T224500Z
+SUMMARY:Lioness line: Reduced Service
+UID:9d2cd40c-904a-4e9c-96aa-48578f6b2a37@9d2c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-21T04:25:00&endDate=2025-10-21T05:05:00">Disruption map.</a>\n\nLIONESS LINE: Tuesday 21\, Wednesday 22\, Thursday 23 and Friday 24 October\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
+DTEND:20251021T050500Z
+DTSTART:20251021T042500Z
+SUMMARY:Lioness line: Reduced Service
+UID:5692ff8a-e7b3-4e4c-9471-757f8761432a@5692.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-25T03:30:00&endDate=2025-10-26T01:29:00">Disruption map.</a>\n\nLIONESS LINE: Saturday 25 October\, no service between Euston and Willesden Junction. Trains will operate to/from Stratford calling at all MILDMAY LINE stations via Hampstead Heath. BAKERLOO LINE services will not operate between Queens Park and Harrow & Wealdstone. Use local London Buses and London Underground services between Euston and Queens Park. Special bus service 718 operates between Queens Park and Willesden Junction Station via Kensal Green and Willesden Junction (Harrow Road).
+DTEND:20251026T012900Z
+DTSTART:20251025T033000Z
+SUMMARY:Lioness line: Part Closure
+UID:48febcad-29d1-4107-92df-02504035ec64@48fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-23T04:25:00&endDate=2025-10-23T05:05:00">Disruption map.</a>\n\nLIONESS LINE: Tuesday 21\, Wednesday 22\, Thursday 23 and Friday 24 October\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
+DTEND:20251023T050500Z
+DTSTART:20251023T042500Z
+SUMMARY:Lioness line: Reduced Service
+UID:912f7de8-2a19-4cde-b0fa-c4db54b4af5a@912f.org
 END:VEVENT
 END:VCALENDAR

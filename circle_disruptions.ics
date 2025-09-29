@@ -3,17 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Circle disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-04T03:30:00&endDate=2025-10-06T00:29:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 4 and Sunday 5 October\, no service between Edgware Road and Tower Hill (via Victoria)
-DTEND:20251006T002900Z
-DTSTART:20251004T033000Z
-SUMMARY:Circle: Part Closure
-UID:ff1f9eb7-4991-4520-a255-8649c44eb9af@ff1f.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-29T17:48:26&endDate=2025-09-29T21:24:34">Disruption map.</a>\n\nCircle Line: No service while emergency services deal with a casualty on the track.  
+DTEND:20250929T212434Z
+DTSTART:20250929T174826Z
+SUMMARY:Circle: Suspended
+UID:71636617-ad1f-47b5-8d61-013b66826797@7163.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-25T03:30:00&endDate=2025-10-27T01:29:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 25 and Sunday 26 October\, no service between Edgware Road and Tower Hill (via Victoria)
 DTEND:20251027T012900Z
 DTSTART:20251025T033000Z
 SUMMARY:Circle: Part Closure
-UID:c4dc8416-cd19-49d9-829b-7348d91a3643@c4dc.org
+UID:afa4cfbe-5f35-42e6-95c7-463cb28ced1d@afa4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-04T03:30:00&endDate=2025-10-06T00:29:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 4 and Sunday 5 October\, no service between Edgware Road and Tower Hill (via Victoria)
+DTEND:20251006T002900Z
+DTSTART:20251004T033000Z
+SUMMARY:Circle: Part Closure
+UID:6ad8ebb5-9e19-426f-8b5f-2a584ad34a5f@6ad8.org
 END:VEVENT
 END:VCALENDAR

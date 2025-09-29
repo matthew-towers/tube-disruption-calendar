@@ -3,87 +3,80 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Elizabeth line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-12T03:30:00&endDate=2025-10-13T00:29:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 12 October\, a reduced service will operate between Paddington and Maidenhead / Heathrow Terminal 4. Acton Main Line\, West Ealing and Hanwell stations are closed. Two trains per hour serve Heathrow Terminal 4\, West Drayton\, Langley\, Slough\, Burnham and Maidenhead. Four trains per hour serve Heathrow Terminals 2 and 3. Six trains per hour serve Ealing Broadway\, Southall and Hayes & Harlington.
-DTEND:20251013T002900Z
-DTSTART:20251012T033000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-23T22:00:00&endDate=2025-10-23T22:59:00">Disruption map.</a>\n\nELIZABETH LINE: Monday 20\, Tuesday 21\, Wednesday 22 and Thursday 23 October\, the 2217 Abbey Wood to Reading train will terminate at Maidenhead. Customers travelling to Twyford and Reading should change at Maidenhead to the 2338 GWR service to Twyford and Reading. At Maidenhead\, connecting westbound GWR trains to Twyford and Reading use Platform 1. For step-free interchange from platform 3 to platform 1\, please use the lift to the main entrance\, and then continue at street level under the railway bridge and up Shoppenhangers Road to the car park. Please ask staff to open the gate to platform 1\, and allow extra time for your journey
+DTEND:20251023T225900Z
+DTSTART:20251023T220000Z
 SUMMARY:Elizabeth line: Reduced Service
-UID:10072df7-e6f8-4340-9b71-25c1c2f0d329@1007.org
+UID:24ee4f5e-f720-4e60-97b3-6c956f7a3b82@24ee.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-06T21:00:00&endDate=2025-10-07T00:29:00">Disruption map.</a>\n\nELIZABETH LINE: Monday 6\, Tuesday 7 and Wednesday 8 October\, after 2200 each evening\, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains per hour serve Heathrow Terminal 4\, West Drayton\, Langley\, Slough\, Burnham and Maidenhead. Four trains per hour serve Heathrow Terminals 2 & 3. Six trains an hour serve Ealing Broadway\, Southall and Hayes & Harlington. There will be no trains at Acton Main Line\, West Ealing and Hanwell after approximately 2300. Between Ealing Broadway and Langley\, some trains may depart from a different platform than usual. Please check the departure screens or speak with a member of staff to ensure you wait on the correct platform.
 DTEND:20251007T002900Z
 DTSTART:20251006T210000Z
 SUMMARY:Elizabeth line: Reduced Service
-UID:07097f80-049a-46de-860c-ec89b33c9760@0709.org
+UID:55a13110-3ac5-4d0f-9b03-414f9a1495ad@55a1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-26T04:30:00&endDate=2025-10-26T07:40:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 26 October\, until 0740\, no service between Paddington and Ealing Broadway. Please use CENTRAL LINE connections. In addition\, the Saturday night GWR 2345 Didcot Parkway to Paddington train terminates at Ealing Broadway and the Sunday morning GWR 0638 London Paddington to Reading train starts at Ealing Broadway.
+DTEND:20251026T074000Z
+DTSTART:20251026T043000Z
+SUMMARY:Elizabeth line: Part Closure
+UID:f6252e27-bd4b-43af-b43f-36b087d493b5@f625.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-19T03:30:00&endDate=2025-10-20T00:29:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 19 October\, a reduced service will operate between Paddington and Maidenhead / Heathrow Terminal 4. Acton Main Line\, West Ealing and Hanwell stations are closed. Two trains per hour serve Heathrow Terminal 4\, West Drayton\, Langley\, Slough\, Burnham and Maidenhead. Four trains per hour serve Heathrow Terminals 2 and 3. Six trains per hour serve Ealing Broadway\, Southall and Hayes & Harlington.
 DTEND:20251020T002900Z
 DTSTART:20251019T033000Z
 SUMMARY:Elizabeth line: Reduced Service
-UID:510ee446-2b72-4a57-95ec-87ce892029c3@510e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-26T04:30:00&endDate=2025-10-26T07:40:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 26 October\, until 0740\, no service between Paddington and Ealing Broadway. Please use CENTRAL LINE connections.
-DTEND:20251026T074000Z
-DTSTART:20251026T043000Z
-SUMMARY:Elizabeth line: Part Closure
-UID:3a1b5734-0dda-4d73-a6de-d495950e0904@3a1b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-26T07:40:00&endDate=2025-10-27T01:29:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 26 October\, from 0740\, a reduced service will operate between Paddington and Maidenhead / Heathrow Terminal 4. Two trains per hour serve Acton Main Line\, Hanwell and Heathrow Terminal 4\, West Drayton\, Langley\, Slough\, Burnham and Maidenhead. Four trains per hour serve West Ealing and Heathrow Terminals 2 and 3. Six trains per hour serve Ealing Broadway\, Southall and Hayes & Harlington.
-DTEND:20251027T012900Z
-DTSTART:20251026T074000Z
-SUMMARY:Elizabeth line: Reduced Service
-UID:abde0275-1e8c-4ce7-8609-cf4de0e6600e@abde.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-20T22:00:00&endDate=2025-10-20T22:59:00">Disruption map.</a>\n\nELIZABETH LINE: Monday 20\, Tuesday 21\, Wednesday 22 and Thursday 23 October\, the 2217 Abbey Wood to Reading train will terminate at Maidenhead. Customers travelling to Twyford and Reading should change at Maidenhead to the 2338 GWR service to Twyford and Reading. At Maidenhead\, connecting westbound GWR trains to Twyford and Reading use Platform 1. For step-free interchange from platform 3 to platform 1\, please use the lift to the main entrance\, and then continue at street level under the railway bridge and up Shoppenhangers Road to the car park. Please ask staff to open the gate to platform 1\, and allow extra time for your journey
-DTEND:20251020T225900Z
-DTSTART:20251020T220000Z
-SUMMARY:Elizabeth line: Reduced Service
-UID:31eff5c7-1325-47d9-aa31-6b7cdaac8eaa@31ef.org
+UID:be5e5eb8-6727-40fa-93fc-9c2327c29bb2@be5e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-22T22:00:00&endDate=2025-10-22T22:59:00">Disruption map.</a>\n\nELIZABETH LINE: Monday 20\, Tuesday 21\, Wednesday 22 and Thursday 23 October\, the 2217 Abbey Wood to Reading train will terminate at Maidenhead. Customers travelling to Twyford and Reading should change at Maidenhead to the 2338 GWR service to Twyford and Reading. At Maidenhead\, connecting westbound GWR trains to Twyford and Reading use Platform 1. For step-free interchange from platform 3 to platform 1\, please use the lift to the main entrance\, and then continue at street level under the railway bridge and up Shoppenhangers Road to the car park. Please ask staff to open the gate to platform 1\, and allow extra time for your journey
 DTEND:20251022T225900Z
 DTSTART:20251022T220000Z
 SUMMARY:Elizabeth line: Reduced Service
-UID:3addf5e7-20d4-47f2-ad0e-1b9d5a1c4be4@3add.org
+UID:5ab4f2d7-f283-4629-bade-e934c4965773@5ab4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-20T22:00:00&endDate=2025-10-20T22:59:00">Disruption map.</a>\n\nELIZABETH LINE: Monday 20\, Tuesday 21\, Wednesday 22 and Thursday 23 October\, the 2217 Abbey Wood to Reading train will terminate at Maidenhead. Customers travelling to Twyford and Reading should change at Maidenhead to the 2338 GWR service to Twyford and Reading. At Maidenhead\, connecting westbound GWR trains to Twyford and Reading use Platform 1. For step-free interchange from platform 3 to platform 1\, please use the lift to the main entrance\, and then continue at street level under the railway bridge and up Shoppenhangers Road to the car park. Please ask staff to open the gate to platform 1\, and allow extra time for your journey
+DTEND:20251020T225900Z
+DTSTART:20251020T220000Z
+SUMMARY:Elizabeth line: Reduced Service
+UID:6efedc23-ce2a-4b88-88a0-b9054f165b00@6efe.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-21T22:00:00&endDate=2025-10-21T22:59:00">Disruption map.</a>\n\nELIZABETH LINE: Monday 20\, Tuesday 21\, Wednesday 22 and Thursday 23 October\, the 2217 Abbey Wood to Reading train will terminate at Maidenhead. Customers travelling to Twyford and Reading should change at Maidenhead to the 2338 GWR service to Twyford and Reading. At Maidenhead\, connecting westbound GWR trains to Twyford and Reading use Platform 1. For step-free interchange from platform 3 to platform 1\, please use the lift to the main entrance\, and then continue at street level under the railway bridge and up Shoppenhangers Road to the car park. Please ask staff to open the gate to platform 1\, and allow extra time for your journey
 DTEND:20251021T225900Z
 DTSTART:20251021T220000Z
 SUMMARY:Elizabeth line: Reduced Service
-UID:da6dba7b-60ee-480d-a22d-504edc732678@da6d.org
+UID:0d67a403-4562-44dd-954b-ae76ce2a8865@0d67.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-07T21:00:00&endDate=2025-10-08T00:29:00">Disruption map.</a>\n\nELIZABETH LINE: Monday 6\, Tuesday 7 and Wednesday 8 October\, after 2200 each evening\, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains per hour serve Heathrow Terminal 4\, West Drayton\, Langley\, Slough\, Burnham and Maidenhead. Four trains per hour serve Heathrow Terminals 2 & 3. Six trains an hour serve Ealing Broadway\, Southall and Hayes & Harlington. There will be no trains at Acton Main Line\, West Ealing and Hanwell after approximately 2300. Between Ealing Broadway and Langley\, some trains may depart from a different platform than usual. Please check the departure screens or speak with a member of staff to ensure you wait on the correct platform.
-DTEND:20251008T002900Z
-DTSTART:20251007T210000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-26T07:40:00&endDate=2025-10-27T01:29:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 26 October\, from 0740\, a reduced service will operate between Paddington and Maidenhead / Heathrow Terminal 4. Two trains per hour serve Acton Main Line\, Hanwell and Heathrow Terminal 4\, West Drayton\, Langley\, Slough\, Burnham and Maidenhead. Four trains per hour serve West Ealing and Heathrow Terminals 2 and 3. Six trains per hour serve Ealing Broadway\, Southall and Hayes & Harlington.
+DTEND:20251027T012900Z
+DTSTART:20251026T074000Z
 SUMMARY:Elizabeth line: Reduced Service
-UID:05f38ea6-9822-42a8-aad8-20128636cf6d@05f3.org
+UID:874475a5-b525-4f29-87f1-bbf93df1060c@8744.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-08T21:00:00&endDate=2025-10-09T00:29:00">Disruption map.</a>\n\nELIZABETH LINE: Monday 6\, Tuesday 7 and Wednesday 8 October\, after 2200 each evening\, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains per hour serve Heathrow Terminal 4\, West Drayton\, Langley\, Slough\, Burnham and Maidenhead. Four trains per hour serve Heathrow Terminals 2 & 3. Six trains an hour serve Ealing Broadway\, Southall and Hayes & Harlington. There will be no trains at Acton Main Line\, West Ealing and Hanwell after approximately 2300. Between Ealing Broadway and Langley\, some trains may depart from a different platform than usual. Please check the departure screens or speak with a member of staff to ensure you wait on the correct platform.
 DTEND:20251009T002900Z
 DTSTART:20251008T210000Z
 SUMMARY:Elizabeth line: Reduced Service
-UID:01b6a77a-c314-4bcd-886b-365c365948e6@01b6.org
+UID:377227d8-9eae-4df8-a8a2-c59ad3877265@3772.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-28T02:30:00&endDate=2025-09-29T00:29:00">Disruption map.</a>\n\nElizabeth Line: Sunday 28 September\, there will be no Elizabeth Line service between Chadwell Heath and Shenfield. Rail replacement bus services will operate. There will also be no GREATER ANGLIA services between Liverpool Street and Shenfield.
-DTEND:20250929T002900Z
-DTSTART:20250928T023000Z
-SUMMARY:Elizabeth line: Part Closure
-UID:9a0e8f64-461e-4c64-8358-83ffed44a7eb@9a0e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-23T22:00:00&endDate=2025-10-23T22:59:00">Disruption map.</a>\n\nELIZABETH LINE: Monday 20\, Tuesday 21\, Wednesday 22 and Thursday 23 October\, the 2217 Abbey Wood to Reading train will terminate at Maidenhead. Customers travelling to Twyford and Reading should change at Maidenhead to the 2338 GWR service to Twyford and Reading. At Maidenhead\, connecting westbound GWR trains to Twyford and Reading use Platform 1. For step-free interchange from platform 3 to platform 1\, please use the lift to the main entrance\, and then continue at street level under the railway bridge and up Shoppenhangers Road to the car park. Please ask staff to open the gate to platform 1\, and allow extra time for your journey
-DTEND:20251023T225900Z
-DTSTART:20251023T220000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-12T03:30:00&endDate=2025-10-13T00:29:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 12 October\, a reduced service will operate between Paddington and Maidenhead / Heathrow Terminal 4. Acton Main Line\, West Ealing and Hanwell stations are closed. Two trains per hour serve Heathrow Terminal 4\, West Drayton\, Langley\, Slough\, Burnham and Maidenhead. Four trains per hour serve Heathrow Terminals 2 and 3. Six trains per hour serve Ealing Broadway\, Southall and Hayes & Harlington.
+DTEND:20251013T002900Z
+DTSTART:20251012T033000Z
 SUMMARY:Elizabeth line: Reduced Service
-UID:c65779dd-1338-40bd-83ee-cde8247a0380@c657.org
+UID:a7c06bc7-9bde-4b7d-be4d-7278f95f2b1b@a7c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-07T21:00:00&endDate=2025-10-08T00:29:00">Disruption map.</a>\n\nELIZABETH LINE: Monday 6\, Tuesday 7 and Wednesday 8 October\, after 2200 each evening\, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains per hour serve Heathrow Terminal 4\, West Drayton\, Langley\, Slough\, Burnham and Maidenhead. Four trains per hour serve Heathrow Terminals 2 & 3. Six trains an hour serve Ealing Broadway\, Southall and Hayes & Harlington. There will be no trains at Acton Main Line\, West Ealing and Hanwell after approximately 2300. Between Ealing Broadway and Langley\, some trains may depart from a different platform than usual. Please check the departure screens or speak with a member of staff to ensure you wait on the correct platform.
+DTEND:20251008T002900Z
+DTSTART:20251007T210000Z
+SUMMARY:Elizabeth line: Reduced Service
+UID:8e0650ca-0093-41cf-bdf4-6af85a13cd56@8e06.org
 END:VEVENT
 END:VCALENDAR
