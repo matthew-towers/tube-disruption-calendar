@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-09-30T07:03:58&endDate=2025-10-01T00:29:00">Disruption map.</a>\n\nCentral Line: Minor delays due to train cancellations. 
-DTEND:20251001T002900Z
-DTSTART:20250930T070358Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-01T09:00:27&endDate=2025-10-02T00:29:00">Disruption map.</a>\n\nCentral Line: Severe delays Westbound and MINOR DELAYS Eastbound while we fix a faulty train at Mile End. London Underground tickets will be accepted on London buses\, Liberty line\, Elizabeth Line\, Chiltern Railways\, Great Western and Greater Anglia. 
+DTEND:20251002T002900Z
+DTSTART:20251001T090027Z
 SUMMARY:Central: Minor Delays
-UID:5c5ceb86-406d-496b-ac98-fc3b090aa1be@5c5c.org
+UID:450e1a6f-c2f0-4a7f-8ed0-d8d8085f9ebc@450e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-01T09:00:27&endDate=2025-10-02T00:29:00">Disruption map.</a>\n\nCentral Line: Severe delays Westbound and MINOR DELAYS Eastbound while we fix a faulty train at Mile End. London Underground tickets will be accepted on London buses\, Liberty line\, Elizabeth Line\, Chiltern Railways\, Great Western and Greater Anglia. 
+DTEND:20251002T002900Z
+DTSTART:20251001T090027Z
+SUMMARY:Central: Severe Delays
+UID:722c4835-bc1d-4f64-94ff-2bbcdda1e269@722c.org
 END:VEVENT
 END:VCALENDAR
