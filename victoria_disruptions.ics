@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Victoria disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-06T05:32:59&endDate=2025-10-07T00:29:00">Disruption map.</a>\n\nVictoria Line: Severe delays while we deal with an operational incident at Walthamstow Central. Tickets are being accepted on London Buses\, Southeastern\, Weaver line\, Suffragette line\, Great Northern\, Thameslink\, Greater Anglia\, and South Western Railway.  
+DTEND:20251007T002900Z
+DTSTART:20251006T053259Z
+SUMMARY:Victoria: Severe Delays
+UID:b74edd86-312c-46c8-8b59-975e385ffacc@b74e.org
+END:VEVENT
 END:VCALENDAR
