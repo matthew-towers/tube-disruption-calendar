@@ -3,24 +3,66 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-11T03:30:00&endDate=2025-10-13T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 11 and Sunday 12 October\, no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services.
-DTEND:20251013T002900Z
-DTSTART:20251011T033000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-01T01:45:00&endDate=2025-11-01T05:30:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 1 November\, between 0145 and 0530 approximately\, no service between Hammersmith and Heathrow\, all terminals. Replacement Bus Service PL1 operates between Hammersmith and Heathrow Terminal 5 via Turnham Green\, Acton Town\, South Ealing\, Northfields\, Boston Manor\, Osterley\, Hounslow East\, Hounslow Central (Bell Corner)\, Hatton Cross and Heathrow Central Bus Station (for Terminals 2 and 3)
+DTEND:20251101T053000Z
+DTSTART:20251101T014500Z
 SUMMARY:Piccadilly: Part Closure
-UID:c54af30c-d6b2-4c88-850f-a5437a19258a@c54a.org
+UID:3a52a359-2d93-4835-a778-e5f54b360f2c@3a52.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-11T00:45:00&endDate=2025-10-13T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: From 0145 Saturday 11 and all day Sunday 12 October\, no service between Hammersmith and Cockfosters (including Friday and Saturday Night Tube). Replacement buses operate.
 DTEND:20251013T002900Z
 DTSTART:20251011T004500Z
 SUMMARY:Piccadilly: Part Closure
-UID:cffea2df-f6d4-4f2f-9d2f-1a3f5512c6cf@cffe.org
+UID:bed172ee-ac2f-4a0d-8708-5295c34dbc73@bed1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-11T03:30:00&endDate=2025-10-13T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 11 and Sunday 12 October\, no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services.
+DTEND:20251013T002900Z
+DTSTART:20251011T033000Z
+SUMMARY:Piccadilly: Part Closure
+UID:7d714973-bb1f-44a6-a254-24aba515a87f@7d71.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-01T05:30:00&endDate=2025-11-03T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 1\, from 0530\, including Saturday Night Tube\, and all day Sunday 2 November\, no service between Acton Town and Heathrow (all terminals). Use ELIZABETH LINE for Heathrow Terminal 4 and Terminal 5 during the day. Replacement bus service PL1 operates between Acton Town and Heathrow Central (for Terminals 2 and 3) (extending to/from Heathrow Terminal 5 overnight) via South Ealing\, Northfields\, Boston Manor\, Osterley\, Hounslow East\, Hounslow Central (Bell Corner) and Hatton Cross. Replacement bus service PL3 also operates during the day between Hammersmith and Heathrow Central (for Terminals 2 and 3)
+DTEND:20251103T012900Z
+DTSTART:20251101T053000Z
+SUMMARY:Piccadilly: Part Closure
+UID:95e43053-9350-40b8-92c4-b81f95fa23ff@95e4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-09T06:55:17&endDate=2025-10-10T00:29:00">Disruption map.</a>\n\nPiccadilly Line: Minor delays between Acton Town and Uxbridge due to earlier faulty trains. GOOD SERVICE on the rest of the line 
+DTEND:20251010T002900Z
+DTSTART:20251009T065517Z
+SUMMARY:Piccadilly: Minor Delays
+UID:6fbceea3-bae2-4c05-b972-983389672286@6fbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-06T04:30:00&endDate=2025-12-08T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 6 and Sunday 7 December\, no service between Acton Town and Uxbridge. There will also be no METROPOLITAN LINE service between Harrow-on-the-Hill and Uxbridge. Replacement bus service ML1 operates between Harrow-on-the-Hill and Uxbridge via West Harrow (Treve Avenue)\, South Harrow\, Rayners Lane\, Eastcote\, Ruislip\, West Ruislip (for Central line and Chiltern Railways)\, Ickenham and Hillingdon. Replacement bus service PL4 operates between Acton Town and Rayners Lane via Ealing Common\, North Ealing\, Hanger Lane (for Central line and Park Royal)\, Alperton\, Sudbury Town (Whitton Avenue East)\, Sudbury Hill and South Harrow.
+DTEND:20251208T012900Z
+DTSTART:20251206T043000Z
+SUMMARY:Piccadilly: Part Closure
+UID:086f3a8d-33d6-4014-9958-0a004c938438@086f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-15T04:30:00&endDate=2025-11-17T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 15 and Sunday 16 November\, no service between Acton Town and Uxbridge. There will also be no METROPOLITAN LINE service between Harrow-on-the-Hill and Uxbridge. Replacement bus service ML1 operates between Harrow-on-the-Hill and Uxbridge via West Harrow (Treve Avenue)\, South Harrow\, Rayners Lane\, Eastcote\, Ruislip\, West Ruislip (for Central line and Chiltern Railways)\, Ickenham and Hillingdon. Replacement bus service PL4 operates between Acton Town and Rayners Lane via Ealing Common\, North Ealing\, Hanger Lane (for Central line and Park Royal)\, Alperton\, Sudbury Town (Whitton Avenue East)\, Sudbury Hill and South Harrow.
+DTEND:20251117T012900Z
+DTSTART:20251115T043000Z
+SUMMARY:Piccadilly: Part Closure
+UID:1c75907a-5e03-4941-8696-3cb00c125c4d@1c75.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-01T04:30:00&endDate=2025-11-03T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 1 and Sunday 2 November\, no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services.
+DTEND:20251103T012900Z
+DTSTART:20251101T043000Z
+SUMMARY:Piccadilly: Part Closure
+UID:523d38cb-0f49-4aee-b52c-5905c9f0f560@523d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-18T03:30:00&endDate=2025-10-20T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 18 and Sunday 19 October\, no service between Acton Town and Uxbridge. There will also be no METROPOLITAN LINE service between Harrow-on-the-Hill and Uxbridge. Replacement bus service ML1 operates between Harrow-on-the-Hill and Uxbridge via West Harrow (Treve Avenue)\, South Harrow\, Rayners Lane\, Eastcote\, Ruislip Manor\, Ruislip\, West Ruislip (for Central line and Chiltern Railways)\, Ickenham and Hillingdon. Replacement bus service PL4 operates between Acton Town and Rayners Lane via Ealing Common\, North Ealing\, Hanger Lane (for Central line and Park Royal)\, Alperton\, Sudbury Town (Whitton Avenue East)\, Sudbury Hill and South Harrow.
 DTEND:20251020T002900Z
 DTSTART:20251018T033000Z
 SUMMARY:Piccadilly: Part Closure
-UID:ac5886c1-8ed6-4661-96de-7f02c083d5a8@ac58.org
+UID:86404f26-f4c1-4d50-8231-130aa77dde07@8640.org
 END:VEVENT
 END:VCALENDAR

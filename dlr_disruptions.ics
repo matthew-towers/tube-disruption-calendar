@@ -3,24 +3,87 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-11T03:30:00&endDate=2025-10-13T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 11 and Sunday 12 October\, no service between West Ham and Canning Town\, and no service between Canning Town and Woolwich Arsenal. Use JUBILEE LINE between West Ham and Canning Town. Use ELIZABETH LINE connections between Custom House and Woolwich (for Woolwich Arsenal). Replacement buses operate: Service DLR5 between Canning Town and King George V (Albert Road) via West Silvertown\, Pontoon Dock and London City Airport (operates throughout service hours). Service DLR6 between Canning Town and London City Airport via West Silvertown and Pontoon Dock (operates 0630 to 1300 Saturday\, and 1030 to 2200 Sunday only)
-DTEND:20251013T002900Z
-DTSTART:20251011T033000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-15T04:30:00&endDate=2025-11-17T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 15 and Sunday 16 November\, no service between Canning Town and Stratford International. Please use JUBILEE LINE and local London Buses services.
+DTEND:20251117T012900Z
+DTSTART:20251115T043000Z
 SUMMARY:DLR: Part Closure
-UID:bb90980e-e61d-470e-9db0-52d82b5737bf@bb90.org
+UID:a1fd12dd-bc86-47e4-8b73-7ab543bff156@a1fd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-12T03:30:00&endDate=2025-10-13T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 12 October\, no service between Shadwell and Tower Gateway. Please use local London Buses and London Underground services.
 DTEND:20251013T002900Z
 DTSTART:20251012T033000Z
 SUMMARY:DLR: Part Closure
-UID:1e33a2d5-fe61-4502-8c9a-631a373d3eda@1e33.org
+UID:800eef14-4d22-4e9f-a30b-b16b63aea61d@800e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-21T04:30:00&endDate=2025-12-22T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 21 December\, no service between Shadwell and Tower Gateway. Please use local London Buses and London Underground services.
+DTEND:20251222T012900Z
+DTSTART:20251221T043000Z
+SUMMARY:DLR: Part Closure
+UID:f931f7ae-95a5-4826-bee5-332534cb9304@f931.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-29T04:30:00&endDate=2025-12-01T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 29 and Sunday 30 November\, no service between Bank / Tower Gateway and Canning Town / Lewisham or between Stratford and Canary Wharf. Replacement buses operate.
+DTEND:20251201T012900Z
+DTSTART:20251129T043000Z
+SUMMARY:DLR: Part Closure
+UID:349787da-9b1e-4f5b-ae3c-180ee6709fdc@3497.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-22T04:30:00&endDate=2025-11-23T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 22 November\, no service between Poplar / Stratford International and Beckton. Use JUBILEE LINE trains and local London Buses services between Stratford International and Canning Town.
+DTEND:20251123T012900Z
+DTSTART:20251122T043000Z
+SUMMARY:DLR: Part Closure
+UID:57be3667-c90e-4319-91e0-7ec031c6c1d2@57be.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-11T03:30:00&endDate=2025-10-13T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 11 and Sunday 12 October\, no service between West Ham and Canning Town\, and no service between Canning Town and Woolwich Arsenal. Use JUBILEE LINE between West Ham and Canning Town. Use ELIZABETH LINE connections between Custom House and Woolwich (for Woolwich Arsenal). Replacement buses operate: Service DLR5 between Canning Town and King George V (Albert Road) via West Silvertown\, Pontoon Dock and London City Airport (operates throughout service hours). Service DLR6 between Canning Town and London City Airport via West Silvertown and Pontoon Dock (operates 0630 to 1300 Saturday\, and 1030 to 2200 Sunday only)
+DTEND:20251013T002900Z
+DTSTART:20251011T033000Z
+SUMMARY:DLR: Part Closure
+UID:25d45dea-c854-4314-b204-029bad52a471@25d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-31T04:30:00&endDate=2025-11-01T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Friday 31 October\, no service between Prince Regent and Beckton. Replacement buses operate between Prince Regent and Gallions Reach via Royal Albert\, Beckton Park\, Cyprus and Beckton.
+DTEND:20251101T012900Z
+DTSTART:20251031T043000Z
+SUMMARY:DLR: Part Closure
+UID:74c0397a-c51f-412a-8729-840dd14c16b8@74c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-07T04:30:00&endDate=2025-12-08T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 7 December\, no service between Shadwell and Tower Gateway. Please use local London Buses and London Underground services.
+DTEND:20251208T012900Z
+DTSTART:20251207T043000Z
+SUMMARY:DLR: Part Closure
+UID:1ef58e90-193b-4472-b2b9-63a7a1aa87e8@1ef5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-01T04:30:00&endDate=2025-11-03T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 1 and Sunday 2 November\, no service between Shadwell and Tower Gateway. Please use local London Buses and London Underground services.
+DTEND:20251103T012900Z
+DTSTART:20251101T043000Z
+SUMMARY:DLR: Part Closure
+UID:ba3ac218-04ce-4673-9ab0-c0e4c856b7a9@ba3a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-19T03:30:00&endDate=2025-10-20T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 19 October\, no service between Shadwell and Tower Gateway. Please use local London Buses and London Underground services.
 DTEND:20251020T002900Z
 DTSTART:20251019T033000Z
 SUMMARY:DLR: Part Closure
-UID:fe74f5bc-8280-49ca-8e73-84e85319f7a9@fe74.org
+UID:56f8dbc5-edec-4fd1-a2ac-455cef6c2263@56f8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-01T04:30:00&endDate=2025-11-03T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 1 and Sunday 2 November\, no service between Canning Town and Beckton. Use local London Buses services between Canning Town\, Royal Victoria\, Custom House and Prince Regent. Replacement buses operate between Prince Regent and Gallions Reach via Royal Albert\, Beckton Park\, Cyprus and Beckton.
+DTEND:20251103T012900Z
+DTSTART:20251101T043000Z
+SUMMARY:DLR: Part Closure
+UID:100e9319-0466-486f-bef0-09e5cda36712@100e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-22T04:30:00&endDate=2025-11-24T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 22 and Sunday 23 November\, no service between Shadwell and Tower Gateway. Please use local London Buses and London Underground services.
+DTEND:20251124T012900Z
+DTSTART:20251122T043000Z
+SUMMARY:DLR: Part Closure
+UID:2f152925-ab6f-4372-88a6-1afe9e396e9c@2f15.org
 END:VEVENT
 END:VCALENDAR
