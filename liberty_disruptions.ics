@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Liberty line disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-23T04:30:00&endDate=2025-11-24T01:29:00">Disruption map.</a>\n\nLIBERTY LINE: Sunday 23 November\, no service between Romford and Upminster. Please use local London Buses routes 165 248 and 370.
+DTEND:20251124T012900Z
+DTSTART:20251123T043000Z
+SUMMARY:Liberty line: Planned Closure
+UID:69a91aee-3348-4ce0-9c0a-4ad5b09f37ec@69a9.org
+END:VEVENT
 END:VCALENDAR
