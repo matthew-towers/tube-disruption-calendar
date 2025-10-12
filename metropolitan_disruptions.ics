@@ -3,31 +3,38 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-15T04:30:00&endDate=2025-11-17T01:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 15 and Sunday 16 November\, no service between Harrow-on-the-Hill and Uxbridge. There will also be no PICCADILLY LINE service between Acton Town and Uxbridge. Replacement bus service ML1 operates between Harrow-on-the-Hill and Uxbridge via West Harrow (Treve Avenue)\, South Harrow\, Rayners Lane\, Eastcote\, Ruislip\, West Ruislip (for Central line and Chiltern Railways)\, Ickenham and Hillingdon.
+DTEND:20251117T012900Z
+DTSTART:20251115T043000Z
+SUMMARY:Metropolitan: Part Closure
+UID:d728f321-8f8c-4ca9-9f30-ad9b8af85b9f@d728.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-04T12:35:00&endDate=2025-11-04T13:00:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Tuesday 4 November\, the 12:37 departure from Chalfont & Latimer to Chesham\, and the 12:56 departure from Chesham to Chalfont & Latimer will be diverted to start and terminate at Amersham. A replacement bus service will operate one journey in each direction between Amersham and Chesham.
 DTEND:20251104T130000Z
 DTSTART:20251104T123500Z
 SUMMARY:Metropolitan: Part Closure
-UID:5db175b2-8df5-4339-a735-cad7f95bdff5@5db1.org
+UID:4cf8234c-0560-413d-9d78-e816c3854f83@4cf8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-12T12:18:43&endDate=2025-10-13T00:29:00">Disruption map.</a>\n\nMetropolitan Line: Minor delays between Harrow-on-the-Hill and Watford / Chesham / Amersham northbound only while we fix a signal failure in the Northwood area. GOOD SERVICE on the rest of the line. 
+DTEND:20251013T002900Z
+DTSTART:20251012T121843Z
+SUMMARY:Metropolitan: Minor Delays
+UID:6a4dc1ef-5284-44a1-a4ff-5688ec26b573@6a4d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-18T03:30:00&endDate=2025-10-20T00:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 18 and Sunday 19 October\, no service between Harrow-on-the-Hill and Uxbridge. There will also be no PICCADILLY LINE service between Acton Town and Uxbridge. Replacement bus service ML1 operates between Harrow-on-the-Hill and Uxbridge via West Harrow (Treve Avenue)\, South Harrow\, Rayners Lane\, Eastcote\, Ruislip Manor\, Ruislip\, West Ruislip (for Central line and Chiltern Railways)\, Ickenham and Hillingdon.
 DTEND:20251020T002900Z
 DTSTART:20251018T033000Z
 SUMMARY:Metropolitan: Part Closure
-UID:96baf1d0-bc6a-402a-8e98-c2c4ef572114@96ba.org
+UID:c90d17c3-4ff5-4962-b1e1-27f4b88e7f6c@c90d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-06T04:30:00&endDate=2025-12-08T01:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 6 and Sunday 7 December\, no service between Harrow-on-the-Hill and Uxbridge. There will also be no PICCADILLY LINE service between Acton Town and Uxbridge. Replacement bus service ML1 operates between Harrow-on-the-Hill and Uxbridge via West Harrow (Treve Avenue)\, South Harrow\, Rayners Lane\, Eastcote\, Ruislip\, West Ruislip (for Central line and Chiltern Railways)\, Ickenham and Hillingdon.
 DTEND:20251208T012900Z
 DTSTART:20251206T043000Z
 SUMMARY:Metropolitan: Part Closure
-UID:f665cc8d-1dd9-4312-8679-93d20368d326@f665.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-15T04:30:00&endDate=2025-11-17T01:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 15 and Sunday 16 November\, no service between Harrow-on-the-Hill and Uxbridge. There will also be no PICCADILLY LINE service between Acton Town and Uxbridge. Replacement bus service ML1 operates between Harrow-on-the-Hill and Uxbridge via West Harrow (Treve Avenue)\, South Harrow\, Rayners Lane\, Eastcote\, Ruislip\, West Ruislip (for Central line and Chiltern Railways)\, Ickenham and Hillingdon.
-DTEND:20251117T012900Z
-DTSTART:20251115T043000Z
-SUMMARY:Metropolitan: Part Closure
-UID:c0aa7b02-ddc7-4ad5-8706-58f3f7a56a51@c0aa.org
+UID:9b72ccea-021b-4d34-ac6b-e16e9c99922c@9b72.org
 END:VEVENT
 END:VCALENDAR
