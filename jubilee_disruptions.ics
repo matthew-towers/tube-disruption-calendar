@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Jubilee disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-12T09:50:43&endDate=2025-10-13T00:29:00">Disruption map.</a>\n\nJubilee Line: Minor delays due to train cancellations.  
-DTEND:20251013T002900Z
-DTSTART:20251012T095043Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-13T07:30:29&endDate=2025-10-14T00:29:00">Disruption map.</a>\n\nJubilee Line: Minor delays due to an earlier faulty train at Green Park. 
+DTEND:20251014T002900Z
+DTSTART:20251013T073029Z
 SUMMARY:Jubilee: Minor Delays
-UID:86035960-8e7a-403b-945f-d8cc4e01f9d0@8603.org
+UID:25982e0f-66f2-451c-8749-1160c62659a8@2598.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-13T07:30:29&endDate=2025-10-14T00:29:00">Disruption map.</a>\n\nJubilee Line: Minor delays due to an earlier faulty train at Green Park. 
+DTEND:20251014T002900Z
+DTSTART:20251013T073029Z
+SUMMARY:Jubilee: Minor Delays
+UID:9acb1bdc-2ada-4620-bd37-3c58fd4bdf22@9acb.org
 END:VEVENT
 END:VCALENDAR
