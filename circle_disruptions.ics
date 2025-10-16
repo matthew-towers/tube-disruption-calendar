@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Circle disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-16T07:09:43&endDate=2025-10-17T00:29:00">Disruption map.</a>\n\nCircle Line: Minor delays due to an earlier trespasser on the track.  
+DTEND:20251017T002900Z
+DTSTART:20251016T070943Z
+SUMMARY:Circle: Minor Delays
+UID:85c1fdb9-7db7-4247-b92f-61daf1ba50f1@85c1.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-25T03:30:00&endDate=2025-10-27T01:29:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 25 and Sunday 26 October\, no service between Edgware Road and Tower Hill (via Victoria)
 DTEND:20251027T012900Z
 DTSTART:20251025T033000Z
 SUMMARY:Circle: Part Closure
-UID:f39a2924-5871-4c81-8bea-664d58b26917@f39a.org
+UID:c2d37dd5-08f4-43da-8ea0-d87c76cd8a7a@c2d3.org
 END:VEVENT
 END:VCALENDAR

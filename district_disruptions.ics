@@ -3,17 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-25T03:30:00&endDate=2025-10-27T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 25 and Sunday 26 October\, no service between Embankment / Edgware Road and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. PICCADILLY LINE trains call additionally at Turnham Green. Use MILDMAY LINE services between Gunnersbury\, Kew Gardens and Richmond when available. Replacement buses operate.
-DTEND:20251027T012900Z
-DTSTART:20251025T033000Z
-SUMMARY:District: Part Closure
-UID:4eaea25a-7ef9-4d96-a814-21666ba8fefc@4eae.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-16T07:38:18&endDate=2025-10-17T00:29:00">Disruption map.</a>\n\nDistrict Line: Minor delays between Tower Hill and Wimbledon due to an earlier trespasser on the track. GOOD SERVICE on the rest of the line.  
+DTEND:20251017T002900Z
+DTSTART:20251016T073818Z
+SUMMARY:District: Minor Delays
+UID:3fe7dcc2-7520-415b-8d6d-72910ae676e9@3fe7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-19T00:05:00&endDate=2025-10-20T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Sunday 19 October\, including the last westbound train early on Sunday morning\, no service between Turnham Green and Richmond. There will also be no MILDMAY LINE service between Willesden Junction and Richmond. Replacement bus service DL3 operates between Willesden Junction and Richmond via Acton Central\, South Acton (Acton Lane)\, Turnham Green\, Chiswick Park\, Gunnersbury and Kew Gardens (Royal Botanic Gardens)
 DTEND:20251020T002900Z
 DTSTART:20251019T000500Z
 SUMMARY:District: Part Closure
-UID:28b2969f-19d1-4402-b8c0-5fd71a92eaa9@28b2.org
+UID:c3b37e6a-988c-43c5-9127-1e97192f080a@c3b3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-25T03:30:00&endDate=2025-10-27T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 25 and Sunday 26 October\, no service between Embankment / Edgware Road and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. PICCADILLY LINE trains call additionally at Turnham Green. Use MILDMAY LINE services between Gunnersbury\, Kew Gardens and Richmond when available. Replacement buses operate.
+DTEND:20251027T012900Z
+DTSTART:20251025T033000Z
+SUMMARY:District: Part Closure
+UID:92630993-f6b2-4eff-9cf2-6bff57e56992@9263.org
 END:VEVENT
 END:VCALENDAR
