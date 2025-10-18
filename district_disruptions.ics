@@ -3,24 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-17T09:18:12&endDate=2025-10-18T00:29:00">Disruption map.</a>\n\nDistrict Line: Minor delays between Turnham Green and Ealing Broadway while we fix a points failure at Ealing Broadway. GOOD SERVICE on the rest of the line.  
-DTEND:20251018T002900Z
-DTSTART:20251017T091812Z
-SUMMARY:District: Minor Delays
-UID:74a3e957-9db8-4ae5-ab7c-6bfc04797eb5@74a3.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-19T00:05:00&endDate=2025-10-20T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Sunday 19 October\, including the last westbound train early on Sunday morning\, no service between Turnham Green and Richmond. There will also be no MILDMAY LINE service between Willesden Junction and Richmond. Replacement bus service DL3 operates between Willesden Junction and Richmond via Acton Central\, South Acton (Acton Lane)\, Turnham Green\, Chiswick Park\, Gunnersbury and Kew Gardens (Royal Botanic Gardens)
+DTEND:20251020T002900Z
+DTSTART:20251019T000500Z
+SUMMARY:District: Part Closure
+UID:98bfbdd5-f227-41a8-835e-56bfdde9a985@98bf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-25T03:30:00&endDate=2025-10-27T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 25 and Sunday 26 October\, no service between Embankment / Edgware Road and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. PICCADILLY LINE trains call additionally at Turnham Green. Use MILDMAY LINE services between Gunnersbury\, Kew Gardens and Richmond when available. Replacement buses operate.
 DTEND:20251027T012900Z
 DTSTART:20251025T033000Z
 SUMMARY:District: Part Closure
-UID:335b3ef6-d0f6-4e52-bffd-45b4dfe0c042@335b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-19T00:05:00&endDate=2025-10-20T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Sunday 19 October\, including the last westbound train early on Sunday morning\, no service between Turnham Green and Richmond. There will also be no MILDMAY LINE service between Willesden Junction and Richmond. Replacement bus service DL3 operates between Willesden Junction and Richmond via Acton Central\, South Acton (Acton Lane)\, Turnham Green\, Chiswick Park\, Gunnersbury and Kew Gardens (Royal Botanic Gardens)
-DTEND:20251020T002900Z
-DTSTART:20251019T000500Z
-SUMMARY:District: Part Closure
-UID:0083eb48-c192-4d00-9fb2-5c44ec034f6c@0083.org
+UID:cd0081c0-ac76-4a32-87fe-46dda410cffc@cd00.org
 END:VEVENT
 END:VCALENDAR
