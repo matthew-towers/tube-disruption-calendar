@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-25T11:04:17&endDate=2025-10-26T01:29:00">Disruption map.</a>\n\nCentral Line: Minor delays entire line due to train cancellations 
+DTEND:20251026T012900Z
+DTSTART:20251025T110417Z
+SUMMARY:Central: Minor Delays
+UID:2778d6dd-7b2e-4232-a45e-5fd596b5e969@2778.org
+END:VEVENT
 END:VCALENDAR
