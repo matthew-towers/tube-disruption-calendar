@@ -58,7 +58,7 @@ if force or time_since_last_commit > dt.timedelta(hours=12):
     disruption_calendar.make_all_calendars()
 else:
     os.system("notify-send -a 'Tube disruption calendar' 'Not updating, too recent'")
-    logger.info("Not updating - latest commit was too recent.")
+    logger.info(f"Not updating - latest commit was too recent ({time_since_last_commit} ago).")
     repo.close()
     sys.exit(1)
 
