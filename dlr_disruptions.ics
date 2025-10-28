@@ -3,59 +3,66 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-01T04:30:00&endDate=2025-11-03T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 1 and Sunday 2 November\, no service between Canning Town and Beckton. Use local London Buses services between Canning Town\, Royal Victoria\, Custom House and Prince Regent. Replacement buses operate between Prince Regent and Gallions Reach via Royal Albert\, Beckton Park\, Cyprus and Beckton.
-DTEND:20251103T012900Z
-DTSTART:20251101T043000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-07T04:30:00&endDate=2025-12-08T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 7 December\, no service between Shadwell and Tower Gateway. Please use local London Buses and London Underground services.
+DTEND:20251208T012900Z
+DTSTART:20251207T043000Z
 SUMMARY:DLR: Part Closure
-UID:9fd2745e-3566-49d0-8ee2-90800cfa7986@9fd2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-01T04:30:00&endDate=2025-11-03T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 1 and Sunday 2 November\, no service between Shadwell and Tower Gateway. Please use local London Buses and London Underground services.
-DTEND:20251103T012900Z
-DTSTART:20251101T043000Z
-SUMMARY:DLR: Part Closure
-UID:ab5ff56b-0571-4797-964c-8ccdb530707b@ab5f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-15T04:30:00&endDate=2025-11-17T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 15 and Sunday 16 November\, no service between Canning Town and Stratford International. Please use JUBILEE LINE and local London Buses services.
-DTEND:20251117T012900Z
-DTSTART:20251115T043000Z
-SUMMARY:DLR: Part Closure
-UID:23d9ba02-44e5-43ac-8410-83a090d0c0e0@23d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-22T04:30:00&endDate=2025-11-23T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 22 November\, no service between Poplar / Stratford International and Beckton / Woolwich Arsenal and no service between Tower Gateway and Shadwell . Use JUBILEE LINE trains and local London Buses services between Stratford International and Canning Town\, and ELIZABETH LINE between Canary Wharf\, Custom House and Woolwich. Replacement buses operate.
-DTEND:20251123T012900Z
-DTSTART:20251122T043000Z
-SUMMARY:DLR: Part Closure
-UID:981e3d6e-644c-4b33-a72b-84922a1726e0@981e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-31T04:30:00&endDate=2025-11-01T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Friday 31 October\, no service between Prince Regent and Beckton. Replacement buses operate between Prince Regent and Gallions Reach via Royal Albert\, Beckton Park\, Cyprus and Beckton.
-DTEND:20251101T012900Z
-DTSTART:20251031T043000Z
-SUMMARY:DLR: Part Closure
-UID:de113261-942d-4b4b-822c-6e46c3e9ccb5@de11.org
+UID:c7ff3c22-f833-447b-95a9-e5fbc87b6c84@c7ff.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-21T04:30:00&endDate=2025-12-22T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 21 December\, no service between Shadwell and Tower Gateway. Please use local London Buses and London Underground services.
 DTEND:20251222T012900Z
 DTSTART:20251221T043000Z
 SUMMARY:DLR: Part Closure
-UID:d99f23d1-fdaf-43be-b3d0-01341ee2a4cc@d99f.org
+UID:d3b54b4d-671e-4571-b129-e8739f6b4f5b@d3b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-22T04:30:00&endDate=2025-11-23T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 22 November\, no service between Poplar / Stratford International and Beckton / Woolwich Arsenal and no service between Tower Gateway and Shadwell . Use JUBILEE LINE trains and local London Buses services between Stratford International and Canning Town\, and ELIZABETH LINE between Canary Wharf\, Custom House and Woolwich. Replacement buses operate.
+DTEND:20251123T012900Z
+DTSTART:20251122T043000Z
+SUMMARY:DLR: Part Closure
+UID:83601f2e-9e17-4052-bb25-72efca9d3c9e@8360.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-29T04:30:00&endDate=2025-12-01T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 29 and Sunday 30 November\, no service between Bank / Tower Gateway and Canning Town / Lewisham or between Stratford and Canary Wharf. Replacement buses operate.
 DTEND:20251201T012900Z
 DTSTART:20251129T043000Z
 SUMMARY:DLR: Part Closure
-UID:96cea392-bf84-4f49-833d-199638120565@96ce.org
+UID:1a7ac108-d3bd-4143-860a-2b1cbb8fb1ef@1a7a.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-07T04:30:00&endDate=2025-12-08T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 7 December\, no service between Shadwell and Tower Gateway. Please use local London Buses and London Underground services.
-DTEND:20251208T012900Z
-DTSTART:20251207T043000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-15T04:30:00&endDate=2025-11-17T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 15 and Sunday 16 November\, no service between Canning Town and Stratford International. Please use JUBILEE LINE and local London Buses services.
+DTEND:20251117T012900Z
+DTSTART:20251115T043000Z
 SUMMARY:DLR: Part Closure
-UID:dc7e0d0d-195d-43ed-a5ff-97f5981b5cf8@dc7e.org
+UID:65684ebb-9dec-4da1-a388-fdbc6e3d8196@6568.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-23T04:30:00&endDate=2025-11-24T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 23 November\, no service between Shadwell and Tower Gateway. Please use local London Buses and London Underground services.
+DTEND:20251124T012900Z
+DTSTART:20251123T043000Z
+SUMMARY:DLR: Part Closure
+UID:d86ec515-5e26-44ef-83a2-b911c9fe29d7@d86e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-01T04:30:00&endDate=2025-11-03T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 1 and Sunday 2 November\, no service between Shadwell and Tower Gateway. Please use local London Buses and London Underground services.
+DTEND:20251103T012900Z
+DTSTART:20251101T043000Z
+SUMMARY:DLR: Part Closure
+UID:d08043d1-1c9f-4fc1-90c4-324fdf9dfe03@d080.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-01T04:30:00&endDate=2025-11-03T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 1 and Sunday 2 November\, no service between Canning Town and Beckton. Use local London Buses services between Canning Town\, Royal Victoria\, Custom House and Prince Regent. Replacement buses operate between Prince Regent and Gallions Reach via Royal Albert\, Beckton Park\, Cyprus and Beckton.
+DTEND:20251103T012900Z
+DTSTART:20251101T043000Z
+SUMMARY:DLR: Part Closure
+UID:488aca97-69a6-4842-802e-43b986c2095f@488a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-31T04:30:00&endDate=2025-11-01T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Friday 31 October\, no service between Prince Regent and Beckton. Replacement buses operate between Prince Regent and Gallions Reach via Royal Albert\, Beckton Park\, Cyprus and Beckton.
+DTEND:20251101T012900Z
+DTSTART:20251031T043000Z
+SUMMARY:DLR: Part Closure
+UID:e007aefa-ce4d-4455-b59c-d71ecfcf2e9b@e007.org
 END:VEVENT
 END:VCALENDAR
