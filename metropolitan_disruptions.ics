@@ -3,24 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-04T12:35:00&endDate=2025-11-04T13:00:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Tuesday 4 November\, the 12:37 departure from Chalfont & Latimer to Chesham\, and the 12:56 departure from Chesham to Chalfont & Latimer will be diverted to start and terminate at Amersham. A replacement bus service will operate one journey in each direction between Amersham and Chesham.
-DTEND:20251104T130000Z
-DTSTART:20251104T123500Z
-SUMMARY:Metropolitan: Part Closure
-UID:baf92ec0-4864-43e5-bc80-f74d45adb58d@baf9.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-06T04:30:00&endDate=2025-12-08T01:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 6 and Sunday 7 December\, no service between Harrow-on-the-Hill and Uxbridge. There will also be no PICCADILLY LINE service between Acton Town and Uxbridge. Replacement bus service ML1 operates between Harrow-on-the-Hill and Uxbridge via West Harrow (Treve Avenue)\, South Harrow\, Rayners Lane\, Eastcote\, Ruislip\, West Ruislip (for Central line and Chiltern Railways)\, Ickenham and Hillingdon.
 DTEND:20251208T012900Z
 DTSTART:20251206T043000Z
 SUMMARY:Metropolitan: Part Closure
-UID:d36ea38c-9c99-43f3-b671-99c3ddf894d7@d36e.org
+UID:8bbda1f4-e92d-457c-b9be-1954cc6e1380@8bbd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-15T04:30:00&endDate=2025-11-17T01:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 15 and Sunday 16 November\, no service between Harrow-on-the-Hill and Uxbridge. There will also be no PICCADILLY LINE service between Acton Town and Uxbridge. Replacement bus service ML1 operates between Harrow-on-the-Hill and Uxbridge via West Harrow (Treve Avenue)\, South Harrow\, Rayners Lane\, Eastcote\, Ruislip\, West Ruislip (for Central line and Chiltern Railways)\, Ickenham and Hillingdon.
 DTEND:20251117T012900Z
 DTSTART:20251115T043000Z
 SUMMARY:Metropolitan: Part Closure
-UID:cb32180a-6e30-453c-bd5f-fc7158a43823@cb32.org
+UID:bbfa1eaf-27cf-4150-ab08-3f279a90e412@bbfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-29T08:12:34&endDate=2025-10-30T01:29:00">Disruption map.</a>\n\nMetropolitan Line: Minor delays between Baker Street and Aldgate due to an earlier points failure at Baker Street. GOOD SERVICE on the rest of the line. 
+DTEND:20251030T012900Z
+DTSTART:20251029T081234Z
+SUMMARY:Metropolitan: Minor Delays
+UID:a85b32f0-7d2d-4cc7-82c4-7c8ba1f72180@a85b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-04T12:35:00&endDate=2025-11-04T13:00:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Tuesday 4 November\, the 12:37 departure from Chalfont & Latimer to Chesham\, and the 12:56 departure from Chesham to Chalfont & Latimer will be diverted to start and terminate at Amersham. A replacement bus service will operate one journey in each direction between Amersham and Chesham.
+DTEND:20251104T130000Z
+DTSTART:20251104T123500Z
+SUMMARY:Metropolitan: Part Closure
+UID:f7876614-b0b6-416d-97b2-95ada5773a65@f787.org
 END:VEVENT
 END:VCALENDAR

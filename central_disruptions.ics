@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-29T08:25:38&endDate=2025-10-30T01:29:00">Disruption map.</a>\n\nCentral Line: Minor delays between White City and West Ruislip / Ealing Broadway while we fix a faulty train at White City. GOOD SERVICE on the rest of the line. 
+DTEND:20251030T012900Z
+DTSTART:20251029T082538Z
+SUMMARY:Central: Minor Delays
+UID:bd0c8375-31dc-4170-b2f8-1ddae9af883b@bd0c.org
+END:VEVENT
 END:VCALENDAR

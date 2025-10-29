@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Circle disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-10-29T08:13:05&endDate=2025-10-30T01:29:00">Disruption map.</a>\n\nCircle Line: Minor delays between Baker Street and Aldgate due to an earlier points failure at Baker Street. GOOD SERVICE on the rest of the line. 
+DTEND:20251030T012900Z
+DTSTART:20251029T081305Z
+SUMMARY:Circle: Minor Delays
+UID:2a169701-3a6c-4dd5-a7f5-a0f324e45450@2a16.org
+END:VEVENT
 END:VCALENDAR
