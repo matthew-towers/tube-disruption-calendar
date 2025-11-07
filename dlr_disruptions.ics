@@ -3,38 +3,45 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-22T04:30:00&endDate=2025-11-23T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 22 November\, no service between Poplar / Stratford International and Beckton / Woolwich Arsenal and no service between Tower Gateway and Shadwell . Use JUBILEE LINE trains and local London Buses services between Stratford International and Canning Town\, and ELIZABETH LINE between Canary Wharf\, Custom House and Woolwich. Replacement buses operate.
-DTEND:20251123T012900Z
-DTSTART:20251122T043000Z
-SUMMARY:DLR: Part Closure
-UID:c1b8cd75-d6d7-4294-81c2-9699cbe8350a@c1b8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-07T04:30:00&endDate=2025-12-08T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 7 December\, no service between Shadwell and Tower Gateway. Please use local London Buses and London Underground services.
-DTEND:20251208T012900Z
-DTSTART:20251207T043000Z
-SUMMARY:DLR: Part Closure
-UID:5e164ba1-75f9-4ae4-877d-ddbd517705c0@5e16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-29T04:30:00&endDate=2025-12-01T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 29 and Sunday 30 November\, no service between Bank / Tower Gateway and Canning Town / Lewisham or between Stratford and Canary Wharf. Use JUBILEE LINE connections between Stratford\, Canary Wharf and Canada Water. Replacement buses operate.
-DTEND:20251201T012900Z
-DTSTART:20251129T043000Z
-SUMMARY:DLR: Part Closure
-UID:f75e5c38-6147-4c55-8767-a926e17350ff@f75e.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-15T04:30:00&endDate=2025-11-17T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 15 and Sunday 16 November\, no service between Canning Town and Stratford International. Please use JUBILEE LINE and local London Buses services.
 DTEND:20251117T012900Z
 DTSTART:20251115T043000Z
 SUMMARY:DLR: Part Closure
-UID:390f12a9-4510-4a1a-93aa-4f50defb2a68@390f.org
+UID:9bcec776-52bb-433f-b884-d7f2dd250b93@9bce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-23T04:30:00&endDate=2025-11-24T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 23 November\, no service between Shadwell and Tower Gateway. Please use local London Buses and London Underground services.
+DTEND:20251124T012900Z
+DTSTART:20251123T043000Z
+SUMMARY:DLR: Part Closure
+UID:9cff9516-e317-4b66-87db-749fdda05d6f@9cff.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-21T04:30:00&endDate=2025-12-22T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 21 December\, no service between Shadwell and Tower Gateway. Please use local London Buses and London Underground services.
 DTEND:20251222T012900Z
 DTSTART:20251221T043000Z
 SUMMARY:DLR: Part Closure
-UID:ddbccbf4-1635-4175-a26b-4dec7c267ec2@ddbc.org
+UID:e32cb357-c2a4-4aa5-a6d7-2a363458fa0c@e32c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-29T04:30:00&endDate=2025-12-01T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 29 and Sunday 30 November\, no service between Bank / Tower Gateway and Canning Town / Lewisham or between Stratford and Canary Wharf. Use JUBILEE LINE connections between Stratford\, Canary Wharf and Canada Water. Replacement buses operate.
+DTEND:20251201T012900Z
+DTSTART:20251129T043000Z
+SUMMARY:DLR: Part Closure
+UID:cd81a407-33eb-49d1-bf1b-536033fdc8f7@cd81.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-07T04:30:00&endDate=2025-12-08T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 7 December\, no service between Shadwell and Tower Gateway. Please use local London Buses and London Underground services.
+DTEND:20251208T012900Z
+DTSTART:20251207T043000Z
+SUMMARY:DLR: Part Closure
+UID:aba23b56-8e63-4eb7-a8bb-4008c5d04630@aba2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-22T04:30:00&endDate=2025-11-23T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 22 November\, no service between Poplar / Stratford International and Beckton / Woolwich Arsenal and no service between Tower Gateway and Shadwell . Use JUBILEE LINE trains and local London Buses services between Stratford International and Canning Town\, and ELIZABETH LINE between Canary Wharf\, Custom House and Woolwich. Replacement buses operate.
+DTEND:20251123T012900Z
+DTSTART:20251122T043000Z
+SUMMARY:DLR: Part Closure
+UID:e3b9bc55-de4e-45f8-9feb-96d6d05491f6@e3b9.org
 END:VEVENT
 END:VCALENDAR
