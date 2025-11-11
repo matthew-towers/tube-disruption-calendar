@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Jubilee disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-11T08:40:39&endDate=2025-11-12T01:29:00">Disruption map.</a>\n\nJubilee Line: Minor delays due to train cancellations 
+DTEND:20251112T012900Z
+DTSTART:20251111T084039Z
+SUMMARY:Jubilee: Minor Delays
+UID:4a1f12a4-f53b-4c18-8d29-b879e2c5adf9@4a1f.org
+END:VEVENT
 END:VCALENDAR

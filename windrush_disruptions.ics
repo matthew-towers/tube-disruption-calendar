@@ -3,66 +3,73 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Windrush line disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-26T23:30:00&endDate=2025-11-27T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 24\, Tuesday 25\, Wednesday 26 and Thursday 27 November\, after 2330 each evening\, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses (Operated by Southern Railway) will run as follows: The bus for Crystal Palace will depart London Bridge at 23:59 calling at New Cross Gate (00:08) - Brockley - Honor Oak Park - Forest Hill - Sydenham (00:27) - Crystal Palace (00:33)\, Gipsy Hill - West Norwood - Tulse Hill - Streatham Hill (Arr 00:58). The bus for East Croydon will depart London Bridge at 00:36 calling at New Cross Gate (00:50) - Brockley - Honor Oak Park - Forest Hill - Sydenham (01:08) - Norwood Junction (01:15) - East Croydon (Arr 01:27). One return bus from Crystal Palace departs at 23:59\, calling at all stations to London Bridge via New Cross Gate. Alternatively\, use local buses or trams via any reasonable route. Last through trains: New Cross Gate to Crystal Palace 2324\, Crystal Palace to New Cross Gate / Highbury & Islington 2332\; New Cross Gate to West Croydon 2330\, West Croydon to New Cross Gate / Highbury & Islington 2316. Trains at 2232 and 2247 from Highbury & Islington to West Croydon are diverted to Crystal Palace and the 2338 train from Dalston Junction to New Cross Gate does not operate.
+DTEND:20251127T012900Z
+DTSTART:20251126T233000Z
+SUMMARY:Windrush line: Part Closure
+UID:499411ab-9519-41bb-9f5b-fc1ee7406744@4994.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-30T04:30:00&endDate=2025-12-01T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 30 November\, no service between Surrey Quays and Clapham Junction / Battersea Park. Replacement bus service M operates between Canada Water and Clapham Junction via Surrey Quays\, Queens Road Peckham\, Peckham Rye\, Denmark Hill\, Clapham High Street and Wandsworth Road.
 DTEND:20251201T012900Z
 DTSTART:20251130T043000Z
 SUMMARY:Windrush line: Part Closure
-UID:d0209397-4f89-4352-8ed6-3ca2ef718bd1@d020.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-16T22:15:00&endDate=2025-11-17T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 16 November\, after 2215\, no service between Highbury & Islington and Dalston Junction. Rail replacement buses will run as follows: Service S: Highbury & Islington - Canonbury (St Pauls Road) - Dalston Junction. Alternatively\, use local bus route 30 between Highbury & Islington\, Canonbury and Dalston. Last through trains: Highbury & Islington to Dalston Junction 2219\; Dalston Junction to Highbury & Islington 2210 (A later train runs from Dalston Kingsland to Highbury & Islington at 2218). The 2159 and 2229 trains from New Cross to Dalston Junction will not run
-DTEND:20251117T012900Z
-DTSTART:20251116T221500Z
-SUMMARY:Windrush line: Part Closure
-UID:724e1f5a-12b9-451b-82cf-0e3804f93fb9@724e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-14T04:30:00&endDate=2025-12-15T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 14 December\, no service between Sydenham and West Croydon. Customers for Penge West\, Anerley\, Norwood Junction and West Croydon should use local buses from Crystal Palace\, as SOUTHERN trains will not call at these stations. Rail replacement buses (Operated by Southern Railway) will run between East Croydon and West Croydon\, for onward travel to Sutton and Epsom Downs. If you are travelling to Selhurst Park for Crystal Palace vs Manchester City\, please travel via Thornton Heath or Selhurst stations instead.
-DTEND:20251215T012900Z
-DTSTART:20251214T043000Z
-SUMMARY:Windrush line: Part Closure
-UID:65bce107-c930-44e7-a0f5-38ebb098670e@65bc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-24T23:30:00&endDate=2025-11-25T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 24\, Tuesday 25\, Wednesday 26 and Thursday 27 November\, after 2330 each evening\, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses (Operated by Southern Railway) will run as follows: The bus for Crystal Palace will depart London Bridge at 23:59 calling at New Cross Gate (00:08) - Brockley - Honor Oak Park - Forest Hill - Sydenham (00:27) - Crystal Palace (00:33)\, Gipsy Hill - West Norwood - Tulse Hill - Streatham Hill (Arr 00:58). The bus for East Croydon will depart London Bridge at 00:36 calling at New Cross Gate (00:50) - Brockley - Honor Oak Park - Forest Hill - Sydenham (01:08) - Norwood Junction (01:15) - East Croydon (Arr 01:27). One return bus from Crystal Palace departs at 23:59\, calling at all stations to London Bridge via New Cross Gate. Alternatively\, use local buses or trams via any reasonable route. Last through trains: New Cross Gate to Crystal Palace 2324\, Crystal Palace to New Cross Gate / Highbury & Islington 2332\; New Cross Gate to West Croydon 2330\, West Croydon to New Cross Gate / Highbury & Islington 2316. Trains at 2232 and 2247 from Highbury & Islington to West Croydon are diverted to Crystal Palace and the 2338 train from Dalston Junction to New Cross Gate does not operate.
-DTEND:20251125T012900Z
-DTSTART:20251124T233000Z
-SUMMARY:Windrush line: Part Closure
-UID:8ca09829-782e-4ab2-84a9-b191ae00dfc7@8ca0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-27T23:30:00&endDate=2025-11-28T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 24\, Tuesday 25\, Wednesday 26 and Thursday 27 November\, after 2330 each evening\, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses (Operated by Southern Railway) will run as follows: The bus for Crystal Palace will depart London Bridge at 23:59 calling at New Cross Gate (00:08) - Brockley - Honor Oak Park - Forest Hill - Sydenham (00:27) - Crystal Palace (00:33)\, Gipsy Hill - West Norwood - Tulse Hill - Streatham Hill (Arr 00:58). The bus for East Croydon will depart London Bridge at 00:36 calling at New Cross Gate (00:50) - Brockley - Honor Oak Park - Forest Hill - Sydenham (01:08) - Norwood Junction (01:15) - East Croydon (Arr 01:27). One return bus from Crystal Palace departs at 23:59\, calling at all stations to London Bridge via New Cross Gate. Alternatively\, use local buses or trams via any reasonable route. Last through trains: New Cross Gate to Crystal Palace 2324\, Crystal Palace to New Cross Gate / Highbury & Islington 2332\; New Cross Gate to West Croydon 2330\, West Croydon to New Cross Gate / Highbury & Islington 2316. Trains at 2232 and 2247 from Highbury & Islington to West Croydon are diverted to Crystal Palace and the 2338 train from Dalston Junction to New Cross Gate does not operate.
-DTEND:20251128T012900Z
-DTSTART:20251127T233000Z
-SUMMARY:Windrush line: Part Closure
-UID:764724cc-13be-42cb-9088-5e93a09e4a2f@7647.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-25T23:30:00&endDate=2025-11-26T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 24\, Tuesday 25\, Wednesday 26 and Thursday 27 November\, after 2330 each evening\, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses (Operated by Southern Railway) will run as follows: The bus for Crystal Palace will depart London Bridge at 23:59 calling at New Cross Gate (00:08) - Brockley - Honor Oak Park - Forest Hill - Sydenham (00:27) - Crystal Palace (00:33)\, Gipsy Hill - West Norwood - Tulse Hill - Streatham Hill (Arr 00:58). The bus for East Croydon will depart London Bridge at 00:36 calling at New Cross Gate (00:50) - Brockley - Honor Oak Park - Forest Hill - Sydenham (01:08) - Norwood Junction (01:15) - East Croydon (Arr 01:27). One return bus from Crystal Palace departs at 23:59\, calling at all stations to London Bridge via New Cross Gate. Alternatively\, use local buses or trams via any reasonable route. Last through trains: New Cross Gate to Crystal Palace 2324\, Crystal Palace to New Cross Gate / Highbury & Islington 2332\; New Cross Gate to West Croydon 2330\, West Croydon to New Cross Gate / Highbury & Islington 2316. Trains at 2232 and 2247 from Highbury & Islington to West Croydon are diverted to Crystal Palace and the 2338 train from Dalston Junction to New Cross Gate does not operate.
-DTEND:20251126T012900Z
-DTSTART:20251125T233000Z
-SUMMARY:Windrush line: Part Closure
-UID:1b9682fa-281c-4d49-a03e-c82be3ec1add@1b96.org
+UID:cc1f90c2-f95c-4cc5-acb1-70777c340a96@cc1f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-14T04:30:00&endDate=2025-12-15T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 14 December\, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction\, where tickets will be accepted.
 DTEND:20251215T012900Z
 DTSTART:20251214T043000Z
 SUMMARY:Windrush line: Part Closure
-UID:73793092-b65b-44d2-b6cc-182d00026733@7379.org
+UID:cffceae5-7025-46fc-99b0-3aa1c9de9b6f@cffc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-11T09:06:48&endDate=2025-11-11T12:27:33">Disruption map.</a>\n\nWindrush Line: No service between Sydenham and West Croydon while Network Rail fix a signal failure at Purley Oaks. GOOD SERVICE on the rest of the line. 
+DTEND:20251111T122733Z
+DTSTART:20251111T090648Z
+SUMMARY:Windrush line: Part Suspended
+UID:a90785c7-af3d-4dad-9e2a-402ed77b625e@a907.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-27T23:30:00&endDate=2025-11-28T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 24\, Tuesday 25\, Wednesday 26 and Thursday 27 November\, after 2330 each evening\, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses (Operated by Southern Railway) will run as follows: The bus for Crystal Palace will depart London Bridge at 23:59 calling at New Cross Gate (00:08) - Brockley - Honor Oak Park - Forest Hill - Sydenham (00:27) - Crystal Palace (00:33)\, Gipsy Hill - West Norwood - Tulse Hill - Streatham Hill (Arr 00:58). The bus for East Croydon will depart London Bridge at 00:36 calling at New Cross Gate (00:50) - Brockley - Honor Oak Park - Forest Hill - Sydenham (01:08) - Norwood Junction (01:15) - East Croydon (Arr 01:27). One return bus from Crystal Palace departs at 23:59\, calling at all stations to London Bridge via New Cross Gate. Alternatively\, use local buses or trams via any reasonable route. Last through trains: New Cross Gate to Crystal Palace 2324\, Crystal Palace to New Cross Gate / Highbury & Islington 2332\; New Cross Gate to West Croydon 2330\, West Croydon to New Cross Gate / Highbury & Islington 2316. Trains at 2232 and 2247 from Highbury & Islington to West Croydon are diverted to Crystal Palace and the 2338 train from Dalston Junction to New Cross Gate does not operate.
+DTEND:20251128T012900Z
+DTSTART:20251127T233000Z
+SUMMARY:Windrush line: Part Closure
+UID:d7d3691d-e10d-490d-bf4b-0324f2720fa3@d7d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-24T23:30:00&endDate=2025-11-25T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 24\, Tuesday 25\, Wednesday 26 and Thursday 27 November\, after 2330 each evening\, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses (Operated by Southern Railway) will run as follows: The bus for Crystal Palace will depart London Bridge at 23:59 calling at New Cross Gate (00:08) - Brockley - Honor Oak Park - Forest Hill - Sydenham (00:27) - Crystal Palace (00:33)\, Gipsy Hill - West Norwood - Tulse Hill - Streatham Hill (Arr 00:58). The bus for East Croydon will depart London Bridge at 00:36 calling at New Cross Gate (00:50) - Brockley - Honor Oak Park - Forest Hill - Sydenham (01:08) - Norwood Junction (01:15) - East Croydon (Arr 01:27). One return bus from Crystal Palace departs at 23:59\, calling at all stations to London Bridge via New Cross Gate. Alternatively\, use local buses or trams via any reasonable route. Last through trains: New Cross Gate to Crystal Palace 2324\, Crystal Palace to New Cross Gate / Highbury & Islington 2332\; New Cross Gate to West Croydon 2330\, West Croydon to New Cross Gate / Highbury & Islington 2316. Trains at 2232 and 2247 from Highbury & Islington to West Croydon are diverted to Crystal Palace and the 2338 train from Dalston Junction to New Cross Gate does not operate.
+DTEND:20251125T012900Z
+DTSTART:20251124T233000Z
+SUMMARY:Windrush line: Part Closure
+UID:df673bff-ef5c-4b91-bfdd-3f591a2f99a3@df67.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-14T04:30:00&endDate=2025-12-15T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 14 December\, no service between Sydenham and West Croydon. Customers for Penge West\, Anerley\, Norwood Junction and West Croydon should use local buses from Crystal Palace\, as SOUTHERN trains will not call at these stations. Rail replacement buses (Operated by Southern Railway) will run between East Croydon and West Croydon\, for onward travel to Sutton and Epsom Downs. If you are travelling to Selhurst Park for Crystal Palace vs Manchester City\, please travel via Thornton Heath or Selhurst stations instead.
+DTEND:20251215T012900Z
+DTSTART:20251214T043000Z
+SUMMARY:Windrush line: Part Closure
+UID:9127111e-b851-47bc-94ce-ed70cc849b87@9127.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-25T23:30:00&endDate=2025-11-26T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 24\, Tuesday 25\, Wednesday 26 and Thursday 27 November\, after 2330 each evening\, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses (Operated by Southern Railway) will run as follows: The bus for Crystal Palace will depart London Bridge at 23:59 calling at New Cross Gate (00:08) - Brockley - Honor Oak Park - Forest Hill - Sydenham (00:27) - Crystal Palace (00:33)\, Gipsy Hill - West Norwood - Tulse Hill - Streatham Hill (Arr 00:58). The bus for East Croydon will depart London Bridge at 00:36 calling at New Cross Gate (00:50) - Brockley - Honor Oak Park - Forest Hill - Sydenham (01:08) - Norwood Junction (01:15) - East Croydon (Arr 01:27). One return bus from Crystal Palace departs at 23:59\, calling at all stations to London Bridge via New Cross Gate. Alternatively\, use local buses or trams via any reasonable route. Last through trains: New Cross Gate to Crystal Palace 2324\, Crystal Palace to New Cross Gate / Highbury & Islington 2332\; New Cross Gate to West Croydon 2330\, West Croydon to New Cross Gate / Highbury & Islington 2316. Trains at 2232 and 2247 from Highbury & Islington to West Croydon are diverted to Crystal Palace and the 2338 train from Dalston Junction to New Cross Gate does not operate.
+DTEND:20251126T012900Z
+DTSTART:20251125T233000Z
+SUMMARY:Windrush line: Part Closure
+UID:77498def-18a5-4229-ba15-605b7e5cc8b6@7749.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-16T04:30:00&endDate=2025-11-17T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 16 November\, no service between Surrey Quays and Clapham Junction / Battersea Park. Replacement bus service M operates between Canada Water and Clapham Junction via Surrey Quays\, Queens Road Peckham\, Peckham Rye\, Denmark Hill\, Clapham High Street and Wandsworth Road.
 DTEND:20251117T012900Z
 DTSTART:20251116T043000Z
 SUMMARY:Windrush line: Part Closure
-UID:11c129d6-f469-4a82-b8ea-f70e702f33fd@11c1.org
+UID:9a94953e-943d-455a-a678-78edb10a37ef@9a94.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-26T23:30:00&endDate=2025-11-27T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 24\, Tuesday 25\, Wednesday 26 and Thursday 27 November\, after 2330 each evening\, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses (Operated by Southern Railway) will run as follows: The bus for Crystal Palace will depart London Bridge at 23:59 calling at New Cross Gate (00:08) - Brockley - Honor Oak Park - Forest Hill - Sydenham (00:27) - Crystal Palace (00:33)\, Gipsy Hill - West Norwood - Tulse Hill - Streatham Hill (Arr 00:58). The bus for East Croydon will depart London Bridge at 00:36 calling at New Cross Gate (00:50) - Brockley - Honor Oak Park - Forest Hill - Sydenham (01:08) - Norwood Junction (01:15) - East Croydon (Arr 01:27). One return bus from Crystal Palace departs at 23:59\, calling at all stations to London Bridge via New Cross Gate. Alternatively\, use local buses or trams via any reasonable route. Last through trains: New Cross Gate to Crystal Palace 2324\, Crystal Palace to New Cross Gate / Highbury & Islington 2332\; New Cross Gate to West Croydon 2330\, West Croydon to New Cross Gate / Highbury & Islington 2316. Trains at 2232 and 2247 from Highbury & Islington to West Croydon are diverted to Crystal Palace and the 2338 train from Dalston Junction to New Cross Gate does not operate.
-DTEND:20251127T012900Z
-DTSTART:20251126T233000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-16T22:15:00&endDate=2025-11-17T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 16 November\, after 2215\, no service between Highbury & Islington and Dalston Junction. Rail replacement buses will run as follows: Service S: Highbury & Islington - Canonbury (St Pauls Road) - Dalston Junction. Alternatively\, use local bus route 30 between Highbury & Islington\, Canonbury and Dalston. Last through trains: Highbury & Islington to Dalston Junction 2219\; Dalston Junction to Highbury & Islington 2210 (A later train runs from Dalston Kingsland to Highbury & Islington at 2218). The 2159 and 2229 trains from New Cross to Dalston Junction will not run
+DTEND:20251117T012900Z
+DTSTART:20251116T221500Z
 SUMMARY:Windrush line: Part Closure
-UID:916e3ac8-2407-4254-bf56-f3a856ac28f8@916e.org
+UID:a9481187-a41f-435e-bfec-7d88e49701d5@a948.org
 END:VEVENT
 END:VCALENDAR

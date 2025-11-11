@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Circle disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-11T07:31:13&endDate=2025-11-12T01:29:00">Disruption map.</a>\n\nCircle Line: Minor delays\, clockwise only due to a track fault at Tower Hill. GOOD SERVICE anti-clockwise.  
+DTEND:20251112T012900Z
+DTSTART:20251111T073113Z
+SUMMARY:Circle: Minor Delays
+UID:041f535b-4cec-4542-8c1e-2e46875bb685@041f.org
+END:VEVENT
 END:VCALENDAR
