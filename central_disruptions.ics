@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-14T11:52:47&endDate=2025-11-15T01:29:00">Disruption map.</a>\n\nCentral Line: Minor delays between North Acton and Ealing Broadway / West Ruislip and MINOR DELAYS between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations. GOOD SERVICE on the rest of the line. 
-DTEND:20251115T012900Z
-DTSTART:20251114T115247Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-15T11:13:58&endDate=2025-11-16T01:29:00">Disruption map.</a>\n\nCentral Line: Severe delays between Leytonstone and Epping due to the unavailability of control room staff. MINOR DELAYS on the rest of the line. Tickets are being accepted on London buses 
+DTEND:20251116T012900Z
+DTSTART:20251115T111358Z
+SUMMARY:Central: Severe Delays
+UID:0acb60ca-8a69-4fc5-9f88-23e016a0f261@0acb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-15T11:13:58&endDate=2025-11-16T01:29:00">Disruption map.</a>\n\nCentral Line: Severe delays between Leytonstone and Epping due to the unavailability of control room staff. MINOR DELAYS on the rest of the line. Tickets are being accepted on London buses 
+DTEND:20251116T012900Z
+DTSTART:20251115T111358Z
 SUMMARY:Central: Minor Delays
-UID:368a476b-9807-4471-bd43-6be520828c99@368a.org
+UID:cf2542d3-6415-489f-b33d-e978e325fd68@cf25.org
 END:VEVENT
 END:VCALENDAR
