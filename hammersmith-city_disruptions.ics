@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Hammersmith & City disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
+DTEND:20251226T012900Z
+DTSTART:20251225T043000Z
+SUMMARY:Hammersmith & City: Planned Closure
+UID:c18700f5-cf5b-4ec4-bce3-dca4a13f8f18@c187.org
+END:VEVENT
 END:VCALENDAR

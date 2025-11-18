@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-17T09:27:35&endDate=2025-11-18T01:29:00">Disruption map.</a>\n\nCentral Line: Minor delays between North Acton and Ealing Broadway / West Ruislip\, and between Leytonstone and Epping / Hainault via Newbury Park due to train cancellations.  
-DTEND:20251118T012900Z
-DTSTART:20251117T092735Z
-SUMMARY:Central: Minor Delays
-UID:146bf6bf-1835-4eb7-a1ab-b278cf17301b@146b.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
+DTEND:20251226T012900Z
+DTSTART:20251225T043000Z
+SUMMARY:Central: Planned Closure
+UID:dacfe27f-ee5b-4439-a351-c2598da920d9@dacf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-18T09:22:33&endDate=2025-11-19T01:29:00">Disruption map.</a>\n\nCentral Line: Severe delays between West Ruislip and North Acton and between Leytonstone and Epping due to an earlier faulty train at West Ruislip. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.  
+DTEND:20251119T012900Z
+DTSTART:20251118T092233Z
+SUMMARY:Central: Severe Delays
+UID:7d1dd1ae-621b-4618-a3b0-049cb3ccced0@7d1d.org
 END:VEVENT
 END:VCALENDAR
