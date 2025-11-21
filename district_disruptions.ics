@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T04:30:00&endDate=2026-01-03T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Christmas Eve\, 24 December\, and from Boxing Day\, 26 December until Friday 2 January\, no service between Earls Court and Kensington Olympia.
-DTEND:20260103T012900Z
-DTSTART:20251226T043000Z
-SUMMARY:District: Part Closure
-UID:cb3e0400-10c8-4797-ae0a-93a0d96de8f4@cb3e.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
 DTEND:20251226T012900Z
 DTSTART:20251225T043000Z
 SUMMARY:District: Planned Closure
-UID:10e4fef8-5abc-402a-8311-2e1e5b31de35@10e4.org
+UID:6dd3026d-e44b-49d8-b103-a6d563bc69a4@6dd3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T04:30:00&endDate=2026-01-03T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Christmas Eve\, 24 December\, and from Boxing Day\, 26 December until Friday 2 January\, no service between Earls Court and Kensington Olympia.
+DTEND:20260103T012900Z
+DTSTART:20251226T043000Z
+SUMMARY:District: Part Closure
+UID:755352d2-58af-4fe4-a2e9-f2f44e45f395@7553.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-24T04:30:00&endDate=2025-12-25T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Christmas Eve\, 24 December\, and from Boxing Day\, 26 December until Friday 2 January\, no service between Earls Court and Kensington Olympia.
 DTEND:20251225T012900Z
 DTSTART:20251224T043000Z
 SUMMARY:District: Part Closure
-UID:46b4d207-bf83-4da8-864b-236d7b915202@46b4.org
+UID:8388b6c3-5263-48ca-8300-86c2865eae19@8388.org
 END:VEVENT
 END:VCALENDAR

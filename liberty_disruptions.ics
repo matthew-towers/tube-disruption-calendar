@@ -3,17 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Liberty line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-23T04:30:00&endDate=2025-11-24T01:29:00">Disruption map.</a>\n\nLIBERTY LINE: Sunday 23 November\, no service between Romford and Upminster. Please use local London Buses routes 165 248 and 370.
-DTEND:20251124T012900Z
-DTSTART:20251123T043000Z
-SUMMARY:Liberty line: Planned Closure
-UID:206d1c64-0e37-4bf9-8898-b5143aaf97a6@206d.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Overground line.
 DTEND:20251226T012900Z
 DTSTART:20251225T043000Z
 SUMMARY:Liberty line: Planned Closure
-UID:a26ca0fc-8df5-4e08-86ff-75730d19d6e2@a26c.org
+UID:faee6f80-5310-40aa-a430-89599e1278a1@faee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-23T04:30:00&endDate=2025-11-24T01:29:00">Disruption map.</a>\n\nLIBERTY LINE: Sunday 23 November\, no service between Romford and Upminster. Please use local London Buses routes 165 248 and 370.
+DTEND:20251124T012900Z
+DTSTART:20251123T043000Z
+SUMMARY:Liberty line: Planned Closure
+UID:36897da8-541b-4ffa-b408-073e5a0c8026@3689.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T04:30:00&endDate=2025-12-27T01:29:00">Disruption map.</a>\n\nLIBERTY LINE: Boxing Day\, 26 December\, no service throughout the line. Please use local London Buses services.
+DTEND:20251227T012900Z
+DTSTART:20251226T043000Z
+SUMMARY:Liberty line: Planned Closure
+UID:14b81b00-9244-40ca-a7a4-0ed9d680c7bd@14b8.org
 END:VEVENT
 END:VCALENDAR

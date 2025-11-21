@@ -3,73 +3,66 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Northern disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-20T08:54:49&endDate=2025-11-21T01:29:00">Disruption map.</a>\n\nNorthern Line: Minor delays due to earlier faulty trains at Euston and Tooting Broadway. 
-DTEND:20251121T012900Z
-DTSTART:20251120T085449Z
-SUMMARY:Northern: Minor Delays
-UID:29770b60-9b84-4041-8642-71b3490bc7c1@2977.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-07T05:30:00&endDate=2025-12-08T01:29:00">Disruption map.</a>\n\nNORTHERN LINE: Saturday 6 and Sunday 7 December\, after 0530 each day\, no service between Archway and High Barnet / Mill Hill East. Use London Buses Route 382 for Mill Hill East. Replacement bus service NL3 operates between Archway and High Barnet via Highgate\, East Finchley\, Finchley Central\, West Finchley (Ballards Lane)\, Woodside Park and Totteridge & Whetstone (Whetstone High Road)
 DTEND:20251208T012900Z
 DTSTART:20251207T053000Z
 SUMMARY:Northern: Part Closure
-UID:c68c61eb-0da7-4588-81e2-734a33d52d10@c68c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-06T01:45:00&endDate=2025-12-06T05:30:00">Disruption map.</a>\n\nNORTHERN LINE: Saturday 6 and Sunday 7 December\, between 0145 and 0530 each day\, no service between Charing Cross and Golders Green / High Barnet. Please use Night Buses instead.
-DTEND:20251206T053000Z
-DTSTART:20251206T014500Z
-SUMMARY:Northern: Part Closure
-UID:c4967742-61c7-4735-ac8c-b843853d2793@c496.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-13T05:30:00&endDate=2025-12-15T01:29:00">Disruption map.</a>\n\nNORTHERN LINE: Saturday 13 December\, from 0530\, including Saturday Night Tube\, and all day Sunday 14 December\, no service between Golders Green and Edgware. Replacement bus service NL1 operates between Hampstead and Canons Park (for Jubilee line) via Brent Cross (Golders Green Road)\, Hendon Central\, Colindale\, Burnt Oak and Edgware. Early morning journeys on Sunday do not serve Canons Park.
-DTEND:20251215T012900Z
-DTSTART:20251213T053000Z
-SUMMARY:Northern: Part Closure
-UID:98409b35-a654-4ece-9efe-a7ea65b605e4@9840.org
+UID:aaa1a5d4-903f-4b0c-8481-dd9183b95ca5@aaa1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
 DTEND:20251226T012900Z
 DTSTART:20251225T043000Z
 SUMMARY:Northern: Planned Closure
-UID:3fa658a3-f67d-4de5-9bc3-ea05c5af1ab9@3fa6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-29T01:45:00&endDate=2025-11-29T05:30:00">Disruption map.</a>\n\nNORTHERN LINE: Saturday 29 November\, between 0145 and 0530\, no service between Hampstead and Edgware. Replacement bus service NL1 operates between Hampstead and Edgware via Golders Green\, Brent Cross (Golders Green Road)\, Hendon Central\, Colindale and Burnt Oak.
-DTEND:20251129T053000Z
-DTSTART:20251129T014500Z
-SUMMARY:Northern: Part Closure
-UID:39513c79-f45c-4d46-9e73-e46dc9544001@3951.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-06T05:30:00&endDate=2025-12-07T01:29:00">Disruption map.</a>\n\nNORTHERN LINE: Saturday 6 and Sunday 7 December\, after 0530 each day\, no service between Archway and High Barnet / Mill Hill East. Use London Buses Route 382 for Mill Hill East. Replacement bus service NL3 operates between Archway and High Barnet via Highgate\, East Finchley\, Finchley Central\, West Finchley (Ballards Lane)\, Woodside Park and Totteridge & Whetstone (Whetstone High Road)
-DTEND:20251207T012900Z
-DTSTART:20251206T053000Z
-SUMMARY:Northern: Part Closure
-UID:d8c0fb35-148c-4811-9805-d487cae7b6c4@d8c0.org
+UID:5c832a0e-463f-4caf-910b-408ee2ec7187@5c83.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-07T01:45:00&endDate=2025-12-07T05:30:00">Disruption map.</a>\n\nNORTHERN LINE: Saturday 6 and Sunday 7 December\, between 0145 and 0530 each day\, no service between Charing Cross and Golders Green / High Barnet. Please use Night Buses instead.
 DTEND:20251207T053000Z
 DTSTART:20251207T014500Z
 SUMMARY:Northern: Part Closure
-UID:cea04d61-bc71-42b8-82bc-ca596e558515@cea0.org
+UID:39701f3c-b98a-4c45-a6ef-10310f54f2a9@3970.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-13T01:45:00&endDate=2025-12-13T05:30:00">Disruption map.</a>\n\nNORTHERN LINE: Saturday 13 December between 0145 and 0530\, no service between Hampstead and Edgware. Replacement bus service NL1 operates between Hampstead and Edgware via Golders Green\, Brent Cross (Golders Green Road)\, Hendon Central\, Colindale and Burnt Oak.
 DTEND:20251213T053000Z
 DTSTART:20251213T014500Z
 SUMMARY:Northern: Part Closure
-UID:6c842411-b742-48cd-8b0a-4daff237fe94@6c84.org
+UID:d3102583-f93d-4311-9812-ef7c12b3d98a@d310.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-13T05:30:00&endDate=2025-12-15T01:29:00">Disruption map.</a>\n\nNORTHERN LINE: Saturday 13 December\, from 0530\, including Saturday Night Tube\, and all day Sunday 14 December\, no service between Golders Green and Edgware. Replacement bus service NL1 operates between Hampstead and Canons Park (for Jubilee line) via Brent Cross (Golders Green Road)\, Hendon Central\, Colindale\, Burnt Oak and Edgware. Early morning journeys on Sunday do not serve Canons Park.
+DTEND:20251215T012900Z
+DTSTART:20251213T053000Z
+SUMMARY:Northern: Part Closure
+UID:76fe25b9-b1b8-452a-95a3-b69190fd26da@76fe.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-06T01:45:00&endDate=2025-12-06T05:30:00">Disruption map.</a>\n\nNORTHERN LINE: Saturday 6 and Sunday 7 December\, between 0145 and 0530 each day\, no service between Charing Cross and Golders Green / High Barnet. Please use Night Buses instead.
+DTEND:20251206T053000Z
+DTSTART:20251206T014500Z
+SUMMARY:Northern: Part Closure
+UID:e18c32c3-656b-4d10-95f6-d59a8e4a1c14@e18c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-29T01:45:00&endDate=2025-11-29T05:30:00">Disruption map.</a>\n\nNORTHERN LINE: Saturday 29 November\, between 0145 and 0530\, no service between Hampstead and Edgware. Replacement bus service NL1 operates between Hampstead and Edgware via Golders Green\, Brent Cross (Golders Green Road)\, Hendon Central\, Colindale and Burnt Oak.
+DTEND:20251129T053000Z
+DTSTART:20251129T014500Z
+SUMMARY:Northern: Part Closure
+UID:fcd2561c-668b-4fea-a6e1-2fa462fd37ac@fcd2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-29T05:30:00&endDate=2025-12-01T01:29:00">Disruption map.</a>\n\nNORTHERN LINE: Saturday 29 November\, from 0530\, including Saturday Night Tube\, and all day Sunday 30 November\, no service between Golders Green and Edgware. Replacement bus service NL1 operates between Hampstead and Canons Park (for Jubilee line) via Brent Cross (Golders Green Road)\, Hendon Central\, Colindale\, Burnt Oak and Edgware. Early morning journeys on Sunday do not serve Canons Park.
 DTEND:20251201T012900Z
 DTSTART:20251129T053000Z
 SUMMARY:Northern: Part Closure
-UID:6113022f-40dd-4526-a3c9-6a1965364f37@6113.org
+UID:538d4a69-a0db-4cf9-8eff-97913991452f@538d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-06T05:30:00&endDate=2025-12-07T01:29:00">Disruption map.</a>\n\nNORTHERN LINE: Saturday 6 and Sunday 7 December\, after 0530 each day\, no service between Archway and High Barnet / Mill Hill East. Use London Buses Route 382 for Mill Hill East. Replacement bus service NL3 operates between Archway and High Barnet via Highgate\, East Finchley\, Finchley Central\, West Finchley (Ballards Lane)\, Woodside Park and Totteridge & Whetstone (Whetstone High Road)
+DTEND:20251207T012900Z
+DTSTART:20251206T053000Z
+SUMMARY:Northern: Part Closure
+UID:6f311b1a-c4a7-4a19-9009-750deb7dc6dd@6f31.org
 END:VEVENT
 END:VCALENDAR

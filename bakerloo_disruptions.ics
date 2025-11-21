@@ -3,24 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Bakerloo disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
-DTEND:20251226T012900Z
-DTSTART:20251225T043000Z
-SUMMARY:Bakerloo: Planned Closure
-UID:003a041c-f5ac-4432-87c5-9b0681552e9f@003a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-20T08:30:26&endDate=2025-11-21T01:29:00">Disruption map.</a>\n\nBakerloo Line: Minor delays due to train cancellations. 
-DTEND:20251121T012900Z
-DTSTART:20251120T083026Z
-SUMMARY:Bakerloo: Minor Delays
-UID:62a92554-c9b8-4d18-af9f-29121143adb2@62a9.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-29T04:30:00&endDate=2025-12-01T01:29:00">Disruption map.</a>\n\nBAKERLOO LINE: Saturday 29 and Sunday 30 November\, no service between Queens Park and Harrow & Wealdstone. There will also be no LIONESS LINE service between Euston and Watford Junction. On Saturday only\, SOUTHERN services will call at Wembley Central (before 1900 and after 2300 only)\, Harrow & Wealdstone and Watford Junction\, however\, LONDON NORTH WESTERN RAILWAY trains will call at Harrow & Wealdstone on both days. Special bus route 718 operates between Queens Park and Harrow & Wealdstone via Kensal Green\, Willesden Junction (Harrow Road)\, Harlesden Town Centre (High Street / Manor Park Road)\, Stonebridge Park\, Wembley Central (Park Lane)\, Wembley Central Station\, North Wembley\, Preston Road (for South Kenton and Metropolitan line) and Kenton.
 DTEND:20251201T012900Z
 DTSTART:20251129T043000Z
 SUMMARY:Bakerloo: Part Closure
-UID:4f91c5e6-4f52-461b-82a3-57a4d11e997e@4f91.org
+UID:90a845dc-a150-4f6a-a5a2-9570563d323c@90a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
+DTEND:20251226T012900Z
+DTSTART:20251225T043000Z
+SUMMARY:Bakerloo: Planned Closure
+UID:6af9504d-1e48-47ba-8f2a-361b43b24847@6af9.org
 END:VEVENT
 END:VCALENDAR
