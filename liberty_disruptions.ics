@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Liberty line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Overground line.
-DTEND:20251226T012900Z
-DTSTART:20251225T043000Z
-SUMMARY:Liberty line: Planned Closure
-UID:faee6f80-5310-40aa-a430-89599e1278a1@faee.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-23T04:30:00&endDate=2025-11-24T01:29:00">Disruption map.</a>\n\nLIBERTY LINE: Sunday 23 November\, no service between Romford and Upminster. Please use local London Buses routes 165 248 and 370.
 DTEND:20251124T012900Z
 DTSTART:20251123T043000Z
 SUMMARY:Liberty line: Planned Closure
-UID:36897da8-541b-4ffa-b408-073e5a0c8026@3689.org
+UID:46f2ba77-7503-48df-af12-4881d65fe382@46f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Overground line.
+DTEND:20251226T012900Z
+DTSTART:20251225T043000Z
+SUMMARY:Liberty line: Planned Closure
+UID:742a96c1-5d83-4160-b47a-919dcd3b31d5@742a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T04:30:00&endDate=2025-12-27T01:29:00">Disruption map.</a>\n\nLIBERTY LINE: Boxing Day\, 26 December\, no service throughout the line. Please use local London Buses services.
 DTEND:20251227T012900Z
 DTSTART:20251226T043000Z
 SUMMARY:Liberty line: Planned Closure
-UID:14b81b00-9244-40ca-a7a4-0ed9d680c7bd@14b8.org
+UID:afe1b512-fb17-4aa9-ba18-7fd9f19c986d@afe1.org
 END:VEVENT
 END:VCALENDAR
