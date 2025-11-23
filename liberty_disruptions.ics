@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Liberty line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-23T04:30:00&endDate=2025-11-24T01:29:00">Disruption map.</a>\n\nLIBERTY LINE: Sunday 23 November\, no service between Romford and Upminster. Please use local London Buses routes 165 248 and 370.
-DTEND:20251124T012900Z
-DTSTART:20251123T043000Z
-SUMMARY:Liberty line: Planned Closure
-UID:46f2ba77-7503-48df-af12-4881d65fe382@46f2.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Overground line.
 DTEND:20251226T012900Z
 DTSTART:20251225T043000Z
 SUMMARY:Liberty line: Planned Closure
-UID:742a96c1-5d83-4160-b47a-919dcd3b31d5@742a.org
+UID:1d97ed6b-0762-4396-ad0e-d937b0f445c7@1d97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-23T04:30:00&endDate=2025-11-24T01:29:00">Disruption map.</a>\n\nLIBERTY LINE: Sunday 23 November\, no service between Romford and Upminster. Please use local London Buses routes 165 248 and 370.
+DTEND:20251124T012900Z
+DTSTART:20251123T043000Z
+SUMMARY:Liberty line: Planned Closure
+UID:e64dcbe8-176e-4b81-9b97-5a99897e4788@e64d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T04:30:00&endDate=2025-12-27T01:29:00">Disruption map.</a>\n\nLIBERTY LINE: Boxing Day\, 26 December\, no service throughout the line. Please use local London Buses services.
 DTEND:20251227T012900Z
 DTSTART:20251226T043000Z
 SUMMARY:Liberty line: Planned Closure
-UID:afe1b512-fb17-4aa9-ba18-7fd9f19c986d@afe1.org
+UID:110f327b-0d40-4bd9-9202-86d08ebaf438@110f.org
 END:VEVENT
 END:VCALENDAR
