@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Circle disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-24T09:42:55&endDate=2025-11-24T12:43:52">Disruption map.</a>\n\nCircle Line: No service while emergency services deal with a causality on the track. London Buses and Mildmay line accepting valid tickets via any reasonable route.  
+DTEND:20251124T124352Z
+DTSTART:20251124T094255Z
+SUMMARY:Circle: Suspended
+UID:39a30e39-a422-4df1-83d8-32eae30ee30b@39a3.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
 DTEND:20251226T012900Z
 DTSTART:20251225T043000Z
 SUMMARY:Circle: Planned Closure
-UID:73e4dbfb-2e03-437d-a283-be3e6f2ee678@73e4.org
+UID:76f27835-1e76-4280-ba04-3e4aee56b6e7@76f2.org
 END:VEVENT
 END:VCALENDAR
