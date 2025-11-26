@@ -3,38 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
-DTEND:20251226T012900Z
-DTSTART:20251225T043000Z
-SUMMARY:Piccadilly: Planned Closure
-UID:f6031515-1759-41a1-bbaa-f9661ff97c03@f603.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-06T04:30:00&endDate=2025-12-08T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 6 and Sunday 7 December\, no service between Acton Town and Uxbridge. There will also be no METROPOLITAN LINE service between Harrow-on-the-Hill and Uxbridge. Replacement bus service ML1 operates between Harrow-on-the-Hill and Uxbridge via West Harrow (Treve Avenue)\, South Harrow\, Rayners Lane\, Eastcote\, Ruislip\, West Ruislip (for Central line and Chiltern Railways)\, Ickenham and Hillingdon. Replacement bus service PL4 operates between Acton Town and Rayners Lane via Ealing Common\, North Ealing\, Hanger Lane (for Central line and Park Royal)\, Alperton\, Sudbury Town (Whitton Avenue East)\, Sudbury Hill and South Harrow.
-DTEND:20251208T012900Z
-DTSTART:20251206T043000Z
-SUMMARY:Piccadilly: Part Closure
-UID:8bcd6542-e16f-4f82-82f1-a6108b9acc5d@8bcd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-24T04:43:42&endDate=2025-11-24T12:43:52">Disruption map.</a>\n\nPiccadilly Line: No service between Rayners Lane and Uxbridge to prevent damage to train wheels caused by expected significant leaf fall. Use the Metropolitan line to complete your journey. GOOD SERVICE on the rest of the line.  
-DTEND:20251124T124352Z
-DTSTART:20251124T044342Z
-SUMMARY:Piccadilly: Part Suspended
-UID:176ef779-dfc0-42ec-94df-63b9debc8bbd@176e.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-03T01:30:00&endDate=2026-01-05T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 3 and Sunday 4 January\, including Friday and Saturday Night Tube\, no service between Wood Green and Cockfosters. Replacement bus service PL5 operates between Wood Green and Cockfosters via Bounds Green\, New Southgate (National Rail)\, Arnos Grove\, Southgate and Oakwood.
 DTEND:20260105T012900Z
 DTSTART:20260103T013000Z
 SUMMARY:Piccadilly: Part Closure
-UID:1d9a19ca-4215-4ef2-b962-1285a737745d@1d9a.org
+UID:a7cd11e9-1516-4fd4-a517-cea06e952f4f@a7cd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-24T04:30:00&endDate=2026-01-05T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Christmas Eve\, 24 December to Sunday 4 January\, no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services instead.
 DTEND:20260105T012900Z
 DTSTART:20251224T043000Z
 SUMMARY:Piccadilly: Part Closure
-UID:5337e7f3-e006-4477-9049-af15889ef7ab@5337.org
+UID:d0fb5de7-8634-474a-b2a6-d8d162042ffd@d0fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-06T04:30:00&endDate=2025-12-08T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 6 and Sunday 7 December\, no service between Acton Town and Uxbridge. There will also be no METROPOLITAN LINE service between Harrow-on-the-Hill and Uxbridge. Replacement bus service ML1 operates between Harrow-on-the-Hill and Uxbridge via West Harrow (Treve Avenue)\, South Harrow\, Rayners Lane\, Eastcote\, Ruislip\, West Ruislip (for Central line and Chiltern Railways)\, Ickenham and Hillingdon. Replacement bus service PL4 operates between Acton Town and Rayners Lane via Ealing Common\, North Ealing\, Hanger Lane (for Central line and Park Royal)\, Alperton\, Sudbury Town (Whitton Avenue East)\, Sudbury Hill and South Harrow.
+DTEND:20251208T012900Z
+DTSTART:20251206T043000Z
+SUMMARY:Piccadilly: Part Closure
+UID:0ac21134-5178-4053-a7d4-1075698dca3b@0ac2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
+DTEND:20251226T012900Z
+DTSTART:20251225T043000Z
+SUMMARY:Piccadilly: Planned Closure
+UID:6891ef32-4edb-4414-b03e-150a1e7ea607@6891.org
 END:VEVENT
 END:VCALENDAR

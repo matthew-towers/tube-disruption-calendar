@@ -3,38 +3,38 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-24T09:28:09&endDate=2025-11-25T01:29:00">Disruption map.</a>\n\nMetropolitan Line: Minor Delays between Harrow-on-the-Hill and Aldgate to an earlier person ill on the train. GOOD SERVICE rest of the line 
-DTEND:20251125T012900Z
-DTSTART:20251124T092809Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-06T04:30:00&endDate=2025-12-08T01:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 6 and Sunday 7 December\, no service between Harrow-on-the-Hill and Uxbridge. There will also be no PICCADILLY LINE service between Acton Town and Uxbridge. Replacement bus service ML1 operates between Harrow-on-the-Hill and Uxbridge via West Harrow (Treve Avenue)\, South Harrow\, Rayners Lane\, Eastcote\, Ruislip\, West Ruislip (for Central line and Chiltern Railways)\, Ickenham and Hillingdon.
+DTEND:20251208T012900Z
+DTSTART:20251206T043000Z
+SUMMARY:Metropolitan: Part Closure
+UID:71a6de8c-89cd-481c-9e15-b544ffa14933@71a6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-26T08:10:29&endDate=2025-11-27T01:29:00">Disruption map.</a>\n\nMetropolitan Line: Minor delays between Watford and Moor Park due to an earlier signal failure at Watford. GOOD SERVICE on the rest of the line.  
+DTEND:20251127T012900Z
+DTSTART:20251126T081029Z
 SUMMARY:Metropolitan: Minor Delays
-UID:445d13fd-9dea-4736-9d2e-e115a74553e2@445d.org
+UID:fbe20c7c-ef6c-4efd-9a11-d90b741d2dd7@fbe2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
 DTEND:20251226T012900Z
 DTSTART:20251225T043000Z
 SUMMARY:Metropolitan: Planned Closure
-UID:e9d407ae-5cc4-4aed-9059-5155a1e0abcb@e9d4.org
+UID:bf91ccfb-7f07-437b-bb27-a0dfc2a73b9a@bf91.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T04:30:00&endDate=2025-12-27T01:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Boxing Day\, 26 December\, no service between Rickmansworth and Amersham / Chesham. There will also be no CHILTERN RAILWAYS services between Marylebone and Aylesbury Vale Parkway. Replacement bus service ML6 operates between Rickmansworth and Chesham via Chorleywood\, Chalfont & Latimer and Amersham.
 DTEND:20251227T012900Z
 DTSTART:20251226T043000Z
 SUMMARY:Metropolitan: Part Closure
-UID:4685b975-4732-46b3-ace2-303528bd4bca@4685.org
+UID:5c73d855-439c-4101-a516-de8cbd21e150@5c73.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-01T02:00:00&endDate=2026-01-01T09:00:00">Disruption map.</a>\n\nMETROPOLITAN LINE: New Years Day\, 1 January\, between 0200 and 0900\, no service between Baker Street and Aldgate\, please use Circle or Hammersmith & City lines.
 DTEND:20260101T090000Z
 DTSTART:20260101T020000Z
 SUMMARY:Metropolitan: Part Closure
-UID:6eb20e71-40f8-4dfd-b954-9a0341c54b7f@6eb2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-06T04:30:00&endDate=2025-12-08T01:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 6 and Sunday 7 December\, no service between Harrow-on-the-Hill and Uxbridge. There will also be no PICCADILLY LINE service between Acton Town and Uxbridge. Replacement bus service ML1 operates between Harrow-on-the-Hill and Uxbridge via West Harrow (Treve Avenue)\, South Harrow\, Rayners Lane\, Eastcote\, Ruislip\, West Ruislip (for Central line and Chiltern Railways)\, Ickenham and Hillingdon.
-DTEND:20251208T012900Z
-DTSTART:20251206T043000Z
-SUMMARY:Metropolitan: Part Closure
-UID:a2821209-3e94-4e59-82fe-2e68f3e9e4f1@a282.org
+UID:b0e0c249-048f-4212-95f3-f6018b5aa072@b0e0.org
 END:VEVENT
 END:VCALENDAR
