@@ -3,66 +3,66 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Waterloo & City disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
-DTEND:20251226T012900Z
-DTSTART:20251225T043000Z
-SUMMARY:Waterloo & City: Planned Closure
-UID:32fa6da4-830f-4632-a0bb-65cd98885e82@32fa.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-20T00:30:00&endDate=2025-12-22T01:29:00">Disruption map.</a>\n\nWaterloo & City line: service operates between 06:00 and 00:30\, Monday to Friday only. There is no service on Saturdays\, Sundays and on bank/public holidays.
 DTEND:20251222T012900Z
 DTSTART:20251220T003000Z
 SUMMARY:Waterloo & City: Planned Closure
-UID:a0387d2a-f025-43d3-b592-807a9816cb8a@a038.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-27T00:30:00&endDate=2025-12-29T01:29:00">Disruption map.</a>\n\nWaterloo & City line: service operates between 06:00 and 00:30\, Monday to Friday only. There is no service on Saturdays\, Sundays and on bank/public holidays.
-DTEND:20251229T012900Z
-DTSTART:20251227T003000Z
-SUMMARY:Waterloo & City: Planned Closure
-UID:ac23b86f-b393-4ef2-b6c0-e49009d58579@ac23.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T04:30:00&endDate=2025-12-27T01:29:00">Disruption map.</a>\n\nWATERLOO & CITY LINE: Boxing Day\, 26 December\, no service.
-DTEND:20251227T012900Z
-DTSTART:20251226T043000Z
-SUMMARY:Waterloo & City: Planned Closure
-UID:7ae82a4c-9180-4078-9666-3c077a679665@7ae8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-29T00:30:00&endDate=2025-12-01T01:29:00">Disruption map.</a>\n\nWaterloo & City line: service operates between 06:00 and 00:30\, Monday to Friday only. There is no service on Saturdays\, Sundays and on bank/public holidays.
-DTEND:20251201T012900Z
-DTSTART:20251129T003000Z
-SUMMARY:Waterloo & City: Planned Closure
-UID:23cb2779-bc4b-4aef-96a5-92521cf22252@23cb.org
+UID:780e8c18-958b-44ad-853e-366e06070684@780e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-13T00:30:00&endDate=2025-12-15T01:29:00">Disruption map.</a>\n\nWaterloo & City line: service operates between 06:00 and 00:30\, Monday to Friday only. There is no service on Saturdays\, Sundays and on bank/public holidays.
 DTEND:20251215T012900Z
 DTSTART:20251213T003000Z
 SUMMARY:Waterloo & City: Planned Closure
-UID:feabaa33-bc7e-42f9-8276-579a67c8041d@feab.org
+UID:6b7be589-de4c-4489-8818-3da84db0f2d3@6b7b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
+DTEND:20251226T012900Z
+DTSTART:20251225T043000Z
+SUMMARY:Waterloo & City: Planned Closure
+UID:26e2e317-b01c-491b-8582-310c1ddfbe5a@26e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-27T00:30:00&endDate=2025-12-29T01:29:00">Disruption map.</a>\n\nWaterloo & City line: service operates between 06:00 and 00:30\, Monday to Friday only. There is no service on Saturdays\, Sundays and on bank/public holidays.
+DTEND:20251229T012900Z
+DTSTART:20251227T003000Z
+SUMMARY:Waterloo & City: Planned Closure
+UID:622ef848-9a3a-40dc-a90f-989acb0ffdf6@622e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-29T00:30:00&endDate=2025-12-01T01:29:00">Disruption map.</a>\n\nWaterloo & City line: service operates between 06:00 and 00:30\, Monday to Friday only. There is no service on Saturdays\, Sundays and on bank/public holidays.
+DTEND:20251201T012900Z
+DTSTART:20251129T003000Z
+SUMMARY:Waterloo & City: Planned Closure
+UID:89a7c739-cbbb-470f-9349-10947a823cb2@89a7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-07T00:00:00&endDate=2025-12-08T01:29:00">Disruption map.</a>\n\nWaterloo & City line: service operates between 06:00 and 00:30\, Monday to Friday only. There is no service on Saturdays\, Sundays and on bank/public holidays.
 DTEND:20251208T012900Z
 DTSTART:20251207T000000Z
 SUMMARY:Waterloo & City: Planned Closure
-UID:b87c959b-9ef7-4b0d-b8cd-b0502c3c0fe8@b87c.org
+UID:f4f1bd68-c7b7-42cb-9af9-c0aa978d7c29@f4f1.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-06T00:30:00&endDate=2025-12-06T23:59:00">Disruption map.</a>\n\nWaterloo & City line: service operates between 06:00 and 00:30\, Monday to Friday only. There is no service on Saturdays\, Sundays and on bank/public holidays.
-DTEND:20251206T235900Z
-DTSTART:20251206T003000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T04:30:00&endDate=2025-12-27T01:29:00">Disruption map.</a>\n\nWATERLOO & CITY LINE: Boxing Day\, 26 December\, no service.
+DTEND:20251227T012900Z
+DTSTART:20251226T043000Z
 SUMMARY:Waterloo & City: Planned Closure
-UID:a9bb601e-3ace-41f3-bdad-0a7fdf4736dc@a9bb.org
+UID:d9c01a42-997e-4e99-8a24-f2c10ee58803@d9c0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T00:30:00&endDate=2025-12-26T23:59:00">Disruption map.</a>\n\nWaterloo & City line: service operates between 06:00 and 00:30\, Monday to Friday only. There is no service on Saturdays\, Sundays and on bank/public holidays.
 DTEND:20251226T235900Z
 DTSTART:20251225T003000Z
 SUMMARY:Waterloo & City: Planned Closure
-UID:4171c864-c577-4a97-afa3-bc53771a9542@4171.org
+UID:4b976dfe-1589-4bb6-869a-65189bae5ae6@4b97.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-06T00:30:00&endDate=2025-12-06T23:59:00">Disruption map.</a>\n\nWaterloo & City line: service operates between 06:00 and 00:30\, Monday to Friday only. There is no service on Saturdays\, Sundays and on bank/public holidays.
+DTEND:20251206T235900Z
+DTSTART:20251206T003000Z
+SUMMARY:Waterloo & City: Planned Closure
+UID:e6ee6245-b413-48ba-aeb8-7b63949edd22@e6ee.org
 END:VEVENT
 END:VCALENDAR

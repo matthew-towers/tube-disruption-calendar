@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Bakerloo disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
-DTEND:20251226T012900Z
-DTSTART:20251225T043000Z
-SUMMARY:Bakerloo: Planned Closure
-UID:f6875947-64a6-40b4-8ce1-6d9ff214b495@f687.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-29T04:30:00&endDate=2025-12-01T01:29:00">Disruption map.</a>\n\nBAKERLOO LINE: Saturday 29 and Sunday 30 November\, no service between Queens Park and Harrow & Wealdstone. There will also be no LIONESS LINE service between Euston and Watford Junction. On Saturday only\, SOUTHERN services will call at Wembley Central (before 1900 and after 2300 only)\, Harrow & Wealdstone and Watford Junction\, however\, LONDON NORTH WESTERN RAILWAY trains will call at Harrow & Wealdstone on both days. Special bus route 718 operates between Queens Park and Harrow & Wealdstone via Kensal Green\, Willesden Junction (Harrow Road)\, Harlesden Town Centre (High Street / Manor Park Road)\, Stonebridge Park\, Wembley Central (Park Lane)\, Wembley Central Station\, North Wembley\, Preston Road (for South Kenton and Metropolitan line) and Kenton.
 DTEND:20251201T012900Z
 DTSTART:20251129T043000Z
 SUMMARY:Bakerloo: Part Closure
-UID:8486bb3f-1fab-4ab1-a793-060bc2385117@8486.org
+UID:c6e3d2aa-362c-46a9-a856-2133b6d22334@c6e3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
+DTEND:20251226T012900Z
+DTSTART:20251225T043000Z
+SUMMARY:Bakerloo: Planned Closure
+UID:ca2a8f17-ca1e-4c14-b4c2-c23bec4b24d5@ca2a.org
 END:VEVENT
 END:VCALENDAR
