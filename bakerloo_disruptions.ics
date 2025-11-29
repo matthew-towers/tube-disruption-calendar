@@ -3,24 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Bakerloo disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-29T04:30:00&endDate=2025-12-01T01:29:00">Disruption map.</a>\n\nBAKERLOO LINE: Saturday 29 and Sunday 30 November\, no service between Queens Park and Harrow & Wealdstone. There will also be no LIONESS LINE service between Euston and Watford Junction. On Saturday only\, SOUTHERN services will call at Wembley Central (before 1900 and after 2300 only)\, Harrow & Wealdstone and Watford Junction\, however\, LONDON NORTH WESTERN RAILWAY trains will call at Harrow & Wealdstone on both days. Special bus route 718 operates between Queens Park and Harrow & Wealdstone via Kensal Green\, Willesden Junction (Harrow Road)\, Harlesden Town Centre (High Street / Manor Park Road)\, Stonebridge Park\, Wembley Central (Park Lane)\, Wembley Central Station\, North Wembley\, Preston Road (for South Kenton and Metropolitan line) and Kenton.
-DTEND:20251201T012900Z
-DTSTART:20251129T043000Z
-SUMMARY:Bakerloo: Part Closure
-UID:682b8a8e-fbbb-4587-8497-17b1e7e665cb@682b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-28T10:47:14&endDate=2025-11-29T01:29:00">Disruption map.</a>\n\nBakerloo Line: Minor delays due to a signal at Charing Cross.  
-DTEND:20251129T012900Z
-DTSTART:20251128T104714Z
-SUMMARY:Bakerloo: Minor Delays
-UID:7cda7e7f-b7c7-4293-b518-a389ab8a811e@7cda.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
 DTEND:20251226T012900Z
 DTSTART:20251225T043000Z
 SUMMARY:Bakerloo: Planned Closure
-UID:af59d30c-ad77-4bb6-a47c-c84426ccd1e9@af59.org
+UID:0cd2d58f-daba-4b5d-8154-9184463198b5@0cd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-11-29T04:30:00&endDate=2025-12-01T01:29:00">Disruption map.</a>\n\nBAKERLOO LINE: Saturday 29 and Sunday 30 November\, no service between Queens Park and Harrow & Wealdstone. There will also be no LIONESS LINE service between Euston and Watford Junction. On Saturday only\, SOUTHERN services will call at Wembley Central (before 1900 and after 2300 only)\, Harrow & Wealdstone and Watford Junction\, however\, LONDON NORTH WESTERN RAILWAY trains will call at Harrow & Wealdstone on both days. Special bus route 718 operates between Queens Park and Harrow & Wealdstone via Kensal Green\, Willesden Junction (Harrow Road)\, Harlesden Town Centre (High Street / Manor Park Road)\, Stonebridge Park\, Wembley Central (Park Lane)\, Wembley Central Station\, North Wembley\, Preston Road (for South Kenton and Metropolitan line) and Kenton.
+DTEND:20251201T012900Z
+DTSTART:20251129T043000Z
+SUMMARY:Bakerloo: Part Closure
+UID:9892cdfc-a56d-441b-9e68-1275805fc3f4@9892.org
 END:VEVENT
 END:VCALENDAR
