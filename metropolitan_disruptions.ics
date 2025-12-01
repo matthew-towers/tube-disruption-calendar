@@ -3,31 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-01T02:00:00&endDate=2026-01-01T09:00:00">Disruption map.</a>\n\nMETROPOLITAN LINE: New Years Day\, 1 January\, between 0200 and 0900\, no service between Baker Street and Aldgate\, please use Circle or Hammersmith & City lines.
-DTEND:20260101T090000Z
-DTSTART:20260101T020000Z
-SUMMARY:Metropolitan: Part Closure
-UID:578bf74f-2174-429f-90d8-9db2bb27dbdb@578b.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-06T04:30:00&endDate=2025-12-08T01:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 6 and Sunday 7 December\, no service between Harrow-on-the-Hill and Uxbridge. There will also be no PICCADILLY LINE service between Acton Town and Uxbridge. Replacement bus service ML1 operates between Harrow-on-the-Hill and Uxbridge via West Harrow (Treve Avenue)\, South Harrow\, Rayners Lane\, Eastcote\, Ruislip\, West Ruislip (for Central line and Chiltern Railways)\, Ickenham and Hillingdon.
 DTEND:20251208T012900Z
 DTSTART:20251206T043000Z
 SUMMARY:Metropolitan: Part Closure
-UID:d03e973b-570f-4f6c-bd4b-cf65f4b0805c@d03e.org
+UID:a0ea4f57-e7c0-4f19-afd3-88fa4b721747@a0ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-01T02:00:00&endDate=2026-01-01T09:00:00">Disruption map.</a>\n\nMETROPOLITAN LINE: New Years Day\, 1 January\, between 0200 and 0900\, no service between Baker Street and Aldgate\, please use Circle or Hammersmith & City lines.
+DTEND:20260101T090000Z
+DTSTART:20260101T020000Z
+SUMMARY:Metropolitan: Part Closure
+UID:297eda0f-e6f7-4889-a10a-730edc4aab8d@297e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
 DTEND:20251226T012900Z
 DTSTART:20251225T043000Z
 SUMMARY:Metropolitan: Planned Closure
-UID:7d4e2950-83f4-4504-befb-d9322501cf40@7d4e.org
+UID:fb906cb3-a469-40f6-9cbc-38563e88204b@fb90.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T04:30:00&endDate=2025-12-27T01:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Boxing Day\, 26 December\, no service between Rickmansworth and Amersham / Chesham. There will also be no CHILTERN RAILWAYS services between Marylebone and Aylesbury Vale Parkway. Replacement bus service ML6 operates between Rickmansworth and Chesham via Chorleywood\, Chalfont & Latimer and Amersham.
 DTEND:20251227T012900Z
 DTSTART:20251226T043000Z
 SUMMARY:Metropolitan: Part Closure
-UID:1593011d-aab7-4994-8c33-73dffdaed182@1593.org
+UID:03b9cfff-2669-4e4e-bf4f-ff0687ae1f71@03b9.org
 END:VEVENT
 END:VCALENDAR
