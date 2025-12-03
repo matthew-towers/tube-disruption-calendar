@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Bakerloo disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-03T07:13:41&endDate=2025-12-04T01:29:00">Disruption map.</a>\n\nBakerloo Line: Minor delays due to train cancellations.  
+DTEND:20251204T012900Z
+DTSTART:20251203T071341Z
+SUMMARY:Bakerloo: Minor Delays
+UID:b4d59b12-3d96-47fb-945e-3e30de158bff@b4d5.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
 DTEND:20251226T012900Z
 DTSTART:20251225T043000Z
 SUMMARY:Bakerloo: Planned Closure
-UID:d4d68207-9cd7-4f30-bd3c-129f18b3ebb6@d4d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-02T06:31:49&endDate=2025-12-03T01:29:00">Disruption map.</a>\n\nBakerloo Line: Minor delays due to train cancellations 
-DTEND:20251203T012900Z
-DTSTART:20251202T063149Z
-SUMMARY:Bakerloo: Minor Delays
-UID:a4471487-e479-40db-8906-56146b6b8a87@a447.org
+UID:d4434115-d224-4a60-a74f-41c3719bba62@d443.org
 END:VEVENT
 END:VCALENDAR
