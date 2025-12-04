@@ -3,66 +3,52 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Lioness line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-03T23:45:00&endDate=2025-12-04T01:29:00">Disruption map.</a>\n\nLIONESS LINE: Monday 1\, Tuesday 2\, Wednesday 3 and Thursday 4 December\, the 2345 train from Euston to Watford Junction will not run
-DTEND:20251204T012900Z
-DTSTART:20251203T234500Z
-SUMMARY:Lioness line: Reduced Service
-UID:660b9754-df4c-4504-a409-c47cf00ee1f7@660b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-04T05:25:00&endDate=2025-12-04T06:05:00">Disruption map.</a>\n\nLIONESS LINE: Tuesday 2\, Wednesday 3\, Thursday 4 and Friday 5 December\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
-DTEND:20251204T060500Z
-DTSTART:20251204T052500Z
-SUMMARY:Lioness line: Reduced Service
-UID:b854af8a-172d-4c2f-b4cc-b247695e8438@b854.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-21T20:30:00&endDate=2025-12-22T01:29:00">Disruption map.</a>\n\nLIONESS LINE: Sunday 21 December\, until 1200 and after 2030\, no service between Kilburn High Road and Euston. Use local buses or London Underground services via any reasonable route (entrance/exit at Queen's Park\, Kilburn Park\, Euston Square and Euston stations only). First through trains: Euston to Watford Junction 1215\; Watford Junction to Euston 1130. Last through trains: Watford Junction to Euston 2015\, Euston to Watford Junction 2057
-DTEND:20251222T012900Z
-DTSTART:20251221T203000Z
-SUMMARY:Lioness line: Part Closure
-UID:5700da79-c36f-4603-b8c6-d1529b434d60@5700.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Overground line.
+DTEND:20251226T012900Z
+DTSTART:20251225T043000Z
+SUMMARY:Lioness line: Planned Closure
+UID:989b5382-644e-473f-bf13-93b7b06f1ba6@989b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-21T04:30:00&endDate=2025-12-21T12:00:00">Disruption map.</a>\n\nLIONESS LINE: Sunday 21 December\, until 1200 and after 2030\, no service between Kilburn High Road and Euston. Use local buses or London Underground services via any reasonable route (entrance/exit at Queen's Park\, Kilburn Park\, Euston Square and Euston stations only). First through trains: Euston to Watford Junction 1215\; Watford Junction to Euston 1130. Last through trains: Watford Junction to Euston 2015\, Euston to Watford Junction 2057
 DTEND:20251221T120000Z
 DTSTART:20251221T043000Z
 SUMMARY:Lioness line: Part Closure
-UID:85f55115-4175-4307-a046-986984e82b37@85f5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-05T05:25:00&endDate=2025-12-05T06:05:00">Disruption map.</a>\n\nLIONESS LINE: Tuesday 2\, Wednesday 3\, Thursday 4 and Friday 5 December\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
-DTEND:20251205T060500Z
-DTSTART:20251205T052500Z
-SUMMARY:Lioness line: Reduced Service
-UID:3fb8dd45-806c-42d1-a8b1-0f4b6e178b30@3fb8.org
+UID:6bc71dce-5802-4e31-851d-0efb0e8db859@6bc7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-04T23:45:00&endDate=2025-12-05T01:29:00">Disruption map.</a>\n\nLIONESS LINE: Monday 1\, Tuesday 2\, Wednesday 3 and Thursday 4 December\, the 2345 train from Euston to Watford Junction will not run
 DTEND:20251205T012900Z
 DTSTART:20251204T234500Z
 SUMMARY:Lioness line: Reduced Service
-UID:28d8c9d6-88f8-459c-a5e7-15411047f678@28d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Overground line.
-DTEND:20251226T012900Z
-DTSTART:20251225T043000Z
-SUMMARY:Lioness line: Planned Closure
-UID:0860ff17-24e1-414e-84c0-cb73a69ffd37@0860.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-03T05:25:00&endDate=2025-12-03T06:05:00">Disruption map.</a>\n\nLIONESS LINE: Tuesday 2\, Wednesday 3\, Thursday 4 and Friday 5 December\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
-DTEND:20251203T060500Z
-DTSTART:20251203T052500Z
-SUMMARY:Lioness line: Reduced Service
-UID:4c5fe056-1fea-4861-8dcc-2866de33ec11@4c5f.org
+UID:8cb7062b-327f-42c4-9e6d-178d38aa7332@8cb7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T04:30:00&endDate=2025-12-27T01:29:00">Disruption map.</a>\n\nLIONESS LINE: Boxing Day\, 26 December\, no service throughout the line. BAKERLOO LINE trains will continue to operate between Elephant & Castle\, Queens Park and Harrow & Wealdstone. Please use local London Buses services for other stations.
 DTEND:20251227T012900Z
 DTSTART:20251226T043000Z
 SUMMARY:Lioness line: Planned Closure
-UID:24df7ff2-538c-4632-9b05-c79f75983b7c@24df.org
+UID:1e09f042-53aa-4a47-ac1b-40337552f0f8@1e09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-05T05:25:00&endDate=2025-12-05T06:05:00">Disruption map.</a>\n\nLIONESS LINE: Tuesday 2\, Wednesday 3\, Thursday 4 and Friday 5 December\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
+DTEND:20251205T060500Z
+DTSTART:20251205T052500Z
+SUMMARY:Lioness line: Reduced Service
+UID:74bf9b39-b093-4009-ad6f-891692e8231f@74bf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-04T05:25:00&endDate=2025-12-04T06:05:00">Disruption map.</a>\n\nLIONESS LINE: Tuesday 2\, Wednesday 3\, Thursday 4 and Friday 5 December\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
+DTEND:20251204T060500Z
+DTSTART:20251204T052500Z
+SUMMARY:Lioness line: Reduced Service
+UID:5582daba-ae33-458f-b09d-e1c3ee8f13f3@5582.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-21T20:30:00&endDate=2025-12-22T01:29:00">Disruption map.</a>\n\nLIONESS LINE: Sunday 21 December\, until 1200 and after 2030\, no service between Kilburn High Road and Euston. Use local buses or London Underground services via any reasonable route (entrance/exit at Queen's Park\, Kilburn Park\, Euston Square and Euston stations only). First through trains: Euston to Watford Junction 1215\; Watford Junction to Euston 1130. Last through trains: Watford Junction to Euston 2015\, Euston to Watford Junction 2057
+DTEND:20251222T012900Z
+DTSTART:20251221T203000Z
+SUMMARY:Lioness line: Part Closure
+UID:7729f659-b8e2-4a98-887e-bdaf8b501249@7729.org
 END:VEVENT
 END:VCALENDAR
