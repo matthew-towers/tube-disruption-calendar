@@ -3,52 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-04T06:30:57&endDate=2025-12-05T01:29:00">Disruption map.</a>\n\nMetropolitan Line: No service between Wembley Park and Aldgate while we fix a faulty train at Finchley Road. London Buses\, Chiltern Railways and Thameslink are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  
-DTEND:20251205T012900Z
-DTSTART:20251204T063057Z
-SUMMARY:Metropolitan: Minor Delays
-UID:302c9b92-5fb9-4c9a-9047-900de97fe0b3@302c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T04:30:00&endDate=2025-12-27T01:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Boxing Day\, 26 December\, no service between Rickmansworth and Amersham / Chesham. There will also be no CHILTERN RAILWAYS services between Marylebone and Aylesbury Vale Parkway. Replacement bus service ML6 operates between Rickmansworth and Chesham via Chorleywood\, Chalfont & Latimer and Amersham.
-DTEND:20251227T012900Z
-DTSTART:20251226T043000Z
-SUMMARY:Metropolitan: Part Closure
-UID:fee5d7a7-5f11-4c0c-ac12-d7ded5db1026@fee5.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
+DTEND:20251226T012900Z
+DTSTART:20251225T043000Z
+SUMMARY:Metropolitan: Planned Closure
+UID:7fc197e3-15ed-4d99-b5b3-bed4c4499242@7fc1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-06T04:30:00&endDate=2025-12-08T01:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 6 and Sunday 7 December\, no service between Harrow-on-the-Hill and Uxbridge. There will also be no PICCADILLY LINE service between Acton Town and Uxbridge. Replacement bus service ML1 operates between Harrow-on-the-Hill and Uxbridge via West Harrow (Treve Avenue)\, South Harrow\, Rayners Lane\, Eastcote\, Ruislip\, West Ruislip (for Central line and Chiltern Railways)\, Ickenham and Hillingdon.
 DTEND:20251208T012900Z
 DTSTART:20251206T043000Z
 SUMMARY:Metropolitan: Part Closure
-UID:f50647de-6ab6-46d8-8745-134c3e3e9e0a@f506.org
+UID:32d4d961-fbce-4401-86cc-18a0bf33209f@32d4.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
-DTEND:20251226T012900Z
-DTSTART:20251225T043000Z
-SUMMARY:Metropolitan: Planned Closure
-UID:992f9001-10d1-4274-a5d4-ee659d3ca265@992f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-04T06:30:57&endDate=2025-12-04T09:53:55">Disruption map.</a>\n\nMetropolitan Line: No service between Wembley Park and Aldgate while we fix a faulty train at Finchley Road. London Buses\, Chiltern Railways and Thameslink are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  
-DTEND:20251204T095355Z
-DTSTART:20251204T063057Z
-SUMMARY:Metropolitan: Part Suspended
-UID:b5041a43-7a01-4a47-952a-bc5f874dba14@b504.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T04:30:00&endDate=2025-12-27T01:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Boxing Day\, 26 December\, no service between Rickmansworth and Amersham / Chesham. There will also be no CHILTERN RAILWAYS services between Marylebone and Aylesbury Vale Parkway. Replacement bus service ML6 operates between Rickmansworth and Chesham via Chorleywood\, Chalfont & Latimer and Amersham.
+DTEND:20251227T012900Z
+DTSTART:20251226T043000Z
+SUMMARY:Metropolitan: Part Closure
+UID:5d7e3011-ccf0-4912-a8dc-fdeb06fc44bc@5d7e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-01T02:00:00&endDate=2026-01-01T09:00:00">Disruption map.</a>\n\nMETROPOLITAN LINE: New Years Day\, 1 January\, between 0200 and 0900\, no service between Baker Street and Aldgate\, please use Circle or Hammersmith & City lines.
 DTEND:20260101T090000Z
 DTSTART:20260101T020000Z
 SUMMARY:Metropolitan: Part Closure
-UID:39a92d20-e997-419e-be6d-26d8114b9a28@39a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-04T06:30:57&endDate=2025-12-05T01:29:00">Disruption map.</a>\n\nMetropolitan Line: No service between Wembley Park and Aldgate while we fix a faulty train at Finchley Road. London Buses\, Chiltern Railways and Thameslink are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line.  
-DTEND:20251205T012900Z
-DTSTART:20251204T063057Z
-SUMMARY:Metropolitan: Minor Delays
-UID:748a14c7-4947-445f-921d-c2c69c5b019d@748a.org
+UID:22ddab74-c3a3-4575-9da0-4a8ac04bd2c3@22dd.org
 END:VEVENT
 END:VCALENDAR
