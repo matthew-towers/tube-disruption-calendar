@@ -3,24 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T04:30:00&endDate=2026-01-03T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Christmas Eve\, 24 December\, and from Boxing Day\, 26 December until Friday 2 January\, no service between Earls Court and Kensington Olympia.
-DTEND:20260103T012900Z
-DTSTART:20251226T043000Z
-SUMMARY:District: Part Closure
-UID:f6d78855-fd29-49e5-b20f-903254c1d233@f6d7.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-24T04:30:00&endDate=2025-12-25T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Christmas Eve\, 24 December\, and from Boxing Day\, 26 December until Friday 2 January\, no service between Earls Court and Kensington Olympia.
 DTEND:20251225T012900Z
 DTSTART:20251224T043000Z
 SUMMARY:District: Part Closure
-UID:edb61075-204f-41d1-b259-888854634d77@edb6.org
+UID:3dda3825-7006-44ba-a03b-0c54b6ca99e8@3dda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-06T10:50:42&endDate=2025-12-07T01:29:00">Disruption map.</a>\n\nDistrict Line: Severe delays between Earl's Court and Kensington (Olympia) due to train cancellations. GOOD SERVICE on the rest of the line. \r\nTickets are being accepted on London Buses via reasonable routes. 
+DTEND:20251207T012900Z
+DTSTART:20251206T105042Z
+SUMMARY:District: Severe Delays
+UID:4f724319-1513-4ec8-8a6f-cc2ac6ecf70c@4f72.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T04:30:00&endDate=2026-01-03T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Christmas Eve\, 24 December\, and from Boxing Day\, 26 December until Friday 2 January\, no service between Earls Court and Kensington Olympia.
+DTEND:20260103T012900Z
+DTSTART:20251226T043000Z
+SUMMARY:District: Part Closure
+UID:9fedfa7f-eba3-4975-a896-044f9d4f1510@9fed.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
 DTEND:20251226T012900Z
 DTSTART:20251225T043000Z
 SUMMARY:District: Planned Closure
-UID:78ae6df6-1589-44ed-b768-16b3ccb44bb5@78ae.org
+UID:749233a4-cbd9-4ea0-be95-755f3a14cba2@7492.org
 END:VEVENT
 END:VCALENDAR

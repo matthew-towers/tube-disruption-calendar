@@ -3,31 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Lioness line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-21T04:30:00&endDate=2025-12-21T12:00:00">Disruption map.</a>\n\nLIONESS LINE: Sunday 21 December\, until 1200 and after 2030\, no service between Kilburn High Road and Euston. Use local buses or London Underground services via any reasonable route (entrance/exit at Queen's Park\, Kilburn Park\, Euston Square and Euston stations only). First through trains: Euston to Watford Junction 1215\; Watford Junction to Euston 1130. Last through trains: Watford Junction to Euston 2015\, Euston to Watford Junction 2057
-DTEND:20251221T120000Z
-DTSTART:20251221T043000Z
-SUMMARY:Lioness line: Part Closure
-UID:362c9125-2929-4f8f-8040-5896735a86ef@362c.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Overground line.
+DTEND:20251226T012900Z
+DTSTART:20251225T043000Z
+SUMMARY:Lioness line: Planned Closure
+UID:419846e7-fa04-4db2-b229-119ea3c3cde1@4198.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-21T20:30:00&endDate=2025-12-22T01:29:00">Disruption map.</a>\n\nLIONESS LINE: Sunday 21 December\, until 1200 and after 2030\, no service between Kilburn High Road and Euston. Use local buses or London Underground services via any reasonable route (entrance/exit at Queen's Park\, Kilburn Park\, Euston Square and Euston stations only). First through trains: Euston to Watford Junction 1215\; Watford Junction to Euston 1130. Last through trains: Watford Junction to Euston 2015\, Euston to Watford Junction 2057
 DTEND:20251222T012900Z
 DTSTART:20251221T203000Z
 SUMMARY:Lioness line: Part Closure
-UID:79e92fbb-532f-41d3-a2d6-5595b52a5cca@79e9.org
+UID:9382cdb8-73b5-489b-842e-a2173c92f541@9382.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-21T04:30:00&endDate=2025-12-21T12:00:00">Disruption map.</a>\n\nLIONESS LINE: Sunday 21 December\, until 1200 and after 2030\, no service between Kilburn High Road and Euston. Use local buses or London Underground services via any reasonable route (entrance/exit at Queen's Park\, Kilburn Park\, Euston Square and Euston stations only). First through trains: Euston to Watford Junction 1215\; Watford Junction to Euston 1130. Last through trains: Watford Junction to Euston 2015\, Euston to Watford Junction 2057
+DTEND:20251221T120000Z
+DTSTART:20251221T043000Z
+SUMMARY:Lioness line: Part Closure
+UID:f37c8e34-3cd0-4804-ba3a-2aad7ddf877b@f37c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T04:30:00&endDate=2025-12-27T01:29:00">Disruption map.</a>\n\nLIONESS LINE: Boxing Day\, 26 December\, no service throughout the line. BAKERLOO LINE trains will continue to operate between Elephant & Castle\, Queens Park and Harrow & Wealdstone. Please use local London Buses services for other stations.
 DTEND:20251227T012900Z
 DTSTART:20251226T043000Z
 SUMMARY:Lioness line: Planned Closure
-UID:0d30e0e5-64e6-4b2d-9bfc-ff4beff7617c@0d30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Overground line.
-DTEND:20251226T012900Z
-DTSTART:20251225T043000Z
-SUMMARY:Lioness line: Planned Closure
-UID:1ded7f2c-f6e0-42e0-a0b7-bf4f3bdaf747@1ded.org
+UID:93d45798-e615-417f-b51b-6f49aeecd5af@93d4.org
 END:VEVENT
 END:VCALENDAR
