@@ -3,31 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T04:30:00&endDate=2026-01-03T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Christmas Eve\, 24 December\, and from Boxing Day\, 26 December until Friday 2 January\, no service between Earls Court and Kensington Olympia.
-DTEND:20260103T012900Z
-DTSTART:20251226T043000Z
-SUMMARY:District: Part Closure
-UID:a34966fb-243f-48c8-a799-b36fe55ba39d@a349.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-24T04:30:00&endDate=2025-12-25T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Christmas Eve\, 24 December\, and from Boxing Day\, 26 December until Friday 2 January\, no service between Earls Court and Kensington Olympia.
-DTEND:20251225T012900Z
-DTSTART:20251224T043000Z
-SUMMARY:District: Part Closure
-UID:15bbcd1e-6447-4b62-9fea-29dfca01be8d@15bb.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-10T07:48:50&endDate=2025-12-11T01:29:00">Disruption map.</a>\n\nDistrict Line: Minor delays between Earl's Court and Ealing Broadway / Richmond and between Barking and Upminster eastbound only due to an earlier points failure. GOOD SERVICE on the rest of the line.  
+DTEND:20251211T012900Z
+DTSTART:20251210T074850Z
+SUMMARY:District: Minor Delays
+UID:694ac0f7-c9b9-4ae4-83f9-46fc70580d41@694a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
 DTEND:20251226T012900Z
 DTSTART:20251225T043000Z
 SUMMARY:District: Planned Closure
-UID:4365fbe2-af1f-4c63-bccd-ac85ebddb3cd@4365.org
+UID:5d78b4c6-2c83-426c-bad6-6157503d3338@5d78.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-09T09:24:55&endDate=2025-12-10T01:29:00">Disruption map.</a>\n\nDistrict Line: Minor delays between Barking and Upminster eastbound only due to train cancellations. GOOD SERVICE on the rest of the line. 
-DTEND:20251210T012900Z
-DTSTART:20251209T092455Z
-SUMMARY:District: Minor Delays
-UID:7bcaeee3-88f7-4b86-8aea-e542734222fb@7bca.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-24T04:30:00&endDate=2025-12-25T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Christmas Eve\, 24 December\, and from Boxing Day\, 26 December until Friday 2 January\, no service between Earls Court and Kensington Olympia.
+DTEND:20251225T012900Z
+DTSTART:20251224T043000Z
+SUMMARY:District: Part Closure
+UID:f0056b40-9ce0-479d-b538-97c22c49039b@f005.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T04:30:00&endDate=2026-01-03T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Christmas Eve\, 24 December\, and from Boxing Day\, 26 December until Friday 2 January\, no service between Earls Court and Kensington Olympia.
+DTEND:20260103T012900Z
+DTSTART:20251226T043000Z
+SUMMARY:District: Part Closure
+UID:8dd2ace2-6a85-4bda-9ff2-0dad78195be1@8dd2.org
 END:VEVENT
 END:VCALENDAR

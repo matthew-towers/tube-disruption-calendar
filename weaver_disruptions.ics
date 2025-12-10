@@ -3,73 +3,66 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Weaver line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-09T22:45:00&endDate=2025-12-10T01:29:00">Disruption map.</a>\n\nWEAVER LINE: Monday 8\, Tuesday 9\, Wednesday 10 and Thursday 11 December\, after 2245 each evening\, no service between Hackney Downs and Chingford. Use London Underground or London Buses via any reasonable route. Rail replacement buses will run as follows: Service L3: Hackney Downs - Clapton - St. James Street - Walthamstow Central - Wood Street - Highams Park - Chingford. On Monday to Thursday\, the last three northbound buses  will start from Liverpool Street at 0014\, 0044 and 0114\, and will call additionally at Bethnal Green\, Cambridge Heath and London Fields (Mare Street).Last trains: Liverpool Street to Chingford 2233 (2248 on Sunday)\; Chingford to Liverpool Street 2255
-DTEND:20251210T012900Z
-DTSTART:20251209T224500Z
-SUMMARY:Weaver line: Part Closure
-UID:482c2a3d-5e5f-4e1e-9f04-12158f16557a@482c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T04:30:00&endDate=2025-12-27T01:29:00">Disruption map.</a>\n\nWEAVER LINE: Boxing Day\, 26 December\, no service throughout the line. Please use local London Buses and London Underground services.
-DTEND:20251227T012900Z
-DTSTART:20251226T043000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Overground line.
+DTEND:20251226T012900Z
+DTSTART:20251225T043000Z
 SUMMARY:Weaver line: Planned Closure
-UID:010363b1-9044-4e9b-a838-ab14376cf3d7@0103.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-23T22:45:00&endDate=2025-12-24T01:29:00">Disruption map.</a>\n\nWEAVER LINE: Monday 22 and Tuesday 23 December\, after 2245 each evening\, no service between Hackney Downs and Cheshunt / Enfield Town. Use Clapton for Rectory Road and bus connections to/from Stoke Newington and Stamford Hill\, and London Underground connections between Central London and Seven Sisters. Last trains are at 2245 from Liverpool Street to Cheshunt\; 2253 from Enfield Town\; 2300 from Liverpool Street to Enfield Town and 2302 from Cheshunt. Replacement buses operate.
-DTEND:20251224T012900Z
-DTSTART:20251223T224500Z
-SUMMARY:Weaver line: Part Closure
-UID:d114d34a-c5e0-4f3c-940f-afee6331d239@d114.org
+UID:e46f7a45-b692-4baa-ac70-1c5774944d38@e46f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-22T22:45:00&endDate=2025-12-23T01:29:00">Disruption map.</a>\n\nWEAVER LINE: Monday 22 and Tuesday 23 December\, after 2245 each evening\, no service between Hackney Downs and Cheshunt / Enfield Town. Use Clapton for Rectory Road and bus connections to/from Stoke Newington and Stamford Hill\, and London Underground connections between Central London and Seven Sisters. Last trains are at 2245 from Liverpool Street to Cheshunt\; 2253 from Enfield Town\; 2300 from Liverpool Street to Enfield Town and 2302 from Cheshunt. Replacement buses operate.
 DTEND:20251223T012900Z
 DTSTART:20251222T224500Z
 SUMMARY:Weaver line: Part Closure
-UID:2c6b857d-93f7-4dbc-bcd9-b5e1ac542c2e@2c6b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Overground line.
-DTEND:20251226T012900Z
-DTSTART:20251225T043000Z
-SUMMARY:Weaver line: Planned Closure
-UID:bb4d94e7-2d72-43be-9fbe-f5566e0cc7d7@bb4d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-21T04:30:00&endDate=2025-12-21T10:15:00">Disruption map.</a>\n\nWEAVER LINE: Sunday 21 December\, until 1015\, no service between Liverpool Street and Chingford / Cheshunt / Enfield Town. GREATER ANGLIA trains will not serve Hackney Downs at this time. Use London Underground and London Buses connections between Liverpool Street and Hackney Downs / Seven Sisters. Replacement buses operate between Hackney Downs and Chingford\, and between Seven Sisters and Cheshunt / Enfield Town. First trains are at 0957 from Liverpool Street to Enfield Town\; 1001 from Cheshunt\; 1002 from Liverpool Street to Chingford\; 1010 from Chingford to Liverpool Street\; 1012 Liverpool Street to Cheshunt\, 1023 from Enfield Town. Replacement buses operate.
-DTEND:20251221T101500Z
-DTSTART:20251221T043000Z
-SUMMARY:Weaver line: Planned Closure
-UID:6e42f4b6-5387-4165-8f77-0ba2114d75d2@6e42.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-27T04:30:00&endDate=2026-01-02T01:29:00">Disruption map.</a>\n\nWEAVER LINE: Saturday 27 December until New Years Day 1 January\, a reduced service operates. Trains operate between London Fields and Chingford every 30 minutes\, between London Fields and Cheshunt every hour and between London Fields and Enfield Town every hour. GREATER ANGLIA trains will not call at Hackney Downs or Seven Sisters.
-DTEND:20260102T012900Z
-DTSTART:20251227T043000Z
-SUMMARY:Weaver line: Reduced Service
-UID:55ede186-9fea-49d9-bdf7-4e5531faf41f@55ed.org
+UID:0df5cc46-9681-45b2-a0c5-c31f91c7355a@0df5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-10T22:45:00&endDate=2025-12-11T01:29:00">Disruption map.</a>\n\nWEAVER LINE: Monday 8\, Tuesday 9\, Wednesday 10 and Thursday 11 December\, after 2245 each evening\, no service between Hackney Downs and Chingford. Use London Underground or London Buses via any reasonable route. Rail replacement buses will run as follows: Service L3: Hackney Downs - Clapton - St. James Street - Walthamstow Central - Wood Street - Highams Park - Chingford. On Monday to Thursday\, the last three northbound buses  will start from Liverpool Street at 0014\, 0044 and 0114\, and will call additionally at Bethnal Green\, Cambridge Heath and London Fields (Mare Street).Last trains: Liverpool Street to Chingford 2233 (2248 on Sunday)\; Chingford to Liverpool Street 2255
 DTEND:20251211T012900Z
 DTSTART:20251210T224500Z
 SUMMARY:Weaver line: Part Closure
-UID:f8370484-ab98-4c01-a8b9-a96b4a4b3264@f837.org
+UID:7cf8883e-5392-4750-82b3-106aeb082f19@7cf8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-27T04:30:00&endDate=2026-01-02T01:29:00">Disruption map.</a>\n\nWEAVER LINE: Saturday 27 December until New Years Day 1 January\, no service between Liverpool Street and London Fields. Please use local London Buses and London Underground connections. GREATER ANGLIA trains will not operate between Liverpool Street and Tottenham Hale and will be diverted to/from Stratford.
 DTEND:20260102T012900Z
 DTSTART:20251227T043000Z
 SUMMARY:Weaver line: Part Closure
-UID:7d55aece-2a3f-40cd-bedc-6b687e9ee165@7d55.org
+UID:fab0bb47-6820-41b2-8634-f2c5c54d2266@fab0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-27T04:30:00&endDate=2026-01-02T01:29:00">Disruption map.</a>\n\nWEAVER LINE: Saturday 27 December until New Years Day 1 January\, a reduced service operates. Trains operate between London Fields and Chingford every 30 minutes\, between London Fields and Cheshunt every hour and between London Fields and Enfield Town every hour. GREATER ANGLIA trains will not call at Hackney Downs or Seven Sisters.
+DTEND:20260102T012900Z
+DTSTART:20251227T043000Z
+SUMMARY:Weaver line: Reduced Service
+UID:d1ed5eaf-2f67-4414-8284-50e2fd225331@d1ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-23T22:45:00&endDate=2025-12-24T01:29:00">Disruption map.</a>\n\nWEAVER LINE: Monday 22 and Tuesday 23 December\, after 2245 each evening\, no service between Hackney Downs and Cheshunt / Enfield Town. Use Clapton for Rectory Road and bus connections to/from Stoke Newington and Stamford Hill\, and London Underground connections between Central London and Seven Sisters. Last trains are at 2245 from Liverpool Street to Cheshunt\; 2253 from Enfield Town\; 2300 from Liverpool Street to Enfield Town and 2302 from Cheshunt. Replacement buses operate.
+DTEND:20251224T012900Z
+DTSTART:20251223T224500Z
+SUMMARY:Weaver line: Part Closure
+UID:2bc85500-6f82-468b-bf07-b683d7c0db12@2bc8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T04:30:00&endDate=2025-12-27T01:29:00">Disruption map.</a>\n\nWEAVER LINE: Boxing Day\, 26 December\, no service throughout the line. Please use local London Buses and London Underground services.
+DTEND:20251227T012900Z
+DTSTART:20251226T043000Z
+SUMMARY:Weaver line: Planned Closure
+UID:f1089f1a-c9b4-491c-8053-bf1034ffc32f@f108.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-21T04:30:00&endDate=2025-12-21T10:15:00">Disruption map.</a>\n\nWEAVER LINE: Sunday 21 December\, until 1015\, no service between Liverpool Street and Chingford / Cheshunt / Enfield Town. GREATER ANGLIA trains will not serve Hackney Downs at this time. Use London Underground and London Buses connections between Liverpool Street and Hackney Downs / Seven Sisters. Replacement buses operate between Hackney Downs and Chingford\, and between Seven Sisters and Cheshunt / Enfield Town. First trains are at 0957 from Liverpool Street to Enfield Town\; 1001 from Cheshunt\; 1002 from Liverpool Street to Chingford\; 1010 from Chingford to Liverpool Street\; 1012 Liverpool Street to Cheshunt\, 1023 from Enfield Town. Replacement buses operate.
+DTEND:20251221T101500Z
+DTSTART:20251221T043000Z
+SUMMARY:Weaver line: Planned Closure
+UID:aed623b6-457e-4f98-9e9f-b8795a920161@aed6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-11T22:45:00&endDate=2025-12-12T01:29:00">Disruption map.</a>\n\nWEAVER LINE: Monday 8\, Tuesday 9\, Wednesday 10 and Thursday 11 December\, after 2245 each evening\, no service between Hackney Downs and Chingford. Use London Underground or London Buses via any reasonable route. Rail replacement buses will run as follows: Service L3: Hackney Downs - Clapton - St. James Street - Walthamstow Central - Wood Street - Highams Park - Chingford. On Monday to Thursday\, the last three northbound buses  will start from Liverpool Street at 0014\, 0044 and 0114\, and will call additionally at Bethnal Green\, Cambridge Heath and London Fields (Mare Street).Last trains: Liverpool Street to Chingford 2233 (2248 on Sunday)\; Chingford to Liverpool Street 2255
 DTEND:20251212T012900Z
 DTSTART:20251211T224500Z
 SUMMARY:Weaver line: Part Closure
-UID:f3b453da-e604-48dc-a37f-014da7bc500b@f3b4.org
+UID:5dc50263-7dde-4ccd-9844-4bf92bcca4b0@5dc5.org
 END:VEVENT
 END:VCALENDAR

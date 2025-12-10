@@ -3,38 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
-DTEND:20251226T012900Z
-DTSTART:20251225T043000Z
-SUMMARY:Metropolitan: Planned Closure
-UID:46a3c43f-e055-4c8c-8755-f64ddd51195d@46a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-09T09:39:36&endDate=2025-12-10T01:29:00">Disruption map.</a>\n\nMetropolitan Line: No service between Moor Park and Amersham / Chesham / Watford while we fix a signal failure. Tickets will be accepted on Lioness Line and London Bus services via any reasonable route. MINOR DELAYS on the rest of the line.  
-DTEND:20251210T012900Z
-DTSTART:20251209T093936Z
-SUMMARY:Metropolitan: Minor Delays
-UID:c7f06ef4-cc82-4a27-85fb-019c2e59e443@c7f0.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T04:30:00&endDate=2025-12-27T01:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Boxing Day\, 26 December\, no service between Rickmansworth and Amersham / Chesham. There will also be no CHILTERN RAILWAYS services between Marylebone and Aylesbury Vale Parkway. Replacement bus service ML6 operates between Rickmansworth and Chesham via Chorleywood\, Chalfont & Latimer and Amersham.
 DTEND:20251227T012900Z
 DTSTART:20251226T043000Z
 SUMMARY:Metropolitan: Part Closure
-UID:bb8d4f8b-bd11-4e14-9a48-74153d0dd940@bb8d.org
+UID:ddbdcde3-82e5-472f-95bc-1cb1768b0567@ddbd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-09T09:39:36&endDate=2025-12-09T13:01:36">Disruption map.</a>\n\nMetropolitan Line: No service between Moor Park and Amersham / Chesham / Watford while we fix a signal failure. Tickets will be accepted on Lioness Line and London Bus services via any reasonable route. MINOR DELAYS on the rest of the line.  
-DTEND:20251209T130136Z
-DTSTART:20251209T093936Z
-SUMMARY:Metropolitan: Part Suspended
-UID:058c1ecf-47da-4ef9-8c5c-a2597156ea39@058c.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-10T08:35:54&endDate=2025-12-11T01:29:00">Disruption map.</a>\n\nMetropolitan Line: Minor delays between Moor Park and Watford due to train cancellations. GOOD SERVICE on the rest of the line.  
+DTEND:20251211T012900Z
+DTSTART:20251210T083554Z
+SUMMARY:Metropolitan: Minor Delays
+UID:f14749b2-911d-4d3e-ac60-5f5b5603a059@f147.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
+DTEND:20251226T012900Z
+DTSTART:20251225T043000Z
+SUMMARY:Metropolitan: Planned Closure
+UID:45d17d49-f631-4af4-83cb-48153e4b089a@45d1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-01T02:00:00&endDate=2026-01-01T09:00:00">Disruption map.</a>\n\nMETROPOLITAN LINE: New Years Day\, 1 January\, between 0200 and 0900\, no service between Baker Street and Aldgate\, please use Circle or Hammersmith & City lines.
 DTEND:20260101T090000Z
 DTSTART:20260101T020000Z
 SUMMARY:Metropolitan: Part Closure
-UID:24270445-88e4-4ca9-a713-cbbe86f42929@2427.org
+UID:e3545378-1d71-45e1-a06b-b67ca877a9c0@e354.org
 END:VEVENT
 END:VCALENDAR
