@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Jubilee disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-12T13:38:00&endDate=2025-12-13T01:29:00">Disruption map.</a>\n\nJubilee Line: Minor delays between Baker Street and Stanmore northbound only due to an earlier faulty train at London Bridge. GOOD SERVICE on the rest of the line.  
+DTEND:20251213T012900Z
+DTSTART:20251212T133800Z
+SUMMARY:Jubilee: Minor Delays
+UID:35acf825-0cdb-4189-a096-bb8f1d40fc7c@35ac.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
 DTEND:20251226T012900Z
 DTSTART:20251225T043000Z
 SUMMARY:Jubilee: Planned Closure
-UID:1c3a3bee-9b13-4fd1-8dd8-0587cd245549@1c3a.org
+UID:23a3851b-ab9a-4b0b-bfda-9535c392e977@23a3.org
 END:VEVENT
 END:VCALENDAR

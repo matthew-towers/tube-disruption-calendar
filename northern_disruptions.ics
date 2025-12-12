@@ -3,31 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Northern disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
-DTEND:20251226T012900Z
-DTSTART:20251225T043000Z
-SUMMARY:Northern: Planned Closure
-UID:5bb180dd-13e2-4b8b-a65f-8a39c001546f@5bb1.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-13T01:45:00&endDate=2025-12-13T05:30:00">Disruption map.</a>\n\nNORTHERN LINE: Saturday 13 December between 0145 and 0530\, no service between Hampstead and Edgware. Replacement bus service NL1 operates between Hampstead and Edgware via Golders Green\, Brent Cross (Golders Green Road)\, Hendon Central\, Colindale and Burnt Oak.
 DTEND:20251213T053000Z
 DTSTART:20251213T014500Z
 SUMMARY:Northern: Part Closure
-UID:9c6afc2f-25fb-4989-99fc-ef465d338bfc@9c6a.org
+UID:07004430-55bb-4b82-95b9-1b658957e3ce@0700.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-13T05:30:00&endDate=2025-12-15T01:29:00">Disruption map.</a>\n\nNORTHERN LINE: Saturday 13 December\, from 0530\, including Saturday Night Tube\, and all day Sunday 14 December\, no service between Golders Green and Edgware. Replacement bus service NL1 operates between Hampstead and Canons Park (for Jubilee line) via Brent Cross (Golders Green Road)\, Hendon Central\, Colindale\, Burnt Oak and Edgware. Early morning journeys on Sunday do not serve Canons Park.
 DTEND:20251215T012900Z
 DTSTART:20251213T053000Z
 SUMMARY:Northern: Part Closure
-UID:75ff0f5d-e7f3-4237-a7ed-4ec58e30411e@75ff.org
+UID:023487f0-d2ec-48f4-a983-6830073a65b1@0234.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-11T07:56:37&endDate=2025-12-12T01:29:00">Disruption map.</a>\n\nNorthern Line: Severe delays between Camden Town and High Barnet while we fix a signal failure at High Barnet. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line.  
-DTEND:20251212T012900Z
-DTSTART:20251211T075637Z
-SUMMARY:Northern: Severe Delays
-UID:540bb19c-0679-42a4-99ec-0a726297e7ba@540b.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
+DTEND:20251226T012900Z
+DTSTART:20251225T043000Z
+SUMMARY:Northern: Planned Closure
+UID:cc3a014e-68aa-4c54-a48a-372f05128937@cc3a.org
 END:VEVENT
 END:VCALENDAR
