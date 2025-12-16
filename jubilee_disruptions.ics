@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Jubilee disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-10T00:30:00&endDate=2026-01-10T06:00:00">Disruption map.</a>\n\nJUBILEE LINE: Saturday 10 January\, between 0030 and 0600 approximately\, no service between Finchley Road and Stratford. Replacement bus service JL3 operates between North Greenwich\, Canning Town and Stratford only.
+DTEND:20260110T060000Z
+DTSTART:20260110T003000Z
+SUMMARY:Jubilee: Part Closure
+UID:7af4c449-2b82-4f76-9ede-543a74b24a41@7af4.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
 DTEND:20251226T012900Z
 DTSTART:20251225T043000Z
 SUMMARY:Jubilee: Planned Closure
-UID:7053a96c-bfe3-48cc-8b6c-19b66e791afa@7053.org
+UID:c83b7c40-86bd-4815-912e-cd8d0df35f92@c83b.org
 END:VEVENT
 END:VCALENDAR
