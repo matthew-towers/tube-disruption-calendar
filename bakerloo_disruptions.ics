@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Bakerloo disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-17T05:10:22&endDate=2025-12-18T01:29:00">Disruption map.</a>\n\nBakerloo Line: No service between Queen's Park and Harrow & Wealdstone while we deal with an operational incident in the depot. Please use the London Overground Lioness line to complete your journey. MINOR DELAYS on the rest of the line.  
-DTEND:20251218T012900Z
-DTSTART:20251217T051022Z
-SUMMARY:Bakerloo: Minor Delays
-UID:765a3bf9-fe19-4bdd-bb30-418c5fc4b6d6@765a.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-18T04:32:00&endDate=2025-12-19T01:29:00">Disruption map.</a>\n\nBAKERLOO LINE: No service between Queen's Park and Harrow & Wealdstone for the rest of today\, Thursday 18 December while we deal with an operational incident in the depot. During this time\, please use the Lioness line to complete your journey.
+DTEND:20251219T012900Z
+DTSTART:20251218T043200Z
+SUMMARY:Bakerloo: Part Closure
+UID:2849baa1-32b8-4500-bee2-14b85ae542da@2849.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-17T05:10:22&endDate=2025-12-17T12:22:17">Disruption map.</a>\n\nBakerloo Line: No service between Queen's Park and Harrow & Wealdstone while we deal with an operational incident in the depot. Please use the London Overground Lioness line to complete your journey. MINOR DELAYS on the rest of the line.  
-DTEND:20251217T122217Z
-DTSTART:20251217T051022Z
-SUMMARY:Bakerloo: Part Suspended
-UID:1e9d5599-7e33-4195-b7e6-970743bf76cd@1e9d.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-18T04:18:33&endDate=2025-12-19T01:29:00">Disruption map.</a>\n\nBakerloo Line: No service between Queen's Park and Harrow & Wealdstone for the rest of today\, Thursday 18 December while we deal with an operational incident in the depot. During this time\, please use the Lioness line to complete your journey. MINOR DELAYS on the rest of the line.  
+DTEND:20251219T012900Z
+DTSTART:20251218T041833Z
+SUMMARY:Bakerloo: Minor Delays
+UID:25651f54-9136-4564-b372-73350e6dc648@2565.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
 DTEND:20251226T012900Z
 DTSTART:20251225T043000Z
 SUMMARY:Bakerloo: Planned Closure
-UID:00e6a640-cd92-4170-87cb-5a85896daafc@00e6.org
+UID:5a86e7c9-ad4f-48c1-8f7f-08b606b9f966@5a86.org
 END:VEVENT
 END:VCALENDAR
