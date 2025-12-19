@@ -3,31 +3,38 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-03T06:00:00&endDate=2026-01-05T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 3\, from 0600 and all day Sunday 4 January\, including Saturday Night Tube\, no service between Wood Green and Cockfosters. Replacement bus service PL5 operates between Wood Green and Cockfosters via Bounds Green\, New Southgate (National Rail)\, Arnos Grove\, Southgate and Oakwood.
-DTEND:20260105T012900Z
-DTSTART:20260103T060000Z
-SUMMARY:Piccadilly: Part Closure
-UID:eec26be3-8c5d-4de0-9005-57ade5812840@eec2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-03T00:30:00&endDate=2026-01-03T06:00:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 3 January\, from 0030 until 0600\, no service between Kings Cross St Pancras and Cockfosters. Use VICTORIA LINE between Kings Cross St Pancras and Finsbury Park. Replacement bus service PL5 operates between Finsbury Park and Cockfosters via Manor House\, Turnpike Lane\, Wood Green\, Bounds Green\, New Southgate (National Rail)\, Arnos Grove\, Southgate and Oakwood.
-DTEND:20260103T060000Z
-DTSTART:20260103T003000Z
-SUMMARY:Piccadilly: Part Closure
-UID:bbe20971-f77d-4047-ac4c-4956f8a951cc@bbe2.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-24T04:30:00&endDate=2026-01-05T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Christmas Eve\, 24 December to Sunday 4 January\, no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services instead.
 DTEND:20260105T012900Z
 DTSTART:20251224T043000Z
 SUMMARY:Piccadilly: Part Closure
-UID:06c19887-dc41-4d71-9fe6-b05be135ce4e@06c1.org
+UID:242c1dfe-8ce6-4ab1-bf05-a990f37076e9@242c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-03T06:00:00&endDate=2026-01-05T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 3\, from 0600 and all day Sunday 4 January\, including Saturday Night Tube\, no service between Wood Green and Cockfosters. Replacement bus service PL5 operates between Wood Green and Cockfosters via Bounds Green\, New Southgate (National Rail)\, Arnos Grove\, Southgate and Oakwood.
+DTEND:20260105T012900Z
+DTSTART:20260103T060000Z
+SUMMARY:Piccadilly: Part Closure
+UID:8b8290a7-24d9-4e56-83b6-104e384524ef@8b82.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-19T00:05:01&endDate=2025-12-20T01:29:00">Disruption map.</a>\n\nPiccadilly Line: Severe delays between Acton Town and Heathrow Terminals while we fix a faulty train at Northfields. Tickets are being accepted on London Buses and the Elizabeth line. GOOD service on the rest of the line.  
+DTEND:20251220T012900Z
+DTSTART:20251219T000501Z
+SUMMARY:Piccadilly: Severe Delays
+UID:05a945c5-2a92-4a2b-a9ef-3212c4f68c1d@05a9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
 DTEND:20251226T012900Z
 DTSTART:20251225T043000Z
 SUMMARY:Piccadilly: Planned Closure
-UID:18edc770-4b93-47b5-95d4-6a4fc48d9095@18ed.org
+UID:eba64f8f-0ac9-431c-bfdd-a82132140ebd@eba6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-03T00:30:00&endDate=2026-01-03T06:00:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 3 January\, from 0030 until 0600\, no service between Kings Cross St Pancras and Cockfosters. Use VICTORIA LINE between Kings Cross St Pancras and Finsbury Park. Replacement bus service PL5 operates between Finsbury Park and Cockfosters via Manor House\, Turnpike Lane\, Wood Green\, Bounds Green\, New Southgate (National Rail)\, Arnos Grove\, Southgate and Oakwood.
+DTEND:20260103T060000Z
+DTSTART:20260103T003000Z
+SUMMARY:Piccadilly: Part Closure
+UID:0e7f7054-6056-442b-9acb-176d1c08548f@0e7f.org
 END:VEVENT
 END:VCALENDAR

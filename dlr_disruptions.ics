@@ -3,38 +3,38 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-21T04:30:00&endDate=2025-12-22T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 21 December\, no service between Shadwell and Tower Gateway. Please use local London Buses and London Underground services.
+DTEND:20251222T012900Z
+DTSTART:20251221T043000Z
+SUMMARY:DLR: Part Closure
+UID:b96945ea-43ef-43f1-80ce-a610129deda6@b969.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-03T04:30:00&endDate=2026-01-05T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 3 and Sunday 4 January\, no service between Shadwell and Tower Gateway.
 DTEND:20260105T012900Z
 DTSTART:20260103T043000Z
 SUMMARY:DLR: Part Closure
-UID:36897d32-472f-4e9b-b5ca-2b43cc036244@3689.org
+UID:8eb415fd-52b8-4eed-83c1-babf03ca2029@8eb4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T04:30:00&endDate=2025-12-27T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Boxing Day\, 26 December\, no service between Shadwell and Tower Gateway.
 DTEND:20251227T012900Z
 DTSTART:20251226T043000Z
 SUMMARY:DLR: Part Closure
-UID:ab30be23-d9dd-49ca-9601-f4f303c6f9b4@ab30.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-21T04:30:00&endDate=2025-12-22T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 21 December\, no service between Shadwell and Tower Gateway. Please use local London Buses and London Underground services.
-DTEND:20251222T012900Z
-DTSTART:20251221T043000Z
-SUMMARY:DLR: Part Closure
-UID:5d3948a4-4cb7-4c88-9424-803cabda207b@5d39.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on the Docklands Light Railway.
-DTEND:20251226T012900Z
-DTSTART:20251225T043000Z
-SUMMARY:DLR: Planned Closure
-UID:c2d13569-f70e-4f20-86df-209edd08af5f@c2d1.org
+UID:d15afefe-4c1d-41ad-b1a4-a706265854f2@d15a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-10T04:30:00&endDate=2026-01-12T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 10 and Sunday 11 January\, no service between Shadwell and Tower Gateway.
 DTEND:20260112T012900Z
 DTSTART:20260110T043000Z
 SUMMARY:DLR: Part Closure
-UID:269cb271-a495-46c3-ad0f-c2b6bce4159b@269c.org
+UID:a3384980-b38a-4f19-8e1f-51451dd7cfa6@a338.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on the Docklands Light Railway.
+DTEND:20251226T012900Z
+DTSTART:20251225T043000Z
+SUMMARY:DLR: Planned Closure
+UID:7f6b9c47-cbe3-4242-9185-74c41a8d164f@7f6b.org
 END:VEVENT
 END:VCALENDAR

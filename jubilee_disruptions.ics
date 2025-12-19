@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Jubilee disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
-DTEND:20251226T012900Z
-DTSTART:20251225T043000Z
-SUMMARY:Jubilee: Planned Closure
-UID:0903f550-44ef-4b81-8c5a-4c9b89b7ac2e@0903.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-10T06:00:00&endDate=2026-01-12T01:29:00">Disruption map.</a>\n\nJUBILEE LINE: Saturday 10 January\, from 0600 and all day Sunday 11 January (including Night Tube)\, no service between Green Park and Stratford. Replacement bus service JL3 operates between North Greenwich and Canning Town only\, for DLR connections to/from West Ham and Stratford. Replacement bus service JL4 operates between North Greenwich and Stratford City (for Stratford)\, non-stop\, from 0830 Saturday until 0130 Sunday\, and again from 0900 until midnight on Sunday.
 DTEND:20260112T012900Z
 DTSTART:20260110T060000Z
 SUMMARY:Jubilee: Part Closure
-UID:9ef1084e-4831-4f6b-aba2-ccedaba7359b@9ef1.org
+UID:9de02289-bf73-4efd-9adc-68bdfef57ffe@9de0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
+DTEND:20251226T012900Z
+DTSTART:20251225T043000Z
+SUMMARY:Jubilee: Planned Closure
+UID:8bcd38f4-9535-424c-9f9e-16c8be14fec3@8bcd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-10T00:30:00&endDate=2026-01-10T06:00:00">Disruption map.</a>\n\nJUBILEE LINE: Saturday 10 January\, between 0030 and 0600 approximately\, no service between Finchley Road and Stratford. Replacement bus service JL3 operates between North Greenwich\, Canning Town and Stratford only.
 DTEND:20260110T060000Z
 DTSTART:20260110T003000Z
 SUMMARY:Jubilee: Part Closure
-UID:5bd0f9e3-7937-4327-b70a-620b99e4ad58@5bd0.org
+UID:7479c929-6c8c-4e13-be78-2e327b724f7c@7479.org
 END:VEVENT
 END:VCALENDAR
