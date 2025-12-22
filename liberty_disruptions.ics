@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Liberty line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T04:30:00&endDate=2025-12-27T01:29:00">Disruption map.</a>\n\nLIBERTY LINE: Boxing Day\, 26 December\, no service throughout the line. Please use local London Buses services.
-DTEND:20251227T012900Z
-DTSTART:20251226T043000Z
-SUMMARY:Liberty line: Planned Closure
-UID:7187e9a0-1246-4e0e-a403-5cdbdafeb2fd@7187.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Overground line.
 DTEND:20251226T012900Z
 DTSTART:20251225T043000Z
 SUMMARY:Liberty line: Planned Closure
-UID:275e01d7-7820-4300-8fd3-ce4ada56beac@275e.org
+UID:b2c97b65-a151-46cf-8f47-c5f2131d9e70@b2c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T04:30:00&endDate=2025-12-27T01:29:00">Disruption map.</a>\n\nLIBERTY LINE: Boxing Day\, 26 December\, no service throughout the line. Please use local London Buses services.
+DTEND:20251227T012900Z
+DTSTART:20251226T043000Z
+SUMMARY:Liberty line: Planned Closure
+UID:43fb0142-fca8-4ab7-b8a8-5ef5355179b4@43fb.org
 END:VEVENT
 END:VCALENDAR
