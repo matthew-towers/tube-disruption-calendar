@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
-DTEND:20251226T012900Z
-DTSTART:20251225T043000Z
-SUMMARY:District: Planned Closure
-UID:6c2b0cdb-5221-4cf0-b82a-994c2615d061@6c2b.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T04:30:00&endDate=2026-01-03T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Christmas Eve\, 24 December\, and from Boxing Day\, 26 December until Friday 2 January\, no service between Earls Court and Kensington Olympia.
 DTEND:20260103T012900Z
 DTSTART:20251226T043000Z
 SUMMARY:District: Part Closure
-UID:c5b21422-3301-4f19-bc50-0ea91a421456@c5b2.org
+UID:0b1000f0-e909-4ed9-8d08-aee58e45fb72@0b10.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-24T04:30:00&endDate=2025-12-25T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Christmas Eve\, 24 December\, and from Boxing Day\, 26 December until Friday 2 January\, no service between Earls Court and Kensington Olympia.
 DTEND:20251225T012900Z
 DTSTART:20251224T043000Z
 SUMMARY:District: Part Closure
-UID:dc302e3b-1e2f-4d1e-88cb-d27849a4c2d2@dc30.org
+UID:d4f48b67-8b8e-4ae1-9ec9-c8052c2057c0@d4f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
+DTEND:20251226T012900Z
+DTSTART:20251225T043000Z
+SUMMARY:District: Planned Closure
+UID:7b1a271e-97cd-44af-bed4-6f856ce75763@7b1a.org
 END:VEVENT
 END:VCALENDAR

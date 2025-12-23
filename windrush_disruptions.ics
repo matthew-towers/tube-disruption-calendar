@@ -3,52 +3,59 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Windrush line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T04:30:00&endDate=2025-12-27T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Boxing Day\, 26 December\, no service between Surrey Quays and New Cross. Use local London Buses services\, or New Cross Gate station instead.
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T04:30:00&endDate=2025-12-27T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Boxing Day\, 26 December\, no service between Surrey Quays and Clapham Junction / Battersea Park. Use local London Buses services instead as no replacement bus services operate.
 DTEND:20251227T012900Z
 DTSTART:20251226T043000Z
 SUMMARY:Windrush line: Part Closure
-UID:be5abee3-c460-458d-be54-f9896927f21b@be5a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-27T04:30:00&endDate=2026-01-01T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Saturday 27 to Wednesday 31 December\, no service between Surrey Quays and Clapham Junction / Battersea Park. SOUTHERN services continue to stop at Queens Road Peckham\, Peckham Rye and Battersea Park. Replacement bus service M operates between Canada Water and Clapham Junction via Surrey Quays\, Queens Road Peckham\, Peckham Rye\, Denmark Hill\, Clapham High Street and Wandsworth Road.
-DTEND:20260101T012900Z
-DTSTART:20251227T043000Z
-SUMMARY:Windrush line: Part Closure
-UID:e1bd93f9-681b-4ae8-8cbc-d90648e7323b@e1bd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Overground line.
-DTEND:20251226T012900Z
-DTSTART:20251225T043000Z
-SUMMARY:Windrush line: Planned Closure
-UID:6abf20b3-12e7-4e7c-89e6-e76ae1f847c4@6abf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-01T23:00:00&endDate=2026-01-02T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: New Years Day\, 1 January\, from 2300: No service between Sydenham and West Croydon. West Croydon trains will divert to and depart from Crystal Palace. Use local buses or London Trams via any reasonable route or Southern trains between Sydenham and Norwood Junction. Tickets will also be accepted on Southern trains between Crystal Palace and East or West Croydon (changing at Balham). Last through trains: Highbury & Islington to West Croydon 2217\; West Croydon to Highbury & Islington 2316
-DTEND:20260102T012900Z
-DTSTART:20260101T230000Z
-SUMMARY:Windrush line: Part Closure
-UID:ed9400c0-31c7-49da-a28f-19725d0c5103@ed94.org
+UID:0723c2bc-c39e-4b9a-9bf3-398c2156b8ab@0723.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T04:30:00&endDate=2025-12-27T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Boxing Day\, 26 December\, no service between Sydenham and Crystal Palace. Use local London Buses services.
 DTEND:20251227T012900Z
 DTSTART:20251226T043000Z
 SUMMARY:Windrush line: Part Closure
-UID:23e6d5c1-d7c9-47d3-bb3f-13a1f6609344@23e6.org
+UID:d9013b61-caa7-4065-98cb-b632b2bf048e@d901.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T04:30:00&endDate=2025-12-27T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Boxing Day\, 26 December\, no service between Surrey Quays and Clapham Junction / Battersea Park. Use local London Buses services instead as no replacement bus services operate.
-DTEND:20251227T012900Z
-DTSTART:20251226T043000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-01T23:00:00&endDate=2026-01-02T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: New Years Day\, 1 January\, from 2300: No service between Sydenham and West Croydon. West Croydon trains will divert to and depart from Crystal Palace. Use local buses or London Trams via any reasonable route or Southern trains between Sydenham and Norwood Junction. Tickets will also be accepted on Southern trains between Crystal Palace and East or West Croydon (changing at Balham). Last through trains: Highbury & Islington to West Croydon 2217\; West Croydon to Highbury & Islington 2316
+DTEND:20260102T012900Z
+DTSTART:20260101T230000Z
 SUMMARY:Windrush line: Part Closure
-UID:9d4b0f51-3ca0-4977-a0a7-dc52e8c07e64@9d4b.org
+UID:410a8512-6449-4824-9ee8-727c3bbfd4c2@410a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-23T23:10:00&endDate=2025-12-24T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 22 and Tuesday 23 December\, after 2310 each evening\, no service between Sydenham and West Croydon due to emergency engineering works.
+DTEND:20251224T012900Z
+DTSTART:20251223T231000Z
+SUMMARY:Windrush line: Part Closure
+UID:d1c7568b-08f9-4745-b6be-664976a49812@d1c7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-30T22:15:00&endDate=2025-12-31T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Tuesday 30 December\, after 2215\, no service between Sydenham and West Croydon. West Croydon trains will divert to and depart from Crystal Palace after 2215. Use local buses or London Trams via any reasonable route or Southern trains between Sydenham and Norwood Junction. Tickets will also be accepted on Southern trains between Crystal Palace and Norwood Junction\, and between Norwood Junction and East Croydon. Last through trains: Highbury & Islington to West Croydon 2147\; West Croydon to Highbury & Islington 2246
 DTEND:20251231T012900Z
 DTSTART:20251230T221500Z
 SUMMARY:Windrush line: Part Closure
-UID:6d1a8440-5c38-4194-88d8-637c2ee1e182@6d1a.org
+UID:7ca8e2d8-ba7c-4891-9553-9f9d1306510c@7ca8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T04:30:00&endDate=2025-12-27T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Boxing Day\, 26 December\, no service between Surrey Quays and New Cross. Use local London Buses services\, or New Cross Gate station instead.
+DTEND:20251227T012900Z
+DTSTART:20251226T043000Z
+SUMMARY:Windrush line: Part Closure
+UID:19f5488d-a0ff-41e5-b190-4e0256b5a54c@19f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Overground line.
+DTEND:20251226T012900Z
+DTSTART:20251225T043000Z
+SUMMARY:Windrush line: Planned Closure
+UID:08e63efb-18c9-413f-a4a6-fa6a99233f05@08e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-27T04:30:00&endDate=2026-01-01T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Saturday 27 to Wednesday 31 December\, no service between Surrey Quays and Clapham Junction / Battersea Park. SOUTHERN services continue to stop at Queens Road Peckham\, Peckham Rye and Battersea Park. Replacement bus service M operates between Canada Water and Clapham Junction via Surrey Quays\, Queens Road Peckham\, Peckham Rye\, Denmark Hill\, Clapham High Street and Wandsworth Road.
+DTEND:20260101T012900Z
+DTSTART:20251227T043000Z
+SUMMARY:Windrush line: Part Closure
+UID:3d581391-cdb0-4ecb-a6bd-20519040466b@3d58.org
 END:VEVENT
 END:VCALENDAR
