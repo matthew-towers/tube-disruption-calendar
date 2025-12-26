@@ -3,17 +3,10 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Victoria disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T01:19:38&endDate=2025-12-25T23:31:15">Disruption map.</a>\n\nVictoria Line: Service will resume on Boxing Day morning. 
-DTEND:20251225T233115Z
-DTSTART:20251225T011938Z
-SUMMARY:Victoria: Service Closed
-UID:77cd3089-e223-459d-a518-9ee1a8c7d738@77cd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
-DTEND:20251226T012900Z
-DTSTART:20251225T043000Z
-SUMMARY:Victoria: Planned Closure
-UID:078ec50d-d340-4d31-9d5f-d902dc1ba9aa@078e.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T10:05:38&endDate=2025-12-27T01:29:00">Disruption map.</a>\n\nVictoria Line: Minor delays due to an earlier points failure at Victoria.  
+DTEND:20251227T012900Z
+DTSTART:20251226T100538Z
+SUMMARY:Victoria: Minor Delays
+UID:19a83700-e815-458c-8a16-e4a9ecf7ac9b@19a8.org
 END:VEVENT
 END:VCALENDAR

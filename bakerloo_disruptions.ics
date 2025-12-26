@@ -2,18 +2,4 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Bakerloo disruption
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
-DTEND:20251226T012900Z
-DTSTART:20251225T043000Z
-SUMMARY:Bakerloo: Planned Closure
-UID:30617395-9f95-414f-864f-39c570fff5b8@3061.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T01:09:30&endDate=2025-12-25T23:31:15">Disruption map.</a>\n\nBakerloo Line: Service will resume on Boxing Day morning. 
-DTEND:20251225T233115Z
-DTSTART:20251225T010930Z
-SUMMARY:Bakerloo: Service Closed
-UID:97be0734-4dd9-4b4c-ac06-c325c3e61f7a@97be.org
-END:VEVENT
 END:VCALENDAR

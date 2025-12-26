@@ -3,38 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Weaver line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-27T04:30:00&endDate=2026-01-02T01:29:00">Disruption map.</a>\n\nWEAVER LINE: Saturday 27 December until New Years Day 1 January\, a reduced service operates. Trains operate between London Fields and Chingford every 30 minutes\, between London Fields and Cheshunt every hour and between London Fields and Enfield Town every hour. GREATER ANGLIA trains will not call at Hackney Downs or Seven Sisters.
-DTEND:20260102T012900Z
-DTSTART:20251227T043000Z
-SUMMARY:Weaver line: Reduced Service
-UID:11676868-2ba4-4472-a6f3-4abbf3bc27d1@1167.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T01:14:51&endDate=2025-12-25T23:31:15">Disruption map.</a>\n\nWeaver Line: Service will resume on the 27th of December.  
-DTEND:20251225T233115Z
-DTSTART:20251225T011451Z
-SUMMARY:Weaver line: Service Closed
-UID:bc0af21c-bcf3-441d-a02a-feac05a1b488@bc0a.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-26T04:30:00&endDate=2025-12-27T01:29:00">Disruption map.</a>\n\nWEAVER LINE: Boxing Day\, 26 December\, no service throughout the line. Please use local London Buses and London Underground services.
 DTEND:20251227T012900Z
 DTSTART:20251226T043000Z
 SUMMARY:Weaver line: Planned Closure
-UID:7a9a1928-e71f-4af2-9bdd-625a85a14e1a@7a9a.org
+UID:1f515000-fc99-47c1-9930-16e5dc281559@1f51.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Overground line.
-DTEND:20251226T012900Z
-DTSTART:20251225T043000Z
-SUMMARY:Weaver line: Planned Closure
-UID:125e6717-ca74-4a4a-b7a2-4d97faab7fc7@125e.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-27T04:30:00&endDate=2026-01-02T01:29:00">Disruption map.</a>\n\nWEAVER LINE: Saturday 27 December until New Years Day 1 January\, a reduced service operates. Trains operate between London Fields and Chingford every 30 minutes\, between London Fields and Cheshunt every hour and between London Fields and Enfield Town every hour. GREATER ANGLIA trains will not call at Hackney Downs or Seven Sisters.
+DTEND:20260102T012900Z
+DTSTART:20251227T043000Z
+SUMMARY:Weaver line: Reduced Service
+UID:cd1d3c92-15aa-4b6d-89d7-34913d5761bb@cd1d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-27T04:30:00&endDate=2026-01-02T01:29:00">Disruption map.</a>\n\nWEAVER LINE: Saturday 27 December until New Years Day 1 January\, no service between Liverpool Street and London Fields. Please use local London Buses and London Underground connections. GREATER ANGLIA trains will not operate between Liverpool Street and Tottenham Hale and will be diverted to/from Stratford.
 DTEND:20260102T012900Z
 DTSTART:20251227T043000Z
 SUMMARY:Weaver line: Part Closure
-UID:42570e06-93da-4120-bd62-4d4ddbe412be@4257.org
+UID:1c18eb19-9451-4cd0-aa09-0f2a6d784852@1c18.org
 END:VEVENT
 END:VCALENDAR

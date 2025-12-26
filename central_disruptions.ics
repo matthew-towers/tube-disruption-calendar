@@ -2,18 +2,4 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T01:09:40&endDate=2025-12-25T23:31:15">Disruption map.</a>\n\nCentral Line: Service will resume on Boxing Day morning. 
-DTEND:20251225T233115Z
-DTSTART:20251225T010940Z
-SUMMARY:Central: Service Closed
-UID:cd5599f3-6c74-413c-9c6e-0c5ba1c18f57@cd55.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-25T04:30:00&endDate=2025-12-26T01:29:00">Disruption map.</a>\n\nCHRISTMAS DAY: No service on any London Underground line.
-DTEND:20251226T012900Z
-DTSTART:20251225T043000Z
-SUMMARY:Central: Planned Closure
-UID:3b8b0fce-62ec-4124-904b-f047afec28cd@3b8b.org
-END:VEVENT
 END:VCALENDAR
