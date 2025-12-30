@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Mildmay line disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-04T04:30:00&endDate=2026-01-05T01:29:00">Disruption map.</a>\n\nMILDMAY LINE: Sunday 4 January\, a reduced service will run between Shepherds Bush and Clapham Junction. SOUTHERN services will also operate.
+DTEND:20260105T012900Z
+DTSTART:20260104T043000Z
+SUMMARY:Mildmay line: Reduced Service
+UID:16ba5b0a-2f4a-4255-9ed0-c1c7674d67a1@16ba.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-10T04:30:00&endDate=2026-01-12T01:29:00">Disruption map.</a>\n\nMILDMAY LINE: Saturday 10 and Sunday 11 January\, no service between Gospel Oak and Richmond / Shepherds Bush (via West Hampstead). Trains will operate between Stratford and Camden Road with some services continuing to/from Willesden Junction (Low Level) via South Hampstead\, Kilburn High Road\, Queens Park and Kensal Green. Use DISTRICT LINE services between Gunnersbury\, Kew Gardens and Richmond\, and local London Buses routes 220 and 228 between Willesden Junction and Shepherds Bush. Replacement buses operate between Camden Road and Gunnersbury.
 DTEND:20260112T012900Z
 DTSTART:20260110T043000Z
 SUMMARY:Mildmay line: Part Closure
-UID:7dad27ae-6bf8-4ce1-ad40-51f673939a81@7dad.org
+UID:1a92af5b-b79d-4b0a-8989-9fdcd08cd9fd@1a92.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2025-12-27T04:30:00&endDate=2026-01-05T01:29:00">Disruption map.</a>\n\nMILDMAY LINE: Saturday 27 December until Sunday 4 January\, no service between Gospel Oak and Richmond / Shepherds Bush. Trains will operate between Stratford and Camden Road with some services continuing to/from Willesden Junction (Low Level) via South Hampstead\, Kilburn High Road\, Queens Park and Kensal Green. Use DISTRICT LINE services between Gunnersbury\, Kew Gardens and Richmond\, and local London Buses routes 220 and 228 between Willesden Junction and Shepherds Bush. Replacement buses operate between Camden Road and Gunnersbury.
 DTEND:20260105T012900Z
 DTSTART:20251227T043000Z
 SUMMARY:Mildmay line: Part Closure
-UID:495d6cf5-6cdc-4659-a992-13628e6aefdd@495d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-04T04:30:00&endDate=2026-01-05T01:29:00">Disruption map.</a>\n\nMILDMAY LINE: Sunday 4 January\, a reduced service will run between Shepherds Bush and Clapham Junction. SOUTHERN services will also operate.
-DTEND:20260105T012900Z
-DTSTART:20260104T043000Z
-SUMMARY:Mildmay line: Reduced Service
-UID:2687108b-4efb-4b57-bad5-d803bb6d8c3d@2687.org
+UID:035a5a1f-1e4c-400e-bd29-672875b94336@035a.org
 END:VEVENT
 END:VCALENDAR
