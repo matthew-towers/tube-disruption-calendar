@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Jubilee disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-10T00:30:00&endDate=2026-01-10T06:00:00">Disruption map.</a>\n\nJUBILEE LINE: Saturday 10 January\, between 0030 and 0600 approximately\, no service between Finchley Road and Stratford. Replacement bus service JL3 operates between North Greenwich\, Canning Town and Stratford only.
-DTEND:20260110T060000Z
-DTSTART:20260110T003000Z
-SUMMARY:Jubilee: Part Closure
-UID:dcec6f38-3e71-4f09-aac9-1430a4ff8382@dcec.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-10T06:00:00&endDate=2026-01-12T01:29:00">Disruption map.</a>\n\nJUBILEE LINE: Saturday 10 January\, from 0600 and all day Sunday 11 January (including Night Tube)\, no service between Green Park and Stratford. Replacement bus service JL3 operates between North Greenwich and Canning Town only\, for DLR connections to/from West Ham and Stratford. Replacement bus service JL4 operates between North Greenwich and Stratford City (for Stratford)\, non-stop\, from 0830 Saturday until 0130 Sunday\, and again from 0900 until midnight on Sunday.
 DTEND:20260112T012900Z
 DTSTART:20260110T060000Z
 SUMMARY:Jubilee: Part Closure
-UID:bd2e4d0b-713c-42a1-acb0-2b9d583b021e@bd2e.org
+UID:c9f4ff32-d5d9-4974-bc14-3cca61473824@c9f4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-10T00:30:00&endDate=2026-01-10T06:00:00">Disruption map.</a>\n\nJUBILEE LINE: Saturday 10 January\, between 0030 and 0600 approximately\, no service between Finchley Road and Stratford. Replacement bus service JL3 operates between North Greenwich\, Canning Town and Stratford only.
+DTEND:20260110T060000Z
+DTSTART:20260110T003000Z
+SUMMARY:Jubilee: Part Closure
+UID:423c95e8-2284-44de-b6ec-dbc47a51be1e@423c.org
 END:VEVENT
 END:VCALENDAR
