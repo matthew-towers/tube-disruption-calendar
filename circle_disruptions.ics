@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Circle disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-02T10:37:22&endDate=2026-01-03T01:29:00">Disruption map.</a>\n\nCircle Line: Severe delays (Clockwise only) while we help a person ill on a train. GOOD SERVICE on the rest of the line. 
+DTEND:20260103T012900Z
+DTSTART:20260102T103722Z
+SUMMARY:Circle: Severe Delays
+UID:a018b460-d903-47a7-9dfc-fb88aecd566b@a018.org
+END:VEVENT
 END:VCALENDAR
