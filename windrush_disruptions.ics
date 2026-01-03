@@ -2,4 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Windrush line disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-03T11:13:51&endDate=2026-01-04T01:29:00">Disruption map.</a>\n\nWindrush Line: No service between Surrey Quays and New Cross Gate/Clapham Junction. NO SERVICE between Dalston Junction to Highbury & Islington and Sydenham to West Croydon while we deal with a signalling problem at Surrey Quays. SEVERE delays on the rest of the line. London Underground are accepting tickets via reasonable routes. 
+DTEND:20260104T012900Z
+DTSTART:20260103T111351Z
+SUMMARY:Windrush line: Severe Delays
+UID:2384b563-9e82-4f26-8559-4cb827c3f1a9@2384.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-03T11:13:51&endDate=2026-01-03T14:31:07">Disruption map.</a>\n\nWindrush Line: No service between Surrey Quays and New Cross Gate/Clapham Junction. NO SERVICE between Dalston Junction to Highbury & Islington and Sydenham to West Croydon while we deal with a signalling problem at Surrey Quays. SEVERE delays on the rest of the line. London Underground are accepting tickets via reasonable routes. 
+DTEND:20260103T143107Z
+DTSTART:20260103T111351Z
+SUMMARY:Windrush line: Part Suspended
+UID:ce779fa1-0fd5-4b66-a798-71b18e642274@ce77.org
+END:VEVENT
 END:VCALENDAR
