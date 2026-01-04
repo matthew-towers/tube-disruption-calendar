@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Bakerloo disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-04T19:17:33&endDate=2026-01-05T01:29:00">Disruption map.</a>\n\nBakerloo Line: Minor delays due to an earlier signalling problem at Stonebridge Park.  
+DTEND:20260105T012900Z
+DTSTART:20260104T191733Z
+SUMMARY:Bakerloo: Minor Delays
+UID:7c15162b-9c9a-4b20-8bfb-871206553e44@7c15.org
+END:VEVENT
 END:VCALENDAR

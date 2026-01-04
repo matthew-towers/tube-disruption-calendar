@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-31T02:00:00&endDate=2026-02-02T01:29:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 31 January\, from 0200\, and all day Sunday 1 February\, no service between Bethnal Green and Epping / Hainault (via Woodford and Newbury Park). Replacement buses operate.
+DTEND:20260202T012900Z
+DTSTART:20260131T020000Z
+SUMMARY:Central: Part Closure
+UID:4593b3f5-a39f-4bf6-9ee5-7d4c9d0385e8@4593.org
+END:VEVENT
 END:VCALENDAR

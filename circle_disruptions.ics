@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Circle disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-24T04:30:00&endDate=2026-01-26T01:29:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 24 and Sunday 25 January\, no service between Hammersmith and Tower Hill\, or between High Street Kensington and Edgware Road. Trains operate between Tower Hill and High Street Kensington (via Victoria) only.
+DTEND:20260126T012900Z
+DTSTART:20260124T043000Z
+SUMMARY:Circle: Part Closure
+UID:d4b01f25-1b8a-4ceb-9e52-8349d44fa978@d4b0.org
+END:VEVENT
 END:VCALENDAR

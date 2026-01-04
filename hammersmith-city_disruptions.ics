@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Hammersmith & City disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-24T04:30:00&endDate=2026-01-26T01:29:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Saturday 24 and Sunday 25 January\, no service on the whole line.
+DTEND:20260126T012900Z
+DTSTART:20260124T043000Z
+SUMMARY:Hammersmith & City: Planned Closure
+UID:9ea4297f-f79d-4a7c-94b7-31aa658b9772@9ea4.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-11T10:00:00&endDate=2026-01-11T18:00:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Sunday 11 January\, between 1000 and 1800\, no service between Plaistow and Barking. Please use DISTRICT LINE services.
 DTEND:20260111T180000Z
 DTSTART:20260111T100000Z
 SUMMARY:Hammersmith & City: Part Closure
-UID:8588ab73-7c0c-479e-82eb-27bf99c5525f@8588.org
+UID:14b42183-7532-42a8-8004-447716b0978e@14b4.org
 END:VEVENT
 END:VCALENDAR
