@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-10T04:30:00&endDate=2026-01-12T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 10 and Sunday 11 January\, no service between Shadwell and Tower Gateway.
-DTEND:20260112T012900Z
-DTSTART:20260110T043000Z
-SUMMARY:DLR: Part Closure
-UID:2158e4b9-c30d-4de2-8604-b54b1a8e22fa@2158.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-25T04:30:00&endDate=2026-01-26T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 25 January\, no service between Shadwell and Tower Gateway.
 DTEND:20260126T012900Z
 DTSTART:20260125T043000Z
 SUMMARY:DLR: Part Closure
-UID:b05a3f3e-07cc-4e25-a087-49b4984946bb@b05a.org
+UID:b46d7f25-9201-4017-9eb4-528af16eb18c@b46d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-01T04:30:00&endDate=2026-02-02T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 1 February\, no service between Shadwell and Tower Gateway.
 DTEND:20260202T012900Z
 DTSTART:20260201T043000Z
 SUMMARY:DLR: Part Closure
-UID:5b389c5d-7ad4-4283-b2b1-835fde601837@5b38.org
+UID:9e501af8-6182-43c4-a074-d60d8d89bd1a@9e50.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-10T04:30:00&endDate=2026-01-12T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 10 and Sunday 11 January\, no service between Shadwell and Tower Gateway.
+DTEND:20260112T012900Z
+DTSTART:20260110T043000Z
+SUMMARY:DLR: Part Closure
+UID:52965cb4-6d58-4233-a45c-380b12757e2a@5296.org
 END:VEVENT
 END:VCALENDAR
