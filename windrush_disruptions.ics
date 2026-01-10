@@ -3,45 +3,45 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Windrush line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-01T04:30:00&endDate=2026-02-02T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 1 February\, no service between Sydenham and Crystal Palace. There will also be no SOUTHERN services between London Bridge and Balham (via Crystal Palace). Please use local London Buses connections between Anerley and Crystal Palace.
-DTEND:20260202T012900Z
-DTSTART:20260201T043000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-27T23:15:00&endDate=2026-01-28T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Tuesday 27 and Wednesday 28 January\, after 2315 each evening\, no service between Surrey Quays and Clapham Junction / Battersea Park. No replacement buses will operate. Use local bus route 35 (for Denmark Hill\, Brixton\, Clapham High Street and Clapham Junction)\; bus route 37 (for Peckham Rye\, Brixton\, Clapham High Street and Clapham Junction)\; and bus route 381 (for Surrey Quays\, Queens Road Peckham and Peckham Rye). For Wandsworth Road\, use Clapham High Street\, which is a short walk away. Last through trains: Surrey Quays to Clapham Junction 2307 (Departs Dalston Junction at 2249)\; Clapham Junction to Dalston Junction 2330. The 2204 train from Dalston Junction to Battersea Park will run to Clapham Junction instead. The 2245 train from Clapham Junction to Dalston Junction will not run. The 2303 train from Battersea Park to Dalston Junction will start from Clapham Junction\, departing at 2300
+DTEND:20260128T012900Z
+DTSTART:20260127T231500Z
 SUMMARY:Windrush line: Part Closure
-UID:db238e34-ba98-4704-809c-261dc0e129c3@db23.org
+UID:63c7b7a1-b54b-4969-8a40-39617d23a24e@63c7.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-11T22:15:00&endDate=2026-01-12T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 11 January\, from 2215\, no service between Highbury & Islington and Dalston Junction. Replacement buses will operate.
 DTEND:20260112T012900Z
 DTSTART:20260111T221500Z
 SUMMARY:Windrush line: Part Closure
-UID:9951bca3-cc61-4c82-935b-7c2add83d2af@9951.org
+UID:81cfd872-41a8-4a5c-a0eb-62900d71fe18@81cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-01T04:30:00&endDate=2026-02-02T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 1 February\, no service between Sydenham and Crystal Palace. There will also be no SOUTHERN services between London Bridge and Balham (via Crystal Palace). Please use local London Buses connections between Anerley and Crystal Palace.
+DTEND:20260202T012900Z
+DTSTART:20260201T043000Z
+SUMMARY:Windrush line: Part Closure
+UID:f23a88ae-c5cc-4aef-a449-45e8c9adb69f@f23a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-11T23:19:00&endDate=2026-01-11T23:59:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 11 January\, the 2319 last train from Crystal Palace to Highbury & Islington will terminate at Dalston Junction at 2355. Customers should use local bus route 30 for onward travel.
 DTEND:20260111T235900Z
 DTSTART:20260111T231900Z
 SUMMARY:Windrush line: Part Closure
-UID:c6fcf0ee-aa01-4555-a425-b87ca66e7e21@c6fc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-28T23:15:00&endDate=2026-01-29T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Tuesday 27 and Wednesday 28 January\, after 2315 each evening\, no service between Surrey Quays and Clapham Junction / Battersea Park. No replacement buses will operate. Use local bus route 35 (for Denmark Hill\, Brixton\, Clapham High Street and Clapham Junction)\; bus route 37 (for Peckham Rye\, Brixton\, Clapham High Street and Clapham Junction)\; and bus route 381 (for Surrey Quays\, Queens Road Peckham and Peckham Rye). For Wandsworth Road\, use Clapham High Street\, which is a short walk away. Last through trains: Surrey Quays to Clapham Junction 2307 (Departs Dalston Junction at 2249)\; Clapham Junction to Dalston Junction 2330. The 2204 train from Dalston Junction to Battersea Park will run to Clapham Junction instead. The 2245 train from Clapham Junction to Dalston Junction will not run. The 2303 train from Battersea Park to Dalston Junction will start from Clapham Junction\, departing at 2300
-DTEND:20260129T012900Z
-DTSTART:20260128T231500Z
-SUMMARY:Windrush line: Part Closure
-UID:dc150938-1b46-4897-8dab-7857f3f1d10d@dc15.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-27T23:15:00&endDate=2026-01-28T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Tuesday 27 and Wednesday 28 January\, after 2315 each evening\, no service between Surrey Quays and Clapham Junction / Battersea Park. No replacement buses will operate. Use local bus route 35 (for Denmark Hill\, Brixton\, Clapham High Street and Clapham Junction)\; bus route 37 (for Peckham Rye\, Brixton\, Clapham High Street and Clapham Junction)\; and bus route 381 (for Surrey Quays\, Queens Road Peckham and Peckham Rye). For Wandsworth Road\, use Clapham High Street\, which is a short walk away. Last through trains: Surrey Quays to Clapham Junction 2307 (Departs Dalston Junction at 2249)\; Clapham Junction to Dalston Junction 2330. The 2204 train from Dalston Junction to Battersea Park will run to Clapham Junction instead. The 2245 train from Clapham Junction to Dalston Junction will not run. The 2303 train from Battersea Park to Dalston Junction will start from Clapham Junction\, departing at 2300
-DTEND:20260128T012900Z
-DTSTART:20260127T231500Z
-SUMMARY:Windrush line: Part Closure
-UID:4d84bf29-c715-48f7-a3d7-4ac80392f1bf@4d84.org
+UID:9f1de69b-7c41-4b74-b24c-a2bb11ae9c13@9f1d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-08T04:30:00&endDate=2026-02-09T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 8 February\, no service between Canada Water and Clapham Junction / Battersea Park (Surrey Quays station is closed). Trains operate to/from Crystal Palace\, New Cross and West Croydon but do not stop at Surrey Quays. Replacement bus service M operates between Canada Water and Clapham Junction via Surrey Quays\, Queens Road Peckham\, Peckham Rye\, Denmark Hill\, Clapham High Street and Wandsworth Road.
 DTEND:20260209T012900Z
 DTSTART:20260208T043000Z
 SUMMARY:Windrush line: Part Closure
-UID:a1cb91f5-690c-4108-9915-03b96ecfa996@a1cb.org
+UID:8813200b-7b17-43fa-b736-5f687ec4a6ce@8813.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-28T23:15:00&endDate=2026-01-29T01:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Tuesday 27 and Wednesday 28 January\, after 2315 each evening\, no service between Surrey Quays and Clapham Junction / Battersea Park. No replacement buses will operate. Use local bus route 35 (for Denmark Hill\, Brixton\, Clapham High Street and Clapham Junction)\; bus route 37 (for Peckham Rye\, Brixton\, Clapham High Street and Clapham Junction)\; and bus route 381 (for Surrey Quays\, Queens Road Peckham and Peckham Rye). For Wandsworth Road\, use Clapham High Street\, which is a short walk away. Last through trains: Surrey Quays to Clapham Junction 2307 (Departs Dalston Junction at 2249)\; Clapham Junction to Dalston Junction 2330. The 2204 train from Dalston Junction to Battersea Park will run to Clapham Junction instead. The 2245 train from Clapham Junction to Dalston Junction will not run. The 2303 train from Battersea Park to Dalston Junction will start from Clapham Junction\, departing at 2300
+DTEND:20260129T012900Z
+DTSTART:20260128T231500Z
+SUMMARY:Windrush line: Part Closure
+UID:8463f6a3-0f04-4987-b1da-96bcf96dda6b@8463.org
 END:VEVENT
 END:VCALENDAR

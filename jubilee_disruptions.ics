@@ -3,24 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Jubilee disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-10T06:00:00&endDate=2026-01-12T01:29:00">Disruption map.</a>\n\nJUBILEE LINE: Saturday 10 January\, from 0600 and all day Sunday 11 January (including Night Tube)\, no service between Green Park and Stratford. Replacement bus service JL3 operates between North Greenwich and Canning Town only\, for DLR connections to/from West Ham and Stratford. Replacement bus service JL4 operates between North Greenwich and Stratford City (for Stratford)\, non-stop\, from 0830 Saturday until 0130 Sunday\, and again from 0900 until midnight on Sunday.
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-10T04:40:00&endDate=2026-01-12T01:29:00">Disruption map.</a>\n\nJUBILEE LINE: Saturday 10 January\, from 0600 and all day Sunday 11 January (including Night Tube)\, no service between Green Park and Stratford. Replacement bus service JL3 operates between North Greenwich and Canning Town only\, for DLR connections to/from West Ham and Stratford. Replacement bus service JL4 operates between North Greenwich and Stratford City (for Stratford)\, non-stop\, from 0830 Saturday until 0130 Sunday\, and again from 0900 until midnight on Sunday.
 DTEND:20260112T012900Z
-DTSTART:20260110T060000Z
+DTSTART:20260110T044000Z
 SUMMARY:Jubilee: Part Closure
-UID:46dbd64b-3d8f-4a6f-869b-defae0761349@46db.org
+UID:2136cb11-deb0-4254-b887-3a304ef5d9ae@2136.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-09T10:34:45&endDate=2026-01-10T01:29:00">Disruption map.</a>\n\nJubilee Line: Severe delays due to an earlier signal failure at Bond Street.\r\nTickets are being accepted on London Buses\, Mildmay Line\, DLR\, Elizabeth Line\, C2C\, Southeastern and Thameslink services via any reasonable route. 
-DTEND:20260110T012900Z
-DTSTART:20260109T103445Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-10T08:26:14&endDate=2026-01-11T01:29:00">Disruption map.</a>\n\nJubilee Line: Severe delays due to an earlier signalling problem at Neasden. Tickets will be accepted on London Buses and Thameslink services Line via any reasonable route. NO SERVICE between Green Park and Stratford due to planned engineering work. 
+DTEND:20260111T012900Z
+DTSTART:20260110T082614Z
 SUMMARY:Jubilee: Severe Delays
-UID:fdbe2bd8-7464-4428-a95c-cc9a82b59ac0@fdbe.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-10T00:30:00&endDate=2026-01-10T06:00:00">Disruption map.</a>\n\nJUBILEE LINE: Saturday 10 January\, between 0030 and 0600 approximately\, no service between Finchley Road and Stratford. Replacement bus service JL3 operates between North Greenwich\, Canning Town and Stratford only.
-DTEND:20260110T060000Z
-DTSTART:20260110T003000Z
-SUMMARY:Jubilee: Part Closure
-UID:e2cd574c-e171-4f93-b57b-04fd6d03b32a@e2cd.org
+UID:c616dcfd-1c8b-4e57-9ef6-97b1d596eac1@c616.org
 END:VEVENT
 END:VCALENDAR
