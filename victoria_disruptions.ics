@@ -2,4 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Victoria disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-12T08:59:26&endDate=2026-01-12T12:02:23">Disruption map.</a>\n\nVictoria Line: No service between Brixton and Highbury & Islington while we fix a signal failure at Green Park. SEVERE DELAYS on the rest of the line. Tickets being accepted on London Buses\, Weaver Line\, Suffragette Line\, Great Northern\, Thameslink\, Greater Anglia\, South Western and Southeastern Railways.  
+DTEND:20260112T120223Z
+DTSTART:20260112T085926Z
+SUMMARY:Victoria: Part Suspended
+UID:93c91c9d-c8cd-46b3-b900-b54c5d7711c5@93c9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-12T08:59:26&endDate=2026-01-13T01:29:00">Disruption map.</a>\n\nVictoria Line: No service between Brixton and Highbury & Islington while we fix a signal failure at Green Park. SEVERE DELAYS on the rest of the line. Tickets being accepted on London Buses\, Weaver Line\, Suffragette Line\, Great Northern\, Thameslink\, Greater Anglia\, South Western and Southeastern Railways.  
+DTEND:20260113T012900Z
+DTSTART:20260112T085926Z
+SUMMARY:Victoria: Severe Delays
+UID:aff523ec-9e98-40b1-997f-00b10a5f241e@aff5.org
+END:VEVENT
 END:VCALENDAR

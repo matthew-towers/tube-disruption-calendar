@@ -2,4 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Bakerloo disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-12T08:51:25&endDate=2026-01-13T01:29:00">Disruption map.</a>\n\nBakerloo Line: Severe delays between Elephant & Castle and Queen's Park due to an earlier fire alert. London Buses and Thameslink services are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line. 
+DTEND:20260113T012900Z
+DTSTART:20260112T085125Z
+SUMMARY:Bakerloo: Severe Delays
+UID:db2d97d3-ef1b-4406-9d5e-ee9fbd19158d@db2d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-12T08:51:25&endDate=2026-01-13T01:29:00">Disruption map.</a>\n\nBakerloo Line: Severe delays between Elephant & Castle and Queen's Park due to an earlier fire alert. London Buses and Thameslink services are accepting tickets via any reasonable route. MINOR DELAYS on the rest of the line. 
+DTEND:20260113T012900Z
+DTSTART:20260112T085125Z
+SUMMARY:Bakerloo: Minor Delays
+UID:1c3c8da5-1b90-4f3a-ad3a-df19295f050d@1c3c.org
+END:VEVENT
 END:VCALENDAR
