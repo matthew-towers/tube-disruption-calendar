@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-19T04:30:00&endDate=2026-02-23T01:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Thursday 19\, Friday 20\, Saturday 21 and Sunday 22 February\, no service between Harrow-on-the-Hill and Amersham / Chesham / Watford. There will also be no CHILTERN RAILWAYS services between Marylebone and Aylesbury Vale Parkway (via Amersham). Replacement buses operate.
+DTEND:20260223T012900Z
+DTSTART:20260219T043000Z
+SUMMARY:Metropolitan: Part Closure
+UID:37f1087b-7153-47fd-bd05-25300d28be7b@37f1.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-24T04:30:00&endDate=2026-01-26T01:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 24 and Sunday 25 January\, no service between Baker Street and Aldgate.
 DTEND:20260126T012900Z
 DTSTART:20260124T043000Z
 SUMMARY:Metropolitan: Part Closure
-UID:4b8ef8b1-abdc-40d5-aa49-54945dab6456@4b8e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-20T08:22:01&endDate=2026-01-20T12:42:28">Disruption map.</a>\n\nMetropolitan Line: Northbound trains are not stopping at Northwick Park and Preston Road stations while we fix a signal failure at Harrow-on-the-Hill. If travelling Northbound to these stations\, please continue to Harrow-on-the-Hill and change for the southbound service.  
-DTEND:20260120T124228Z
-DTSTART:20260120T082201Z
-SUMMARY:Metropolitan: Good Service
-UID:ceece5a1-24e2-490e-928d-0eb82e6b8293@ceec.org
+UID:bcab0999-8c03-4250-b26a-eb03deaf3d30@bcab.org
 END:VEVENT
 END:VCALENDAR
