@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-28T04:30:00&endDate=2026-03-02T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 28 February and Sunday 1 March\, no service between Earls Court and Kensington (Olympia) / Whitechapel.
+DTEND:20260302T012900Z
+DTSTART:20260228T043000Z
+SUMMARY:District: Part Closure
+UID:a451d4b1-92ad-4b7a-aeaf-516026aeae8b@a451.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-15T04:30:00&endDate=2026-02-16T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Sunday 15 February\, no service between Turnham Green and Richmond. There is also no MILDMAY LINE service between Camden Road and Richmond (via West Hampstead). Replacement bus service DL3 operates between Willesden Junction and Richmond via Acton Central (The Vale)\, South Acton (Acton Lane)\, Gunnersbury and Kew Gardens (Royal Botanic Gardens)
 DTEND:20260216T012900Z
 DTSTART:20260215T043000Z
 SUMMARY:District: Part Closure
-UID:80d6c4b2-325d-4d45-8112-33db722f79c5@80d6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-24T04:30:00&endDate=2026-01-26T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 24 and Sunday 25 January\, no service between High Street Kensington and Edgware Road.
-DTEND:20260126T012900Z
-DTSTART:20260124T043000Z
-SUMMARY:District: Part Closure
-UID:0a5b47d0-6e82-41fb-bd49-52101137b025@0a5b.org
+UID:fc6697e9-793c-49f7-85b3-e5bf8e48fb50@fc66.org
 END:VEVENT
 END:VCALENDAR
