@@ -3,24 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-14T02:00:00&endDate=2026-02-14T04:00:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 14 February\, from 0200 until 0400\, no service between Marble Arch and Ealing Broadway. Replacement bus service CL1 operates between Marble Arch and Ealing Broadway via Lancaster Gate\, Queensway\, Notting Hill Gate\, Holland Park\, Shepherds Bush\, White Citry\, East Acton\, West Acton and Ealing Common
-DTEND:20260214T040000Z
-DTSTART:20260214T020000Z
-SUMMARY:Central: Part Closure
-UID:6e904d27-122e-4893-b7b0-5d9f5a62e995@6e90.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-01-31T02:00:00&endDate=2026-02-02T01:29:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 31 January\, from 0200\, and all day Sunday 1 February\, no service between Bethnal Green and Epping / Hainault (via Woodford and Newbury Park). Replacement buses operate.
-DTEND:20260202T012900Z
-DTSTART:20260131T020000Z
-SUMMARY:Central: Part Closure
-UID:d3c7e49b-5e50-41ae-ac4d-542d4eeb4b15@d3c7.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-14T04:00:00&endDate=2026-02-16T01:29:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 14 February\, from 0400 and all day Sunday 15 February\, including Night Tube\, no service between White City and Ealing Broadway / West Ruislip. Replacement buses operate.
 DTEND:20260216T012900Z
 DTSTART:20260214T040000Z
 SUMMARY:Central: Part Closure
-UID:8e42ed60-894e-4c95-b5ab-d978a8091cbd@8e42.org
+UID:45022ac1-e20f-41bb-a6fc-14c48b5bc30f@4502.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-14T02:00:00&endDate=2026-02-14T04:00:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 14 February\, from 0200 until 0400\, no service between Marble Arch and Ealing Broadway. Replacement bus service CL1 operates between Marble Arch and Ealing Broadway via Lancaster Gate\, Queensway\, Notting Hill Gate\, Holland Park\, Shepherds Bush\, White Citry\, East Acton\, West Acton and Ealing Common
+DTEND:20260214T040000Z
+DTSTART:20260214T020000Z
+SUMMARY:Central: Part Closure
+UID:60c51bea-b8bd-48ec-816e-29a50cfbe13f@60c5.org
 END:VEVENT
 END:VCALENDAR
