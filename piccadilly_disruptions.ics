@@ -3,10 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-04T11:19:16&endDate=2026-02-05T01:29:00">Disruption map.</a>\n\nPiccadilly Line: Severe delays between Acton Town and Heathrow Airport / Uxbridge due to an earlier signal failure at Osterley. Tickets are being accepted on London Buses\, Elizabeth line and South Western Railway via any reasonable route. MINOR DELAYS on the rest of the line. 
+DTEND:20260205T012900Z
+DTSTART:20260204T111916Z
+SUMMARY:Piccadilly: Minor Delays
+UID:e45b416f-da49-4f28-962c-fe3bccd7404e@e45b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-04T11:19:16&endDate=2026-02-05T01:29:00">Disruption map.</a>\n\nPiccadilly Line: Severe delays between Acton Town and Heathrow Airport / Uxbridge due to an earlier signal failure at Osterley. Tickets are being accepted on London Buses\, Elizabeth line and South Western Railway via any reasonable route. MINOR DELAYS on the rest of the line. 
+DTEND:20260205T012900Z
+DTSTART:20260204T111916Z
+SUMMARY:Piccadilly: Severe Delays
+UID:9b15e260-de4b-460d-97fa-cede2c3fab49@9b15.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-07T01:00:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 7 and Sunday 8 March (Including Friday and Saturday Night Tube)\, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE trains between Rayners Lane and Uxbridge. Replacement buses operate.
 DTEND:20260309T012900Z
 DTSTART:20260307T010000Z
 SUMMARY:Piccadilly: Part Closure
-UID:9cacf538-1519-4468-854d-a284e73333f3@9cac.org
+UID:c2613fdf-5ddf-46d7-a210-6d8743c2c4b0@c261.org
 END:VEVENT
 END:VCALENDAR
