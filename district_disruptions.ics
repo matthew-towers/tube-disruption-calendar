@@ -3,31 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-28T04:30:00&endDate=2026-03-02T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 28 February and Sunday 1 March\, no service between Earls Court and Kensington (Olympia) / Whitechapel.
+DTEND:20260302T012900Z
+DTSTART:20260228T043000Z
+SUMMARY:District: Part Closure
+UID:e787afed-1e80-41b1-bbd5-4ca4d7936f40@e787.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-15T04:30:00&endDate=2026-02-16T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Sunday 15 February\, no service between Turnham Green and Richmond. There is also no MILDMAY LINE service between Camden Road and Richmond (via West Hampstead). Replacement bus service DL3 operates between Willesden Junction and Richmond via Acton Central (The Vale)\, South Acton (Acton Lane)\, Gunnersbury and Kew Gardens (Royal Botanic Gardens)
 DTEND:20260216T012900Z
 DTSTART:20260215T043000Z
 SUMMARY:District: Part Closure
-UID:a31b12ec-00d9-4fc7-8ad4-5ed7ba26290a@a31b.org
+UID:91a8091d-d6e0-4a97-8eed-29308ca50ce3@91a8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-07T04:30:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 7 and Sunday 8 March\, no service between High Street Kensington and Edgware Road.
 DTEND:20260309T012900Z
 DTSTART:20260307T043000Z
 SUMMARY:District: Part Closure
-UID:8d10dde5-9604-4211-b63f-d2732d6537ad@8d10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-08T09:24:27&endDate=2026-02-09T01:29:00">Disruption map.</a>\n\nDistrict Line: Severe delays between Barking and Upminster due to an earlier fire alert at Upminster. London Underground and C2C are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line. 
-DTEND:20260209T012900Z
-DTSTART:20260208T092427Z
-SUMMARY:District: Severe Delays
-UID:6b10a564-b529-4452-8878-e8bc282aaff7@6b10.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-28T04:30:00&endDate=2026-03-02T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 28 February and Sunday 1 March\, no service between Earls Court and Kensington (Olympia) / Whitechapel.
-DTEND:20260302T012900Z
-DTSTART:20260228T043000Z
-SUMMARY:District: Part Closure
-UID:c0ff947c-3404-4e9e-b9ec-71ed8abb8308@c0ff.org
+UID:e83aa5f1-9166-404c-b732-b5de0a9192fc@e83a.org
 END:VEVENT
 END:VCALENDAR

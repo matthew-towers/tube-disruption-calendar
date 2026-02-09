@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-07T04:30:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 7 and Sunday 8 March\, no service between Baker Street and Aldgate.
-DTEND:20260309T012900Z
-DTSTART:20260307T043000Z
-SUMMARY:Metropolitan: Part Closure
-UID:dbc3e765-81c0-4267-a651-c4feace9144e@dbc3.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-19T04:30:00&endDate=2026-02-23T01:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Thursday 19\, Friday 20\, Saturday 21 and Sunday 22 February\, no service between Harrow-on-the-Hill and Amersham / Chesham / Watford. There will also be no CHILTERN RAILWAYS services between Marylebone and Aylesbury Vale Parkway (via Amersham). Replacement buses operate.
 DTEND:20260223T012900Z
 DTSTART:20260219T043000Z
 SUMMARY:Metropolitan: Part Closure
-UID:14d23b31-5ff9-45d5-b73c-743b64d5913b@14d2.org
+UID:225d052d-8c3a-4ab8-be87-1159e95699ba@225d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-07T04:30:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 7 and Sunday 8 March\, no service between Baker Street and Aldgate.
+DTEND:20260309T012900Z
+DTSTART:20260307T043000Z
+SUMMARY:Metropolitan: Part Closure
+UID:6474a40e-5296-46af-a982-cec4a7b36f4d@6474.org
 END:VEVENT
 END:VCALENDAR
