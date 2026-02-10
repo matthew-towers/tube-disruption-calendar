@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Circle disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-07T04:30:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 7 and Sunday 8 March\, no service between Hammersmith and Tower Hill\, and between Edgware Road and High Street Kensington. A special service operates between High Street Kensington and Barking (via Victoria)
-DTEND:20260309T012900Z
-DTSTART:20260307T043000Z
-SUMMARY:Circle: Part Closure
-UID:02f52cb5-e6fd-4256-9165-10a314117a8a@02f5.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-28T04:30:00&endDate=2026-03-02T01:29:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 28 February and Sunday 1 March\, no service between Edgware Road and Aldgate (via Victoria)
 DTEND:20260302T012900Z
 DTSTART:20260228T043000Z
 SUMMARY:Circle: Part Closure
-UID:fee2370e-e6e8-40c7-b0bd-81d1c670d945@fee2.org
+UID:f1f616c8-b6fc-4de6-9732-1e8b80f47bd1@f1f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-07T04:30:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 7 and Sunday 8 March\, no service between Hammersmith and Tower Hill\, and between Edgware Road and High Street Kensington. A special service operates between High Street Kensington and Barking (via Victoria)
+DTEND:20260309T012900Z
+DTSTART:20260307T043000Z
+SUMMARY:Circle: Part Closure
+UID:c282b845-267f-451d-a480-6607db248c8e@c282.org
 END:VEVENT
 END:VCALENDAR
