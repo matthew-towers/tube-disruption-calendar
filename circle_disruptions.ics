@@ -3,24 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Circle disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-07T04:30:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 7 and Sunday 8 March\, no service between Hammersmith and Tower Hill\, and between Edgware Road and High Street Kensington. A special service operates between High Street Kensington and Barking (via Victoria)
-DTEND:20260309T012900Z
-DTSTART:20260307T043000Z
-SUMMARY:Circle: Part Closure
-UID:b2d2405f-51e9-4d0f-8961-4e5824e3a77c@b2d2.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-28T04:30:00&endDate=2026-03-02T01:29:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 28 February and Sunday 1 March\, no service between Edgware Road and Aldgate (via Victoria)
 DTEND:20260302T012900Z
 DTSTART:20260228T043000Z
 SUMMARY:Circle: Part Closure
-UID:38803ebc-69bc-4712-bf9c-41caada98d58@3880.org
+UID:3bcd5cce-327c-4239-a153-fa3fdcaca5b4@3bcd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-12T07:03:02&endDate=2026-02-13T01:29:00">Disruption map.</a>\n\nCircle Line: Minor delays between Hammersmith and Edgware Road Eastbound only due to an earlier customer incident. GOOD service on the rest of the line. 
-DTEND:20260213T012900Z
-DTSTART:20260212T070302Z
-SUMMARY:Circle: Minor Delays
-UID:c30e4c50-a80c-496c-8eba-f1a29ada54d9@c30e.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-07T04:30:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 7 and Sunday 8 March\, no service between Hammersmith and Tower Hill\, and between Edgware Road and High Street Kensington. A special service operates between High Street Kensington and Barking (via Victoria)
+DTEND:20260309T012900Z
+DTSTART:20260307T043000Z
+SUMMARY:Circle: Part Closure
+UID:5b5a0236-4873-4b31-a883-107ca0e520e7@5b5a.org
 END:VEVENT
 END:VCALENDAR
