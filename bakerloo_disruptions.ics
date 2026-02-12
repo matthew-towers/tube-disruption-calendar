@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Bakerloo disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-12T07:16:40&endDate=2026-02-13T01:29:00">Disruption map.</a>\n\nBakerloo Line: Minor delays due to train cancellations.  
+DTEND:20260213T012900Z
+DTSTART:20260212T071640Z
+SUMMARY:Bakerloo: Minor Delays
+UID:2595a2ac-a10d-4040-9946-08e8ec6568bd@2595.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-28T04:30:00&endDate=2026-03-02T01:29:00">Disruption map.</a>\n\nBAKERLOO LINE: Saturday 28 February and Sunday 1 March\, no service between Queens Park and Harrow & Wealdstone. There will also be no LIONESS LINE service between Euston and Watford Junction. LONDON NORTHWESTERN RAILWAY services will continue to operate between Euston\, Harrow & Wealdstone\, Bushey and Watford Junction\, and SOUTHERN services continue to stop at Wembley Central\, Harrow & Wealdstone and Watford Junction. Replacement buses operate.
 DTEND:20260302T012900Z
 DTSTART:20260228T043000Z
 SUMMARY:Bakerloo: Part Closure
-UID:b46963e9-792b-4c69-b384-50305438e0a8@b469.org
+UID:be223e5b-d397-4747-9637-cc7eae2fcc21@be22.org
 END:VEVENT
 END:VCALENDAR

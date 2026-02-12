@@ -7,13 +7,20 @@ DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineI
 DTEND:20260309T012900Z
 DTSTART:20260307T043000Z
 SUMMARY:Circle: Part Closure
-UID:d9eff95b-4fac-411c-a4f1-c3fa9ba12109@d9ef.org
+UID:b2d2405f-51e9-4d0f-8961-4e5824e3a77c@b2d2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-28T04:30:00&endDate=2026-03-02T01:29:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 28 February and Sunday 1 March\, no service between Edgware Road and Aldgate (via Victoria)
 DTEND:20260302T012900Z
 DTSTART:20260228T043000Z
 SUMMARY:Circle: Part Closure
-UID:c1978846-cf12-4e83-8c3e-0a39f92423a8@c197.org
+UID:38803ebc-69bc-4712-bf9c-41caada98d58@3880.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-12T07:03:02&endDate=2026-02-13T01:29:00">Disruption map.</a>\n\nCircle Line: Minor delays between Hammersmith and Edgware Road Eastbound only due to an earlier customer incident. GOOD service on the rest of the line. 
+DTEND:20260213T012900Z
+DTSTART:20260212T070302Z
+SUMMARY:Circle: Minor Delays
+UID:c30e4c50-a80c-496c-8eba-f1a29ada54d9@c30e.org
 END:VEVENT
 END:VCALENDAR
