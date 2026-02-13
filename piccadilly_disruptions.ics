@@ -3,17 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-13T14:08:02&endDate=2026-02-14T01:29:00">Disruption map.</a>\n\nPiccadilly Line: Severe delays between Acton Town and Uxbridge due to an earlier signal fault at Uxbridge. GOOD SERVICE on the rest of the line. 
+DTEND:20260214T012900Z
+DTSTART:20260213T140802Z
+SUMMARY:Piccadilly: Severe Delays
+UID:a7763bb1-c947-48db-bee2-32b44866bbe3@a776.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-07T01:00:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 7 and Sunday 8 March (Including Friday and Saturday Night Tube)\, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE trains between Rayners Lane and Uxbridge. Replacement buses operate.
 DTEND:20260309T012900Z
 DTSTART:20260307T010000Z
 SUMMARY:Piccadilly: Part Closure
-UID:a1f85089-0d1d-452f-aa5c-8fd858de157d@a1f8.org
+UID:c2132cb6-5bdf-440c-88eb-75286fc4ee36@c213.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-15T18:00:00&endDate=2026-02-21T12:00:00">Disruption map.</a>\n\nPICCADILLY LINE: Services on the Piccadilly line will be disrupted between the evening of Sunday 15 and the morning of Saturday 21 February. This is because of strikes planned at Northfields Depot. Services may start later than normal. There may be delays throughout the day\, particularly before 0800. Night Tube services will run on Friday 20 February\, but there may be cancellations
 DTEND:20260221T120000Z
 DTSTART:20260215T180000Z
 SUMMARY:Piccadilly: Special Service
-UID:3b625117-2d32-4cae-b9ab-d12227f1d87e@3b62.org
+UID:29c15af3-76ee-4da2-89d3-240ea4798e31@29c1.org
 END:VEVENT
 END:VCALENDAR

@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-07T04:30:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 7 and Sunday 8 March\, no service between High Street Kensington and Edgware Road.
-DTEND:20260309T012900Z
-DTSTART:20260307T043000Z
-SUMMARY:District: Part Closure
-UID:bddef281-dc9e-44da-a2f9-1f78113f9916@bdde.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-15T04:30:00&endDate=2026-02-16T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Sunday 15 February\, no service between Turnham Green and Richmond. There is also no MILDMAY LINE service between Camden Road and Richmond (via West Hampstead). Replacement bus service DL3 operates between Willesden Junction and Richmond via Acton Central (The Vale)\, South Acton (Acton Lane)\, Gunnersbury and Kew Gardens (Royal Botanic Gardens)
 DTEND:20260216T012900Z
 DTSTART:20260215T043000Z
 SUMMARY:District: Part Closure
-UID:aa2d30d7-0dec-4eb9-b16b-b3809cf1d158@aa2d.org
+UID:c5a189e6-6bd6-4a7f-8648-7a6c4a0bc4f2@c5a1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-28T04:30:00&endDate=2026-03-02T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 28 February and Sunday 1 March\, no service between Earls Court and Kensington (Olympia) / Whitechapel.
 DTEND:20260302T012900Z
 DTSTART:20260228T043000Z
 SUMMARY:District: Part Closure
-UID:5f4fae80-af64-44f4-a676-c8ff6f130a28@5f4f.org
+UID:fa38fe50-9c0c-4121-a94a-4cc3b967adeb@fa38.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-07T04:30:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 7 and Sunday 8 March\, no service between High Street Kensington and Edgware Road.
+DTEND:20260309T012900Z
+DTSTART:20260307T043000Z
+SUMMARY:District: Part Closure
+UID:530e090e-6a52-4e76-8b66-d0d224e65997@530e.org
 END:VEVENT
 END:VCALENDAR
