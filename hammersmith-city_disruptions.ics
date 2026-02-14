@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Hammersmith & City disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-28T04:30:00&endDate=2026-03-02T01:29:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Saturday 28 February and Sunday 1 March\, no service between Whitechapel and Barking\, except a very limited early morning and late evening service. Please use DISTRICT LINE services east of Whitechapel.
-DTEND:20260302T012900Z
-DTSTART:20260228T043000Z
-SUMMARY:Hammersmith & City: Part Closure
-UID:c20bd0aa-2630-410e-96ab-74858c5d600a@c20b.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-14T04:30:00&endDate=2026-03-16T01:29:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Saturday 14 and Sunday 15 March\, no service between Edgware Road and Aldgate East.
 DTEND:20260316T012900Z
 DTSTART:20260314T043000Z
 SUMMARY:Hammersmith & City: Part Closure
-UID:eca110b8-1fc1-42f4-8325-98d765e4caa4@eca1.org
+UID:d931b3a3-3636-4887-8ca8-586a2a7a8d43@d931.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-07T04:30:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Saturday 7 and Sunday 8 March\, no service throughout the line.
 DTEND:20260309T012900Z
 DTSTART:20260307T043000Z
 SUMMARY:Hammersmith & City: Planned Closure
-UID:d4284221-6b07-4c33-b8a6-bcf5678b1f00@d428.org
+UID:4b0954db-9a5d-4968-97fd-37a3568bbdf4@4b09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-28T04:30:00&endDate=2026-03-02T01:29:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Saturday 28 February and Sunday 1 March\, no service between Whitechapel and Barking\, except a very limited early morning and late evening service. Please use DISTRICT LINE services east of Whitechapel.
+DTEND:20260302T012900Z
+DTSTART:20260228T043000Z
+SUMMARY:Hammersmith & City: Part Closure
+UID:c1eba12d-c572-421e-8bc2-5c700066a72b@c1eb.org
 END:VEVENT
 END:VCALENDAR
