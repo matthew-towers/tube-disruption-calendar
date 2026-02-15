@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-19T04:30:00&endDate=2026-02-23T01:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Thursday 19\, Friday 20\, Saturday 21 and Sunday 22 February\, no service between Harrow-on-the-Hill and Amersham / Chesham / Watford. There will also be no CHILTERN RAILWAYS services between Marylebone and Aylesbury Vale Parkway (via Amersham). Replacement buses operate.
+DTEND:20260223T012900Z
+DTSTART:20260219T043000Z
+SUMMARY:Metropolitan: Part Closure
+UID:e0481ee1-3c12-471e-8e79-ee06a7632a50@e048.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-14T04:30:00&endDate=2026-03-16T01:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 14 and Sunday 15 March\, no service between Baker Street and Aldgate.
 DTEND:20260316T012900Z
 DTSTART:20260314T043000Z
 SUMMARY:Metropolitan: Part Closure
-UID:45b0f575-8a6b-4e6a-9fa8-a3b62171f16f@45b0.org
+UID:842dff86-ef50-4014-bade-346902451988@842d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-07T04:30:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 7 and Sunday 8 March\, no service between Baker Street and Aldgate.
 DTEND:20260309T012900Z
 DTSTART:20260307T043000Z
 SUMMARY:Metropolitan: Part Closure
-UID:b0c4da53-732a-4c22-8e07-af64f94202d4@b0c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-19T04:30:00&endDate=2026-02-23T01:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Thursday 19\, Friday 20\, Saturday 21 and Sunday 22 February\, no service between Harrow-on-the-Hill and Amersham / Chesham / Watford. There will also be no CHILTERN RAILWAYS services between Marylebone and Aylesbury Vale Parkway (via Amersham). Replacement buses operate.
-DTEND:20260223T012900Z
-DTSTART:20260219T043000Z
-SUMMARY:Metropolitan: Part Closure
-UID:f501fc4a-9abd-43ed-858b-e3c41fe39631@f501.org
+UID:6cdd5ef9-789e-44cf-ac24-14bb2b256f75@6cdd.org
 END:VEVENT
 END:VCALENDAR

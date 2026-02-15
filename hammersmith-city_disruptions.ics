@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Hammersmith & City disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-14T04:30:00&endDate=2026-03-16T01:29:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Saturday 14 and Sunday 15 March\, no service between Edgware Road and Aldgate East.
-DTEND:20260316T012900Z
-DTSTART:20260314T043000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-28T04:30:00&endDate=2026-03-02T01:29:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Saturday 28 February and Sunday 1 March\, no service between Whitechapel and Barking\, except a very limited early morning and late evening service. Please use DISTRICT LINE services east of Whitechapel.
+DTEND:20260302T012900Z
+DTSTART:20260228T043000Z
 SUMMARY:Hammersmith & City: Part Closure
-UID:d931b3a3-3636-4887-8ca8-586a2a7a8d43@d931.org
+UID:c0ba1e69-e663-43e2-932d-8e96d9f9677d@c0ba.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-07T04:30:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Saturday 7 and Sunday 8 March\, no service throughout the line.
 DTEND:20260309T012900Z
 DTSTART:20260307T043000Z
 SUMMARY:Hammersmith & City: Planned Closure
-UID:4b0954db-9a5d-4968-97fd-37a3568bbdf4@4b09.org
+UID:adc6ed53-e13c-4101-8a4b-8712cbc8dbfd@adc6.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-28T04:30:00&endDate=2026-03-02T01:29:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Saturday 28 February and Sunday 1 March\, no service between Whitechapel and Barking\, except a very limited early morning and late evening service. Please use DISTRICT LINE services east of Whitechapel.
-DTEND:20260302T012900Z
-DTSTART:20260228T043000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-14T04:30:00&endDate=2026-03-16T01:29:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Saturday 14 and Sunday 15 March\, no service between Edgware Road and Aldgate East.
+DTEND:20260316T012900Z
+DTSTART:20260314T043000Z
 SUMMARY:Hammersmith & City: Part Closure
-UID:c1eba12d-c572-421e-8bc2-5c700066a72b@c1eb.org
+UID:318d6b3f-f5bb-45c9-88d7-85eed0a6f77d@318d.org
 END:VEVENT
 END:VCALENDAR
