@@ -3,24 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-15T18:00:00&endDate=2026-02-21T12:00:00">Disruption map.</a>\n\nPICCADILLY LINE: Services on the Piccadilly line will be disrupted between the evening of Sunday 15 and the morning of Saturday 21 February. This is because of strikes planned at Northfields Depot. Services may start later than normal. There may be delays throughout the day\, particularly before 0800. Night Tube services will run on Friday 20 February\, but there may be cancellations
-DTEND:20260221T120000Z
-DTSTART:20260215T180000Z
-SUMMARY:Piccadilly: Special Service
-UID:5a9697f2-b06e-4394-beea-3d6e0fb8f642@5a96.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-16T04:30:30&endDate=2026-02-17T01:29:00">Disruption map.</a>\n\nPiccadilly Line: Minor delays due to strike action.  
+DTEND:20260217T012900Z
+DTSTART:20260216T043030Z
+SUMMARY:Piccadilly: Minor Delays
+UID:56f9c9b5-30c5-4935-a0ee-9323fe022f39@56f9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-07T01:00:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 7 and Sunday 8 March (Including Friday and Saturday Night Tube)\, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE trains between Rayners Lane and Uxbridge. Replacement buses operate.
 DTEND:20260309T012900Z
 DTSTART:20260307T010000Z
 SUMMARY:Piccadilly: Part Closure
-UID:cf59a088-3d00-4b97-9ff0-0efd10a57d8d@cf59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-15T09:38:42&endDate=2026-02-16T01:29:00">Disruption map.</a>\n\nPiccadilly Line: Minor delays due to train cancellations. 
-DTEND:20260216T012900Z
-DTSTART:20260215T093842Z
-SUMMARY:Piccadilly: Minor Delays
-UID:b52cd7ca-661c-44c6-a1ff-67bc24aab53d@b52c.org
+UID:bae6bfde-5ac1-40ba-ab4d-1720702e836f@bae6.org
 END:VEVENT
 END:VCALENDAR

@@ -3,45 +3,38 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-15T04:30:00&endDate=2026-02-16T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 15 February\, no service between Shadwell and Tower Gateway. Use local London Buses route 100.
-DTEND:20260216T012900Z
-DTSTART:20260215T043000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-21T04:30:00&endDate=2026-02-23T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 21 and Sunday 22 February\, no service between Bank / Tower Gateway and West India Quay / Poplar.
+DTEND:20260223T012900Z
+DTSTART:20260221T043000Z
 SUMMARY:DLR: Part Closure
-UID:4fa0d954-c58d-4056-b20d-d9445b990e5f@4fa0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-14T04:30:00&endDate=2026-03-16T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 14 and Sunday 15 March\, no service between West India Quay and Stratford. Please use JUBILEE LINE and local London Buses services.
-DTEND:20260316T012900Z
-DTSTART:20260314T043000Z
-SUMMARY:DLR: Part Closure
-UID:0c52f4db-9847-49bb-a0f2-582efddbb7f2@0c52.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-07T04:30:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 7 and Sunday 8 March\, no service between Poplar / Stratford International and Beckton / Woolwich Arsenal. Use JUBILEE LINE services between Stratford and Canning Town\, and ELIZABETH LINE connections between Canary Wharf\, Custom House and Woolwich (for Woolwich Arsenal). Replacement buses operate.
-DTEND:20260309T012900Z
-DTSTART:20260307T043000Z
-SUMMARY:DLR: Part Closure
-UID:3c45cd82-4439-4b5a-8270-b01896658fe9@3c45.org
+UID:1cd41133-2b08-42ad-be6c-8d0eb1485cfb@1cd4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-01T04:30:00&endDate=2026-03-02T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 1 March\, no service between Shadwell and Tower Gateway. Use local London Buses route 100.
 DTEND:20260302T012900Z
 DTSTART:20260301T043000Z
 SUMMARY:DLR: Part Closure
-UID:def91fb5-3b6a-4d63-8c90-85b28ec9bfb6@def9.org
+UID:91582922-e8c3-463b-9db1-04548d819cc2@9158.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-08T04:30:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 8 March\, no service between Shadwell and Tower Gateway. Use local London Buses route 100.
 DTEND:20260309T012900Z
 DTSTART:20260308T043000Z
 SUMMARY:DLR: Part Closure
-UID:376c9b26-3b12-4fbc-a0b0-2ff00f75650f@376c.org
+UID:f7cca18b-0a04-4f9e-8ba2-3cbf4ec406dd@f7cc.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-21T04:30:00&endDate=2026-02-23T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 21 and Sunday 22 February\, no service between Bank / Tower Gateway and West India Quay / Poplar.
-DTEND:20260223T012900Z
-DTSTART:20260221T043000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-14T04:30:00&endDate=2026-03-16T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 14 and Sunday 15 March\, no service between West India Quay and Stratford. Please use JUBILEE LINE and local London Buses services.
+DTEND:20260316T012900Z
+DTSTART:20260314T043000Z
 SUMMARY:DLR: Part Closure
-UID:54008c15-db97-4465-9c66-84ff83c4a4da@5400.org
+UID:2bbc7d9b-6dcc-4bb8-b563-26ab14003b82@2bbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-07T04:30:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 7 and Sunday 8 March\, no service between Poplar / Stratford International and Beckton / Woolwich Arsenal. Use JUBILEE LINE services between Stratford and Canning Town\, and ELIZABETH LINE connections between Canary Wharf\, Custom House and Woolwich (for Woolwich Arsenal). Replacement buses operate.
+DTEND:20260309T012900Z
+DTSTART:20260307T043000Z
+SUMMARY:DLR: Part Closure
+UID:4b825d88-390b-4467-8bf9-48a891e47a04@4b82.org
 END:VEVENT
 END:VCALENDAR
