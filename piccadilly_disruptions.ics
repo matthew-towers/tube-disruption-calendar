@@ -3,17 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-18T07:25:52&endDate=2026-02-19T01:29:00">Disruption map.</a>\n\nPiccadilly Line: Minor delays due to train cancellations. 
-DTEND:20260219T012900Z
-DTSTART:20260218T072552Z
-SUMMARY:Piccadilly: Minor Delays
-UID:e4b7d8e4-5cdd-4ff1-8246-eda21a66bc47@e4b7.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-21T01:00:00&endDate=2026-03-23T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 21 and Sunday 22 March\, no service between Cockfosters and Uxbridge (including Friday and Saturday Night Tube). Trains will continue to run between Acton Town and Heathrow. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge\, and ELIZABETH LINE services between Paddington and Heathrow. Replacement bus services operate.
+DTEND:20260323T012900Z
+DTSTART:20260321T010000Z
+SUMMARY:Piccadilly: Part Closure
+UID:89a06b30-bfed-4045-ba1f-3c40bf4a4172@89a0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-07T01:00:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 7 and Sunday 8 March (Including Friday and Saturday Night Tube)\, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE trains between Rayners Lane and Uxbridge. Replacement buses operate.
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-07T01:00:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 7 and Sunday 8 March (Including Friday and Saturday Night Tube)\, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE trains between Rayners Lane and Uxbridge and ELIZABETH LINE services between Central London and Heathrow. Replacement buses operate.
 DTEND:20260309T012900Z
 DTSTART:20260307T010000Z
 SUMMARY:Piccadilly: Part Closure
-UID:f86ca64b-2d9f-44cc-9df3-7f6607757f36@f86c.org
+UID:065589ec-2ab7-4331-9a74-ed6453e41215@0655.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-19T07:27:11&endDate=2026-02-20T01:29:00">Disruption map.</a>\n\nPiccadilly Line: Minor delays due to train cancellations.  
+DTEND:20260220T012900Z
+DTSTART:20260219T072711Z
+SUMMARY:Piccadilly: Minor Delays
+UID:2e101281-ff2f-4aac-9426-97a9c1300070@2e10.org
 END:VEVENT
 END:VCALENDAR
