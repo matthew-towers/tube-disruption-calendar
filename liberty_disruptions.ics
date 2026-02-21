@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Liberty line disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-08T04:30:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nLIBERTY LINE: Sunday 8 March\, no service between Romford and Upminster. Use local London Buses routes 165 248 and 370.
+DTEND:20260309T012900Z
+DTSTART:20260308T043000Z
+SUMMARY:Liberty line: Planned Closure
+UID:5a3c01c6-df45-4925-a3fb-7f2469b68c6a@5a3c.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-21T04:30:00&endDate=2026-03-23T01:29:00">Disruption map.</a>\n\nLIBERTY LINE: Saturday 21 and Sunday 22 March\, no service between Romford and Upminster. Use local London Buses routes 165 248 and 370.
 DTEND:20260323T012900Z
 DTSTART:20260321T043000Z
 SUMMARY:Liberty line: Planned Closure
-UID:f86c0308-e50f-4f3c-a8a1-6aff8d4cb178@f86c.org
+UID:0b2acbba-c249-4e1c-9f0d-ea251207a83c@0b2a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-14T04:30:00&endDate=2026-03-16T01:29:00">Disruption map.</a>\n\nLIBERTY LINE: Saturday 14 and Sunday 15 March\, no service between Romford and Upminster. Use local London Buses routes 165 248 and 370.
 DTEND:20260316T012900Z
 DTSTART:20260314T043000Z
 SUMMARY:Liberty line: Planned Closure
-UID:c91c1537-2712-4d55-9515-7442067c0806@c91c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-08T04:30:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nLIBERTY LINE: Sunday 8 March\, no service between Romford and Upminster. Use local London Buses routes 165 248 and 370.
-DTEND:20260309T012900Z
-DTSTART:20260308T043000Z
-SUMMARY:Liberty line: Planned Closure
-UID:75dff847-ad1e-4ea2-b2ab-d4f55e1c770d@75df.org
+UID:eafceef7-af23-4159-a181-d1583740601f@eafc.org
 END:VEVENT
 END:VCALENDAR

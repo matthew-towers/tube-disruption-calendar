@@ -3,24 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-20T08:31:16&endDate=2026-02-21T01:29:00">Disruption map.</a>\n\nPiccadilly Line: Minor delays due to train cancellations.  
-DTEND:20260221T012900Z
-DTSTART:20260220T083116Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-07T01:00:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 7 and Sunday 8 March (Including Friday and Saturday Night Tube)\, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE trains between Rayners Lane and Uxbridge and ELIZABETH LINE services between Central London and Heathrow. Replacement buses operate.
+DTEND:20260309T012900Z
+DTSTART:20260307T010000Z
+SUMMARY:Piccadilly: Part Closure
+UID:d014e436-7943-4b24-8e45-d5e62ff43c4e@d014.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-21T11:51:02&endDate=2026-02-22T01:29:00">Disruption map.</a>\n\nPiccadilly Line: Severe delays between King's Cross St. Pancras and Uxbridge due to an earlier signal failure at Acton Town. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line due to train cancellations.   
+DTEND:20260222T012900Z
+DTSTART:20260221T115102Z
 SUMMARY:Piccadilly: Minor Delays
-UID:e8f3ea07-2d43-45f6-a967-f96081257e76@e8f3.org
+UID:2fa3095e-7dab-45c4-a2d6-6976d2144e3e@2fa3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-21T11:51:02&endDate=2026-02-22T01:29:00">Disruption map.</a>\n\nPiccadilly Line: Severe delays between King's Cross St. Pancras and Uxbridge due to an earlier signal failure at Acton Town. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line due to train cancellations.   
+DTEND:20260222T012900Z
+DTSTART:20260221T115102Z
+SUMMARY:Piccadilly: Severe Delays
+UID:61b2f429-8a87-4267-979b-4f96897145b1@61b2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-21T01:00:00&endDate=2026-03-23T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 21 and Sunday 22 March\, no service between Cockfosters and Uxbridge (including Friday and Saturday Night Tube). Trains will continue to run between Acton Town and Heathrow. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge\, and ELIZABETH LINE services between Paddington and Heathrow. Replacement bus services operate.
 DTEND:20260323T012900Z
 DTSTART:20260321T010000Z
 SUMMARY:Piccadilly: Part Closure
-UID:6acb0ab6-5db4-4fd4-a83a-58121df8bfaa@6acb.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-07T01:00:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 7 and Sunday 8 March (Including Friday and Saturday Night Tube)\, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE trains between Rayners Lane and Uxbridge and ELIZABETH LINE services between Central London and Heathrow. Replacement buses operate.
-DTEND:20260309T012900Z
-DTSTART:20260307T010000Z
-SUMMARY:Piccadilly: Part Closure
-UID:00bfda2e-83be-4bc8-a941-e52fb8c65dd6@00bf.org
+UID:04a1881d-a40f-45b6-b63e-51396a82ea5d@04a1.org
 END:VEVENT
 END:VCALENDAR
