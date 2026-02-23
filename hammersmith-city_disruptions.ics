@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Hammersmith & City disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-07T04:30:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Saturday 7 and Sunday 8 March\, no service throughout the line.
+DTEND:20260309T012900Z
+DTSTART:20260307T043000Z
+SUMMARY:Hammersmith & City: Planned Closure
+UID:520a0156-48c9-430d-8eb3-bf1eac018523@520a.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-14T04:30:00&endDate=2026-03-16T01:29:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Saturday 14 and Sunday 15 March\, no service between Edgware Road and Aldgate East.
 DTEND:20260316T012900Z
 DTSTART:20260314T043000Z
 SUMMARY:Hammersmith & City: Part Closure
-UID:11bc3326-cb9f-4443-adb5-66ff903211e0@11bc.org
+UID:49665e07-bc64-43fe-8ef5-430db0d218e5@4966.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-28T04:30:00&endDate=2026-03-02T01:29:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Saturday 28 February and Sunday 1 March\, no service between Whitechapel and Barking\, except a very limited early morning and late evening service. Please use DISTRICT LINE services east of Whitechapel.
 DTEND:20260302T012900Z
 DTSTART:20260228T043000Z
 SUMMARY:Hammersmith & City: Part Closure
-UID:5272394a-4789-460a-8e5d-0b87c3f6fba8@5272.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-07T04:30:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Saturday 7 and Sunday 8 March\, no service throughout the line.
-DTEND:20260309T012900Z
-DTSTART:20260307T043000Z
-SUMMARY:Hammersmith & City: Planned Closure
-UID:5e8694cc-422e-4c21-ab47-781d01bfa5a8@5e86.org
+UID:4ded1b43-c0ee-4e76-b0d5-e175b4e0efa4@4ded.org
 END:VEVENT
 END:VCALENDAR
