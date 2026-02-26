@@ -3,66 +3,38 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Lioness line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-24T00:00:00&endDate=2026-02-24T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Monday 23\, Tuesday 24\, Wednesday 25 and Thursday 26 February\, the 2345 Euston to Watford Junction train will not run.
-DTEND:20260224T002900Z
-DTSTART:20260224T000000Z
-SUMMARY:Lioness line: Reduced Service
-UID:07336dd4-de6b-47a2-b357-e6da5ab7d59c@0733.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-25T05:25:00&endDate=2026-02-25T06:05:00">Disruption map.</a>\n\nLIONESS LINE: Tuesday 24\, Wednesday 25\, Thursday 26 and Friday 27 February\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
-DTEND:20260225T060500Z
-DTSTART:20260225T052500Z
-SUMMARY:Lioness line: Reduced Service
-UID:3fade943-7843-4fcc-b78e-cae31e70ab15@3fad.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-28T04:30:00&endDate=2026-03-02T01:29:00">Disruption map.</a>\n\nLIONESS LINE: Saturday 28 February and Sunday 1 March\, no service between Euston and Watford Junction. There will also be no BAKERLOO LINE service between Queens Park and Harrow & Wealdstone. LONDON NORTHWESTERN RAILWAY services will continue to operate between Euston\, Harrow & Wealdstone\, Bushey and Watford Junction\, and SOUTHERN services continue to stop at Wembley Central\, Harrow & Wealdstone and Watford Junction. Replacement buses operate.
+DTEND:20260302T012900Z
+DTSTART:20260228T043000Z
+SUMMARY:Lioness line: Planned Closure
+UID:2b002f8c-edfa-484e-9c0d-4ad735c08da9@2b00.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-27T05:25:00&endDate=2026-02-27T06:05:00">Disruption map.</a>\n\nLIONESS LINE: Tuesday 24\, Wednesday 25\, Thursday 26 and Friday 27 February\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
 DTEND:20260227T060500Z
 DTSTART:20260227T052500Z
 SUMMARY:Lioness line: Reduced Service
-UID:079a34ad-c877-4830-b460-fb04addf73e9@079a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-28T04:30:00&endDate=2026-03-02T01:29:00">Disruption map.</a>\n\nLIONESS LINE: Saturday 28 February and Sunday 1 March\, no service between Euston and Watford Junction. There will also be no BAKERLOO LINE service between Queens Park and Harrow & Wealdstone. LONDON NORTHWESTERN RAILWAY services will continue to operate between Euston\, Harrow & Wealdstone\, Bushey and Watford Junction\, and SOUTHERN services continue to stop at Wembley Central\, Harrow & Wealdstone and Watford Junction. Replacement buses operate.
-DTEND:20260302T012900Z
-DTSTART:20260228T043000Z
-SUMMARY:Lioness line: Planned Closure
-UID:467bed6e-231e-4aff-b167-0a6425c3f3d9@467b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-24T05:25:00&endDate=2026-02-24T06:05:00">Disruption map.</a>\n\nLIONESS LINE: Tuesday 24\, Wednesday 25\, Thursday 26 and Friday 27 February\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
-DTEND:20260224T060500Z
-DTSTART:20260224T052500Z
-SUMMARY:Lioness line: Reduced Service
-UID:a8baa5b6-f5f0-4d8f-9608-5d9e2e130fed@a8ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-26T23:45:00&endDate=2026-02-27T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Monday 23\, Tuesday 24\, Wednesday 25 and Thursday 26 February\, the 2345 Euston to Watford Junction train will not run.
-DTEND:20260227T002900Z
-DTSTART:20260226T234500Z
-SUMMARY:Lioness line: Reduced Service
-UID:0076bd8b-eae2-4b60-aeb2-7d8a09f96f68@0076.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-24T23:45:00&endDate=2026-02-25T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Monday 23\, Tuesday 24\, Wednesday 25 and Thursday 26 February\, the 2345 Euston to Watford Junction train will not run.
-DTEND:20260225T002900Z
-DTSTART:20260224T234500Z
-SUMMARY:Lioness line: Reduced Service
-UID:abfae08e-4fb7-4432-986b-163a247ba27f@abfa.org
+UID:47a1e217-7d7f-42fb-8d90-7a786f03d1cc@47a1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-26T05:25:00&endDate=2026-02-26T06:05:00">Disruption map.</a>\n\nLIONESS LINE: Tuesday 24\, Wednesday 25\, Thursday 26 and Friday 27 February\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
 DTEND:20260226T060500Z
 DTSTART:20260226T052500Z
 SUMMARY:Lioness line: Reduced Service
-UID:ee3931b9-bfdb-4da0-b134-9e5456e89ab2@ee39.org
+UID:4dad2547-b52b-4fe1-8fa7-d4262269888c@4dad.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-25T23:45:00&endDate=2026-02-26T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Monday 23\, Tuesday 24\, Wednesday 25 and Thursday 26 February\, the 2345 Euston to Watford Junction train will not run.
-DTEND:20260226T002900Z
-DTSTART:20260225T234500Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-26T23:45:00&endDate=2026-02-27T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Monday 23\, Tuesday 24\, Wednesday 25 and Thursday 26 February\, the 2345 Euston to Watford Junction train will not run.
+DTEND:20260227T002900Z
+DTSTART:20260226T234500Z
 SUMMARY:Lioness line: Reduced Service
-UID:6a0220d2-99ab-4b81-8a3e-511401b62bff@6a02.org
+UID:c0164582-51f3-4044-b81e-89a9bcb6ef89@c016.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-26T00:00:00&endDate=2026-02-26T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Monday 23\, Tuesday 24\, Wednesday 25 and Thursday 26 February\, the 2345 Euston to Watford Junction train will not run.
+DTEND:20260226T002900Z
+DTSTART:20260226T000000Z
+SUMMARY:Lioness line: Reduced Service
+UID:32e01187-a524-4766-93d8-730571066902@32e0.org
 END:VEVENT
 END:VCALENDAR

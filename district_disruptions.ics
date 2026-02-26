@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-28T04:30:00&endDate=2026-03-02T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 28 February and Sunday 1 March\, no service between Earls Court and Kensington (Olympia) / Whitechapel.
-DTEND:20260302T012900Z
-DTSTART:20260228T043000Z
-SUMMARY:District: Part Closure
-UID:70e7a485-ce87-4cf1-955f-e263fc156f12@70e7.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-07T04:30:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 7 and Sunday 8 March\, no service between High Street Kensington and Edgware Road.
 DTEND:20260309T012900Z
 DTSTART:20260307T043000Z
 SUMMARY:District: Part Closure
-UID:c7f89a57-d535-4777-92ab-55fe1861530c@c7f8.org
+UID:7b45f68c-bb38-40d9-8bfe-3c4c135e72b2@7b45.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-02-28T04:30:00&endDate=2026-03-02T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 28 February and Sunday 1 March\, no service between Earls Court and Kensington (Olympia) / Whitechapel.
+DTEND:20260302T012900Z
+DTSTART:20260228T043000Z
+SUMMARY:District: Part Closure
+UID:9d009436-93b6-489c-a59a-c8f95beb707a@9d00.org
 END:VEVENT
 END:VCALENDAR
