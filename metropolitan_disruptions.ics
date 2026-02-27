@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-28T04:30:00&endDate=2026-03-30T00:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 28 and Sunday 29 March\, no service between Wembley Park and Aldgate.
+DTEND:20260330T002900Z
+DTSTART:20260328T043000Z
+SUMMARY:Metropolitan: Part Closure
+UID:50f7fdba-c9a3-4cfb-a25e-bd16f6ca5484@50f7.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-07T04:30:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 7 and Sunday 8 March\, no service between Baker Street and Aldgate.
 DTEND:20260309T012900Z
 DTSTART:20260307T043000Z
 SUMMARY:Metropolitan: Part Closure
-UID:0dedfec2-2e4f-4b59-80e5-851f2a6f918a@0ded.org
+UID:2cdff4a9-e4a6-4e9f-bee9-aa73dc74057c@2cdf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-14T04:30:00&endDate=2026-03-16T01:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 14 and Sunday 15 March\, no service between Baker Street and Aldgate.
 DTEND:20260316T012900Z
 DTSTART:20260314T043000Z
 SUMMARY:Metropolitan: Part Closure
-UID:4235b7b5-61ad-43b7-9bef-1cfd5bcbcd68@4235.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-28T04:30:00&endDate=2026-03-30T00:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 28 and Sunday 29 March\, no service between Wembley Park and Aldgate.
-DTEND:20260330T002900Z
-DTSTART:20260328T043000Z
-SUMMARY:Metropolitan: Part Closure
-UID:cee029dd-b0d2-4074-942e-d660e7d9b5a5@cee0.org
+UID:4ecfd6b7-179a-4d7b-8fca-b4b3bd615b90@4ecf.org
 END:VEVENT
 END:VCALENDAR
