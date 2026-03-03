@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-14T04:30:00&endDate=2026-03-16T01:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 14 and Sunday 15 March\, no service between Baker Street and Aldgate.
-DTEND:20260316T012900Z
-DTSTART:20260314T043000Z
-SUMMARY:Metropolitan: Part Closure
-UID:e4b081b1-0030-444d-8713-56335eee0ba3@e4b0.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-28T04:30:00&endDate=2026-03-30T00:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 28 and Sunday 29 March\, no service between Wembley Park and Aldgate.
 DTEND:20260330T002900Z
 DTSTART:20260328T043000Z
 SUMMARY:Metropolitan: Part Closure
-UID:ca3ec6cb-7d34-4a3d-8b12-426fa46c8381@ca3e.org
+UID:9a02924d-85b1-4c31-9d0e-fe1b89ddd311@9a02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-14T04:30:00&endDate=2026-03-16T01:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 14 and Sunday 15 March\, no service between Baker Street and Aldgate.
+DTEND:20260316T012900Z
+DTSTART:20260314T043000Z
+SUMMARY:Metropolitan: Part Closure
+UID:889aa8c9-b407-4252-8cf9-e1946b5de1ec@889a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-07T04:30:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 7 and Sunday 8 March\, no service between Baker Street and Aldgate.
 DTEND:20260309T012900Z
 DTSTART:20260307T043000Z
 SUMMARY:Metropolitan: Part Closure
-UID:5d0a8aae-aa82-419b-85c7-70463bdfb9f6@5d0a.org
+UID:1e488456-c671-4663-9453-a4ce36d3475a@1e48.org
 END:VEVENT
 END:VCALENDAR
