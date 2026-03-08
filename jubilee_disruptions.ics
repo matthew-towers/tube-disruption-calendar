@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Jubilee disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-08T11:55:45&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nJubilee Line: Severe delays due to train cancellations. Tickets are being accepted on London Buses\, the Mildmay line\, DLR\, the Elizabeth line\, C2C\, Southeastern and Thameslink. 
+DTEND:20260309T012900Z
+DTSTART:20260308T115545Z
+SUMMARY:Jubilee: Severe Delays
+UID:54cd9fcb-e808-4397-846f-c032f33f77ba@54cd.org
+END:VEVENT
 END:VCALENDAR
