@@ -3,17 +3,10 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Hammersmith & City disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-07T04:30:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Saturday 7 and Sunday 8 March\, no service throughout the line.
-DTEND:20260309T012900Z
-DTSTART:20260307T043000Z
-SUMMARY:Hammersmith & City: Planned Closure
-UID:055702f7-5686-4b3f-9409-66e1c2fc7c12@0557.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-14T04:30:00&endDate=2026-03-16T01:29:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Saturday 14 and Sunday 15 March\, no service between Edgware Road and Aldgate East.
-DTEND:20260316T012900Z
-DTSTART:20260314T043000Z
-SUMMARY:Hammersmith & City: Part Closure
-UID:cecee7ea-c35a-4661-b5d5-9a54ca1f802f@cece.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-09T08:51:55&endDate=2026-03-10T01:29:00">Disruption map.</a>\n\nHammersmith and City Line: Severe delays due to an earlier faulty train at Great Portland Street. Tickets are being accepted on London Buses. 
+DTEND:20260310T012900Z
+DTSTART:20260309T085155Z
+SUMMARY:Hammersmith & City: Severe Delays
+UID:1f0e7274-5c0b-43b1-9ecc-c7fa5315268f@1f0e.org
 END:VEVENT
 END:VCALENDAR

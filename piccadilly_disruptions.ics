@@ -3,17 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-07T01:00:00&endDate=2026-03-09T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 7 and Sunday 8 March (Including Friday and Saturday Night Tube)\, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE trains between Rayners Lane and Uxbridge and ELIZABETH LINE services between Central London and Heathrow. Replacement buses operate.
-DTEND:20260309T012900Z
-DTSTART:20260307T010000Z
-SUMMARY:Piccadilly: Part Closure
-UID:5bfd1dfd-5b61-4cf9-9c7c-2b4b5813b6b8@5bfd.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-21T01:00:00&endDate=2026-03-23T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 21 and Sunday 22 March\, no service between Cockfosters and Uxbridge (including Friday and Saturday Night Tube). Trains will continue to run between Acton Town and Heathrow. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge\, and ELIZABETH LINE services between Paddington and Heathrow. Replacement bus services operate.
 DTEND:20260323T012900Z
 DTSTART:20260321T010000Z
 SUMMARY:Piccadilly: Part Closure
-UID:1d6fc0c5-2bfb-4606-a119-e37081d2c1b8@1d6f.org
+UID:b52a8334-6f40-4a96-93c0-4250a85f6e5c@b52a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-09T09:10:05&endDate=2026-03-10T01:29:00">Disruption map.</a>\n\nPiccadilly Line:  Severe delays between Acton Town and Heathrow terminals and MINOR DELAYS on the rest of the line following a late finish of engineering work. 
+DTEND:20260310T012900Z
+DTSTART:20260309T091005Z
+SUMMARY:Piccadilly: Minor Delays
+UID:8421a269-93a5-4180-af53-fb72dfed8075@8421.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-09T09:10:05&endDate=2026-03-10T01:29:00">Disruption map.</a>\n\nPiccadilly Line:  Severe delays between Acton Town and Heathrow terminals and MINOR DELAYS on the rest of the line following a late finish of engineering work. 
+DTEND:20260310T012900Z
+DTSTART:20260309T091005Z
+SUMMARY:Piccadilly: Severe Delays
+UID:56209c20-6fd7-4e09-8db5-f460f6aae22d@5620.org
 END:VEVENT
 END:VCALENDAR
