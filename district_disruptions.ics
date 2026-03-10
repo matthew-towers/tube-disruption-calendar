@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-09T09:36:37&endDate=2026-03-10T01:29:00">Disruption map.</a>\n\nDistrict Line: Minor delays between Edgware Road and High Street Kensington due to an earlier faulty train at Great Portland Street. GOOD SERVICE on the rest of the line. 
-DTEND:20260310T012900Z
-DTSTART:20260309T093637Z
-SUMMARY:District: Minor Delays
-UID:a26afdbe-3226-44f7-ac32-0a8b87b5231d@a26a.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-03T03:30:00&endDate=2026-04-07T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Good Friday 3\, Saturday 4\, Easter Sunday 5 and Easter Monday 6 April\, no service between Whitechapel and Upminster. There will be no HAMMERSMITH & CITY LINE service. In addition\, c2c services will not call at West Ham all weekend. Replacement bus services operate
+DTEND:20260407T002900Z
+DTSTART:20260403T033000Z
+SUMMARY:District: Part Closure
+UID:575d3fee-1f8b-414c-8f9e-8e89da4f9d2f@575d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-03T03:30:00&endDate=2026-04-07T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Good Friday 3\, Saturday 4\, Sunday 5 and Easter Monday 6 April\, no service between Earls Court and Kensington (Olympia). Please use local London Buses or MILDMAY LINE connections.
+DTEND:20260407T002900Z
+DTSTART:20260403T033000Z
+SUMMARY:District: Part Closure
+UID:596cae21-fa80-4fff-8b52-c1e65d33dda4@596c.org
 END:VEVENT
 END:VCALENDAR

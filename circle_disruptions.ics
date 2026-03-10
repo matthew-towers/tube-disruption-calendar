@@ -3,17 +3,10 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Circle disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-14T04:30:00&endDate=2026-03-16T01:29:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 14 and Sunday 15 March\, no service between Hammersmith and Tower Hill\, and between Edgware Road and High Street Kensington. A special service operates between High Street Kensington and Barking (via Victoria)
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-14T04:30:00&endDate=2026-03-16T01:29:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 14 and Sunday 15 March\, no service between Hammersmith and Tower Hill\, and between Edgware Road and High Street Kensington. A special service operates between High Street Kensington and Barking (via Victoria). HAMMERSMITH & CITY LINE trains continue to operate between Hammersmith and Edgware Road.
 DTEND:20260316T012900Z
 DTSTART:20260314T043000Z
 SUMMARY:Circle: Part Closure
-UID:f17a9c2f-1f86-4c99-bd15-24a179a60d50@f17a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-09T08:51:46&endDate=2026-03-10T01:29:00">Disruption map.</a>\n\nCircle Line: Severe delays due to an earlier faulty train at Great Portland Street. Tickets are being accepted on London Buses. 
-DTEND:20260310T012900Z
-DTSTART:20260309T085146Z
-SUMMARY:Circle: Severe Delays
-UID:25a71f4e-d4a3-4d25-9bfa-ce5eb1a3936a@25a7.org
+UID:82bfe50f-5e9b-4592-94ae-12bd5fd5dd86@82bf.org
 END:VEVENT
 END:VCALENDAR
