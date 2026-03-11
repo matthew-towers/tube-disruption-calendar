@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-11T09:38:52&endDate=2026-03-12T01:29:00">Disruption map.</a>\n\nCentral Line: Severe delays due to an earlier signal failure at Bethnal Green. Tickets being accepted on London Buses and Elizabeth line.  
+DTEND:20260312T012900Z
+DTSTART:20260311T093852Z
+SUMMARY:Central: Severe Delays
+UID:f8b25583-2352-400f-931d-8f54ba88dc38@f8b2.org
+END:VEVENT
 END:VCALENDAR
