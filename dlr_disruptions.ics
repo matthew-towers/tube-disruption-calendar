@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-03T03:30:00&endDate=2026-04-09T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Good Friday 3 to Wednesday 8 April\, no service between Bank / Tower Gateway and Poplar / West India Quay. Please use JUBILEE LINE\, ELIZABETH LINE and local London Buses services.
-DTEND:20260409T002900Z
-DTSTART:20260403T033000Z
-SUMMARY:DLR: Part Closure
-UID:f38d4d16-54be-4182-89d3-afec811168ed@f38d.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-14T04:30:00&endDate=2026-03-16T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 14 and Sunday 15 March\, no service between West India Quay and Stratford. Please use JUBILEE LINE and local London Buses services. West India Quay remains served by trains from Lewisham to Bank only.
 DTEND:20260316T012900Z
 DTSTART:20260314T043000Z
 SUMMARY:DLR: Part Closure
-UID:ac3f87dc-4a3b-4eb3-96e4-3d426e0e8592@ac3f.org
+UID:f7a50bfc-7b7c-44d6-bc50-890d173b27f1@f7a5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-28T04:30:00&endDate=2026-03-30T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 28 and Sunday 29 March\, no service between Bank / Tower Gateway and Canning Town / Lewisham\, or between Stratford and Canary Wharf. Please use local London Buses and London Underground services. Replacement bus services operate.
 DTEND:20260330T002900Z
 DTSTART:20260328T043000Z
 SUMMARY:DLR: Part Closure
-UID:7975ed71-6114-45b8-ac62-d09bc99f7fe1@7975.org
+UID:626fc8f2-ddd8-453e-84ab-51afff135dfc@626f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-03T03:30:00&endDate=2026-04-09T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Good Friday 3 to Wednesday 8 April\, no service between Bank / Tower Gateway and Poplar / West India Quay. Please use JUBILEE LINE\, ELIZABETH LINE and local London Buses services.
+DTEND:20260409T002900Z
+DTSTART:20260403T033000Z
+SUMMARY:DLR: Part Closure
+UID:f00ae678-b48f-4383-abfb-b384ca59c31c@f00a.org
 END:VEVENT
 END:VCALENDAR

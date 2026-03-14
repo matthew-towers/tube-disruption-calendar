@@ -3,17 +3,59 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-28T04:30:00&endDate=2026-03-30T00:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 28 and Sunday 29 March\, no service between Wembley Park and Aldgate.
-DTEND:20260330T002900Z
-DTSTART:20260328T043000Z
-SUMMARY:Metropolitan: Part Closure
-UID:24327522-fe14-46ca-be98-fe878835f7be@2432.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-26T12:00:00&endDate=2026-03-27T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on the following dates and times: From 1200 Tuesday 24 to 1159 Wednesday 25 March\, from 1200 Thursday 26 to 1159 Friday 27 March\, from 1200 Tuesday 21 until 1159 Wednesday 22 April\, from 1200 Thursday 23 until 1159 Friday 24 April\, from 1200 Tuesday 19 until 1159 Wednesday 20 May and from 1200 Thursday 21 until 1159 Friday 22 May. On the affected Tuesdays and Thursdays\, Tube services will run normally in the morning. Severe disruption is expected once the strike begins. On Wednesdays and Fridays\, severe disruption is expected to continue until midday\, when the strike ends\, but disruption is likely through the afternoon and evening.
+DTEND:20260327T115900Z
+DTSTART:20260326T120000Z
+SUMMARY:Metropolitan: Special Service
+UID:6242f53d-e136-44c8-aad7-d3bc9b0cd13e@6242.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-14T04:30:00&endDate=2026-03-16T01:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 14 and Sunday 15 March\, no service between Baker Street and Aldgate.
 DTEND:20260316T012900Z
 DTSTART:20260314T043000Z
 SUMMARY:Metropolitan: Part Closure
-UID:635f1b3a-7dd8-458c-b07f-f708992bf1d2@635f.org
+UID:29f60c6e-d8e6-4cbd-b429-4af4bf9b8c5c@29f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-23T11:00:00&endDate=2026-04-24T10:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on the following dates and times: From 1200 Tuesday 24 to 1159 Wednesday 25 March\, from 1200 Thursday 26 to 1159 Friday 27 March\, from 1200 Tuesday 21 until 1159 Wednesday 22 April\, from 1200 Thursday 23 until 1159 Friday 24 April\, from 1200 Tuesday 19 until 1159 Wednesday 20 May and from 1200 Thursday 21 until 1159 Friday 22 May. On the affected Tuesdays and Thursdays\, Tube services will run normally in the morning. Severe disruption is expected once the strike begins. On Wednesdays and Fridays\, severe disruption is expected to continue until midday\, when the strike ends\, but disruption is likely through the afternoon and evening.
+DTEND:20260424T105900Z
+DTSTART:20260423T110000Z
+SUMMARY:Metropolitan: Special Service
+UID:1d85fe86-2f72-4ff2-abc9-2917f98f002d@1d85.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-19T11:00:00&endDate=2026-05-20T10:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on the following dates and times: From 1200 Tuesday 24 to 1159 Wednesday 25 March\, from 1200 Thursday 26 to 1159 Friday 27 March\, from 1200 Tuesday 21 until 1159 Wednesday 22 April\, from 1200 Thursday 23 until 1159 Friday 24 April\, from 1200 Tuesday 19 until 1159 Wednesday 20 May and from 1200 Thursday 21 until 1159 Friday 22 May. On the affected Tuesdays and Thursdays\, Tube services will run normally in the morning. Severe disruption is expected once the strike begins. On Wednesdays and Fridays\, severe disruption is expected to continue until midday\, when the strike ends\, but disruption is likely through the afternoon and evening.
+DTEND:20260520T105900Z
+DTSTART:20260519T110000Z
+SUMMARY:Metropolitan: Special Service
+UID:f968e458-1e52-4d3b-95ba-99fcca553db6@f968.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-24T12:00:00&endDate=2026-03-25T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on the following dates and times: From 1200 Tuesday 24 to 1159 Wednesday 25 March\, from 1200 Thursday 26 to 1159 Friday 27 March\, from 1200 Tuesday 21 until 1159 Wednesday 22 April\, from 1200 Thursday 23 until 1159 Friday 24 April\, from 1200 Tuesday 19 until 1159 Wednesday 20 May and from 1200 Thursday 21 until 1159 Friday 22 May. On the affected Tuesdays and Thursdays\, Tube services will run normally in the morning. Severe disruption is expected once the strike begins. On Wednesdays and Fridays\, severe disruption is expected to continue until midday\, when the strike ends\, but disruption is likely through the afternoon and evening.
+DTEND:20260325T115900Z
+DTSTART:20260324T120000Z
+SUMMARY:Metropolitan: Special Service
+UID:73099af6-a18e-41de-9290-683b564fe294@7309.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-28T04:30:00&endDate=2026-03-30T00:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 28 and Sunday 29 March\, no service between Wembley Park and Aldgate.
+DTEND:20260330T002900Z
+DTSTART:20260328T043000Z
+SUMMARY:Metropolitan: Part Closure
+UID:c19a8ba6-57af-43a2-a7bd-b0c18573c19f@c19a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-21T11:00:00&endDate=2026-04-22T10:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on the following dates and times: From 1200 Tuesday 24 to 1159 Wednesday 25 March\, from 1200 Thursday 26 to 1159 Friday 27 March\, from 1200 Tuesday 21 until 1159 Wednesday 22 April\, from 1200 Thursday 23 until 1159 Friday 24 April\, from 1200 Tuesday 19 until 1159 Wednesday 20 May and from 1200 Thursday 21 until 1159 Friday 22 May. On the affected Tuesdays and Thursdays\, Tube services will run normally in the morning. Severe disruption is expected once the strike begins. On Wednesdays and Fridays\, severe disruption is expected to continue until midday\, when the strike ends\, but disruption is likely through the afternoon and evening.
+DTEND:20260422T105900Z
+DTSTART:20260421T110000Z
+SUMMARY:Metropolitan: Special Service
+UID:94a8ea70-a9d3-4a9a-9fcf-16ab27e0bd9c@94a8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-21T11:00:00&endDate=2026-05-22T10:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on the following dates and times: From 1200 Tuesday 24 to 1159 Wednesday 25 March\, from 1200 Thursday 26 to 1159 Friday 27 March\, from 1200 Tuesday 21 until 1159 Wednesday 22 April\, from 1200 Thursday 23 until 1159 Friday 24 April\, from 1200 Tuesday 19 until 1159 Wednesday 20 May and from 1200 Thursday 21 until 1159 Friday 22 May. On the affected Tuesdays and Thursdays\, Tube services will run normally in the morning. Severe disruption is expected once the strike begins. On Wednesdays and Fridays\, severe disruption is expected to continue until midday\, when the strike ends\, but disruption is likely through the afternoon and evening.
+DTEND:20260522T105900Z
+DTSTART:20260521T110000Z
+SUMMARY:Metropolitan: Special Service
+UID:aa8f1861-047a-4204-ac9c-c0848703f643@aa8f.org
 END:VEVENT
 END:VCALENDAR
