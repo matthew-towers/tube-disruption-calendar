@@ -3,24 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-14T04:30:00&endDate=2026-03-16T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 14 and Sunday 15 March\, no service between West India Quay and Stratford. Please use JUBILEE LINE and local London Buses services. West India Quay remains served by trains from Lewisham to Bank only.
-DTEND:20260316T012900Z
-DTSTART:20260314T043000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-28T04:30:00&endDate=2026-03-30T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 28 and Sunday 29 March\, no service between Bank / Tower Gateway and Canning Town / Lewisham\, or between Stratford and Canary Wharf. Please use local London Buses and London Underground services. Replacement bus services operate.
+DTEND:20260330T002900Z
+DTSTART:20260328T043000Z
 SUMMARY:DLR: Part Closure
-UID:629639bc-253c-4904-b5e8-d132cae2cf18@6296.org
+UID:49b0a0c3-1863-491d-a1cb-47f33f73c829@49b0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-03T03:30:00&endDate=2026-04-09T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Good Friday 3 to Wednesday 8 April\, no service between Bank / Tower Gateway and Poplar / West India Quay. Please use JUBILEE LINE\, ELIZABETH LINE and local London Buses services.
 DTEND:20260409T002900Z
 DTSTART:20260403T033000Z
 SUMMARY:DLR: Part Closure
-UID:d64d8f1c-4fe7-43ff-abe0-c991693a8524@d64d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-28T04:30:00&endDate=2026-03-30T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 28 and Sunday 29 March\, no service between Bank / Tower Gateway and Canning Town / Lewisham\, or between Stratford and Canary Wharf. Please use local London Buses and London Underground services. Replacement bus services operate.
-DTEND:20260330T002900Z
-DTSTART:20260328T043000Z
-SUMMARY:DLR: Part Closure
-UID:41aee082-bfde-4fe2-ad72-ceec486596f3@41ae.org
+UID:2c400a03-6c49-4034-846d-dc3ae798626f@2c40.org
 END:VEVENT
 END:VCALENDAR

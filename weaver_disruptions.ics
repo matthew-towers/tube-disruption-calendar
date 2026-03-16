@@ -3,59 +3,38 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Weaver line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-15T04:30:00&endDate=2026-03-15T10:15:00">Disruption map.</a>\n\nWEAVER LINE: Sunday 15 March\, until 1015\, no service between Liverpool Street and Cheshunt / Chingford / Enfield Town. Use VICTORIA LINE connections between Central London and Seven Sisters / Walthamstow Central. Replacement buses operate. Liverpool Street National Rail station will be closed all day\, and GREATER ANGLIA trains will not call at Hackney Downs and Seven Sisters.
-DTEND:20260315T101500Z
-DTSTART:20260315T043000Z
-SUMMARY:Weaver line: Planned Closure
-UID:3e9a9b30-84a2-4dea-bc0e-6e31f8d9b8c0@3e9a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-19T22:45:00&endDate=2026-03-20T01:29:00">Disruption map.</a>\n\nWEAVER LINE: Monday 16\, Tuesday 17 and Thursday 19 March\, after 2245 each evening\, no service between Hackney Downs and Enfield Town / Cheshunt. Last through trains operate at 2245 from Liverpool Street to Cheshunt (except on Wednesday when it is at 2215)\, 2253 from Enfield Town to Liverpool Street\, 2300 from Liverpool Street to Enfield Town and 2302 from Cheshunt to Liverpool Street. Use Clapton for Rectory Road and Stoke Newington\, and local London Buses services for Stamford Hill. Replacement buses operate. The limited number of southbound GREATER ANGLIA and STANSTED EXPRESS trains after midnight which usually call at Seven Sisters are diverted via Tottenham Hale instead
-DTEND:20260320T012900Z
-DTSTART:20260319T224500Z
-SUMMARY:Weaver line: Part Closure
-UID:c78628ff-d02f-4b32-8f92-404f0224323c@c786.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-15T10:15:00&endDate=2026-03-16T01:29:00">Disruption map.</a>\n\nWEAVER LINE: Sunday 15 March\, from 1015\, no service between Liverpool Street and London Fields. Please use local London Buses and London Underground connections. Liverpool Street National Rail station will be closed all day.
-DTEND:20260316T012900Z
-DTSTART:20260315T101500Z
-SUMMARY:Weaver line: Part Closure
-UID:0df9cf57-c296-4dda-b2f9-6694450a3cb1@0df9.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-17T22:45:00&endDate=2026-03-18T01:29:00">Disruption map.</a>\n\nWEAVER LINE: Monday 16\, Tuesday 17 and Thursday 19 March\, after 2245 each evening\, no service between Hackney Downs and Enfield Town / Cheshunt. Last through trains operate at 2245 from Liverpool Street to Cheshunt (except on Wednesday when it is at 2215)\, 2253 from Enfield Town to Liverpool Street\, 2300 from Liverpool Street to Enfield Town and 2302 from Cheshunt to Liverpool Street. Use Clapton for Rectory Road and Stoke Newington\, and local London Buses services for Stamford Hill. Replacement buses operate. The limited number of southbound GREATER ANGLIA and STANSTED EXPRESS trains after midnight which usually call at Seven Sisters are diverted via Tottenham Hale instead
 DTEND:20260318T012900Z
 DTSTART:20260317T224500Z
 SUMMARY:Weaver line: Part Closure
-UID:b1638859-8a97-46d7-ac9c-856403d063d8@b163.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-21T04:30:00&endDate=2026-03-23T01:29:00">Disruption map.</a>\n\nWEAVER LINE: Saturday 21 and Sunday 22 March\, no service between Liverpool Street and Cheshunt / Chingford / Enfield Town. Use VICTORIA LINE connections between Central London and Seven Sisters / Walthamstow Central. GREATER ANGLIA and STANSTED EXPRESS trains will not call at Hackney Downs and Seven Sisters. Replacement buses operate.
-DTEND:20260323T012900Z
-DTSTART:20260321T043000Z
-SUMMARY:Weaver line: Planned Closure
-UID:70e8b5b3-fa35-401e-8533-74e1e034837f@70e8.org
+UID:702030b2-95d2-4276-b6e2-e0b80bc819f8@7020.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-16T22:45:00&endDate=2026-03-17T01:29:00">Disruption map.</a>\n\nWEAVER LINE: Monday 16\, Tuesday 17 and Thursday 19 March\, after 2245 each evening\, no service between Hackney Downs and Enfield Town / Cheshunt. Last through trains operate at 2245 from Liverpool Street to Cheshunt (except on Wednesday when it is at 2215)\, 2253 from Enfield Town to Liverpool Street\, 2300 from Liverpool Street to Enfield Town and 2302 from Cheshunt to Liverpool Street. Use Clapton for Rectory Road and Stoke Newington\, and local London Buses services for Stamford Hill. Replacement buses operate. The limited number of southbound GREATER ANGLIA and STANSTED EXPRESS trains after midnight which usually call at Seven Sisters are diverted via Tottenham Hale instead
 DTEND:20260317T012900Z
 DTSTART:20260316T224500Z
 SUMMARY:Weaver line: Part Closure
-UID:4d3a5b49-f5e8-4281-ba0f-f80b97f44293@4d3a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-15T10:15:00&endDate=2026-03-16T01:29:00">Disruption map.</a>\n\nWEAVER LINE: Sunday 15 March\, from 1015\, a reduced service operates. Trains operate every 30 minutes between London Fields and Chingford\, every hour between London Fields and Cheshunt\, and every hour between London Fields and Enfield Town. There will be no service to/from Liverpool Street\, Bethnal Green and Cambridge Heath all day. No GREATER ANGLIA services call at Hackney Downs or Seven Sisters all day.
-DTEND:20260316T012900Z
-DTSTART:20260315T101500Z
-SUMMARY:Weaver line: Reduced Service
-UID:5bce8515-a49f-4ca7-a7a9-ff3c538e0a38@5bce.org
+UID:c2026e3b-e0e4-4f9d-a191-6cd5159fb06b@c202.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-28T04:30:00&endDate=2026-03-30T00:29:00">Disruption map.</a>\n\nWEAVER LINE: Saturday 28 and Sunday 29 March\, no service between Liverpool Street and Cheshunt / Chingford / Enfield Town. Use VICTORIA LINE connections between Central London and Seven Sisters / Walthamstow Central. GREATER ANGLIA and STANSTED EXPRESS trains will not call at Hackney Downs and Seven Sisters. Replacement buses operate.
 DTEND:20260330T002900Z
 DTSTART:20260328T043000Z
 SUMMARY:Weaver line: Planned Closure
-UID:bc727fd3-811f-4101-b153-e7ba0102cad5@bc72.org
+UID:ddcb18e9-efe0-4c87-91b3-4bb12bd4d680@ddcb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-21T04:30:00&endDate=2026-03-23T01:29:00">Disruption map.</a>\n\nWEAVER LINE: Saturday 21 and Sunday 22 March\, no service between Liverpool Street and Cheshunt / Chingford / Enfield Town. Use VICTORIA LINE connections between Central London and Seven Sisters / Walthamstow Central. GREATER ANGLIA and STANSTED EXPRESS trains will not call at Hackney Downs and Seven Sisters. Replacement buses operate.
+DTEND:20260323T012900Z
+DTSTART:20260321T043000Z
+SUMMARY:Weaver line: Planned Closure
+UID:e1d6f0fb-ccaf-4ba3-bb58-0a00b8d42524@e1d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-19T22:45:00&endDate=2026-03-20T01:29:00">Disruption map.</a>\n\nWEAVER LINE: Monday 16\, Tuesday 17 and Thursday 19 March\, after 2245 each evening\, no service between Hackney Downs and Enfield Town / Cheshunt. Last through trains operate at 2245 from Liverpool Street to Cheshunt (except on Wednesday when it is at 2215)\, 2253 from Enfield Town to Liverpool Street\, 2300 from Liverpool Street to Enfield Town and 2302 from Cheshunt to Liverpool Street. Use Clapton for Rectory Road and Stoke Newington\, and local London Buses services for Stamford Hill. Replacement buses operate. The limited number of southbound GREATER ANGLIA and STANSTED EXPRESS trains after midnight which usually call at Seven Sisters are diverted via Tottenham Hale instead
+DTEND:20260320T012900Z
+DTSTART:20260319T224500Z
+SUMMARY:Weaver line: Part Closure
+UID:e0fac27f-eb0b-482d-9c6e-4374a23bc764@e0fa.org
 END:VEVENT
 END:VCALENDAR
