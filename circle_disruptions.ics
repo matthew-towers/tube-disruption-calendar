@@ -3,45 +3,52 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Circle disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-26T12:00:00&endDate=2026-03-27T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on the following dates and times: From 1200 Tuesday 24 to 1159 Wednesday 25 March\, from 1200 Thursday 26 to 1159 Friday 27 March\, from 1200 Tuesday 21 until 1159 Wednesday 22 April\, from 1200 Thursday 23 until 1159 Friday 24 April\, from 1200 Tuesday 19 until 1159 Wednesday 20 May and from 1200 Thursday 21 until 1159 Friday 22 May. On the affected Tuesdays and Thursdays\, Tube services will run normally in the morning. Severe disruption is expected once the strike begins. On Wednesdays and Fridays\, severe disruption is expected to continue until midday\, when the strike ends\, but disruption is likely through the afternoon and evening.
-DTEND:20260327T115900Z
-DTSTART:20260326T120000Z
-SUMMARY:Circle: Special Service
-UID:a41bb134-8264-465a-8b31-883ad3580f91@a41b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-23T11:00:00&endDate=2026-04-24T10:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on the following dates and times: From 1200 Tuesday 24 to 1159 Wednesday 25 March\, from 1200 Thursday 26 to 1159 Friday 27 March\, from 1200 Tuesday 21 until 1159 Wednesday 22 April\, from 1200 Thursday 23 until 1159 Friday 24 April\, from 1200 Tuesday 19 until 1159 Wednesday 20 May and from 1200 Thursday 21 until 1159 Friday 22 May. On the affected Tuesdays and Thursdays\, Tube services will run normally in the morning. Severe disruption is expected once the strike begins. On Wednesdays and Fridays\, severe disruption is expected to continue until midday\, when the strike ends\, but disruption is likely through the afternoon and evening.
-DTEND:20260424T105900Z
-DTSTART:20260423T110000Z
-SUMMARY:Circle: Special Service
-UID:c1d88d36-62c6-46af-ab82-0edf259566ba@c1d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-21T11:00:00&endDate=2026-05-22T10:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on the following dates and times: From 1200 Tuesday 24 to 1159 Wednesday 25 March\, from 1200 Thursday 26 to 1159 Friday 27 March\, from 1200 Tuesday 21 until 1159 Wednesday 22 April\, from 1200 Thursday 23 until 1159 Friday 24 April\, from 1200 Tuesday 19 until 1159 Wednesday 20 May and from 1200 Thursday 21 until 1159 Friday 22 May. On the affected Tuesdays and Thursdays\, Tube services will run normally in the morning. Severe disruption is expected once the strike begins. On Wednesdays and Fridays\, severe disruption is expected to continue until midday\, when the strike ends\, but disruption is likely through the afternoon and evening.
-DTEND:20260522T105900Z
-DTSTART:20260521T110000Z
-SUMMARY:Circle: Special Service
-UID:623f7a17-7700-4113-ae1c-f8a976b0fe09@623f.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-11T03:30:00&endDate=2026-04-13T00:29:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 11 and Sunday 12 April\, no service between Edgware Road and Tower Hill (via Victoria).
+DTEND:20260413T002900Z
+DTSTART:20260411T033000Z
+SUMMARY:Circle: Part Closure
+UID:a4ccccde-1882-4b4d-9a8f-524a6c9970b5@a4cc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-21T11:00:00&endDate=2026-04-22T10:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on the following dates and times: From 1200 Tuesday 24 to 1159 Wednesday 25 March\, from 1200 Thursday 26 to 1159 Friday 27 March\, from 1200 Tuesday 21 until 1159 Wednesday 22 April\, from 1200 Thursday 23 until 1159 Friday 24 April\, from 1200 Tuesday 19 until 1159 Wednesday 20 May and from 1200 Thursday 21 until 1159 Friday 22 May. On the affected Tuesdays and Thursdays\, Tube services will run normally in the morning. Severe disruption is expected once the strike begins. On Wednesdays and Fridays\, severe disruption is expected to continue until midday\, when the strike ends\, but disruption is likely through the afternoon and evening.
 DTEND:20260422T105900Z
 DTSTART:20260421T110000Z
 SUMMARY:Circle: Special Service
-UID:be94c447-ec80-4d26-beff-493498164c6f@be94.org
+UID:f9ae93a1-484a-48bc-afd3-05e2bf3f01fb@f9ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-23T11:00:00&endDate=2026-04-24T10:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on the following dates and times: From 1200 Tuesday 24 to 1159 Wednesday 25 March\, from 1200 Thursday 26 to 1159 Friday 27 March\, from 1200 Tuesday 21 until 1159 Wednesday 22 April\, from 1200 Thursday 23 until 1159 Friday 24 April\, from 1200 Tuesday 19 until 1159 Wednesday 20 May and from 1200 Thursday 21 until 1159 Friday 22 May. On the affected Tuesdays and Thursdays\, Tube services will run normally in the morning. Severe disruption is expected once the strike begins. On Wednesdays and Fridays\, severe disruption is expected to continue until midday\, when the strike ends\, but disruption is likely through the afternoon and evening.
+DTEND:20260424T105900Z
+DTSTART:20260423T110000Z
+SUMMARY:Circle: Special Service
+UID:410d1cf0-c061-4c15-9630-a8000c7dea30@410d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-21T11:00:00&endDate=2026-05-22T10:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on the following dates and times: From 1200 Tuesday 24 to 1159 Wednesday 25 March\, from 1200 Thursday 26 to 1159 Friday 27 March\, from 1200 Tuesday 21 until 1159 Wednesday 22 April\, from 1200 Thursday 23 until 1159 Friday 24 April\, from 1200 Tuesday 19 until 1159 Wednesday 20 May and from 1200 Thursday 21 until 1159 Friday 22 May. On the affected Tuesdays and Thursdays\, Tube services will run normally in the morning. Severe disruption is expected once the strike begins. On Wednesdays and Fridays\, severe disruption is expected to continue until midday\, when the strike ends\, but disruption is likely through the afternoon and evening.
+DTEND:20260522T105900Z
+DTSTART:20260521T110000Z
+SUMMARY:Circle: Special Service
+UID:9fca65d8-bc72-4153-bd68-db5e74a11454@9fca.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-26T12:00:00&endDate=2026-03-27T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on the following dates and times: From 1200 Tuesday 24 to 1159 Wednesday 25 March\, from 1200 Thursday 26 to 1159 Friday 27 March\, from 1200 Tuesday 21 until 1159 Wednesday 22 April\, from 1200 Thursday 23 until 1159 Friday 24 April\, from 1200 Tuesday 19 until 1159 Wednesday 20 May and from 1200 Thursday 21 until 1159 Friday 22 May. On the affected Tuesdays and Thursdays\, Tube services will run normally in the morning. Severe disruption is expected once the strike begins. On Wednesdays and Fridays\, severe disruption is expected to continue until midday\, when the strike ends\, but disruption is likely through the afternoon and evening.
+DTEND:20260327T115900Z
+DTSTART:20260326T120000Z
+SUMMARY:Circle: Special Service
+UID:13bacbea-c935-4059-9dbb-edc28b7fe028@13ba.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-24T12:00:00&endDate=2026-03-25T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on the following dates and times: From 1200 Tuesday 24 to 1159 Wednesday 25 March\, from 1200 Thursday 26 to 1159 Friday 27 March\, from 1200 Tuesday 21 until 1159 Wednesday 22 April\, from 1200 Thursday 23 until 1159 Friday 24 April\, from 1200 Tuesday 19 until 1159 Wednesday 20 May and from 1200 Thursday 21 until 1159 Friday 22 May. On the affected Tuesdays and Thursdays\, Tube services will run normally in the morning. Severe disruption is expected once the strike begins. On Wednesdays and Fridays\, severe disruption is expected to continue until midday\, when the strike ends\, but disruption is likely through the afternoon and evening.
 DTEND:20260325T115900Z
 DTSTART:20260324T120000Z
 SUMMARY:Circle: Special Service
-UID:e95e6f19-5d0f-4e2b-8a9f-3cc0320c0d7e@e95e.org
+UID:881773ca-9a03-4ede-a4e0-1c3e4b976f3f@8817.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-19T11:00:00&endDate=2026-05-20T10:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on the following dates and times: From 1200 Tuesday 24 to 1159 Wednesday 25 March\, from 1200 Thursday 26 to 1159 Friday 27 March\, from 1200 Tuesday 21 until 1159 Wednesday 22 April\, from 1200 Thursday 23 until 1159 Friday 24 April\, from 1200 Tuesday 19 until 1159 Wednesday 20 May and from 1200 Thursday 21 until 1159 Friday 22 May. On the affected Tuesdays and Thursdays\, Tube services will run normally in the morning. Severe disruption is expected once the strike begins. On Wednesdays and Fridays\, severe disruption is expected to continue until midday\, when the strike ends\, but disruption is likely through the afternoon and evening.
 DTEND:20260520T105900Z
 DTSTART:20260519T110000Z
 SUMMARY:Circle: Special Service
-UID:54c63ec2-811b-42e1-bc09-7ea1c9cf7876@54c6.org
+UID:c3fa0901-8393-45e0-aad1-21a88b6411dc@c3fa.org
 END:VEVENT
 END:VCALENDAR
