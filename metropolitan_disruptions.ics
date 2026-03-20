@@ -3,17 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-19T11:26:08&endDate=2026-03-20T01:29:00">Disruption map.</a>\n\nMetropolitan Line: Severe delays between Harrow-on-the-Hill and Watford while we respond to a fire alert at Northwood. Tickets are being accepted on London Buses\, the Lioness line and Chiltern Railways. GOOD SERVICE on the rest of the line. 
-DTEND:20260320T012900Z
-DTSTART:20260319T112608Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-20T10:24:28&endDate=2026-03-21T01:29:00">Disruption map.</a>\n\nMetropolitan Line: No service between Baker Street and Aldgate due to an earlier trespasser on the track at Willesden Green. SEVERE DELAYS on the rest of the line. London Underground tickets will be accepted on London buses\, Lioness line\, Thameslink and Chiltern Railways. 
+DTEND:20260321T012900Z
+DTSTART:20260320T102428Z
 SUMMARY:Metropolitan: Severe Delays
-UID:a9fe3bab-9df3-4fa5-af18-0abf678a3534@a9fe.org
+UID:2204a314-cd4b-4829-b6d5-e8336042ba29@2204.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-28T04:30:00&endDate=2026-03-30T01:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 28 and Sunday 29 March\, no service between Wembley Park and Aldgate.
-DTEND:20260330T012900Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-20T10:24:28&endDate=2026-03-20T13:41:33">Disruption map.</a>\n\nMetropolitan Line: No service between Baker Street and Aldgate due to an earlier trespasser on the track at Willesden Green. SEVERE DELAYS on the rest of the line. London Underground tickets will be accepted on London buses\, Lioness line\, Thameslink and Chiltern Railways. 
+DTEND:20260320T134133Z
+DTSTART:20260320T102428Z
+SUMMARY:Metropolitan: Part Suspended
+UID:fdfa367e-6852-46c8-9a08-a8b956b17c97@fdfa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-28T04:30:00&endDate=2026-03-30T00:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 28 and Sunday 29 March\, no service between Wembley Park and Aldgate.
+DTEND:20260330T002900Z
 DTSTART:20260328T043000Z
 SUMMARY:Metropolitan: Part Closure
-UID:92482061-515d-460e-8d66-eaaeedadfc8d@9248.org
+UID:a4be1f50-279b-4fe7-80f3-dc09abcc9981@a4be.org
 END:VEVENT
 END:VCALENDAR
