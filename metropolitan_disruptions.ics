@@ -3,24 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-20T10:24:28&endDate=2026-03-21T01:29:00">Disruption map.</a>\n\nMetropolitan Line: No service between Baker Street and Aldgate due to an earlier trespasser on the track at Willesden Green. SEVERE DELAYS on the rest of the line. London Underground tickets will be accepted on London buses\, Lioness line\, Thameslink and Chiltern Railways. 
-DTEND:20260321T012900Z
-DTSTART:20260320T102428Z
-SUMMARY:Metropolitan: Severe Delays
-UID:2204a314-cd4b-4829-b6d5-e8336042ba29@2204.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-20T10:24:28&endDate=2026-03-20T13:41:33">Disruption map.</a>\n\nMetropolitan Line: No service between Baker Street and Aldgate due to an earlier trespasser on the track at Willesden Green. SEVERE DELAYS on the rest of the line. London Underground tickets will be accepted on London buses\, Lioness line\, Thameslink and Chiltern Railways. 
-DTEND:20260320T134133Z
-DTSTART:20260320T102428Z
-SUMMARY:Metropolitan: Part Suspended
-UID:fdfa367e-6852-46c8-9a08-a8b956b17c97@fdfa.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-21T19:20:42&endDate=2026-03-22T01:29:00">Disruption map.</a>\n\nMetropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due to train cancellations. GOOD SERVICE on the rest of the line.  
+DTEND:20260322T012900Z
+DTSTART:20260321T192042Z
+SUMMARY:Metropolitan: Minor Delays
+UID:c5e131a0-5f1c-4961-929a-4efee8dd602f@c5e1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-28T04:30:00&endDate=2026-03-30T00:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 28 and Sunday 29 March\, no service between Wembley Park and Aldgate.
 DTEND:20260330T002900Z
 DTSTART:20260328T043000Z
 SUMMARY:Metropolitan: Part Closure
-UID:a4be1f50-279b-4fe7-80f3-dc09abcc9981@a4be.org
+UID:90365015-9539-4176-a76e-f63dfc482859@9036.org
 END:VEVENT
 END:VCALENDAR
