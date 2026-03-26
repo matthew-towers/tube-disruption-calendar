@@ -3,73 +3,66 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Lioness line disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-03T03:30:00&endDate=2026-04-04T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Good Friday\, 3 April\, a reduced service operates between Euston and Willesden Junction.
+DTEND:20260404T002900Z
+DTSTART:20260403T033000Z
+SUMMARY:Lioness line: Reduced Service
+UID:4fd241f8-ba11-43c9-8fbf-c91aa342bf13@4fd2.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-12T21:00:00&endDate=2026-04-13T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Sunday 12 April\, from 2200\, no service between Kilburn High Road and Euston. Please use local London Buses and London Underground services.
 DTEND:20260413T002900Z
 DTSTART:20260412T210000Z
 SUMMARY:Lioness line: Part Closure
-UID:7a8d72ed-3a7b-4120-a679-80cdca8bfe0c@7a8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-06T03:30:00&endDate=2026-04-07T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Easter Monday\, 6 April\, no service between Willesden Junction and Watford Junction. There will also be no BAKERLOO LINE service between Stonebridge Park and Watford Junction\, no LONDON NORTHWESTERN RAILWAY services between Euston and Milton Keynes Central\, and no SOUTHERN services between Shepherds Bush and Watford Junction. Special bus service 718 operates between Stonebridge Park and Harrow & Wealdstone via Wembley High Road (Park Lane)\, Wembley Central\, North Wembley\, Preston Road (for Metropolitan line and bus route 223 to/from South Kenton) and Kenton. Special bus service 720 operates between Harrow-on-the-Hill (for Metropolitan line) and Watford Junction via Harrow & Wealdstone\, Headstone Lane\, Hatch End (Harrow Arts Centre)\, Carpenders Park (Prestwick Road)\, Bushey (Eastbury Road) and Watford High Street.
-DTEND:20260407T002900Z
-DTSTART:20260406T033000Z
-SUMMARY:Lioness line: Part Closure
-UID:0d57a82f-e3a7-4eb1-a02c-17150451476d@0d57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-09T22:45:00&endDate=2026-04-09T23:29:00">Disruption map.</a>\n\nLIONESS LINE: Thursday 9 April\, the 2345 train from Euston to Watford Junction will not run
-DTEND:20260409T232900Z
-DTSTART:20260409T224500Z
-SUMMARY:Lioness line: Reduced Service
-UID:bb8228c0-6a44-42e9-9cb7-5083223498d3@bb82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-04T03:30:00&endDate=2026-04-06T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Saturday 4 and Easter Sunday 5 April\, no service between Euston and Watford Junction. There will also be no BAKERLOO LINE service between Queens Park and Watford Junction\, no LONDON NORTHWESTERN RAILWAY services between Euston and Milton Keynes Central\, and no SOUTHERN services between Shepherds Bush and Watford Junction. Special bus service 718 operates between Queens Park and Harrow & Wealdstone via Kensal Green\, Willesden Junction (Harrow Road)\, Harlesden (Jubilee Clock / Manor Park Road for Harlesden)\, Stonebridge Park (Harrow Road)\, Wembley High Road (Park Lane)\, Wembley Central\, North Wembley\, Preston Road (for Metropolitan line and bus route 223 to/from South Kenton) and Kenton. Special bus service 720 operates between Harrow-on-the-Hill (for Metropolitan line) and Watford Junction via Harrow & Wealdstone\, Headstone Lane\, Hatch End (Harrow Arts Centre)\, Carpenders Park (Prestwick Road)\, Bushey (Eastbury Road) and Watford High Street.
-DTEND:20260406T002900Z
-DTSTART:20260404T033000Z
-SUMMARY:Lioness line: Planned Closure
-UID:7a9f6db3-064d-448a-9276-dfbaadf3cd9d@7a9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-12T21:00:00&endDate=2026-04-13T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Sunday 12 April\, from 2200\, no service between Kilburn High Road and Euston. Use local buses or London Underground services. Last through trains: Watford Junction to Euston 2130\, Euston to Watford Junction 2215
-DTEND:20260413T002900Z
-DTSTART:20260412T210000Z
-SUMMARY:Lioness line: Part Closure
-UID:fa2d6efb-0697-4302-b133-abc360d1d0ec@fa2d.org
+UID:898a5a02-facb-4b71-980b-6a07995c3f0a@898a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-06T03:30:00&endDate=2026-04-07T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Easter Monday\, 6 April\, a reduced service operates between Euston and Willesden Junction.
 DTEND:20260407T002900Z
 DTSTART:20260406T033000Z
 SUMMARY:Lioness line: Reduced Service
-UID:08d5295c-cafd-4329-ab2d-4dd8fee613f3@08d5.org
+UID:dd76c070-5610-4a48-8786-d9be56e05e8e@dd76.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-03-25T10:58:56&endDate=2026-03-25T14:26:16">Disruption map.</a>\n\nLioness Line: No service between Euston and Kilburn High Road while we fix a points failure at Euston. Tickets are being accepted on London Underground. GOOD SERVICE on the rest of the line. 
-DTEND:20260325T142616Z
-DTSTART:20260325T105856Z
-SUMMARY:Lioness line: Part Suspended
-UID:4f3f91bb-4d92-4ab6-aec8-1e191c4aed42@4f3f.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-04T03:30:00&endDate=2026-04-06T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Saturday 4 and Easter Sunday 5 April\, no service between Euston and Watford Junction. There will also be no BAKERLOO LINE service between Queens Park and Watford Junction\, no LONDON NORTHWESTERN RAILWAY services between Euston and Milton Keynes Central\, and no SOUTHERN services between Shepherds Bush and Watford Junction. Special bus service 718 operates between Queens Park and Harrow & Wealdstone via Kensal Green\, Willesden Junction (Harrow Road)\, Harlesden (Jubilee Clock / Manor Park Road for Harlesden)\, Stonebridge Park (Harrow Road)\, Wembley High Road (Park Lane)\, Wembley Central\, North Wembley\, Preston Road (for Metropolitan line and bus route 223 to/from South Kenton) and Kenton. Special bus service 720 operates between Harrow-on-the-Hill (for Metropolitan line) and Watford Junction via Harrow & Wealdstone\, Headstone Lane\, Hatch End (Harrow Arts Centre)\, Carpenders Park (Prestwick Road)\, Bushey (Eastbury Road) and Watford High Street.
+DTEND:20260406T002900Z
+DTSTART:20260404T033000Z
+SUMMARY:Lioness line: Planned Closure
+UID:b97b8aaf-25dc-4e12-9f05-a6dc036541c0@b97b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-10T03:30:00&endDate=2026-04-10T05:03:00">Disruption map.</a>\n\nLIONESS LINE: Friday 10 April\, the 0529 Watford Junction to Euston train starts at Willesden Junction at 0604.
-DTEND:20260410T050300Z
-DTSTART:20260410T033000Z
-SUMMARY:Lioness line: Reduced Service
-UID:9507de20-8419-48fd-81c0-b25bd48687a3@9507.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-06T03:30:00&endDate=2026-04-07T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Easter Monday\, 6 April\, no service between Willesden Junction and Watford Junction. There will also be no BAKERLOO LINE service between Stonebridge Park and Watford Junction\, no LONDON NORTHWESTERN RAILWAY services between Euston and Milton Keynes Central\, and no SOUTHERN services between Shepherds Bush and Watford Junction. Special bus service 718 operates between Stonebridge Park and Harrow & Wealdstone via Wembley High Road (Park Lane)\, Wembley Central\, North Wembley\, Preston Road (for Metropolitan line and bus route 223 to/from South Kenton) and Kenton. Special bus service 720 operates between Harrow-on-the-Hill (for Metropolitan line) and Watford Junction via Harrow & Wealdstone\, Headstone Lane\, Hatch End (Harrow Arts Centre)\, Carpenders Park (Prestwick Road)\, Bushey (Eastbury Road) and Watford High Street.
+DTEND:20260407T002900Z
+DTSTART:20260406T033000Z
+SUMMARY:Lioness line: Part Closure
+UID:16b03caa-6eba-4d0f-bb08-ec21d070e223@16b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-12T21:00:00&endDate=2026-04-13T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Sunday 12 April\, from 2200\, no service between Kilburn High Road and Euston. Use local buses or London Underground services. Last through trains: Watford Junction to Euston 2130\, Euston to Watford Junction 2215
+DTEND:20260413T002900Z
+DTSTART:20260412T210000Z
+SUMMARY:Lioness line: Part Closure
+UID:5bbce40f-ac7e-4712-9688-53069937c395@5bbc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-03T03:30:00&endDate=2026-04-04T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Good Friday\, 3 April\, no service between Willesden Junction and Watford Junction. There will also be no BAKERLOO LINE service between Stonebridge Park and Watford Junction\, no LONDON NORTHWESTERN RAILWAY services between Euston and Milton Keynes Central\, and no SOUTHERN services between Shepherds Bush and Watford Junction. Special bus service 718 operates between Stonebridge Park and Harrow & Wealdstone via Wembley High Road (Park Lane)\, Wembley Central\, North Wembley\, Preston Road (for Metropolitan line and bus route 223 to/from South Kenton) and Kenton. Special bus service 720 operates between Harrow-on-the-Hill (for Metropolitan line) and Watford Junction via Harrow & Wealdstone\, Headstone Lane\, Hatch End (Harrow Arts Centre)\, Carpenders Park (Prestwick Road)\, Bushey (Eastbury Road) and Watford High Street.
 DTEND:20260404T002900Z
 DTSTART:20260403T033000Z
 SUMMARY:Lioness line: Part Closure
-UID:e5522772-fc5d-4660-8a5c-9883e288f23e@e552.org
+UID:895fb737-2957-45f0-9027-7b9ef4fb6c65@895f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-03T03:30:00&endDate=2026-04-04T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Good Friday\, 3 April\, a reduced service operates between Euston and Willesden Junction.
-DTEND:20260404T002900Z
-DTSTART:20260403T033000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-09T22:45:00&endDate=2026-04-09T23:29:00">Disruption map.</a>\n\nLIONESS LINE: Thursday 9 April\, the 2345 train from Euston to Watford Junction will not run
+DTEND:20260409T232900Z
+DTSTART:20260409T224500Z
 SUMMARY:Lioness line: Reduced Service
-UID:02bc3144-afaf-41dd-8e6e-7e0e0567fd91@02bc.org
+UID:84e117ae-1f6c-40cf-813a-44fbe15a5ed1@84e1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-10T03:30:00&endDate=2026-04-10T05:03:00">Disruption map.</a>\n\nLIONESS LINE: Friday 10 April\, the 0529 Watford Junction to Euston train starts at Willesden Junction at 0604.
+DTEND:20260410T050300Z
+DTSTART:20260410T033000Z
+SUMMARY:Lioness line: Reduced Service
+UID:0cd9fe3c-2d99-4674-af5d-f2f588069a60@0cd9.org
 END:VEVENT
 END:VCALENDAR
