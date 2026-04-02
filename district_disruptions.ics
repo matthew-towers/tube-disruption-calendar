@@ -3,24 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-03T03:30:00&endDate=2026-04-07T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Good Friday 3\, Saturday 4\, Easter Sunday 5 and Easter Monday 6 April\, no service between Whitechapel and Upminster. There will be no HAMMERSMITH & CITY LINE service. In addition\, c2c services will not call at West Ham all weekend. Replacement bus services operate
-DTEND:20260407T002900Z
-DTSTART:20260403T033000Z
-SUMMARY:District: Part Closure
-UID:128c7200-df07-47aa-881c-50524acb174a@128c.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-02T07:44:19&endDate=2026-04-03T00:29:00">Disruption map.</a>\n\nDistrict Line: Minor delays due to an earlier faulty train at Mansion House. 
+DTEND:20260403T002900Z
+DTSTART:20260402T074419Z
+SUMMARY:District: Minor Delays
+UID:5e99fa3e-e30f-4cf1-beb9-37a4c1e8c6c2@5e99.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-03T03:30:00&endDate=2026-04-07T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Good Friday 3\, Saturday 4\, Sunday 5 and Easter Monday 6 April\, no service between Earls Court and Kensington (Olympia). Please use local London Buses or MILDMAY LINE connections.
 DTEND:20260407T002900Z
 DTSTART:20260403T033000Z
 SUMMARY:District: Part Closure
-UID:1b16253c-6fb1-4a1c-90b2-ee29889efc0c@1b16.org
+UID:b35a0555-e889-4bd4-9dac-8315e1cd5668@b35a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-11T03:30:00&endDate=2026-04-13T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 11 and Sunday 12 April\, no service between Embankment / Edgware Road and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury\, Kew Gardens and Richmond\, when available. The PICCADILLY LINE will not operate between Hyde Park Corner and Acton Town until 0700 Saturday. Replacement buses operate.
 DTEND:20260413T002900Z
 DTSTART:20260411T033000Z
 SUMMARY:District: Part Closure
-UID:75c5a0f5-810f-4ace-a1c1-729981568a4d@75c5.org
+UID:c7b88765-4a5a-414d-b114-4720fe0261bb@c7b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-03T03:30:00&endDate=2026-04-07T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Good Friday 3\, Saturday 4\, Easter Sunday 5 and Easter Monday 6 April\, no service between Whitechapel and Upminster. There will be no HAMMERSMITH & CITY LINE service. In addition\, c2c services will not call at West Ham all weekend. Replacement bus services operate
+DTEND:20260407T002900Z
+DTSTART:20260403T033000Z
+SUMMARY:District: Part Closure
+UID:053e26f2-cb8c-4be5-9cb8-f3f2dbe87c58@053e.org
 END:VEVENT
 END:VCALENDAR

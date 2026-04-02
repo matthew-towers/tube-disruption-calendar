@@ -3,38 +3,52 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-19T00:30:00&endDate=2026-04-21T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 19 (from 0130) and Sunday 20 April\, including Friday and Saturday Night Tube\, no service between Hyde Park Corner and Acton Town. If travelling between Central London and Heathrow\, please use ELIZABETH LINE services where available. Replacement buses operate.
-DTEND:20260421T002900Z
-DTSTART:20260419T003000Z
-SUMMARY:Piccadilly: Part Closure
-UID:c0a372c0-6078-4a23-ba08-c86c0fee0bff@c0a3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-25T04:30:00&endDate=2026-04-27T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 25 April\, from 0530\, and all day Sunday 26 April\, no service between Wood Green and Cockfosters. Replacement bus service PL5 operates between Wood Green and Cockfosters via Bounds Green\, New Southgate (National Rail)\, Arnos Grove\, Southgate and Oakwood.
-DTEND:20260427T002900Z
-DTSTART:20260425T043000Z
-SUMMARY:Piccadilly: Part Closure
-UID:3dbf3c20-fa22-4ca0-a433-18a81917490f@3dbf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-25T00:30:00&endDate=2026-04-25T04:30:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 25 April\, between 0130 and 0530\, no service between Kings Cross St Pancras and Cockfosters. Use VICTORIA LINE and local Night Bus services between Kings Cross St Pancras and Finsbury Park. Replacement bus service PL5 operates between Finsbury Park and Cockfosters via Manor House\, Turnpike Lane\, Wood Green\, Bounds Green\, New Southgate (National Rail)\, Arnos Grove\, Southgate and Oakwood.
-DTEND:20260425T043000Z
-DTSTART:20260425T003000Z
-SUMMARY:Piccadilly: Part Closure
-UID:a6846f78-8a59-4f3e-b34e-fad8afcc6afc@a684.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-02T08:23:41&endDate=2026-04-02T11:43:19">Disruption map.</a>\n\nPiccadilly Line: No service between Heathrow Terminals 1\,2\,3 and Heathrow terminal 5 while we fix a faulty train at Heathrow Terminals 1\,2\,3 and SEVERE DELAYS between Acton Town and Uxbridge / Heathrow terminals 2 & 3 due to an earlier points failure at South Harrow and faulty train at Heathrow.GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses and Elizabeth Line. 
+DTEND:20260402T114319Z
+DTSTART:20260402T082341Z
+SUMMARY:Piccadilly: Part Suspended
+UID:fb5a16b0-b9db-4690-b59d-640bd05e8ac8@fb5a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-11T00:00:00&endDate=2026-04-11T06:00:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 11 April\, between 0100 and 0700\, no service between Hyde Park Corner and Acton Town. Replacement bus service PL1 operates between Green Park and Acton Town via Hyde Park Corner\, Knightsbridge\, South Kensington\, Gloucester Road\, Earls Court\, Hammersmith (for Barons Court) and Turnham Green (Bath Road).
 DTEND:20260411T060000Z
 DTSTART:20260411T000000Z
 SUMMARY:Piccadilly: Part Closure
-UID:16ae94f1-dc1f-40bb-bfca-5c15732104de@16ae.org
+UID:044f82b5-7d21-459b-81aa-14141b195fef@044f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-25T00:30:00&endDate=2026-04-25T04:30:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 25 April\, between 0130 and 0530\, no service between Kings Cross St Pancras and Cockfosters. Use VICTORIA LINE and local Night Bus services between Kings Cross St Pancras and Finsbury Park. Replacement bus service PL5 operates between Finsbury Park and Cockfosters via Manor House\, Turnpike Lane\, Wood Green\, Bounds Green\, New Southgate (National Rail)\, Arnos Grove\, Southgate and Oakwood.
+DTEND:20260425T043000Z
+DTSTART:20260425T003000Z
+SUMMARY:Piccadilly: Part Closure
+UID:e905414b-1569-462f-8edd-6995b6deb082@e905.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-02T08:23:41&endDate=2026-04-03T00:29:00">Disruption map.</a>\n\nPiccadilly Line: No service between Heathrow Terminals 1\,2\,3 and Heathrow terminal 5 while we fix a faulty train at Heathrow Terminals 1\,2\,3 and SEVERE DELAYS between Acton Town and Uxbridge / Heathrow terminals 2 & 3 due to an earlier points failure at South Harrow and faulty train at Heathrow.GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses and Elizabeth Line. 
+DTEND:20260403T002900Z
+DTSTART:20260402T082341Z
+SUMMARY:Piccadilly: Severe Delays
+UID:68d0686d-8590-4809-bff7-823f7c7ef127@68d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-25T04:30:00&endDate=2026-04-27T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 25 April\, from 0530\, and all day Sunday 26 April\, no service between Wood Green and Cockfosters. Replacement bus service PL5 operates between Wood Green and Cockfosters via Bounds Green\, New Southgate (National Rail)\, Arnos Grove\, Southgate and Oakwood.
+DTEND:20260427T002900Z
+DTSTART:20260425T043000Z
+SUMMARY:Piccadilly: Part Closure
+UID:99025156-1149-49a3-9558-404e7ee14db6@9902.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-19T00:30:00&endDate=2026-04-21T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 19 (from 0130) and Sunday 20 April\, including Friday and Saturday Night Tube\, no service between Hyde Park Corner and Acton Town. If travelling between Central London and Heathrow\, please use ELIZABETH LINE services where available. Replacement buses operate.
+DTEND:20260421T002900Z
+DTSTART:20260419T003000Z
+SUMMARY:Piccadilly: Part Closure
+UID:6fff09a0-2e85-4d5a-a0b4-b690e2f9265e@6fff.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-25T03:30:00&endDate=2026-04-27T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 25 and Sunday 26 April\, no service between Rayners Lane and Uxbridge. Use METROPOLITAN LINE services instead.
 DTEND:20260427T002900Z
 DTSTART:20260425T033000Z
 SUMMARY:Piccadilly: Part Closure
-UID:b97ca176-d96c-4344-bf68-576c75c19e94@b97c.org
+UID:147187e2-05e4-4124-8284-af23f7fd4bc6@1471.org
 END:VEVENT
 END:VCALENDAR

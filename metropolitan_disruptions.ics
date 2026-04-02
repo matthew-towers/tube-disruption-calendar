@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-02T07:59:06&endDate=2026-04-03T00:29:00">Disruption map.</a>\n\nMetropolitan Line: Minor delays between Harrow-on-the Hill and Aldgate while we fix faulty train at Aldgate. GOOD SERVICE on the rest of the line. 
+DTEND:20260403T002900Z
+DTSTART:20260402T075906Z
+SUMMARY:Metropolitan: Minor Delays
+UID:3a7e0184-804c-429a-aec3-23c54b0ab834@3a7e.org
+END:VEVENT
 END:VCALENDAR
