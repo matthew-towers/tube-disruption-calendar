@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Suffragette line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-19T22:00:00&endDate=2026-04-19T22:59:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 19 April\, the 2301 Barking Riverside to Gospel Oak train will not operate
-DTEND:20260419T225900Z
-DTSTART:20260419T220000Z
-SUMMARY:Suffragette line: Reduced Service
-UID:9b5222b4-1262-4b99-bb49-3992a79de483@9b52.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-17T22:03:00&endDate=2026-04-17T22:59:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Friday 20 March\, the 2303 Barking Riverside to Gospel Oak train is revised to terminate at Upper Holloway.
 DTEND:20260417T225900Z
 DTSTART:20260417T220300Z
 SUMMARY:Suffragette line: Reduced Service
-UID:37ef1be1-b270-48bc-a280-c04f56f15605@37ef.org
+UID:67ed80e1-c426-4776-be64-7435420ca03a@67ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-19T22:00:00&endDate=2026-04-19T22:59:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 19 April\, the 2301 Barking Riverside to Gospel Oak train will not operate
+DTEND:20260419T225900Z
+DTSTART:20260419T220000Z
+SUMMARY:Suffragette line: Reduced Service
+UID:8d0d6f89-8afd-49fa-adcc-1c1dd4360814@8d0d.org
 END:VEVENT
 END:VCALENDAR
