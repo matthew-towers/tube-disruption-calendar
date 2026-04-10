@@ -3,31 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Lioness line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-10T03:30:00&endDate=2026-04-10T05:03:00">Disruption map.</a>\n\nLIONESS LINE: Friday 10 April\, the 0529 Watford Junction to Euston train starts at Willesden Junction at 0604.
-DTEND:20260410T050300Z
-DTSTART:20260410T033000Z
-SUMMARY:Lioness line: Reduced Service
-UID:46919a8d-20e8-4b93-bddf-cc7d9eb1aa02@4691.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-12T21:00:00&endDate=2026-04-13T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Sunday 12 April\, from 2200\, no service between Kilburn High Road and Euston. Please use local London Buses and London Underground services.
+DTEND:20260413T002900Z
+DTSTART:20260412T210000Z
+SUMMARY:Lioness line: Part Closure
+UID:138a5732-63e1-4833-82a7-0791d43345ef@138a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-12T21:00:00&endDate=2026-04-13T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Sunday 12 April\, from 2200\, no service between Kilburn High Road and Euston. Use local buses or London Underground services. Last through trains: Watford Junction to Euston 2130\, Euston to Watford Junction 2215
 DTEND:20260413T002900Z
 DTSTART:20260412T210000Z
 SUMMARY:Lioness line: Part Closure
-UID:82daabe0-8d6a-4bd3-9642-fef417d2e291@82da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-09T22:45:00&endDate=2026-04-09T23:29:00">Disruption map.</a>\n\nLIONESS LINE: Thursday 9 April\, the 2345 train from Euston to Watford Junction will not run
-DTEND:20260409T232900Z
-DTSTART:20260409T224500Z
-SUMMARY:Lioness line: Reduced Service
-UID:83f6cf1e-3c69-4bb6-a092-3e83cab86975@83f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-12T21:00:00&endDate=2026-04-13T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Sunday 12 April\, from 2200\, no service between Kilburn High Road and Euston. Please use local London Buses and London Underground services.
-DTEND:20260413T002900Z
-DTSTART:20260412T210000Z
-SUMMARY:Lioness line: Part Closure
-UID:b7a564f4-2c4c-4cc8-a16b-421dd14110ab@b7a5.org
+UID:5475ab13-8c3b-4161-a68b-6c108cfde91c@5475.org
 END:VEVENT
 END:VCALENDAR

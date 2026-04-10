@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-11T03:30:00&endDate=2026-04-13T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 11 and Sunday 12 April\, no service between Bank / Tower Gateway and Poplar / West India Quay. Please use JUBILEE LINE\, ELIZABETH LINE and local London Buses services.
-DTEND:20260413T002900Z
-DTSTART:20260411T033000Z
-SUMMARY:DLR: Part Closure
-UID:92250b9d-8715-4860-9ccf-f0d1bc27a734@9225.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-19T03:30:00&endDate=2026-04-20T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 19 April\, no service between Poplar / Stratford International and Beckton / Woolwich Arsenal. Use JUBILEE LINE services between Stratford\, West Ham and Canning Town. Replacement bus services operate.
 DTEND:20260420T002900Z
 DTSTART:20260419T033000Z
 SUMMARY:DLR: Part Closure
-UID:82ec9eb1-ec9b-4bf0-b425-49988d251040@82ec.org
+UID:ff6c6259-b255-4a8f-8a00-6b35fddcfefb@ff6c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-18T04:27:00&endDate=2026-04-20T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 18 and Sunday 19 April\, no service between Shadwell and Bank.
 DTEND:20260420T002900Z
 DTSTART:20260418T042700Z
 SUMMARY:DLR: Part Closure
-UID:2f34a9df-b7a3-4b1d-8776-195b5cbffc4d@2f34.org
+UID:9d1f4d53-8173-400e-9cc7-cf76a5050a2d@9d1f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-11T03:30:00&endDate=2026-04-13T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 11 and Sunday 12 April\, no service between Bank / Tower Gateway and Poplar / West India Quay. Please use JUBILEE LINE\, ELIZABETH LINE and local London Buses services.
+DTEND:20260413T002900Z
+DTSTART:20260411T033000Z
+SUMMARY:DLR: Part Closure
+UID:5207a3ff-938a-4aa8-8dc0-c1177286b87c@5207.org
 END:VEVENT
 END:VCALENDAR
