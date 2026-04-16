@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-18T04:27:00&endDate=2026-04-20T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 18 and Sunday 19 April\, no service between Shadwell and Bank.
-DTEND:20260420T002900Z
-DTSTART:20260418T042700Z
-SUMMARY:DLR: Part Closure
-UID:9369a9a6-fdba-4a35-be73-c31b0520dcfc@9369.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-19T03:30:00&endDate=2026-04-20T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 19 April\, no service between Poplar / Stratford International and Beckton / Woolwich Arsenal. Use JUBILEE LINE services between Stratford\, West Ham and Canning Town. Replacement bus services operate.
 DTEND:20260420T002900Z
 DTSTART:20260419T033000Z
 SUMMARY:DLR: Part Closure
-UID:a2c996f1-b4db-472b-8c55-3d6cdcbc050c@a2c9.org
+UID:d1c74304-b6f2-449b-8196-045720106a43@d1c7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-18T04:27:00&endDate=2026-04-20T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 18 and Sunday 19 April\, no service between Shadwell and Bank.
+DTEND:20260420T002900Z
+DTSTART:20260418T042700Z
+SUMMARY:DLR: Part Closure
+UID:54cf9c6a-6f24-44eb-9a2d-3461dd25f633@54cf.org
 END:VEVENT
 END:VCALENDAR
