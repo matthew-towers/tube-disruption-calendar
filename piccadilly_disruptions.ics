@@ -3,122 +3,94 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-16T11:00:00&endDate=2026-06-17T10:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on the following dates and times: From 1200 Tuesday 19 until 1159 Wednesday 20 May\, from 1200 Thursday 21 until 1159 Friday 22 May\, from 1200 Tuesday 16 until 1159 Wednesday 17 June and from 1200 Thursday 18 until 1159 Friday 19 June. On the affected Tuesdays and Thursdays\, Tube services will run normally in the morning. Significant disruption is expected once the strike begins\, and no service is expected on any line after 2100. On Wednesdays and Fridays\, no service is expected on any line before 0730 and significant disruption is expected to continue until midday\, when the strike ends\, but disruption is likely through the afternoon and evening.
+DTEND:20260617T105900Z
+DTSTART:20260616T110000Z
+SUMMARY:Piccadilly: Special Service
+UID:67985b1c-5a0e-41c7-b741-12cca9f5e956@6798.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-21T11:00:00&endDate=2026-05-22T10:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on the following dates and times: From 1200 Tuesday 19 until 1159 Wednesday 20 May\, from 1200 Thursday 21 until 1159 Friday 22 May\, from 1200 Tuesday 16 until 1159 Wednesday 17 June and from 1200 Thursday 18 until 1159 Friday 19 June. On the affected Tuesdays and Thursdays\, Tube services will run normally in the morning. Significant disruption is expected once the strike begins\, and no service is expected on any line after 2100. On Wednesdays and Fridays\, no service is expected on any line before 0730 and significant disruption is expected to continue until midday\, when the strike ends\, but disruption is likely through the afternoon and evening.
 DTEND:20260522T105900Z
 DTSTART:20260521T110000Z
 SUMMARY:Piccadilly: Special Service
-UID:379adb11-4857-4a25-a1bc-7e6a8823c742@379a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-23T01:00:00&endDate=2026-05-23T03:30:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 23 May\, between 0200 and 0430\, no service between Hyde Park Corner and Heathrow Terminal 5. Replacement buses operate.
-DTEND:20260523T033000Z
-DTSTART:20260523T010000Z
-SUMMARY:Piccadilly: Part Closure
-UID:e92509da-c9c4-4313-8da0-da31e4cb4d8a@e925.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-16T11:00:00&endDate=2026-06-17T10:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on the following dates and times: Until 1159 Friday 24 April\, from 1200 Tuesday 19 until 1159 Wednesday 20 May\, from 1200 Thursday 21 until 1159 Friday 22 May\, from 1200 Tuesday 16 until 1159 Wednesday 17 June and from 1200 Thursday 18 until 1159 Friday 19 June. On the affected Tuesdays and Thursdays\, Tube services will run normally in the morning. Significant disruption is expected once the strike begins\, and no service is expected on any line after 2100. On Wednesdays and Fridays\, no service is expected on any line before 0730 and significant disruption is expected to continue until midday\, when the strike ends\, but disruption is likely through the afternoon and evening.
-DTEND:20260617T105900Z
-DTSTART:20260616T110000Z
-SUMMARY:Piccadilly: Special Service
-UID:cf5c2700-e6b5-4433-892b-3ed2c4ef4c2f@cf5c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-18T11:00:00&endDate=2026-06-19T10:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on the following dates and times: Until 1159 Friday 24 April\, from 1200 Tuesday 19 until 1159 Wednesday 20 May\, from 1200 Thursday 21 until 1159 Friday 22 May\, from 1200 Tuesday 16 until 1159 Wednesday 17 June and from 1200 Thursday 18 until 1159 Friday 19 June. On the affected Tuesdays and Thursdays\, Tube services will run normally in the morning. Significant disruption is expected once the strike begins\, and no service is expected on any line after 2100. On Wednesdays and Fridays\, no service is expected on any line before 0730 and significant disruption is expected to continue until midday\, when the strike ends\, but disruption is likely through the afternoon and evening.
-DTEND:20260619T105900Z
-DTSTART:20260618T110000Z
-SUMMARY:Piccadilly: Special Service
-UID:f4391b46-f909-4ac3-9ca2-43e301b3d02a@f439.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-24T15:24:51&endDate=2026-04-25T00:29:00">Disruption map.</a>\n\nPiccadilly Line: No service between Rayners Lane and Uxbridge due to earlier strike action. SEVERE DELAYS on the rest of the line.  
-DTEND:20260425T002900Z
-DTSTART:20260424T152451Z
-SUMMARY:Piccadilly: Severe Delays
-UID:8d69c407-6afa-4bde-a6cb-fee1c66331fd@8d69.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-19T11:00:00&endDate=2026-05-20T10:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on the following dates and times: From 1200 Tuesday 19 until 1159 Wednesday 20 May\, from 1200 Thursday 21 until 1159 Friday 22 May\, from 1200 Tuesday 16 until 1159 Wednesday 17 June and from 1200 Thursday 18 until 1159 Friday 19 June. On the affected Tuesdays and Thursdays\, Tube services will run normally in the morning. Significant disruption is expected once the strike begins\, and no service is expected on any line after 2100. On Wednesdays and Fridays\, no service is expected on any line before 0730 and significant disruption is expected to continue until midday\, when the strike ends\, but disruption is likely through the afternoon and evening.
-DTEND:20260520T105900Z
-DTSTART:20260519T110000Z
-SUMMARY:Piccadilly: Special Service
-UID:f13b3324-92d4-4606-b31a-f731d8d44424@f13b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-24T00:29:00&endDate=2026-04-24T03:29:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on the following dates and times: Until 1159 Friday 24 April\, from 1200 Tuesday 19 until 1159 Wednesday 20 May\, from 1200 Thursday 21 until 1159 Friday 22 May\, from 1200 Tuesday 16 until 1159 Wednesday 17 June and from 1200 Thursday 18 until 1159 Friday 19 June. On the affected Tuesdays and Thursdays\, Tube services will run normally in the morning. Significant disruption is expected once the strike begins\, and no service is expected on any line after 2100. On Wednesdays and Fridays\, no service is expected on any line before 0730 and significant disruption is expected to continue until midday\, when the strike ends\, but disruption is likely through the afternoon and evening.
-DTEND:20260424T032900Z
-DTSTART:20260424T002900Z
-SUMMARY:Piccadilly: Special Service
-UID:31a9db00-4c57-441b-b1d3-68fc7cd65195@31a9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-25T03:30:00&endDate=2026-04-27T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 25 and Sunday 26 April\, no service between Rayners Lane and Uxbridge. Use METROPOLITAN LINE services instead.
-DTEND:20260427T002900Z
-DTSTART:20260425T033000Z
-SUMMARY:Piccadilly: Part Closure
-UID:e751d14d-e43c-4751-bd8a-02486bc685e9@e751.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-18T11:00:00&endDate=2026-06-19T10:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on the following dates and times: From 1200 Tuesday 19 until 1159 Wednesday 20 May\, from 1200 Thursday 21 until 1159 Friday 22 May\, from 1200 Tuesday 16 until 1159 Wednesday 17 June and from 1200 Thursday 18 until 1159 Friday 19 June. On the affected Tuesdays and Thursdays\, Tube services will run normally in the morning. Significant disruption is expected once the strike begins\, and no service is expected on any line after 2100. On Wednesdays and Fridays\, no service is expected on any line before 0730 and significant disruption is expected to continue until midday\, when the strike ends\, but disruption is likely through the afternoon and evening.
-DTEND:20260619T105900Z
-DTSTART:20260618T110000Z
-SUMMARY:Piccadilly: Special Service
-UID:2a28c688-e5a3-4395-9f71-a9b91fbb072b@2a28.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-23T03:30:00&endDate=2026-05-26T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 23 May\, from 0430 and all day Sunday 24 and Bank Holiday Monday 25 May\, including Saturday Night Tube\, no service between Hyde Park Corner and Northfields / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate.
-DTEND:20260526T002900Z
-DTSTART:20260523T033000Z
-SUMMARY:Piccadilly: Part Closure
-UID:f16917d8-f718-4cf7-a338-b790561ad2e9@f169.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-19T11:00:00&endDate=2026-05-20T10:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on the following dates and times: Until 1159 Friday 24 April\, from 1200 Tuesday 19 until 1159 Wednesday 20 May\, from 1200 Thursday 21 until 1159 Friday 22 May\, from 1200 Tuesday 16 until 1159 Wednesday 17 June and from 1200 Thursday 18 until 1159 Friday 19 June. On the affected Tuesdays and Thursdays\, Tube services will run normally in the morning. Significant disruption is expected once the strike begins\, and no service is expected on any line after 2100. On Wednesdays and Fridays\, no service is expected on any line before 0730 and significant disruption is expected to continue until midday\, when the strike ends\, but disruption is likely through the afternoon and evening.
-DTEND:20260520T105900Z
-DTSTART:20260519T110000Z
-SUMMARY:Piccadilly: Special Service
-UID:87867f0e-8914-4ca6-8052-39107c984765@8786.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-24T15:24:51&endDate=2026-04-24T20:12:00">Disruption map.</a>\n\nPiccadilly Line: No service between Rayners Lane and Uxbridge due to earlier strike action. SEVERE DELAYS on the rest of the line.  
-DTEND:20260424T201200Z
-DTSTART:20260424T152451Z
-SUMMARY:Piccadilly: Part Suspended
-UID:f0e1f6de-81e7-46d5-91f7-5ca1c7324765@f0e1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-09T01:00:00&endDate=2026-05-11T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 9 and Sunday 10 May\, including Friday and Saturday Night Tube\, no service between Cockfosters and Heathrow (All Terminals). Trains operate during the day between Acton Town and Uxbridge. Replacement buses operate.
-DTEND:20260511T002900Z
-DTSTART:20260509T010000Z
-SUMMARY:Piccadilly: Part Closure
-UID:50b73e4d-a915-4b0e-b78c-89972be472e2@50b7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-25T00:30:00&endDate=2026-04-27T03:00:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 25 April\, between 0130 and 0530\, no service between Kings Cross St Pancras and Cockfosters. Use VICTORIA LINE and local Night Bus services between Kings Cross St Pancras and Finsbury Park. Replacement bus service PL5 operates between Finsbury Park and Cockfosters via Manor House\, Turnpike Lane\, Wood Green\, Bounds Green\, New Southgate (National Rail)\, Arnos Grove\, Southgate and Oakwood.
-DTEND:20260427T030000Z
-DTSTART:20260425T003000Z
-SUMMARY:Piccadilly: Part Closure
-UID:0eeffcc2-065c-457d-a472-b2d5b15f2fe2@0eef.org
+UID:53e07cc2-0c3e-4af7-bd6d-1aa9d5897b5d@53e0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-25T04:30:00&endDate=2026-04-27T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 25 April\, from 0530\, and all day Sunday 26 April\, no service between Wood Green and Cockfosters. Replacement bus service PL5 operates between Wood Green and Cockfosters via Bounds Green\, New Southgate (National Rail)\, Arnos Grove\, Southgate and Oakwood.
 DTEND:20260427T002900Z
 DTSTART:20260425T043000Z
 SUMMARY:Piccadilly: Part Closure
-UID:533ea881-ce43-43f1-9ee6-78ab753ed179@533e.org
+UID:8e747a52-7d2d-4ab7-a9cd-e3fb399ef9d0@8e74.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-16T11:00:00&endDate=2026-06-17T10:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on the following dates and times: From 1200 Tuesday 19 until 1159 Wednesday 20 May\, from 1200 Thursday 21 until 1159 Friday 22 May\, from 1200 Tuesday 16 until 1159 Wednesday 17 June and from 1200 Thursday 18 until 1159 Friday 19 June. On the affected Tuesdays and Thursdays\, Tube services will run normally in the morning. Significant disruption is expected once the strike begins\, and no service is expected on any line after 2100. On Wednesdays and Fridays\, no service is expected on any line before 0730 and significant disruption is expected to continue until midday\, when the strike ends\, but disruption is likely through the afternoon and evening.
-DTEND:20260617T105900Z
-DTSTART:20260616T110000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-23T03:30:00&endDate=2026-05-26T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 23 May\, from 0430 and all day Sunday 24 and Bank Holiday Monday 25 May\, including Saturday Night Tube\, no service between Hyde Park Corner and Northfields / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate.
+DTEND:20260526T002900Z
+DTSTART:20260523T033000Z
+SUMMARY:Piccadilly: Part Closure
+UID:f12a0546-a9e3-4158-8a14-30d5a4b2074f@f12a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-04-25T03:30:00&endDate=2026-04-27T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 25 and Sunday 26 April\, no service between Rayners Lane and Uxbridge. Use METROPOLITAN LINE services instead.
+DTEND:20260427T002900Z
+DTSTART:20260425T033000Z
+SUMMARY:Piccadilly: Part Closure
+UID:d17264d1-3f62-4dbe-ad7f-6bff27f44ce0@d172.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-18T11:00:00&endDate=2026-06-19T10:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on the following dates and times: Until 1159 Friday 24 April\, from 1200 Tuesday 19 until 1159 Wednesday 20 May\, from 1200 Thursday 21 until 1159 Friday 22 May\, from 1200 Tuesday 16 until 1159 Wednesday 17 June and from 1200 Thursday 18 until 1159 Friday 19 June. On the affected Tuesdays and Thursdays\, Tube services will run normally in the morning. Significant disruption is expected once the strike begins\, and no service is expected on any line after 2100. On Wednesdays and Fridays\, no service is expected on any line before 0730 and significant disruption is expected to continue until midday\, when the strike ends\, but disruption is likely through the afternoon and evening.
+DTEND:20260619T105900Z
+DTSTART:20260618T110000Z
 SUMMARY:Piccadilly: Special Service
-UID:4986af84-0aa6-4c3d-ba9b-97c5d4008d0e@4986.org
+UID:975a9379-feb0-4b1e-a0ff-1885ce5f6553@975a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-19T11:00:00&endDate=2026-05-20T10:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on the following dates and times: Until 1159 Friday 24 April\, from 1200 Tuesday 19 until 1159 Wednesday 20 May\, from 1200 Thursday 21 until 1159 Friday 22 May\, from 1200 Tuesday 16 until 1159 Wednesday 17 June and from 1200 Thursday 18 until 1159 Friday 19 June. On the affected Tuesdays and Thursdays\, Tube services will run normally in the morning. Significant disruption is expected once the strike begins\, and no service is expected on any line after 2100. On Wednesdays and Fridays\, no service is expected on any line before 0730 and significant disruption is expected to continue until midday\, when the strike ends\, but disruption is likely through the afternoon and evening.
+DTEND:20260520T105900Z
+DTSTART:20260519T110000Z
+SUMMARY:Piccadilly: Special Service
+UID:765d36db-0311-43a3-b35d-f21dc0e6dbcb@765d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-19T11:00:00&endDate=2026-05-20T10:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on the following dates and times: From 1200 Tuesday 19 until 1159 Wednesday 20 May\, from 1200 Thursday 21 until 1159 Friday 22 May\, from 1200 Tuesday 16 until 1159 Wednesday 17 June and from 1200 Thursday 18 until 1159 Friday 19 June. On the affected Tuesdays and Thursdays\, Tube services will run normally in the morning. Significant disruption is expected once the strike begins\, and no service is expected on any line after 2100. On Wednesdays and Fridays\, no service is expected on any line before 0730 and significant disruption is expected to continue until midday\, when the strike ends\, but disruption is likely through the afternoon and evening.
+DTEND:20260520T105900Z
+DTSTART:20260519T110000Z
+SUMMARY:Piccadilly: Special Service
+UID:bcff11cc-adb9-4694-8dd9-5569dc704da2@bcff.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-21T11:00:00&endDate=2026-05-22T10:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on the following dates and times: Until 1159 Friday 24 April\, from 1200 Tuesday 19 until 1159 Wednesday 20 May\, from 1200 Thursday 21 until 1159 Friday 22 May\, from 1200 Tuesday 16 until 1159 Wednesday 17 June and from 1200 Thursday 18 until 1159 Friday 19 June. On the affected Tuesdays and Thursdays\, Tube services will run normally in the morning. Significant disruption is expected once the strike begins\, and no service is expected on any line after 2100. On Wednesdays and Fridays\, no service is expected on any line before 0730 and significant disruption is expected to continue until midday\, when the strike ends\, but disruption is likely through the afternoon and evening.
 DTEND:20260522T105900Z
 DTSTART:20260521T110000Z
 SUMMARY:Piccadilly: Special Service
-UID:4b153a72-f129-43a8-98a5-c9642a27c966@4b15.org
+UID:5a315523-3c83-4946-885a-aa51cb9e0d9e@5a31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-09T01:00:00&endDate=2026-05-11T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 9 and Sunday 10 May\, including Friday and Saturday Night Tube\, no service between Cockfosters and Heathrow (All Terminals). Trains operate during the day between Acton Town and Uxbridge. Replacement buses operate.
+DTEND:20260511T002900Z
+DTSTART:20260509T010000Z
+SUMMARY:Piccadilly: Part Closure
+UID:ffeafbf6-6631-421a-a00e-ebfead1c4dab@ffea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-18T11:00:00&endDate=2026-06-19T10:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on the following dates and times: From 1200 Tuesday 19 until 1159 Wednesday 20 May\, from 1200 Thursday 21 until 1159 Friday 22 May\, from 1200 Tuesday 16 until 1159 Wednesday 17 June and from 1200 Thursday 18 until 1159 Friday 19 June. On the affected Tuesdays and Thursdays\, Tube services will run normally in the morning. Significant disruption is expected once the strike begins\, and no service is expected on any line after 2100. On Wednesdays and Fridays\, no service is expected on any line before 0730 and significant disruption is expected to continue until midday\, when the strike ends\, but disruption is likely through the afternoon and evening.
+DTEND:20260619T105900Z
+DTSTART:20260618T110000Z
+SUMMARY:Piccadilly: Special Service
+UID:212227ec-b5d2-4411-9892-6494e6711990@2122.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-23T01:00:00&endDate=2026-05-23T03:30:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 23 May\, between 0200 and 0430\, no service between Hyde Park Corner and Heathrow Terminal 5. Replacement buses operate.
+DTEND:20260523T033000Z
+DTSTART:20260523T010000Z
+SUMMARY:Piccadilly: Part Closure
+UID:79ff2269-1c99-41b9-9236-25a0d61179c9@79ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-16T11:00:00&endDate=2026-06-17T10:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on the following dates and times: Until 1159 Friday 24 April\, from 1200 Tuesday 19 until 1159 Wednesday 20 May\, from 1200 Thursday 21 until 1159 Friday 22 May\, from 1200 Tuesday 16 until 1159 Wednesday 17 June and from 1200 Thursday 18 until 1159 Friday 19 June. On the affected Tuesdays and Thursdays\, Tube services will run normally in the morning. Significant disruption is expected once the strike begins\, and no service is expected on any line after 2100. On Wednesdays and Fridays\, no service is expected on any line before 0730 and significant disruption is expected to continue until midday\, when the strike ends\, but disruption is likely through the afternoon and evening.
+DTEND:20260617T105900Z
+DTSTART:20260616T110000Z
+SUMMARY:Piccadilly: Special Service
+UID:55f776ef-7f18-494c-81fa-a274d3d5dd79@55f7.org
 END:VEVENT
 END:VCALENDAR
