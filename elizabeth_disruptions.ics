@@ -3,66 +3,45 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Elizabeth line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-05T05:55:40&endDate=2026-05-06T00:29:00">Disruption map.</a>\n\nMinor delays between Paddington and Shenfield while we fix a points failure at Old Oak Common Depot. GOOD service on the rest of the line. 
-DTEND:20260506T002900Z
-DTSTART:20260505T055540Z
-SUMMARY:Elizabeth line: Minor Delays
-UID:d18b56d2-449e-46e4-8b33-ed45fd329534@d18b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-17T03:30:00&endDate=2026-05-17T06:40:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 17 May\, until 0740\, no service between Paddington and Ealing Broadway. Please use Central line connections between Central London and Ealing Broadway.
-DTEND:20260517T064000Z
-DTSTART:20260517T033000Z
-SUMMARY:Elizabeth line: Part Closure
-UID:c6d8c628-2ef0-4b18-8a48-aa0a54e05bb8@c6d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-05T21:00:00&endDate=2026-05-06T00:29:00">Disruption map.</a>\n\nELIZABETH LINE: Bank Holiday Monday 4\, Tuesday 5 and Wednesday 6 May\, after 2200 each evening\, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4\, West Drayton\, Langley\, Slough\, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway\, Southall and Hayes & Harlington. After 2300\, trains will not call at Acton Main Line\, West Ealing and Hanwell.
-DTEND:20260506T002900Z
-DTSTART:20260505T210000Z
-SUMMARY:Elizabeth line: Reduced Service
-UID:f7d01ccb-854f-4aaf-bb8a-9ef874dafd76@f7d0.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-06T21:00:00&endDate=2026-05-07T00:29:00">Disruption map.</a>\n\nELIZABETH LINE: Bank Holiday Monday 4\, Tuesday 5 and Wednesday 6 May\, after 2200 each evening\, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4\, West Drayton\, Langley\, Slough\, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway\, Southall and Hayes & Harlington. After 2300\, trains will not call at Acton Main Line\, West Ealing and Hanwell.
 DTEND:20260507T002900Z
 DTSTART:20260506T210000Z
 SUMMARY:Elizabeth line: Reduced Service
-UID:c03cf957-fb5c-4273-a25e-b0a789c50c9c@c03c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-10T03:30:00&endDate=2026-05-10T06:40:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 10 May\, until 0740\, no service between Paddington and Ealing Broadway. Please use Central line connections between Central London and Ealing Broadway.
-DTEND:20260510T064000Z
-DTSTART:20260510T033000Z
-SUMMARY:Elizabeth line: Part Closure
-UID:3de00def-8d15-46b7-806e-73b89d62f6c4@3de0.org
+UID:96a8cdda-e865-440a-a013-57b730ea071f@96a8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-07T22:00:00&endDate=2026-05-07T22:59:00">Disruption map.</a>\n\nELIZABETH LINE: Bank Holiday Monday 4\, Tuesday 5\, Wednesday 6 and Thursday 7 May\, the 2217 Abbey Wood to Reading train will terminate at Maidenhead. Customers travelling to Twyford and Reading should change at Maidenhead to the 2338 GWR service to Twyford and Reading. At Maidenhead\, connecting westbound GWR trains to Twyford and Reading use Platform 1. For step-free interchange from platform 3 to platform 1\, please use the lift to the main entrance\, and then continue at street level under the railway bridge and up Shoppenhangers Road to the car park. Please ask staff to open the gate to platform 1\, and allow extra time for your journey
 DTEND:20260507T225900Z
 DTSTART:20260507T220000Z
 SUMMARY:Elizabeth line: Reduced Service
-UID:22d7cfc9-afb8-4900-846d-bf3d96c30b51@22d7.org
+UID:36d24d69-403e-4c2f-a8b9-12b7796b9180@36d2.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-04T23:00:00&endDate=2026-05-05T00:29:00">Disruption map.</a>\n\nELIZABETH LINE: Bank Holiday Monday 4\, Tuesday 5 and Wednesday 6 May\, after 2200 each evening\, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4\, West Drayton\, Langley\, Slough\, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway\, Southall and Hayes & Harlington. After 2300\, trains will not call at Acton Main Line\, West Ealing and Hanwell.
-DTEND:20260505T002900Z
-DTSTART:20260504T230000Z
-SUMMARY:Elizabeth line: Reduced Service
-UID:194a79cf-3a5f-403f-b14b-6eef93b82f76@194a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-05T22:00:00&endDate=2026-05-05T22:59:00">Disruption map.</a>\n\nELIZABETH LINE: Bank Holiday Monday 4\, Tuesday 5\, Wednesday 6 and Thursday 7 May\, the 2217 Abbey Wood to Reading train will terminate at Maidenhead. Customers travelling to Twyford and Reading should change at Maidenhead to the 2338 GWR service to Twyford and Reading. At Maidenhead\, connecting westbound GWR trains to Twyford and Reading use Platform 1. For step-free interchange from platform 3 to platform 1\, please use the lift to the main entrance\, and then continue at street level under the railway bridge and up Shoppenhangers Road to the car park. Please ask staff to open the gate to platform 1\, and allow extra time for your journey
-DTEND:20260505T225900Z
-DTSTART:20260505T220000Z
-SUMMARY:Elizabeth line: Reduced Service
-UID:12b88cf1-ae8f-41fa-8ebe-7bdd66f9cb24@12b8.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-17T03:30:00&endDate=2026-05-17T06:40:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 17 May\, until 0740\, no service between Paddington and Ealing Broadway. Please use Central line connections between Central London and Ealing Broadway.
+DTEND:20260517T064000Z
+DTSTART:20260517T033000Z
+SUMMARY:Elizabeth line: Part Closure
+UID:13405d1f-c6fa-4154-98f6-4add5d623ad9@1340.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-06T22:00:00&endDate=2026-05-06T22:59:00">Disruption map.</a>\n\nELIZABETH LINE: Bank Holiday Monday 4\, Tuesday 5\, Wednesday 6 and Thursday 7 May\, the 2217 Abbey Wood to Reading train will terminate at Maidenhead. Customers travelling to Twyford and Reading should change at Maidenhead to the 2338 GWR service to Twyford and Reading. At Maidenhead\, connecting westbound GWR trains to Twyford and Reading use Platform 1. For step-free interchange from platform 3 to platform 1\, please use the lift to the main entrance\, and then continue at street level under the railway bridge and up Shoppenhangers Road to the car park. Please ask staff to open the gate to platform 1\, and allow extra time for your journey
 DTEND:20260506T225900Z
 DTSTART:20260506T220000Z
 SUMMARY:Elizabeth line: Reduced Service
-UID:0f5467d8-8d4c-4da1-8b1c-74bce2ae8384@0f54.org
+UID:5aed7143-a8b1-44d5-8704-892662d08625@5aed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-10T03:30:00&endDate=2026-05-10T06:40:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 10 May\, until 0740\, no service between Paddington and Ealing Broadway. Please use Central line connections between Central London and Ealing Broadway.
+DTEND:20260510T064000Z
+DTSTART:20260510T033000Z
+SUMMARY:Elizabeth line: Part Closure
+UID:7e554dbb-53c0-4478-a142-d2133068d675@7e55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-05T23:00:00&endDate=2026-05-06T00:29:00">Disruption map.</a>\n\nELIZABETH LINE: Bank Holiday Monday 4\, Tuesday 5 and Wednesday 6 May\, after 2200 each evening\, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4\, West Drayton\, Langley\, Slough\, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway\, Southall and Hayes & Harlington. After 2300\, trains will not call at Acton Main Line\, West Ealing and Hanwell.
+DTEND:20260506T002900Z
+DTSTART:20260505T230000Z
+SUMMARY:Elizabeth line: Reduced Service
+UID:eb2bf956-efea-4be7-b19a-54ee80238e64@eb2b.org
 END:VEVENT
 END:VCALENDAR
