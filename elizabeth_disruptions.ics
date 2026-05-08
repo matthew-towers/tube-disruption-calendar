@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Elizabeth line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-10T03:30:00&endDate=2026-05-10T06:40:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 10 May\, until 0740\, no service between Paddington and Ealing Broadway. Please use Central line connections between Central London and Ealing Broadway. The 2345 GWR Saturday evening train from Didcot Parkway to Paddington terminates at Ealing Broadway and the 0638 GWR Sunday morning train from Paddington to Reading starts at Ealing Broadway.
-DTEND:20260510T064000Z
-DTSTART:20260510T033000Z
-SUMMARY:Elizabeth line: Part Closure
-UID:5bb7b01f-b8fa-4202-8f49-aa24cd68b8f5@5bb7.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-17T03:30:00&endDate=2026-05-17T06:40:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 17 May\, until 0740\, no service between Paddington and Ealing Broadway. Please use Central line connections between Central London and Ealing Broadway.
 DTEND:20260517T064000Z
 DTSTART:20260517T033000Z
 SUMMARY:Elizabeth line: Part Closure
-UID:438e4dac-5c98-4d1f-a021-1ed7c0cbd7a5@438e.org
+UID:88c41d41-1e12-4424-bc9a-fa321dc246a7@88c4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-10T03:30:00&endDate=2026-05-10T06:40:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 10 May\, until 0740\, no service between Paddington and Ealing Broadway. Please use Central line connections between Central London and Ealing Broadway. The 2345 GWR Saturday evening train from Didcot Parkway to Paddington terminates at Ealing Broadway and the 0638 GWR Sunday morning train from Paddington to Reading starts at Ealing Broadway.
+DTEND:20260510T064000Z
+DTSTART:20260510T033000Z
+SUMMARY:Elizabeth line: Part Closure
+UID:72f6b7d0-9350-49e8-b682-4cb4fe2237e1@72f6.org
 END:VEVENT
 END:VCALENDAR
