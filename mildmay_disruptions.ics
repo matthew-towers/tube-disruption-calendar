@@ -3,143 +3,136 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Mildmay line disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-14T22:45:00&endDate=2026-05-15T00:29:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 11\, Tuesday 12\, Wednesday 13 and Thursday 14 May\, after 2345 each evening\, no westbound service from Stratford to Camden Road. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0035. Customers should use the last westbound service from Stratford at 2344\, or local London Buses routes 30\, 274\, 388\, 393 or 488.
+DTEND:20260515T002900Z
+DTSTART:20260514T224500Z
+SUMMARY:Mildmay line: Part Closure
+UID:8b394d78-9eaf-4b55-a128-0fb94b351b68@8b39.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-13T22:00:00&endDate=2026-05-14T00:29:00">Disruption map.</a>\n\nMILDMAY LINE: Wednesday 13 May\, after 2300\, no eastbound service from Camden Road \r\nto Stratford. Customers should use the last eastbound services detailed below or London Overground services to Euston. Last through trains: Clapham Junction to Stratford 2218\; Richmond to Stratford 2232\; Willesden Junction to Stratford 2252. The 2249 train from Richmond to Stratford\, 2249 train from Clapham Junction to Stratford and 2318 train from Richmond to Willesden Junction will not run. The 2302 train from Richmond to Stratford will terminate at Camden Road
 DTEND:20260514T002900Z
 DTSTART:20260513T220000Z
 SUMMARY:Mildmay line: Part Closure
-UID:236c5be4-326f-45cc-91e7-bb60660d7d0a@236c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-09T06:48:37&endDate=2026-05-10T00:29:00">Disruption map.</a>\n\nMildmay Line: Minor delays between Willesden Junction and Clapham Junction while we fix a track fault at Imperial Wharf. GOOD SERVICE on the rest of the line. 
-DTEND:20260510T002900Z
-DTSTART:20260509T064837Z
-SUMMARY:Mildmay line: Minor Delays
-UID:708c5fe2-397c-4b34-a8b1-85fef359c5c2@708c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-19T21:00:00&endDate=2026-05-19T22:00:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 18\, Tuesday 19\, Wednesday 20 and Thursday 21 May\, the 2203 and 2234 Clapham Junction to Stratford trains terminate at Willesden Junction.
-DTEND:20260519T220000Z
-DTSTART:20260519T210000Z
-SUMMARY:Mildmay line: Reduced Service
-UID:3cd00d63-44f1-4d1f-84d8-6ad5a1920091@3cd0.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-22T03:30:00&endDate=2026-05-22T05:15:00">Disruption map.</a>\n\nMILDMAY LINE: Tuesday 19\, Wednesday 20\, Thursday 21 and Friday 22 May\, until 0615\, no \r\nsouthbound service from Willesden Junction to Shepherds Bush. The 0552 first train from Willesden Junction to Clapham Junction starts from Shepherd's Bush at 0600 and the 0608 second train from Willesden Junction to Clapham Junction does not run. Use the next service at 0623 or local bus routes 220 or 228. The 0611 Stratford to Clapham Junction train will start from Shepherds Bush at 0701. The 0651 from Stratford to Richmond will start from Acton Central at 0743.
-DTEND:20260522T051500Z
-DTSTART:20260522T033000Z
-SUMMARY:Mildmay line: Part Closure
-UID:ae9fb16c-b71c-41af-8b59-970b7c1d2303@ae9f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-12T20:45:00&endDate=2026-05-12T22:45:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 11 and Tuesday 12 May\, the 2147 Clapham Junction to Stratford train will not run. The 2203 and 2234 Clapham Junction to Stratford and 2249 Richmond to Stratford trains will terminate at Willesden Junction
-DTEND:20260512T224500Z
-DTSTART:20260512T204500Z
-SUMMARY:Mildmay line: Reduced Service
-UID:fd5ef604-b30f-4469-908e-476676441400@fd5e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-12T22:45:00&endDate=2026-05-13T00:29:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 11\, Tuesday 12\, Wednesday 13 and Thursday 14 May\, after 2345 each evening\, no westbound service from Stratford to Camden Road. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0035. Customers should use the last westbound service from Stratford at 2344\, or local London Buses routes 30\, 274\, 388\, 393 or 488.
-DTEND:20260513T002900Z
-DTSTART:20260512T224500Z
-SUMMARY:Mildmay line: Part Closure
-UID:63b36b08-bf54-42fe-8b3a-4ea76384a280@63b3.org
+UID:ca8cd914-1f52-489a-bd23-ce9957824bc2@ca8c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-18T21:00:00&endDate=2026-05-18T22:00:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 18\, Tuesday 19\, Wednesday 20 and Thursday 21 May\, the 2203 and 2234 Clapham Junction to Stratford trains terminate at Willesden Junction.
 DTEND:20260518T220000Z
 DTSTART:20260518T210000Z
 SUMMARY:Mildmay line: Reduced Service
-UID:b74f82bc-a12d-4abb-a529-2fa6dd1bcad9@b74f.org
+UID:aab8bef6-db3a-46a8-a4d3-f2eac2280ae4@aab8.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-21T03:30:00&endDate=2026-05-21T05:15:00">Disruption map.</a>\n\nMILDMAY LINE: Tuesday 19\, Wednesday 20\, Thursday 21 and Friday 22 May\, until 0615\, no \r\nsouthbound service from Willesden Junction to Shepherds Bush. The 0552 first train from Willesden Junction to Clapham Junction starts from Shepherd's Bush at 0600 and the 0608 second train from Willesden Junction to Clapham Junction does not run. Use the next service at 0623 or local bus routes 220 or 228. The 0611 Stratford to Clapham Junction train will start from Shepherds Bush at 0701. The 0651 from Stratford to Richmond will start from Acton Central at 0743.
-DTEND:20260521T051500Z
-DTSTART:20260521T033000Z
-SUMMARY:Mildmay line: Part Closure
-UID:2addfd39-cb78-48af-8592-4d7ac4e450b5@2add.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-13T20:30:00&endDate=2026-05-13T22:00:00">Disruption map.</a>\n\nMILDMAY LINE: Wednesday 13 May\, the 2129 and 2159 trains from Stratford to Richmond and the 2135 train from Stratford to Clapham Junction will terminate at Camden Road. The 2203 and 2234 Clapham Junction to Stratford trains terminate at Willesden Junction.
-DTEND:20260513T220000Z
-DTSTART:20260513T203000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-12T20:45:00&endDate=2026-05-12T22:45:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 11 and Tuesday 12 May\, the 2147 Clapham Junction to Stratford train will not run. The 2203 and 2234 Clapham Junction to Stratford and 2249 Richmond to Stratford trains will terminate at Willesden Junction
+DTEND:20260512T224500Z
+DTSTART:20260512T204500Z
 SUMMARY:Mildmay line: Reduced Service
-UID:69878432-366a-4d62-93f6-314f2cb42403@6987.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-19T03:30:00&endDate=2026-05-19T05:15:00">Disruption map.</a>\n\nMILDMAY LINE: Tuesday 19\, Wednesday 20\, Thursday 21 and Friday 22 May\, until 0615\, no \r\nsouthbound service from Willesden Junction to Shepherds Bush. The 0552 first train from Willesden Junction to Clapham Junction starts from Shepherd's Bush at 0600 and the 0608 second train from Willesden Junction to Clapham Junction does not run. Use the next service at 0623 or local bus routes 220 or 228. The 0611 Stratford to Clapham Junction train will start from Shepherds Bush at 0701. The 0651 from Stratford to Richmond will start from Acton Central at 0743.
-DTEND:20260519T051500Z
-DTSTART:20260519T033000Z
-SUMMARY:Mildmay line: Part Closure
-UID:34544346-fcf6-482b-9693-e9d83e9eb465@3454.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-14T22:45:00&endDate=2026-05-15T00:29:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 11\, Tuesday 12\, Wednesday 13 and Thursday 14 May\, after 2345 each evening\, no westbound service from Stratford to Camden Road. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0035. Customers should use the last westbound service from Stratford at 2344\, or local London Buses routes 30\, 274\, 388\, 393 or 488.
-DTEND:20260515T002900Z
-DTSTART:20260514T224500Z
-SUMMARY:Mildmay line: Part Closure
-UID:ef8277cf-4850-4f26-8f14-6f8d74640613@ef82.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-15T20:55:00&endDate=2026-05-15T22:59:00">Disruption map.</a>\n\nMILDMAY LINE: Friday 15 May\, the 2159 train from Stratford to Richmond will terminate at Camden Road. The 2318 train from Richmond to Willesden Junction will not run
-DTEND:20260515T225900Z
-DTSTART:20260515T205500Z
-SUMMARY:Mildmay line: Reduced Service
-UID:2bdf8b9e-0086-4843-87fa-bfc08184d082@2bdf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-11T20:45:00&endDate=2026-05-11T22:45:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 11 and Tuesday 12 May\, the 2147 Clapham Junction to Stratford train will not run. The 2203 and 2234 Clapham Junction to Stratford and 2249 Richmond to Stratford trains will terminate at Willesden Junction
-DTEND:20260511T224500Z
-DTSTART:20260511T204500Z
-SUMMARY:Mildmay line: Reduced Service
-UID:29d9126e-0a87-4da1-86d9-eb29094ce8dd@29d9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-13T22:45:00&endDate=2026-05-14T00:29:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 11\, Tuesday 12\, Wednesday 13 and Thursday 14 May\, after 2345 each evening\, no westbound service from Stratford to Camden Road. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0035. Customers should use the last westbound service from Stratford at 2344\, or local London Buses routes 30\, 274\, 388\, 393 or 488.
-DTEND:20260514T002900Z
-DTSTART:20260513T224500Z
-SUMMARY:Mildmay line: Part Closure
-UID:d1f40997-1aa8-491e-b290-b065b5b4d831@d1f4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-20T21:00:00&endDate=2026-05-20T22:00:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 18\, Tuesday 19\, Wednesday 20 and Thursday 21 May\, the 2203 and 2234 Clapham Junction to Stratford trains terminate at Willesden Junction.
-DTEND:20260520T220000Z
-DTSTART:20260520T210000Z
-SUMMARY:Mildmay line: Reduced Service
-UID:de747d24-6835-4c46-a1a9-5a52b11f991a@de74.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-20T03:30:00&endDate=2026-05-20T05:15:00">Disruption map.</a>\n\nMILDMAY LINE: Tuesday 19\, Wednesday 20\, Thursday 21 and Friday 22 May\, until 0615\, no \r\nsouthbound service from Willesden Junction to Shepherds Bush. The 0552 first train from Willesden Junction to Clapham Junction starts from Shepherd's Bush at 0600 and the 0608 second train from Willesden Junction to Clapham Junction does not run. Use the next service at 0623 or local bus routes 220 or 228. The 0611 Stratford to Clapham Junction train will start from Shepherds Bush at 0701. The 0651 from Stratford to Richmond will start from Acton Central at 0743.
-DTEND:20260520T051500Z
-DTSTART:20260520T033000Z
-SUMMARY:Mildmay line: Part Closure
-UID:e078417f-8e1c-4525-9c62-c6d3c625dfcb@e078.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-17T05:25:00&endDate=2026-05-17T10:00:00">Disruption map.</a>\n\nMILDMAY LINE: Sunday 17 May\, from 0625 and every 15 minutes\, additional trains will run in both directions between Camden Road and Stratford for travel to the Hackney Half Marathon. Please note that Homerton station will be closed eastbound until 1100.
-DTEND:20260517T100000Z
-DTSTART:20260517T052500Z
-SUMMARY:Mildmay line: Special Service
-UID:bcdb2dca-179a-487a-ae03-d31ab0b3d1a3@bcdb.org
+UID:38e253ce-4322-47aa-9f81-2888e64a9821@38e2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-11T22:45:00&endDate=2026-05-12T00:29:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 11\, Tuesday 12\, Wednesday 13 and Thursday 14 May\, after 2345 each evening\, no westbound service from Stratford to Camden Road. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0035. Customers should use the last westbound service from Stratford at 2344\, or local London Buses routes 30\, 274\, 388\, 393 or 488.
 DTEND:20260512T002900Z
 DTSTART:20260511T224500Z
 SUMMARY:Mildmay line: Part Closure
-UID:8fb2edea-8c61-4a9c-8f39-de98149a6118@8fb2.org
+UID:4da0b4f2-1cfe-4964-b429-9537730d6769@4da0.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-21T21:00:00&endDate=2026-05-21T22:00:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 18\, Tuesday 19\, Wednesday 20 and Thursday 21 May\, the 2203 and 2234 Clapham Junction to Stratford trains terminate at Willesden Junction.
-DTEND:20260521T220000Z
-DTSTART:20260521T210000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-12T22:45:00&endDate=2026-05-13T00:29:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 11\, Tuesday 12\, Wednesday 13 and Thursday 14 May\, after 2345 each evening\, no westbound service from Stratford to Camden Road. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0035. Customers should use the last westbound service from Stratford at 2344\, or local London Buses routes 30\, 274\, 388\, 393 or 488.
+DTEND:20260513T002900Z
+DTSTART:20260512T224500Z
+SUMMARY:Mildmay line: Part Closure
+UID:9a997012-87aa-4d10-af01-ea218ed8620f@9a99.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-11T20:45:00&endDate=2026-05-11T22:45:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 11 and Tuesday 12 May\, the 2147 Clapham Junction to Stratford train will not run. The 2203 and 2234 Clapham Junction to Stratford and 2249 Richmond to Stratford trains will terminate at Willesden Junction
+DTEND:20260511T224500Z
+DTSTART:20260511T204500Z
 SUMMARY:Mildmay line: Reduced Service
-UID:b38868a0-67ba-4477-8f8f-89db17a791d5@b388.org
+UID:c6f25a2d-e10c-4fe2-8ed5-2351b9c68774@c6f2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-19T21:00:00&endDate=2026-05-19T22:00:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 18\, Tuesday 19\, Wednesday 20 and Thursday 21 May\, the 2203 and 2234 Clapham Junction to Stratford trains terminate at Willesden Junction.
+DTEND:20260519T220000Z
+DTSTART:20260519T210000Z
+SUMMARY:Mildmay line: Reduced Service
+UID:014241ed-8745-46f0-be0f-64d2db3ca0d7@0142.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-17T05:25:00&endDate=2026-05-17T10:00:00">Disruption map.</a>\n\nMILDMAY LINE: Sunday 17 May\, from 0625 and every 15 minutes\, additional trains will run in both directions between Camden Road and Stratford for travel to the Hackney Half Marathon. Please note that Homerton station will be closed eastbound until 1100.
+DTEND:20260517T100000Z
+DTSTART:20260517T052500Z
+SUMMARY:Mildmay line: Special Service
+UID:bea38797-23d3-4fdd-a044-52c8b006943e@bea3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-21T03:30:00&endDate=2026-05-21T05:15:00">Disruption map.</a>\n\nMILDMAY LINE: Tuesday 19\, Wednesday 20\, Thursday 21 and Friday 22 May\, until 0615\, no \r\nsouthbound service from Willesden Junction to Shepherds Bush. The 0552 first train from Willesden Junction to Clapham Junction starts from Shepherd's Bush at 0600 and the 0608 second train from Willesden Junction to Clapham Junction does not run. Use the next service at 0623 or local bus routes 220 or 228. The 0611 Stratford to Clapham Junction train will start from Shepherds Bush at 0701. The 0651 from Stratford to Richmond will start from Acton Central at 0743.
+DTEND:20260521T051500Z
+DTSTART:20260521T033000Z
+SUMMARY:Mildmay line: Part Closure
+UID:7462d994-8b0a-420d-b571-a828e8d94d4e@7462.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-14T20:30:00&endDate=2026-05-14T22:30:00">Disruption map.</a>\n\nMILDMAY LINE: Thursday 14 May\, the 2147 and 2249 Clapham Junction to Stratford trains will not run. The 2203 and 2234 Clapham Junction to Stratford trains terminate at Willesden Junction.
 DTEND:20260514T223000Z
 DTSTART:20260514T203000Z
 SUMMARY:Mildmay line: Reduced Service
-UID:e26f4dde-196b-4df3-905d-3361d2c9e581@e26f.org
+UID:10989b39-4b6b-4c4a-b0b8-1faa74c3a212@1098.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-13T20:30:00&endDate=2026-05-13T22:00:00">Disruption map.</a>\n\nMILDMAY LINE: Wednesday 13 May\, the 2129 and 2159 trains from Stratford to Richmond and the 2135 train from Stratford to Clapham Junction will terminate at Camden Road. The 2203 and 2234 Clapham Junction to Stratford trains terminate at Willesden Junction.
+DTEND:20260513T220000Z
+DTSTART:20260513T203000Z
+SUMMARY:Mildmay line: Reduced Service
+UID:78dc9ced-97d7-49e1-9fde-ce3d1a283db0@78dc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-19T03:30:00&endDate=2026-05-19T05:15:00">Disruption map.</a>\n\nMILDMAY LINE: Tuesday 19\, Wednesday 20\, Thursday 21 and Friday 22 May\, until 0615\, no \r\nsouthbound service from Willesden Junction to Shepherds Bush. The 0552 first train from Willesden Junction to Clapham Junction starts from Shepherd's Bush at 0600 and the 0608 second train from Willesden Junction to Clapham Junction does not run. Use the next service at 0623 or local bus routes 220 or 228. The 0611 Stratford to Clapham Junction train will start from Shepherds Bush at 0701. The 0651 from Stratford to Richmond will start from Acton Central at 0743.
+DTEND:20260519T051500Z
+DTSTART:20260519T033000Z
+SUMMARY:Mildmay line: Part Closure
+UID:d0109b3e-7678-4d90-8e35-fe25d6639f5e@d010.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-20T03:30:00&endDate=2026-05-20T05:15:00">Disruption map.</a>\n\nMILDMAY LINE: Tuesday 19\, Wednesday 20\, Thursday 21 and Friday 22 May\, until 0615\, no \r\nsouthbound service from Willesden Junction to Shepherds Bush. The 0552 first train from Willesden Junction to Clapham Junction starts from Shepherd's Bush at 0600 and the 0608 second train from Willesden Junction to Clapham Junction does not run. Use the next service at 0623 or local bus routes 220 or 228. The 0611 Stratford to Clapham Junction train will start from Shepherds Bush at 0701. The 0651 from Stratford to Richmond will start from Acton Central at 0743.
+DTEND:20260520T051500Z
+DTSTART:20260520T033000Z
+SUMMARY:Mildmay line: Part Closure
+UID:e9b8e2d4-6b33-447f-a129-e113dd1a2596@e9b8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-21T21:00:00&endDate=2026-05-21T22:00:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 18\, Tuesday 19\, Wednesday 20 and Thursday 21 May\, the 2203 and 2234 Clapham Junction to Stratford trains terminate at Willesden Junction.
+DTEND:20260521T220000Z
+DTSTART:20260521T210000Z
+SUMMARY:Mildmay line: Reduced Service
+UID:7bcbd711-5bda-432d-b1ae-bf4fc692c2ad@7bcb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-15T20:55:00&endDate=2026-05-15T22:59:00">Disruption map.</a>\n\nMILDMAY LINE: Friday 15 May\, the 2159 train from Stratford to Richmond will terminate at Camden Road. The 2318 train from Richmond to Willesden Junction will not run
+DTEND:20260515T225900Z
+DTSTART:20260515T205500Z
+SUMMARY:Mildmay line: Reduced Service
+UID:8263a645-be1d-4c91-b109-8a137a1c5c6a@8263.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-20T21:00:00&endDate=2026-05-20T22:00:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 18\, Tuesday 19\, Wednesday 20 and Thursday 21 May\, the 2203 and 2234 Clapham Junction to Stratford trains terminate at Willesden Junction.
+DTEND:20260520T220000Z
+DTSTART:20260520T210000Z
+SUMMARY:Mildmay line: Reduced Service
+UID:d71d0b17-b361-4f5d-8193-047376e3744e@d71d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-22T03:30:00&endDate=2026-05-22T05:15:00">Disruption map.</a>\n\nMILDMAY LINE: Tuesday 19\, Wednesday 20\, Thursday 21 and Friday 22 May\, until 0615\, no \r\nsouthbound service from Willesden Junction to Shepherds Bush. The 0552 first train from Willesden Junction to Clapham Junction starts from Shepherd's Bush at 0600 and the 0608 second train from Willesden Junction to Clapham Junction does not run. Use the next service at 0623 or local bus routes 220 or 228. The 0611 Stratford to Clapham Junction train will start from Shepherds Bush at 0701. The 0651 from Stratford to Richmond will start from Acton Central at 0743.
+DTEND:20260522T051500Z
+DTSTART:20260522T033000Z
+SUMMARY:Mildmay line: Part Closure
+UID:07233749-99ef-4e32-a518-0b7955967728@0723.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-13T22:45:00&endDate=2026-05-14T00:29:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 11\, Tuesday 12\, Wednesday 13 and Thursday 14 May\, after 2345 each evening\, no westbound service from Stratford to Camden Road. The 2359 and 0015 services from Stratford will start from Camden Road at 0018 and 0035. Customers should use the last westbound service from Stratford at 2344\, or local London Buses routes 30\, 274\, 388\, 393 or 488.
+DTEND:20260514T002900Z
+DTSTART:20260513T224500Z
+SUMMARY:Mildmay line: Part Closure
+UID:cacd1e54-1c91-4881-932c-8775f02d7cfc@cacd.org
 END:VEVENT
 END:VCALENDAR
