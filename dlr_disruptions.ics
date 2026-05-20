@@ -3,45 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-31T03:30:00&endDate=2026-06-01T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 31 May\, no service between Shadwell and Tower Gateway.
-DTEND:20260601T002900Z
-DTSTART:20260531T033000Z
-SUMMARY:DLR: Part Closure
-UID:fefe1eab-459a-4abb-b020-f2468c68739c@fefe.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-31T03:30:00&endDate=2026-06-01T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 31 May\, no service between Canning Town and Beckton. Replacement bus service DLR2 operates between Prince Regent and Gallions Reach via Royal Albert\, Beckton Park\, Cyprus and Beckton
 DTEND:20260601T002900Z
 DTSTART:20260531T033000Z
 SUMMARY:DLR: Part Closure
-UID:5b57233c-b137-4a7f-b9af-ea3eb1c8dc01@5b57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-23T03:30:00&endDate=2026-05-26T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 23\, Sunday 24 and Bank Holiday Monday 25 May\, no service between Westferry / Poplar and Lewisham. Use JUBILEE LINE connections between Canary Wharf and Canada Water. Replacement buses operate.
-DTEND:20260526T002900Z
-DTSTART:20260523T033000Z
-SUMMARY:DLR: Part Closure
-UID:6ce8c0b9-54b6-43b4-abbe-5457ff973e16@6ce8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-18T23:00:00&endDate=2026-05-19T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Monday 18 and Tuesday 19 May\, from 2330 each evening\, no service on the entire network
-DTEND:20260519T002900Z
-DTSTART:20260518T230000Z
-SUMMARY:DLR: Planned Closure
-UID:abc3d0b8-23fd-4344-8611-c162cd9c0e90@abc3.org
+UID:d91269b7-8bde-42eb-835f-c08caafb2a24@d912.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-29T03:30:00&endDate=2026-05-31T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Friday 29 and Saturday 30 May\, no service between Prince Regent and Beckton. Replacement bus service DLR2 operates between Prince Regent and Gallions Reach via Royal Albert\, Beckton Park\, Cyprus and Beckton
 DTEND:20260531T002900Z
 DTSTART:20260529T033000Z
 SUMMARY:DLR: Part Closure
-UID:b2cf3f32-011e-4ff5-9844-ef3bad9855a1@b2cf.org
+UID:19fcef47-ac72-417e-be22-dcc42a757fc4@19fc.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-19T22:30:00&endDate=2026-05-20T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Monday 18 and Tuesday 19 May\, from 2330 each evening\, no service on the entire network
-DTEND:20260520T002900Z
-DTSTART:20260519T223000Z
-SUMMARY:DLR: Planned Closure
-UID:2f6d5e7e-222f-4109-8a86-a5ef49f7f260@2f6d.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-23T03:30:00&endDate=2026-05-26T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 23\, Sunday 24 and Bank Holiday Monday 25 May\, no service between Westferry / Poplar and Lewisham. Use JUBILEE LINE connections between Canary Wharf and Canada Water. Replacement buses operate.
+DTEND:20260526T002900Z
+DTSTART:20260523T033000Z
+SUMMARY:DLR: Part Closure
+UID:9efd9c14-58cf-4ec5-9062-4b2283e7eced@9efd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-31T03:30:00&endDate=2026-06-01T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 31 May\, no service between Shadwell and Tower Gateway.
+DTEND:20260601T002900Z
+DTSTART:20260531T033000Z
+SUMMARY:DLR: Part Closure
+UID:78676381-f408-4103-b410-9371bb89fdc2@7867.org
 END:VEVENT
 END:VCALENDAR
