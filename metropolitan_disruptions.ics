@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T03:30:00&endDate=2026-06-13T09:30:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 13 June\, until 1030\, no service between Harrow-on-the-Hill and Aldgate.
+DTEND:20260613T093000Z
+DTSTART:20260613T033000Z
+SUMMARY:Metropolitan: Part Closure
+UID:19b8ed41-b382-4f0b-a767-b41ff00e1e41@19b8.org
+END:VEVENT
 END:VCALENDAR

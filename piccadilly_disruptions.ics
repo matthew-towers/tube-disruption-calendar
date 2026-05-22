@@ -3,38 +3,52 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-28T03:30:00&endDate=2026-06-01T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Thursday 28\, Friday 29\, Saturday 30 and Sunday 31 May (including Friday and Saturday Night Tube)\, no service between Acton Town and Heathrow (all terminals). Replacement buses operate.
-DTEND:20260601T002900Z
-DTSTART:20260528T033000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T00:45:00&endDate=2026-06-13T03:45:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 13 June\, between 0445 and 1400\, no service between Hyde Park Corner and Acton Town. Replacement buses operate.
+DTEND:20260613T034500Z
+DTSTART:20260613T004500Z
 SUMMARY:Piccadilly: Part Closure
-UID:a8154e4f-df21-4e5d-991b-b142122e5a92@a815.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-23T03:30:00&endDate=2026-05-26T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 23 May\, from 0430 and all day Sunday 24 and Bank Holiday Monday 25 May\, including Saturday Night Tube\, no service between Hyde Park Corner and Northfields / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate.
-DTEND:20260526T002900Z
-DTSTART:20260523T033000Z
-SUMMARY:Piccadilly: Part Closure
-UID:e95155d7-c13a-459e-9bcf-1541fcdf2b85@e951.org
+UID:41545008-20c1-4ac9-ac90-c8ae0e276f92@4154.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-23T01:00:00&endDate=2026-05-23T03:30:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 23 May\, between 0200 and 0430\, no service between Hyde Park Corner and Heathrow Terminal 5. Replacement buses operate.
 DTEND:20260523T033000Z
 DTSTART:20260523T010000Z
 SUMMARY:Piccadilly: Part Closure
-UID:91bd6833-b9b1-466e-84bf-de8b1c83aa9d@91bd.org
+UID:d86ed3d7-7374-43a9-84da-2d9bf412191b@d86e.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-28T03:30:00&endDate=2026-06-01T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Thursday 28\, Friday 29\, Saturday 30 and Sunday 31 May\, no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services instead.
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-28T03:30:00&endDate=2026-06-01T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Thursday 28\, Friday 29\, Saturday 30 and Sunday 31 May (including Friday and Saturday Night Tube)\, no service between Acton Town and Heathrow (all terminals). Replacement buses operate.
 DTEND:20260601T002900Z
 DTSTART:20260528T033000Z
 SUMMARY:Piccadilly: Part Closure
-UID:4a64553e-90b1-442b-882d-4f6a12e9e21f@4a64.org
+UID:d7e8536b-941f-45c3-b13f-325797cfe7b8@d7e8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-05T23:45:00&endDate=2026-06-08T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 6 June\, from 0045\, and all day Sunday 7 June\, no service between Hammersmith and Heathrow (All Terminals) / Uxbridge\, including Friday and Saturday Night Tube. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge.
 DTEND:20260608T002900Z
 DTSTART:20260605T234500Z
 SUMMARY:Piccadilly: Part Closure
-UID:8dcf20bd-3d3f-41ae-8a38-085a1eb99613@8dcf.org
+UID:712c91cc-9dc0-421e-90c6-7083e722838c@712c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T00:45:00&endDate=2026-06-13T03:45:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 13 June\, between 0145 and 0445\, no service on the entire line. Replacement buses operate.
+DTEND:20260613T034500Z
+DTSTART:20260613T004500Z
+SUMMARY:Piccadilly: Planned Closure
+UID:5f12df36-53f4-4302-b0db-f8a6c1f2ef1b@5f12.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-23T03:30:00&endDate=2026-05-26T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 23 May\, from 0430 and all day Sunday 24 and Bank Holiday Monday 25 May\, including Saturday Night Tube\, no service between Hyde Park Corner and Northfields / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate.
+DTEND:20260526T002900Z
+DTSTART:20260523T033000Z
+SUMMARY:Piccadilly: Part Closure
+UID:a2840eba-1654-4fe0-b24f-68d752ed3fdc@a284.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-28T03:30:00&endDate=2026-06-01T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Thursday 28\, Friday 29\, Saturday 30 and Sunday 31 May\, no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services instead.
+DTEND:20260601T002900Z
+DTSTART:20260528T033000Z
+SUMMARY:Piccadilly: Part Closure
+UID:2cbe0949-f20b-429c-a75d-e91f1b73f635@2cbe.org
 END:VEVENT
 END:VCALENDAR
