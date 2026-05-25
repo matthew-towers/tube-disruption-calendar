@@ -3,24 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Circle disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-24T09:09:55&endDate=2026-05-25T00:29:00">Disruption map.</a>\n\nCircle Line: Minor delays due to train cancellations. 
-DTEND:20260525T002900Z
-DTSTART:20260524T090955Z
-SUMMARY:Circle: Minor Delays
-UID:aa4885cf-9fb1-42e8-991c-377108d6d192@aa48.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T03:30:00&endDate=2026-06-13T09:30:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 13 June\, until 1030\, no service on the entire line.
+DTEND:20260613T093000Z
+DTSTART:20260613T033000Z
+SUMMARY:Circle: Planned Closure
+UID:b4077f63-3205-4f9b-992a-7ee73afce71f@b407.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T09:30:00&endDate=2026-06-13T13:00:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 13 June\, between 1030 and 1400\, no service between Edgware Road and Tower Hill (via Victoria).
 DTEND:20260613T130000Z
 DTSTART:20260613T093000Z
 SUMMARY:Circle: Part Closure
-UID:9be91379-5520-467c-9bb7-ba367cd9a51e@9be9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T03:30:00&endDate=2026-06-13T09:30:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 13 June\, until 1030\, no service on the entire line.
-DTEND:20260613T093000Z
-DTSTART:20260613T033000Z
-SUMMARY:Circle: Planned Closure
-UID:3efae774-ee95-47fa-bf06-495b0471a877@3efa.org
+UID:54122ee2-08ef-4d74-80c6-98216678846d@5412.org
 END:VEVENT
 END:VCALENDAR
