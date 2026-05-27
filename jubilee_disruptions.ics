@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Jubilee disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-27T07:18:29&endDate=2026-05-28T00:29:00">Disruption map.</a>\n\nJubilee Line: Minor delays while we deal with a trespasser on the track at Kilburn. 
+DTEND:20260528T002900Z
+DTSTART:20260527T071829Z
+SUMMARY:Jubilee: Minor Delays
+UID:4f930b95-28a6-4ca6-9122-1e6505c8d254@4f93.org
+END:VEVENT
 END:VCALENDAR

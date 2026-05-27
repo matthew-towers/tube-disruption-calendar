@@ -3,31 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-31T03:30:00&endDate=2026-06-01T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 31 May\, no service between Shadwell and Tower Gateway.
-DTEND:20260601T002900Z
-DTSTART:20260531T033000Z
-SUMMARY:DLR: Part Closure
-UID:e1346a7d-47e1-4e19-a8a9-9c294b6d1834@e134.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-31T03:30:00&endDate=2026-06-01T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 31 May\, no service between Canning Town and Beckton. Replacement bus service DLR2 operates between Prince Regent and Gallions Reach via Royal Albert\, Beckton Park\, Cyprus and Beckton
 DTEND:20260601T002900Z
 DTSTART:20260531T033000Z
 SUMMARY:DLR: Part Closure
-UID:2ea44e6a-992a-4234-b45c-be1e94570f5e@2ea4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-29T03:30:00&endDate=2026-05-31T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Friday 29 and Saturday 30 May\, no service between Prince Regent and Beckton. Replacement bus service DLR2 operates between Prince Regent and Gallions Reach via Royal Albert\, Beckton Park\, Cyprus and Beckton
-DTEND:20260531T002900Z
-DTSTART:20260529T033000Z
-SUMMARY:DLR: Part Closure
-UID:8ee0c06a-a6c7-40d5-a3de-1278d1a45067@8ee0.org
+UID:ac6bfaad-24a7-41e0-a788-bdf13a57bf6e@ac6b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T03:30:00&endDate=2026-06-15T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 13 and Sunday 14 June\, no service between Poplar and Beckton. Replacement bus service DLR2 operates between Canary Wharf and Gallions Reach via Blackwall (for Poplar)\, East India\, Canning Town\, Royal Victoria (Victoria Dock Road)\, Custom House\, Prince Regent\, Beckton Park\, Cyprus and Beckton\,
 DTEND:20260615T002900Z
 DTSTART:20260613T033000Z
 SUMMARY:DLR: Part Closure
-UID:9dfa25fc-3543-40cd-a192-ec739cfe32f7@9dfa.org
+UID:a85fe086-00d4-4447-a001-a32c866e3c83@a85f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-29T03:30:00&endDate=2026-05-31T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Friday 29 and Saturday 30 May\, no service between Prince Regent and Beckton. Replacement bus service DLR2 operates between Prince Regent and Gallions Reach via Royal Albert\, Beckton Park\, Cyprus and Beckton
+DTEND:20260531T002900Z
+DTSTART:20260529T033000Z
+SUMMARY:DLR: Part Closure
+UID:d848be34-ada4-4004-948b-5fb39b555235@d848.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-31T03:30:00&endDate=2026-06-01T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 31 May\, no service between Shadwell and Tower Gateway.
+DTEND:20260601T002900Z
+DTSTART:20260531T033000Z
+SUMMARY:DLR: Part Closure
+UID:7c08c12a-5408-47b4-97f6-6db05bfcb795@7c08.org
 END:VEVENT
 END:VCALENDAR

@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Hammersmith & City disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-26T05:53:02&endDate=2026-05-27T00:29:00">Disruption map.</a>\n\nHammersmith and City Line: Minor delays due to train cancellations. 
-DTEND:20260527T002900Z
-DTSTART:20260526T055302Z
-SUMMARY:Hammersmith & City: Minor Delays
-UID:8ed1c232-5675-44ca-bd7e-8434e0e48ce2@8ed1.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T03:30:00&endDate=2026-06-13T09:30:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Saturday 13 June\, until 1030\, no service on the entire line.
 DTEND:20260613T093000Z
 DTSTART:20260613T033000Z
 SUMMARY:Hammersmith & City: Planned Closure
-UID:0970791f-7160-4ae8-be14-71ae4a370fcd@0970.org
+UID:f51bed69-f8ff-4be3-85de-d95fc0c79e80@f51b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-27T06:07:20&endDate=2026-05-28T00:29:00">Disruption map.</a>\n\nHammersmith and City Line: Minor delays due to train cancellations. 
+DTEND:20260528T002900Z
+DTSTART:20260527T060720Z
+SUMMARY:Hammersmith & City: Minor Delays
+UID:51abb9f6-7ce3-4406-bdc3-476a89bf20c7@51ab.org
 END:VEVENT
 END:VCALENDAR
