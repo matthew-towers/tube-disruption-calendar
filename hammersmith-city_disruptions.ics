@@ -3,17 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Hammersmith & City disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-03T23:00:00&endDate=2026-06-04T22:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June. Last trains late on Monday and Wednesday nights are expected to operate as normal. Service is expected across most Tube lines on both days. However\, there will be disruption to journeys and service levels will vary across the London Underground network. No service is expected before 0630 and customers are advised to complete journeys by 2100 on both strike days. Some disruption is expected during the early mornings of Wednesday 3 and Friday 5 June as we return our services to normal.
+DTEND:20260604T225900Z
+DTSTART:20260603T230000Z
+SUMMARY:Hammersmith & City: Special Service
+UID:c77b501d-ef12-464a-b13b-9f0349338b15@c77b.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T03:30:00&endDate=2026-06-13T09:30:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Saturday 13 June\, until 1030\, no service on the entire line.
 DTEND:20260613T093000Z
 DTSTART:20260613T033000Z
 SUMMARY:Hammersmith & City: Planned Closure
-UID:f51bed69-f8ff-4be3-85de-d95fc0c79e80@f51b.org
+UID:2f980cf4-d772-4fcf-b23b-d9463ab28ab6@2f98.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-27T06:07:20&endDate=2026-05-28T00:29:00">Disruption map.</a>\n\nHammersmith and City Line: Minor delays due to train cancellations. 
-DTEND:20260528T002900Z
-DTSTART:20260527T060720Z
-SUMMARY:Hammersmith & City: Minor Delays
-UID:51abb9f6-7ce3-4406-bdc3-476a89bf20c7@51ab.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-01T23:00:00&endDate=2026-06-02T22:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June. Last trains late on Monday and Wednesday nights are expected to operate as normal. Service is expected across most Tube lines on both days. However\, there will be disruption to journeys and service levels will vary across the London Underground network. No service is expected before 0630 and customers are advised to complete journeys by 2100 on both strike days. Some disruption is expected during the early mornings of Wednesday 3 and Friday 5 June as we return our services to normal.
+DTEND:20260602T225900Z
+DTSTART:20260601T230000Z
+SUMMARY:Hammersmith & City: Special Service
+UID:c8c09f09-fa04-47be-a593-76d4b419071c@c8c0.org
 END:VEVENT
 END:VCALENDAR

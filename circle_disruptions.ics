@@ -3,24 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Circle disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-27T07:48:45&endDate=2026-05-28T00:29:00">Disruption map.</a>\n\nCircle Line: Minor delays due to an earlier faulty train at Finchley Road. 
-DTEND:20260528T002900Z
-DTSTART:20260527T074845Z
-SUMMARY:Circle: Minor Delays
-UID:3d19ccd5-9d79-4f45-8cd0-4696f7b3352b@3d19.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T03:30:00&endDate=2026-06-13T09:30:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 13 June\, until 1030\, no service on the entire line.
-DTEND:20260613T093000Z
-DTSTART:20260613T033000Z
-SUMMARY:Circle: Planned Closure
-UID:a6a95d35-ca5e-4e2b-b6cf-48ac190387d6@a6a9.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-03T23:00:00&endDate=2026-06-04T22:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June. Last trains late on Monday and Wednesday nights are expected to operate as normal. Service is expected across most Tube lines on both days. However\, there will be disruption to journeys and service levels will vary across the London Underground network. No service is expected before 0630 and customers are advised to complete journeys by 2100 on both strike days. Some disruption is expected during the early mornings of Wednesday 3 and Friday 5 June as we return our services to normal.
+DTEND:20260604T225900Z
+DTSTART:20260603T230000Z
+SUMMARY:Circle: Special Service
+UID:eb98ec19-1480-4928-9bfd-92129e540033@eb98.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T09:30:00&endDate=2026-06-13T13:00:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 13 June\, between 1030 and 1400\, no service between Edgware Road and Tower Hill (via Victoria).
 DTEND:20260613T130000Z
 DTSTART:20260613T093000Z
 SUMMARY:Circle: Part Closure
-UID:7379d941-2a50-4979-9c19-13f12d807096@7379.org
+UID:870e0159-f668-4011-ace6-40c80f3776f7@870e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-01T23:00:00&endDate=2026-06-02T22:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June. Last trains late on Monday and Wednesday nights are expected to operate as normal. Service is expected across most Tube lines on both days. However\, there will be disruption to journeys and service levels will vary across the London Underground network. No service is expected before 0630 and customers are advised to complete journeys by 2100 on both strike days. Some disruption is expected during the early mornings of Wednesday 3 and Friday 5 June as we return our services to normal.
+DTEND:20260602T225900Z
+DTSTART:20260601T230000Z
+SUMMARY:Circle: Special Service
+UID:7915a0c4-9364-4822-aa9e-1168b81126e0@7915.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T03:30:00&endDate=2026-06-13T09:30:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 13 June\, until 1030\, no service on the entire line.
+DTEND:20260613T093000Z
+DTSTART:20260613T033000Z
+SUMMARY:Circle: Planned Closure
+UID:9ef48f9d-78f8-444f-9320-40df29a91909@9ef4.org
 END:VEVENT
 END:VCALENDAR

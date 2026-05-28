@@ -3,17 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-27T07:48:37&endDate=2026-05-28T00:29:00">Disruption map.</a>\n\nMetropolitan Line: Minor delays due to an earlier faulty train at Finchley Road. 
-DTEND:20260528T002900Z
-DTSTART:20260527T074837Z
-SUMMARY:Metropolitan: Minor Delays
-UID:46b7a6a1-fab8-4b75-9450-391cfa758d2f@46b7.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-01T23:00:00&endDate=2026-06-02T22:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June. Last trains late on Monday and Wednesday nights are expected to operate as normal. Service is expected across most Tube lines on both days. However\, there will be disruption to journeys and service levels will vary across the London Underground network. No service is expected before 0630 and customers are advised to complete journeys by 2100 on both strike days. Some disruption is expected during the early mornings of Wednesday 3 and Friday 5 June as we return our services to normal.
+DTEND:20260602T225900Z
+DTSTART:20260601T230000Z
+SUMMARY:Metropolitan: Special Service
+UID:0a263cc1-2bee-463f-abf9-141f627b4444@0a26.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T03:30:00&endDate=2026-06-13T09:30:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 13 June\, until 1030\, no service between Harrow-on-the-Hill and Aldgate.
 DTEND:20260613T093000Z
 DTSTART:20260613T033000Z
 SUMMARY:Metropolitan: Part Closure
-UID:6451921f-0192-46b4-8ee0-0a48a4d2f307@6451.org
+UID:d4d4953e-9bc7-4d22-9016-a44032f76318@d4d4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-03T23:00:00&endDate=2026-06-04T22:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June. Last trains late on Monday and Wednesday nights are expected to operate as normal. Service is expected across most Tube lines on both days. However\, there will be disruption to journeys and service levels will vary across the London Underground network. No service is expected before 0630 and customers are advised to complete journeys by 2100 on both strike days. Some disruption is expected during the early mornings of Wednesday 3 and Friday 5 June as we return our services to normal.
+DTEND:20260604T225900Z
+DTSTART:20260603T230000Z
+SUMMARY:Metropolitan: Special Service
+UID:4f6015f9-4787-4734-b0ab-159dd0d3d34d@4f60.org
 END:VEVENT
 END:VCALENDAR

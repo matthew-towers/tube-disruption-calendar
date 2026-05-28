@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Windrush line disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-28T07:20:18&endDate=2026-05-28T11:45:23">Disruption map.</a>\n\nWindrush Line: No service between Surrey Quays and Clapham Junction while we fix a signal system failure. GOOD SERVICE on the rest of the line. 
+DTEND:20260528T114523Z
+DTSTART:20260528T072018Z
+SUMMARY:Windrush line: Part Suspended
+UID:0ba5860a-85e8-481c-80a0-ff3939ef000a@0ba5.org
+END:VEVENT
 END:VCALENDAR
