@@ -3,24 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-31T03:30:00&endDate=2026-06-01T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 31 May\, no service between Shadwell and Tower Gateway.
-DTEND:20260601T002900Z
-DTSTART:20260531T033000Z
-SUMMARY:DLR: Part Closure
-UID:dbaad89d-9f16-43e8-98b8-66c2eb86abcb@dbaa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-05-31T03:30:00&endDate=2026-06-01T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 31 May\, no service between Canning Town and Beckton. Replacement bus service DLR2 operates between Prince Regent and Gallions Reach via Royal Albert\, Beckton Park\, Cyprus and Beckton
-DTEND:20260601T002900Z
-DTSTART:20260531T033000Z
-SUMMARY:DLR: Part Closure
-UID:a87f0238-a003-4b3e-af06-fe2ea6cf340c@a87f.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-01T07:46:09&endDate=2026-06-01T11:02:07">Disruption map.</a>\n\nDocklands Light Railway: No service between Bank and Shadwell while we respond to a fire alert at Bank. GOOD SERVICE on the rest of the line. 
+DTEND:20260601T110207Z
+DTSTART:20260601T074609Z
+SUMMARY:DLR: Part Suspended
+UID:9d4b15ef-1623-447a-9553-15e79604a857@9d4b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T03:30:00&endDate=2026-06-15T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 13 and Sunday 14 June\, no service between Poplar and Beckton. Replacement bus service DLR2 operates between Canary Wharf and Gallions Reach via Blackwall (for Poplar)\, East India\, Canning Town\, Royal Victoria (Victoria Dock Road)\, Custom House\, Prince Regent\, Beckton Park\, Cyprus and Beckton\,
 DTEND:20260615T002900Z
 DTSTART:20260613T033000Z
 SUMMARY:DLR: Part Closure
-UID:1241661b-41da-4f54-b91f-f7adaf3e9c0f@1241.org
+UID:d3cc89e1-cd2b-42fb-8485-ffaffbadf6c7@d3cc.org
 END:VEVENT
 END:VCALENDAR
