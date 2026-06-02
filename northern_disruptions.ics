@@ -3,17 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Northern disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-01T23:00:00&endDate=2026-06-02T22:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June.  During the strike\, no service is expected on the Circle line\, Piccadilly line\, the Metropolitan line between Baker Street and Aldgate\, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines on both days. However\, there will be disruption to journeys and service levels will vary across the London Underground network. On both days\, there will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Monday 1 June\, Wednesday 3 June and Friday 5 June
-DTEND:20260602T225900Z
-DTSTART:20260601T230000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-02T00:15:00&endDate=2026-06-02T03:30:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June.  During the strike\, no service is expected on the Circle line\, Piccadilly line\, the Metropolitan line between Baker Street and Aldgate\, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines on both days. However\, there will be disruption to journeys and service levels will vary across the London Underground network. On both days\, there will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Monday 1 June\, Wednesday 3 June and Friday 5 June
+DTEND:20260602T033000Z
+DTSTART:20260602T001500Z
 SUMMARY:Northern: Special Service
-UID:2c886641-571a-42d0-b776-5d6c8d1129e9@2c88.org
+UID:6d4e6893-8a3a-4c70-bfd9-18d2e0d113c1@6d4e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-03T23:00:00&endDate=2026-06-04T22:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on Thursday 4 June. During the strike\, no service is expected on the Circle line\, Piccadilly line\, the Metropolitan line between Baker Street and Aldgate\, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines. However\, there will be disruption to journeys and service levels will vary across the London Underground network. There will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Friday 5 June
+DTEND:20260604T225900Z
+DTSTART:20260603T230000Z
+SUMMARY:Northern: Special Service
+UID:7ab196e3-571d-4fbe-b399-e94302bd04cf@7ab1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-02T07:27:23&endDate=2026-06-03T00:29:00">Disruption map.</a>\n\nNorthern Line: Minor delays due to strike action. Services are operating approximately every 6 minutes. 
+DTEND:20260603T002900Z
+DTSTART:20260602T072723Z
+SUMMARY:Northern: Minor Delays
+UID:f5449e70-4679-4adb-96f0-12cbda9c3c63@f544.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-03T23:00:00&endDate=2026-06-04T22:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June.  During the strike\, no service is expected on the Circle line\, Piccadilly line\, the Metropolitan line between Baker Street and Aldgate\, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines on both days. However\, there will be disruption to journeys and service levels will vary across the London Underground network. On both days\, there will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Monday 1 June\, Wednesday 3 June and Friday 5 June
 DTEND:20260604T225900Z
 DTSTART:20260603T230000Z
 SUMMARY:Northern: Special Service
-UID:a58e2324-0f38-4983-92a5-48015f4b5031@a58e.org
+UID:00bc97fb-fb0d-4100-8f36-2cffe8fc5d03@00bc.org
 END:VEVENT
 END:VCALENDAR

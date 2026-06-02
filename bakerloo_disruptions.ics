@@ -3,31 +3,38 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Bakerloo disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-01T07:34:18&endDate=2026-06-02T00:29:00">Disruption map.</a>\n\nBakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone and MINOR DELAYS on the rest of the line while we fix a track fault at Harlesden. Tickets are being accepted on London Buses\, Lioness Line and London Northwestern Railway. 
-DTEND:20260602T002900Z
-DTSTART:20260601T073418Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-02T07:24:23&endDate=2026-06-02T10:38:41">Disruption map.</a>\n\nBakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle every 6 minutes. 
+DTEND:20260602T103841Z
+DTSTART:20260602T072423Z
+SUMMARY:Bakerloo: Part Suspended
+UID:a594c4ad-62ef-4082-82fe-236166ee4f4e@a594.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-02T07:24:23&endDate=2026-06-03T00:29:00">Disruption map.</a>\n\nBakerloo Line: No service between Queen's Park and Harrow & Wealdstone and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Queen's Park and Elephant & Castle every 6 minutes. 
+DTEND:20260603T002900Z
+DTSTART:20260602T072423Z
 SUMMARY:Bakerloo: Severe Delays
-UID:e8578552-107d-4c6c-96b0-4581443dc402@e857.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-01T07:34:18&endDate=2026-06-02T00:29:00">Disruption map.</a>\n\nBakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone and MINOR DELAYS on the rest of the line while we fix a track fault at Harlesden. Tickets are being accepted on London Buses\, Lioness Line and London Northwestern Railway. 
-DTEND:20260602T002900Z
-DTSTART:20260601T073418Z
-SUMMARY:Bakerloo: Minor Delays
-UID:93c1ecb6-d2dd-4238-afda-da3250750fde@93c1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-01T23:00:00&endDate=2026-06-02T22:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June.  During the strike\, no service is expected on the Circle line\, Piccadilly line\, the Metropolitan line between Baker Street and Aldgate\, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines on both days. However\, there will be disruption to journeys and service levels will vary across the London Underground network. On both days\, there will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Monday 1 June\, Wednesday 3 June and Friday 5 June
-DTEND:20260602T225900Z
-DTSTART:20260601T230000Z
-SUMMARY:Bakerloo: Special Service
-UID:679f8f6e-f6dd-40b6-bd07-7f52be951d60@679f.org
+UID:6210d337-a5b4-4c99-b9ab-a9072cbb774d@6210.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-03T23:00:00&endDate=2026-06-04T22:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June.  During the strike\, no service is expected on the Circle line\, Piccadilly line\, the Metropolitan line between Baker Street and Aldgate\, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines on both days. However\, there will be disruption to journeys and service levels will vary across the London Underground network. On both days\, there will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Monday 1 June\, Wednesday 3 June and Friday 5 June
 DTEND:20260604T225900Z
 DTSTART:20260603T230000Z
 SUMMARY:Bakerloo: Special Service
-UID:cc6fdffa-4841-482f-a3fd-d1cd6fedb884@cc6f.org
+UID:eb51243a-fe8a-46c3-9a28-51f15bf284bc@eb51.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-02T00:15:00&endDate=2026-06-02T03:30:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June.  During the strike\, no service is expected on the Circle line\, Piccadilly line\, the Metropolitan line between Baker Street and Aldgate\, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines on both days. However\, there will be disruption to journeys and service levels will vary across the London Underground network. On both days\, there will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Monday 1 June\, Wednesday 3 June and Friday 5 June
+DTEND:20260602T033000Z
+DTSTART:20260602T001500Z
+SUMMARY:Bakerloo: Special Service
+UID:f74713d1-1bd3-4fa8-8139-c0e4c2b1eeb5@f747.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-03T23:00:00&endDate=2026-06-04T22:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on Thursday 4 June. During the strike\, no service is expected on the Circle line\, Piccadilly line\, the Metropolitan line between Baker Street and Aldgate\, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines. However\, there will be disruption to journeys and service levels will vary across the London Underground network. There will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Friday 5 June
+DTEND:20260604T225900Z
+DTSTART:20260603T230000Z
+SUMMARY:Bakerloo: Special Service
+UID:d9096ecd-3133-45ed-a30f-7e1f5d1ce2a0@d909.org
 END:VEVENT
 END:VCALENDAR

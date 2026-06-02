@@ -3,24 +3,45 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-01T23:00:00&endDate=2026-06-02T22:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June.  During the strike\, no service is expected on the Circle line\, Piccadilly line\, the Metropolitan line between Baker Street and Aldgate\, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines on both days. However\, there will be disruption to journeys and service levels will vary across the London Underground network. On both days\, there will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Monday 1 June\, Wednesday 3 June and Friday 5 June
-DTEND:20260602T225900Z
-DTSTART:20260601T230000Z
-SUMMARY:Metropolitan: Special Service
-UID:a0bf80c3-90a9-4888-aab5-6e1d342b36de@a0bf.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-02T07:26:10&endDate=2026-06-02T10:38:41">Disruption map.</a>\n\nMetropolitan Line: No service between Baker Street and Aldgate and MINOR DELAYS on the rest of the line due to strike action. Services are operating between Harrow-on-the-Hill and Amersham / Chesham every 30 minutes\, between Harrow-on-the-Hill and Uxbridge / Watford every 15 minutes and between Baker Street and Harrow-on-the-Hill every 15 minutes. 
+DTEND:20260602T103841Z
+DTSTART:20260602T072610Z
+SUMMARY:Metropolitan: Part Suspended
+UID:90f19f37-9ada-46c9-addd-0ec691825696@90f1.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T03:30:00&endDate=2026-06-13T09:30:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 13 June\, until 1030\, no service between Harrow-on-the-Hill and Aldgate.
-DTEND:20260613T093000Z
-DTSTART:20260613T033000Z
-SUMMARY:Metropolitan: Part Closure
-UID:3eaaf9de-8ed3-4c9e-8179-e93d42a7c603@3eaa.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-03T23:00:00&endDate=2026-06-04T22:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on Thursday 4 June. During the strike\, no service is expected on the Circle line\, Piccadilly line\, the Metropolitan line between Baker Street and Aldgate\, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines. However\, there will be disruption to journeys and service levels will vary across the London Underground network. There will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Friday 5 June
+DTEND:20260604T225900Z
+DTSTART:20260603T230000Z
+SUMMARY:Metropolitan: Special Service
+UID:be294507-a604-4c85-897f-23e85590c452@be29.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-02T00:15:00&endDate=2026-06-02T03:30:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June.  During the strike\, no service is expected on the Circle line\, Piccadilly line\, the Metropolitan line between Baker Street and Aldgate\, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines on both days. However\, there will be disruption to journeys and service levels will vary across the London Underground network. On both days\, there will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Monday 1 June\, Wednesday 3 June and Friday 5 June
+DTEND:20260602T033000Z
+DTSTART:20260602T001500Z
+SUMMARY:Metropolitan: Special Service
+UID:b12b102a-2e27-42c1-9e21-319809dbc037@b12b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-03T23:00:00&endDate=2026-06-04T22:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June.  During the strike\, no service is expected on the Circle line\, Piccadilly line\, the Metropolitan line between Baker Street and Aldgate\, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines on both days. However\, there will be disruption to journeys and service levels will vary across the London Underground network. On both days\, there will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Monday 1 June\, Wednesday 3 June and Friday 5 June
 DTEND:20260604T225900Z
 DTSTART:20260603T230000Z
 SUMMARY:Metropolitan: Special Service
-UID:6299d3ff-a552-4e2d-ab2a-975dede468ce@6299.org
+UID:ddb6b513-b045-43d9-b104-5c9eb0d14aeb@ddb6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-02T07:26:10&endDate=2026-06-03T00:29:00">Disruption map.</a>\n\nMetropolitan Line: No service between Baker Street and Aldgate and MINOR DELAYS on the rest of the line due to strike action. Services are operating between Harrow-on-the-Hill and Amersham / Chesham every 30 minutes\, between Harrow-on-the-Hill and Uxbridge / Watford every 15 minutes and between Baker Street and Harrow-on-the-Hill every 15 minutes. 
+DTEND:20260603T002900Z
+DTSTART:20260602T072610Z
+SUMMARY:Metropolitan: Minor Delays
+UID:6a83ab2d-ba9a-4285-a066-f39b8347807b@6a83.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T03:30:00&endDate=2026-06-13T09:30:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 13 June\, until 1030\, no service between Harrow-on-the-Hill and Aldgate.
+DTEND:20260613T093000Z
+DTSTART:20260613T033000Z
+SUMMARY:Metropolitan: Part Closure
+UID:5a40efd8-489d-40a8-9d45-41442d0857ac@5a40.org
 END:VEVENT
 END:VCALENDAR
