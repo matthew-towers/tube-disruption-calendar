@@ -3,38 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Hammersmith & City disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-03T23:00:00&endDate=2026-06-04T22:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on Thursday 4 June. During the strike\, no service is expected on the Circle line\, Piccadilly line\, the Metropolitan line between Baker Street and Aldgate\, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines. However\, there will be disruption to journeys and service levels will vary across the London Underground network. There will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Friday 5 June
-DTEND:20260604T225900Z
-DTSTART:20260603T230000Z
-SUMMARY:Hammersmith & City: Special Service
-UID:4462d762-e7d2-4881-8971-604d2a5c4b94@4462.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T03:30:00&endDate=2026-06-13T09:30:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Saturday 13 June\, until 1030\, no service on the entire line.
 DTEND:20260613T093000Z
 DTSTART:20260613T033000Z
 SUMMARY:Hammersmith & City: Planned Closure
-UID:e70dae4e-6ae4-482f-8481-2ef205eb9b6c@e70d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-02T00:15:00&endDate=2026-06-02T03:30:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June.  During the strike\, no service is expected on the Circle line\, Piccadilly line\, the Metropolitan line between Baker Street and Aldgate\, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines on both days. However\, there will be disruption to journeys and service levels will vary across the London Underground network. On both days\, there will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Monday 1 June\, Wednesday 3 June and Friday 5 June
-DTEND:20260602T033000Z
-DTSTART:20260602T001500Z
-SUMMARY:Hammersmith & City: Special Service
-UID:1ba76bb7-4f9f-408c-a4e4-f4d4b0daed7d@1ba7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-02T07:18:57&endDate=2026-06-03T00:29:00">Disruption map.</a>\n\nHammersmith and City Line: Severe delays due to strike action. Services are operating approximately every 15 minutes. 
-DTEND:20260603T002900Z
-DTSTART:20260602T071857Z
-SUMMARY:Hammersmith & City: Severe Delays
-UID:bc3cb74f-d2d5-4954-81ff-18d6ad2807d1@bc3c.org
+UID:5902d01f-24bb-42ed-9dee-f784a24d5124@5902.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-03T23:00:00&endDate=2026-06-04T22:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June.  During the strike\, no service is expected on the Circle line\, Piccadilly line\, the Metropolitan line between Baker Street and Aldgate\, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines on both days. However\, there will be disruption to journeys and service levels will vary across the London Underground network. On both days\, there will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Monday 1 June\, Wednesday 3 June and Friday 5 June
 DTEND:20260604T225900Z
 DTSTART:20260603T230000Z
 SUMMARY:Hammersmith & City: Special Service
-UID:ff9739ab-4b14-424e-a0bf-4ea7418f6bad@ff97.org
+UID:7561febe-f88d-4ed5-b7a2-dc1098f86a32@7561.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-03T23:00:00&endDate=2026-06-04T22:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on Thursday 4 June. During the strike\, no service is expected on the Circle line\, Piccadilly line\, the Metropolitan line between Baker Street and Aldgate\, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines. However\, there will be disruption to journeys and service levels will vary across the London Underground network. There will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Friday 5 June
+DTEND:20260604T225900Z
+DTSTART:20260603T230000Z
+SUMMARY:Hammersmith & City: Special Service
+UID:e68a83bb-b4c6-4660-b4f0-91999aee8114@e68a.org
 END:VEVENT
 END:VCALENDAR

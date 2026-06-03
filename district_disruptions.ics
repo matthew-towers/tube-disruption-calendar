@@ -3,73 +3,59 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-03T23:00:00&endDate=2026-06-04T22:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on Thursday 4 June. During the strike\, no service is expected on the Circle line\, Piccadilly line\, the Metropolitan line between Baker Street and Aldgate\, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines. However\, there will be disruption to journeys and service levels will vary across the London Underground network. There will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Friday 5 June
-DTEND:20260604T225900Z
-DTSTART:20260603T230000Z
-SUMMARY:District: Special Service
-UID:6fbd9ddc-c3b1-40c5-a8da-eeb0a268f874@6fbd.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T03:30:00&endDate=2026-06-13T09:30:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 13 June\, until 1030\, no service on the entire line. Please use MILDMAY LINE services between Gunnersbury and Richmond when available. Replacement buses operate.
 DTEND:20260613T093000Z
 DTSTART:20260613T033000Z
 SUMMARY:District: Planned Closure
-UID:3a06af07-0702-468d-a855-a3dd40586ac6@3a06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T03:30:00&endDate=2026-06-13T09:30:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 13 June\, between 1030 and 1400\, no service between Embankment / Edgware Road and Ealing Broadway / Kensington Olympia / Richmond / Wimbledon. Please use MILDMAY LINE services between Gunnersbury and Richmond. Replacement buses operate.
-DTEND:20260613T093000Z
-DTSTART:20260613T033000Z
-SUMMARY:District: Part Closure
-UID:cacaab54-f87d-47f8-8f88-4e8c16b7252c@caca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-06T03:30:00&endDate=2026-06-08T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 6 and Sunday 7 June\, no service between Turnham Green and Ealing Broadway. Replacement buses operate.
-DTEND:20260608T002900Z
-DTSTART:20260606T033000Z
-SUMMARY:District: Part Closure
-UID:6fb24627-6730-4b8a-ace8-24be48d46a27@6fb2.org
+UID:6d2165d9-3da2-4b87-8fab-341c6b75b5a7@6d21.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T13:00:00&endDate=2026-06-15T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 13 June\, from 1400 and all day Sunday 14 June\, no service between Earls Court and Kensington (Olympia)
 DTEND:20260615T002900Z
 DTSTART:20260613T130000Z
 SUMMARY:District: Part Closure
-UID:732b962e-8bc9-439a-90b0-d3ef564a3f71@732b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-02T07:08:20&endDate=2026-06-03T00:29:00">Disruption map.</a>\n\nDistrict Line: Severe delays due to strike action. Services are operating approximately every 10 minutes. 
-DTEND:20260603T002900Z
-DTSTART:20260602T070820Z
-SUMMARY:District: Severe Delays
-UID:502bac88-86f7-4cdd-bb8b-211951b81926@502b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T13:00:00&endDate=2026-06-15T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 13 June\, from 1400 and all day Sunday 14 June\, no service between Barons Court and Stamford Brook. Replacement bus services operate.
-DTEND:20260615T002900Z
-DTSTART:20260613T130000Z
-SUMMARY:District: Part Closure
-UID:44cecacf-d2d5-48a8-8152-3424bbe79f11@44ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-03T23:00:00&endDate=2026-06-04T22:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June.  During the strike\, no service is expected on the Circle line\, Piccadilly line\, the Metropolitan line between Baker Street and Aldgate\, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines on both days. However\, there will be disruption to journeys and service levels will vary across the London Underground network. On both days\, there will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Monday 1 June\, Wednesday 3 June and Friday 5 June
-DTEND:20260604T225900Z
-DTSTART:20260603T230000Z
-SUMMARY:District: Special Service
-UID:582d615d-57d5-4520-92d4-41ddc8a4e99e@582d.org
+UID:a15558e0-7998-44cf-af48-8e1df63f9833@a155.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T13:00:00&endDate=2026-06-15T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 13 June\, from 1400 and all day Sunday 14 June\, no service between Fulham Broadway and Wimbledon. Replacement bus services operate.
 DTEND:20260615T002900Z
 DTSTART:20260613T130000Z
 SUMMARY:District: Part Closure
-UID:aed6176e-620a-47b5-bbae-b6e9d0ab864c@aed6.org
+UID:abb7cc22-a7f5-45ee-aac1-e6bbf4409bc5@abb7.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-02T00:15:00&endDate=2026-06-02T03:30:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June.  During the strike\, no service is expected on the Circle line\, Piccadilly line\, the Metropolitan line between Baker Street and Aldgate\, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines on both days. However\, there will be disruption to journeys and service levels will vary across the London Underground network. On both days\, there will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Monday 1 June\, Wednesday 3 June and Friday 5 June
-DTEND:20260602T033000Z
-DTSTART:20260602T001500Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-03T23:00:00&endDate=2026-06-04T22:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June.  During the strike\, no service is expected on the Circle line\, Piccadilly line\, the Metropolitan line between Baker Street and Aldgate\, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines on both days. However\, there will be disruption to journeys and service levels will vary across the London Underground network. On both days\, there will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Monday 1 June\, Wednesday 3 June and Friday 5 June
+DTEND:20260604T225900Z
+DTSTART:20260603T230000Z
 SUMMARY:District: Special Service
-UID:d53f7385-88ca-47b3-8f1e-40dc9e99b13c@d53f.org
+UID:bd6bd9be-3bce-46a6-bd57-dcd5b6d9fb8f@bd6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T03:30:00&endDate=2026-06-13T09:30:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 13 June\, between 1030 and 1400\, no service between Embankment / Edgware Road and Ealing Broadway / Kensington Olympia / Richmond / Wimbledon. Please use MILDMAY LINE services between Gunnersbury and Richmond. Replacement buses operate.
+DTEND:20260613T093000Z
+DTSTART:20260613T033000Z
+SUMMARY:District: Part Closure
+UID:5be23113-69d5-4d86-b575-d003582c5d31@5be2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T13:00:00&endDate=2026-06-15T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 13 June\, from 1400 and all day Sunday 14 June\, no service between Barons Court and Stamford Brook. Replacement bus services operate.
+DTEND:20260615T002900Z
+DTSTART:20260613T130000Z
+SUMMARY:District: Part Closure
+UID:8b7c912f-59fb-4254-bd57-afa673ee1ab3@8b7c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-06T03:30:00&endDate=2026-06-08T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 6 and Sunday 7 June\, no service between Turnham Green and Ealing Broadway. Replacement buses operate.
+DTEND:20260608T002900Z
+DTSTART:20260606T033000Z
+SUMMARY:District: Part Closure
+UID:09e81f8f-7e61-47e6-a927-c6104860fa5c@09e8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-03T23:00:00&endDate=2026-06-04T22:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on Thursday 4 June. During the strike\, no service is expected on the Circle line\, Piccadilly line\, the Metropolitan line between Baker Street and Aldgate\, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines. However\, there will be disruption to journeys and service levels will vary across the London Underground network. There will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Friday 5 June
+DTEND:20260604T225900Z
+DTSTART:20260603T230000Z
+SUMMARY:District: Special Service
+UID:1c9ccb3f-f31d-47d3-b3c8-2233d1741626@1c9c.org
 END:VEVENT
 END:VCALENDAR
