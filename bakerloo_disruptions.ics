@@ -3,17 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Bakerloo disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-03T23:00:00&endDate=2026-06-04T22:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June.  During the strike\, no service is expected on the Circle line\, Piccadilly line\, the Metropolitan line between Baker Street and Aldgate\, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines on both days. However\, there will be disruption to journeys and service levels will vary across the London Underground network. On both days\, there will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Monday 1 June\, Wednesday 3 June and Friday 5 June
-DTEND:20260604T225900Z
-DTSTART:20260603T230000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-04T00:15:00&endDate=2026-06-04T03:30:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June.  During the strike\, no service is expected on the Circle line\, Piccadilly line\, the Metropolitan line between Baker Street and Aldgate\, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines on both days. However\, there will be disruption to journeys and service levels will vary across the London Underground network. On both days\, there will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Monday 1 June\, Wednesday 3 June and Friday 5 June
+DTEND:20260604T033000Z
+DTSTART:20260604T001500Z
 SUMMARY:Bakerloo: Special Service
-UID:4227646b-bfd7-473c-84aa-cf0cf7e65d97@4227.org
+UID:ba541d52-c792-4931-b6e6-8853f6b7bcd4@ba54.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-03T23:00:00&endDate=2026-06-04T22:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on Thursday 4 June. During the strike\, no service is expected on the Circle line\, Piccadilly line\, the Metropolitan line between Baker Street and Aldgate\, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines. However\, there will be disruption to journeys and service levels will vary across the London Underground network. There will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Friday 5 June
-DTEND:20260604T225900Z
-DTSTART:20260603T230000Z
-SUMMARY:Bakerloo: Special Service
-UID:9028069b-cb08-4aa3-8bdd-c7379d5ef28e@9028.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-04T08:57:22&endDate=2026-06-05T00:29:00">Disruption map.</a>\n\nBakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to strike action. A shuttle service is operating approximately every 60 minutes. London Overground are operating a more frequent service between Queen's Park and Harrow & Wealdstone. MINOR DELAYS between Queen's Park and Elephant & Castle. Services are operating approximately every 6 minutes.  
+DTEND:20260605T002900Z
+DTSTART:20260604T085722Z
+SUMMARY:Bakerloo: Severe Delays
+UID:7422adce-11df-4395-a17d-6a3660b87e71@7422.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-04T08:57:22&endDate=2026-06-05T00:29:00">Disruption map.</a>\n\nBakerloo Line: Severe delays between Queen's Park and Harrow & Wealdstone due to strike action. A shuttle service is operating approximately every 60 minutes. London Overground are operating a more frequent service between Queen's Park and Harrow & Wealdstone. MINOR DELAYS between Queen's Park and Elephant & Castle. Services are operating approximately every 6 minutes.  
+DTEND:20260605T002900Z
+DTSTART:20260604T085722Z
+SUMMARY:Bakerloo: Minor Delays
+UID:51bd5b8f-9ceb-44e1-9c7e-b6f4cbc21f50@51bd.org
 END:VEVENT
 END:VCALENDAR

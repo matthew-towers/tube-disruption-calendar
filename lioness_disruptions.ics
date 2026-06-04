@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Lioness line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-07T03:30:00&endDate=2026-06-07T11:00:00">Disruption map.</a>\n\nLIONESS LINE: Sunday 7 June\, until 1200 and after 2030\, no service between Kilburn High Road and Euston. Please use local London Buses and London Underground connections.
-DTEND:20260607T110000Z
-DTSTART:20260607T033000Z
-SUMMARY:Lioness line: Part Closure
-UID:7c2ec635-b126-4e38-b957-8ad6d94e4489@7c2e.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-07T19:30:00&endDate=2026-06-08T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Sunday 7 June\, until 1200 and after 2030\, no service between Kilburn High Road and Euston. Please use local London Buses and London Underground connections.
 DTEND:20260608T002900Z
 DTSTART:20260607T193000Z
 SUMMARY:Lioness line: Part Closure
-UID:a89ec5f6-47a2-4a72-9183-ece572ea8942@a89e.org
+UID:f1a5dbbd-2ded-4ed4-8e23-a645e8e40dee@f1a5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-07T03:30:00&endDate=2026-06-07T11:00:00">Disruption map.</a>\n\nLIONESS LINE: Sunday 7 June\, until 1200 and after 2030\, no service between Kilburn High Road and Euston. Please use local London Buses and London Underground connections.
+DTEND:20260607T110000Z
+DTSTART:20260607T033000Z
+SUMMARY:Lioness line: Part Closure
+UID:716e9fb9-4330-458e-b2db-6e1b48a073f4@716e.org
 END:VEVENT
 END:VCALENDAR

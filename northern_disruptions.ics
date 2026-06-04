@@ -3,17 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Northern disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-03T23:00:00&endDate=2026-06-04T22:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June.  During the strike\, no service is expected on the Circle line\, Piccadilly line\, the Metropolitan line between Baker Street and Aldgate\, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines on both days. However\, there will be disruption to journeys and service levels will vary across the London Underground network. On both days\, there will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Monday 1 June\, Wednesday 3 June and Friday 5 June
-DTEND:20260604T225900Z
-DTSTART:20260603T230000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-04T00:15:00&endDate=2026-06-04T03:30:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June.  During the strike\, no service is expected on the Circle line\, Piccadilly line\, the Metropolitan line between Baker Street and Aldgate\, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines on both days. However\, there will be disruption to journeys and service levels will vary across the London Underground network. On both days\, there will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Monday 1 June\, Wednesday 3 June and Friday 5 June
+DTEND:20260604T033000Z
+DTSTART:20260604T001500Z
 SUMMARY:Northern: Special Service
-UID:22d4676a-7b7d-40e6-8079-555f8f958a3e@22d4.org
+UID:27483c9f-8bbe-4da9-800f-7f2f532516a9@2748.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-03T23:00:00&endDate=2026-06-04T22:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action on Thursday 4 June. During the strike\, no service is expected on the Circle line\, Piccadilly line\, the Metropolitan line between Baker Street and Aldgate\, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines. However\, there will be disruption to journeys and service levels will vary across the London Underground network. There will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Friday 5 June
-DTEND:20260604T225900Z
-DTSTART:20260603T230000Z
-SUMMARY:Northern: Special Service
-UID:5d2797d7-7015-402b-ad47-b4f3ff54e4ee@5d27.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-04T08:58:56&endDate=2026-06-05T00:29:00">Disruption map.</a>\n\nNorthern Line: Minor delays between High Barnet and East Finchley and MINOR DELAYS between Edgware and Golders Green due to strike action  SEVERE DELAYS on the rest of the line.\r\n\r\n\r\n 
+DTEND:20260605T002900Z
+DTSTART:20260604T085856Z
+SUMMARY:Northern: Minor Delays
+UID:7385b934-876a-4cdd-996c-a086f0ae0063@7385.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-04T08:58:56&endDate=2026-06-05T00:29:00">Disruption map.</a>\n\nNorthern Line: Minor delays between High Barnet and East Finchley and MINOR DELAYS between Edgware and Golders Green due to strike action  SEVERE DELAYS on the rest of the line.\r\n\r\n\r\n 
+DTEND:20260605T002900Z
+DTSTART:20260604T085856Z
+SUMMARY:Northern: Severe Delays
+UID:a49d7acb-6c7c-4af2-8d14-a465e1249578@a49d.org
 END:VEVENT
 END:VCALENDAR
