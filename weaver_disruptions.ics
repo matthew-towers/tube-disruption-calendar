@@ -3,38 +3,52 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Weaver line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-07T03:30:00&endDate=2026-06-07T09:15:00">Disruption map.</a>\n\nWEAVER LINE: Sunday 7 June\, until 1015\, no service between Liverpool Street and Cheshunt / Chingford / Enfield Town. Please use London Underground and London Buses connections between Liverpool Street and Hackney Downs / Seven Sisters. GREATER ANGLIA and STANSTED EXPRESS trains will not call at Hackney Downs or Seven Sisters. Replacement buses operate.
-DTEND:20260607T091500Z
-DTSTART:20260607T033000Z
-SUMMARY:Weaver line: Planned Closure
-UID:56b91c8a-1aa0-4006-875f-3f732e1aab01@56b9.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-08T21:45:00&endDate=2026-06-09T00:29:00">Disruption map.</a>\n\nWEAVER LINE: Monday 8\, Tuesday 9\, Wednesday 10 and Thursday 11 June\, after 2245 each evening\, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters\, and for Rectory Road and Stoke Newington\, use Clapton station. Last trains operate at 2243 from Liverpool Street to Cheshunt (except on Wednesday when it is at 2213)\, 2250 from Enfield Town to Liverpool Street\, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement buses operate.
+DTEND:20260609T002900Z
+DTSTART:20260608T214500Z
+SUMMARY:Weaver line: Part Closure
+UID:08adf750-3c88-458b-a079-4c2615f5b4e8@08ad.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-11T21:45:00&endDate=2026-06-12T00:29:00">Disruption map.</a>\n\nWEAVER LINE: Monday 8\, Tuesday 9\, Wednesday 10 and Thursday 11 June\, after 2245 each evening\, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters\, and for Rectory Road and Stoke Newington\, use Clapton station. Last trains operate at 2243 from Liverpool Street to Cheshunt (except on Wednesday when it is at 2213)\, 2250 from Enfield Town to Liverpool Street\, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement buses operate.
 DTEND:20260612T002900Z
 DTSTART:20260611T214500Z
 SUMMARY:Weaver line: Part Closure
-UID:c3e73ca1-0f85-4f28-9f98-801b2012acdb@c3e7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-08T21:45:00&endDate=2026-06-09T00:29:00">Disruption map.</a>\n\nWEAVER LINE: Monday 8\, Tuesday 9\, Wednesday 10 and Thursday 11 June\, after 2245 each evening\, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters\, and for Rectory Road and Stoke Newington\, use Clapton station. Last trains operate at 2243 from Liverpool Street to Cheshunt (except on Wednesday when it is at 2213)\, 2250 from Enfield Town to Liverpool Street\, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement buses operate.
-DTEND:20260609T002900Z
-DTSTART:20260608T214500Z
-SUMMARY:Weaver line: Part Closure
-UID:99db82aa-5ebf-4ec8-b313-97b342c33a2e@99db.org
+UID:a7b24b19-07a4-4da9-82a6-99e968cbf098@a7b2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-09T21:45:00&endDate=2026-06-10T00:29:00">Disruption map.</a>\n\nWEAVER LINE: Monday 8\, Tuesday 9\, Wednesday 10 and Thursday 11 June\, after 2245 each evening\, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters\, and for Rectory Road and Stoke Newington\, use Clapton station. Last trains operate at 2243 from Liverpool Street to Cheshunt (except on Wednesday when it is at 2213)\, 2250 from Enfield Town to Liverpool Street\, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement buses operate.
 DTEND:20260610T002900Z
 DTSTART:20260609T214500Z
 SUMMARY:Weaver line: Part Closure
-UID:cd6a1578-6fb6-4077-bedd-826467c03139@cd6a.org
+UID:bc10012d-3ed1-44e8-beeb-6d09d0d302c6@bc10.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-07T03:30:00&endDate=2026-06-07T09:15:00">Disruption map.</a>\n\nWEAVER LINE: Sunday 7 June\, until 1015\, no service between Liverpool Street and Cheshunt / Chingford / Enfield Town. Please use London Underground and London Buses connections between Liverpool Street and Hackney Downs / Seven Sisters. GREATER ANGLIA and STANSTED EXPRESS trains will not call at Hackney Downs or Seven Sisters. Replacement buses operate.
+DTEND:20260607T091500Z
+DTSTART:20260607T033000Z
+SUMMARY:Weaver line: Planned Closure
+UID:129071f0-01b8-4d93-b625-54673f3d558b@1290.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-05T07:52:43&endDate=2026-06-06T00:29:00">Disruption map.</a>\n\nWeaver Line: Severe delays between Chingford and Liverpool Street and MINOR DELAYS on the rest of the line while we fix a points failure at Liverpool Street. London Underground are accepting tickets via any reasonable route.  
+DTEND:20260606T002900Z
+DTSTART:20260605T075243Z
+SUMMARY:Weaver line: Minor Delays
+UID:2a181c4b-fc06-403f-a02a-f9b283b36f5a@2a18.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-05T07:52:43&endDate=2026-06-06T00:29:00">Disruption map.</a>\n\nWeaver Line: Severe delays between Chingford and Liverpool Street and MINOR DELAYS on the rest of the line while we fix a points failure at Liverpool Street. London Underground are accepting tickets via any reasonable route.  
+DTEND:20260606T002900Z
+DTSTART:20260605T075243Z
+SUMMARY:Weaver line: Severe Delays
+UID:58dc6095-d823-404f-80c3-2c406bbc8d1e@58dc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-10T21:45:00&endDate=2026-06-11T00:29:00">Disruption map.</a>\n\nWEAVER LINE: Monday 8\, Tuesday 9\, Wednesday 10 and Thursday 11 June\, after 2245 each evening\, no service between Hackney Downs and Cheshunt / Enfield Town. Use London Underground connections between Central London and Seven Sisters\, and for Rectory Road and Stoke Newington\, use Clapton station. Last trains operate at 2243 from Liverpool Street to Cheshunt (except on Wednesday when it is at 2213)\, 2250 from Enfield Town to Liverpool Street\, 2258 from Liverpool Street to Enfield Town and 2259 from Cheshunt to Liverpool Street. Replacement buses operate.
 DTEND:20260611T002900Z
 DTSTART:20260610T214500Z
 SUMMARY:Weaver line: Part Closure
-UID:c7187010-2163-494b-bd00-0431389006ea@c718.org
+UID:01e56f80-461f-4956-8834-abf85dea72b8@01e5.org
 END:VEVENT
 END:VCALENDAR

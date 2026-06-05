@@ -3,45 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T03:45:00&endDate=2026-06-13T13:00:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 13 June\, between 0445 and 1400\, no service between Hyde Park Corner and Acton Town. Replacement buses operate.
+DTEND:20260613T130000Z
+DTSTART:20260613T034500Z
+SUMMARY:Piccadilly: Part Closure
+UID:5565171d-5cc7-4c3e-8701-e6d67758ed4e@5565.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-05T07:49:41&endDate=2026-06-06T00:29:00">Disruption map.</a>\n\nPiccadilly Line: Minor delays between King's Cross St Pancras and Arnos Grove due to a signalling problem. GOOD SERVICE on the rest of the line.   
+DTEND:20260606T002900Z
+DTSTART:20260605T074941Z
+SUMMARY:Piccadilly: Minor Delays
+UID:7e4d8f43-9d01-45d7-8214-5be6db58c108@7e4d.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T00:45:00&endDate=2026-06-13T03:45:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 13 June\, between 0145 and 0445\, no service on the entire line. Replacement buses operate.
 DTEND:20260613T034500Z
 DTSTART:20260613T004500Z
 SUMMARY:Piccadilly: Planned Closure
-UID:9e46c9f2-3b7c-4368-8570-9695d90f189e@9e46.org
+UID:ec62adbc-ae05-456d-9be5-7324d928b1d8@ec62.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-05T23:45:00&endDate=2026-06-08T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 6 June\, from 0045\, and all day Sunday 7 June\, no service between Hammersmith and Heathrow (All Terminals) / Uxbridge\, including Friday and Saturday Night Tube. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge.
 DTEND:20260608T002900Z
 DTSTART:20260605T234500Z
 SUMMARY:Piccadilly: Part Closure
-UID:2d97775d-c7e9-454b-ab82-7d3e931cdb8c@2d97.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-04T00:15:00&endDate=2026-06-04T03:30:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take two full days of strike action on Tuesday 2 and Thursday 4 June.  During the strike\, no service is expected on the Circle line\, Piccadilly line\, the Metropolitan line between Baker Street and Aldgate\, and the Central line between White City and Liverpool Street. Service is expected across other Tube lines on both days. However\, there will be disruption to journeys and service levels will vary across the London Underground network. On both days\, there will be limited service before 0630 and customers should complete their journeys by 2100. Normal service expected on Monday 1 June\, Wednesday 3 June and Friday 5 June
-DTEND:20260604T033000Z
-DTSTART:20260604T001500Z
-SUMMARY:Piccadilly: Special Service
-UID:998ef445-1c22-4d2f-a0c4-24f12d276030@998e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-04T05:27:08&endDate=2026-06-05T00:29:00">Disruption map.</a>\n\nPiccadilly Line: No service between Arnos Grove and Heathrow Airport / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Arnos Grove and Cockfosters every 15 minutes.\r\n\r\n\r\n\r\n\r\n 
-DTEND:20260605T002900Z
-DTSTART:20260604T052708Z
-SUMMARY:Piccadilly: Severe Delays
-UID:d8f14a7f-5b87-4f2e-83eb-4cfbacf2989e@d8f1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-04T05:27:08&endDate=2026-06-04T11:59:22">Disruption map.</a>\n\nPiccadilly Line: No service between Arnos Grove and Heathrow Airport / Uxbridge and SEVERE DELAYS on the rest of the line due to strike action. Service is operating between Arnos Grove and Cockfosters every 15 minutes.\r\n\r\n\r\n\r\n\r\n 
-DTEND:20260604T115922Z
-DTSTART:20260604T052708Z
-SUMMARY:Piccadilly: Part Suspended
-UID:e5cef876-385b-42d8-a267-cea7e9864235@e5ce.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T03:45:00&endDate=2026-06-13T13:00:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 13 June\, between 0445 and 1400\, no service between Hyde Park Corner and Acton Town. Replacement buses operate.
-DTEND:20260613T130000Z
-DTSTART:20260613T034500Z
-SUMMARY:Piccadilly: Part Closure
-UID:0861dd2a-3853-480a-b35e-f3f831b61c65@0861.org
+UID:f1e36a7d-3f69-44b2-9e90-140e05e64e4d@f1e3.org
 END:VEVENT
 END:VCALENDAR
