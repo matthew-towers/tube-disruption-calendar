@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Elizabeth line disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-21T03:30:00&endDate=2026-06-22T00:29:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 21 June\, no service between Paddington and Abbey Wood / Stratford. Trains operate between Paddington National Rail Station and Heathrow / Reading\, and between Liverpool Street National Rail Station and Gidea Park / Shenfield.
+DTEND:20260622T002900Z
+DTSTART:20260621T033000Z
+SUMMARY:Elizabeth line: Part Closure
+UID:5328b67b-125c-4b03-a9c8-822ba726a4eb@5328.org
+END:VEVENT
 END:VCALENDAR
