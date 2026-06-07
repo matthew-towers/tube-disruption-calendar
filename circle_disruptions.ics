@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Circle disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T09:30:00&endDate=2026-06-13T13:00:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 13 June\, between 1030 and 1400\, no service between Edgware Road and Tower Hill (via Victoria).
-DTEND:20260613T130000Z
-DTSTART:20260613T093000Z
-SUMMARY:Circle: Part Closure
-UID:5e4f4ee1-c2b7-4411-94cb-eb2d47979e09@5e4f.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T03:30:00&endDate=2026-06-13T09:30:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 13 June\, until 1030\, no service on the entire line.
 DTEND:20260613T093000Z
 DTSTART:20260613T033000Z
 SUMMARY:Circle: Planned Closure
-UID:412de188-5e70-4b56-9ba3-5b340ddaae7a@412d.org
+UID:97d0fe33-38a1-4f0f-8d06-31ca5c0cc0cb@97d0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T09:30:00&endDate=2026-06-13T13:00:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 13 June\, between 1030 and 1400\, no service between Edgware Road and Tower Hill (via Victoria).
+DTEND:20260613T130000Z
+DTSTART:20260613T093000Z
+SUMMARY:Circle: Part Closure
+UID:6dedf4ec-c38c-4869-b8d2-173a738fcfa0@6ded.org
 END:VEVENT
 END:VCALENDAR
