@@ -3,17 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T03:30:00&endDate=2026-06-13T09:30:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 13 June\, until 1030\, no service between Harrow-on-the-Hill and Aldgate.
-DTEND:20260613T093000Z
-DTSTART:20260613T033000Z
-SUMMARY:Metropolitan: Part Closure
-UID:fdc05960-ec78-4642-bf00-ddf8032e55de@fdc0.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-09T07:00:15&endDate=2026-06-10T00:29:00">Disruption map.</a>\n\nMetropolitan Line: Minor delays due to an earlier trespasser on the track at Northwick Park. 
+DTEND:20260610T002900Z
+DTSTART:20260609T070015Z
+SUMMARY:Metropolitan: Minor Delays
+UID:44e6edd4-7e3b-4581-be04-884d5caf725a@44e6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-16T11:30:00&endDate=2026-06-16T13:00:00">Disruption map.</a>\n\nMetropolitan Line: Tuesday 16 June\, the 13:09 departure from Chalfont & Latimer to Chesham and the 13:30 departure from Chesham to Chalfont & Latimer will be diverted to operate to and from Amersham. A replacement bus will operate.
 DTEND:20260616T130000Z
 DTSTART:20260616T113000Z
 SUMMARY:Metropolitan: Special Service
-UID:e6e3e8b8-98ab-4127-80fe-82c9029b8b93@e6e3.org
+UID:6c7f1be7-838a-4c29-8db2-608a560fb9b9@6c7f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T03:30:00&endDate=2026-06-13T09:30:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 13 June\, until 1030\, no service between Harrow-on-the-Hill and Aldgate.
+DTEND:20260613T093000Z
+DTSTART:20260613T033000Z
+SUMMARY:Metropolitan: Part Closure
+UID:63d3fcac-157c-4078-b4ee-4d29f2ed945c@63d3.org
 END:VEVENT
 END:VCALENDAR

@@ -3,38 +3,38 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T13:00:00&endDate=2026-06-15T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 13 June\, from 1400 and all day Sunday 14 June\, no service between Fulham Broadway and Wimbledon. Replacement bus services operate.
-DTEND:20260615T002900Z
-DTSTART:20260613T130000Z
-SUMMARY:District: Part Closure
-UID:3c807b46-91ef-4436-8d4b-2af4604c491b@3c80.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T13:00:00&endDate=2026-06-15T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 13 June\, from 1400 and all day Sunday 14 June\, no service between Barons Court and Stamford Brook. Replacement bus services operate.
-DTEND:20260615T002900Z
-DTSTART:20260613T130000Z
-SUMMARY:District: Part Closure
-UID:aa233f2a-bb00-4373-8925-b947cb87b7e6@aa23.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T03:30:00&endDate=2026-06-13T09:30:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 13 June\, until 1030\, no service on the entire line. Please use MILDMAY LINE services between Gunnersbury and Richmond when available. Replacement buses operate.
+DTEND:20260613T093000Z
+DTSTART:20260613T033000Z
+SUMMARY:District: Planned Closure
+UID:bbec76da-6404-4c0d-b5f0-486f03bbe7e2@bbec.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T03:30:00&endDate=2026-06-13T09:30:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 13 June\, between 1030 and 1400\, no service between Embankment / Edgware Road and Ealing Broadway / Kensington Olympia / Richmond / Wimbledon. Please use MILDMAY LINE services between Gunnersbury and Richmond. Replacement buses operate.
 DTEND:20260613T093000Z
 DTSTART:20260613T033000Z
 SUMMARY:District: Part Closure
-UID:ffbdcace-02bf-4f88-a6e8-d4bb836988e3@ffbd.org
+UID:9c8111b8-070c-4489-ac37-25ac332a4ab0@9c81.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T13:00:00&endDate=2026-06-15T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 13 June\, from 1400 and all day Sunday 14 June\, no service between Earls Court and Kensington (Olympia)
 DTEND:20260615T002900Z
 DTSTART:20260613T130000Z
 SUMMARY:District: Part Closure
-UID:e1a5138f-8416-4c1d-b7d1-04deb51f0f75@e1a5.org
+UID:cf935014-fb9e-47fd-934c-8f8aad380761@cf93.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T03:30:00&endDate=2026-06-13T09:30:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 13 June\, until 1030\, no service on the entire line. Please use MILDMAY LINE services between Gunnersbury and Richmond when available. Replacement buses operate.
-DTEND:20260613T093000Z
-DTSTART:20260613T033000Z
-SUMMARY:District: Planned Closure
-UID:3be4131b-b966-4018-bf36-5910670d3e6f@3be4.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T13:00:00&endDate=2026-06-15T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 13 June\, from 1400 and all day Sunday 14 June\, no service between Barons Court and Stamford Brook. Replacement bus services operate.
+DTEND:20260615T002900Z
+DTSTART:20260613T130000Z
+SUMMARY:District: Part Closure
+UID:d918a38f-394e-4593-abcb-8ab86a87a5cf@d918.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T13:00:00&endDate=2026-06-15T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 13 June\, from 1400 and all day Sunday 14 June\, no service between Fulham Broadway and Wimbledon. Replacement bus services operate.
+DTEND:20260615T002900Z
+DTSTART:20260613T130000Z
+SUMMARY:District: Part Closure
+UID:79ba3bbf-0523-471d-8c66-4c65a3757000@79ba.org
 END:VEVENT
 END:VCALENDAR
