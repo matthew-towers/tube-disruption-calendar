@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T00:45:00&endDate=2026-06-13T03:45:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 13 June\, between 0145 and 0445\, no service on the entire line. Replacement buses operate.
-DTEND:20260613T034500Z
-DTSTART:20260613T004500Z
-SUMMARY:Piccadilly: Planned Closure
-UID:c5583b45-905c-4444-aad9-5e9fe4760b4b@c558.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-19T23:45:00&endDate=2026-06-22T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 20 June\, from 0045\, and all day Sunday 21 June\, no service between Cockfosters and Uxbridge\, including Friday and Saturday Night Tube. Trains continue to run between Acton Town and Heathrow (all terminals). Use METROPOLITAN LINE services between Rayners Lane and Uxbridge.
 DTEND:20260622T002900Z
 DTSTART:20260619T234500Z
 SUMMARY:Piccadilly: Part Closure
-UID:8e4cfe49-d22a-4de6-8c75-20f2412cfd22@8e4c.org
+UID:4166167f-632a-46f7-96a3-1c3a242cbf0e@4166.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T03:45:00&endDate=2026-06-13T13:00:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 13 June\, between 0445 and 1400\, no service between Hyde Park Corner and Acton Town. Replacement buses operate.
 DTEND:20260613T130000Z
 DTSTART:20260613T034500Z
 SUMMARY:Piccadilly: Part Closure
-UID:a4efbf97-480a-4941-82e7-794da89b5429@a4ef.org
+UID:33bc9604-49f5-42f9-bf9c-e7089f37b10f@33bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-13T00:45:00&endDate=2026-06-13T03:45:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 13 June\, between 0145 and 0445\, no service on the entire line. Replacement buses operate.
+DTEND:20260613T034500Z
+DTSTART:20260613T004500Z
+SUMMARY:Piccadilly: Planned Closure
+UID:915d383f-3761-44db-917a-c03a17d5c2ee@915d.org
 END:VEVENT
 END:VCALENDAR
