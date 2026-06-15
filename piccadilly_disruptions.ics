@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-27T03:30:00&endDate=2026-06-29T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 27 June\, from 0430 and all day Sunday 28 June\, no service between Kings Cross St Pancras and Northfields / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate.
+DTEND:20260629T002900Z
+DTSTART:20260627T033000Z
+SUMMARY:Piccadilly: Part Closure
+UID:7a343a0d-b606-4f4d-841a-b04d36e8b66a@7a34.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-27T01:00:00&endDate=2026-06-27T03:30:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 27 June\, between 0200 and 0430\, no service between Kings Cross St Pancras and Heathrow. Replacement buses operate.
 DTEND:20260627T033000Z
 DTSTART:20260627T010000Z
 SUMMARY:Piccadilly: Part Closure
-UID:8e8d6bf9-dbb6-4e18-bfa1-6a48998e700f@8e8d.org
+UID:65c99462-8088-4597-a8fa-bb92881b9ae0@65c9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-19T23:45:00&endDate=2026-06-22T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 20 June\, from 0045\, and all day Sunday 21 June\, no service between Cockfosters and Uxbridge\, including Friday and Saturday Night Tube. Trains continue to run between Acton Town and Heathrow (all terminals). Use METROPOLITAN LINE services between Rayners Lane and Uxbridge.
 DTEND:20260622T002900Z
 DTSTART:20260619T234500Z
 SUMMARY:Piccadilly: Part Closure
-UID:95062153-becf-43fe-bf62-cddd15a2cda4@9506.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-27T03:30:00&endDate=2026-06-29T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 27 June\, from 0430 and all day Sunday 28 June\, no service between Kings Cross St Pancras and Northfields / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate.
-DTEND:20260629T002900Z
-DTSTART:20260627T033000Z
-SUMMARY:Piccadilly: Part Closure
-UID:8ce2fb90-6520-4c5e-ae51-0ef971b01146@8ce2.org
+UID:f5f3b8f5-7786-4e6f-aea7-b3ea1292a95e@f5f3.org
 END:VEVENT
 END:VCALENDAR
