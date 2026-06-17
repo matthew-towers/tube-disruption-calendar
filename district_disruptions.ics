@@ -3,17 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-04T03:30:00&endDate=2026-07-06T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 4 and Sunday 5 July\, no service between Tower Hill and Upminster. There will also be no c2c services at Fenchurch Street and West Ham. A reduced c2c service operates to/from Liverpool Street via Stratford. Replacement buses operate.
-DTEND:20260706T002900Z
-DTSTART:20260704T033000Z
-SUMMARY:District: Part Closure
-UID:6f8bb7c5-a2b5-4437-9ca4-e1eacade70a7@6f8b.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-27T03:30:00&endDate=2026-06-29T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 27 and Sunday 28 June\, no service between Turnham Green and Ealing Broadway. Replacement buses operate
 DTEND:20260629T002900Z
 DTSTART:20260627T033000Z
 SUMMARY:District: Part Closure
-UID:2455a307-250e-4b52-ae6e-4e05f9011860@2455.org
+UID:688903ae-743a-45af-8aa1-bd2e0fb3d0a7@6889.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-04T03:30:00&endDate=2026-07-06T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 4 and Sunday 5 July\, no service between Tower Hill and Upminster. There will also be no c2c services at Fenchurch Street and West Ham. A reduced c2c service operates to/from Liverpool Street via Stratford. Replacement buses operate.
+DTEND:20260706T002900Z
+DTSTART:20260704T033000Z
+SUMMARY:District: Part Closure
+UID:85bbfbc0-4b6f-428a-aafb-bcbb82fcff5f@85bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-17T04:38:33&endDate=2026-06-18T00:29:00">Disruption map.</a>\n\nDistrict Line: Severe delays between Turnham Green and Richmond due to infrastructure damage. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Buses\, London Overground and South Western Rail. 
+DTEND:20260618T002900Z
+DTSTART:20260617T043833Z
+SUMMARY:District: Severe Delays
+UID:ff23e9cf-c0ed-469f-8579-7a4eb9637604@ff23.org
 END:VEVENT
 END:VCALENDAR
