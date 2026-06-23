@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-27T01:00:00&endDate=2026-06-27T03:30:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 27 June\, between 0200 and 0430\, no service between Kings Cross St Pancras and Heathrow. Replacement buses operate.
-DTEND:20260627T033000Z
-DTSTART:20260627T010000Z
-SUMMARY:Piccadilly: Part Closure
-UID:2348aff7-257e-4970-a731-92f025874bea@2348.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-27T03:30:00&endDate=2026-06-29T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 27 June\, from 0430 and all day Sunday 28 June\, no service between Kings Cross St Pancras and Northfields / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate.
 DTEND:20260629T002900Z
 DTSTART:20260627T033000Z
 SUMMARY:Piccadilly: Part Closure
-UID:ed5ee75b-d79f-4697-b233-762818668eb2@ed5e.org
+UID:60ee4415-e7f6-4b5c-9e69-ecbdc3bfeeff@60ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-27T01:00:00&endDate=2026-06-27T03:30:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 27 June\, between 0200 and 0430\, no service between Kings Cross St Pancras and Heathrow. Replacement buses operate.
+DTEND:20260627T033000Z
+DTSTART:20260627T010000Z
+SUMMARY:Piccadilly: Part Closure
+UID:dce188ca-8084-4bcb-b872-308de0011fea@dce1.org
 END:VEVENT
 END:VCALENDAR

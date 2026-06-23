@@ -2,4 +2,25 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-23T08:13:25&endDate=2026-06-24T00:29:00">Disruption map.</a>\n\nMetropolitan Line: No service between Aldgate and Moorgate while we fix a signal system failure. SEVERE DELAYS between Moorgate and Baker Street and MINOR DELAYS on the rest of the line due to a signal failure at Pinner. Tickets are being accepted on London Buses. 
+DTEND:20260624T002900Z
+DTSTART:20260623T081325Z
+SUMMARY:Metropolitan: Minor Delays
+UID:a636adc7-c02b-49aa-a590-35283f5f79e4@a636.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-23T08:13:25&endDate=2026-06-24T00:29:00">Disruption map.</a>\n\nMetropolitan Line: No service between Aldgate and Moorgate while we fix a signal system failure. SEVERE DELAYS between Moorgate and Baker Street and MINOR DELAYS on the rest of the line due to a signal failure at Pinner. Tickets are being accepted on London Buses. 
+DTEND:20260624T002900Z
+DTSTART:20260623T081325Z
+SUMMARY:Metropolitan: Severe Delays
+UID:aab0cee2-5ff0-4d57-9a39-cc3bd47e881a@aab0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-23T08:13:25&endDate=2026-06-23T12:51:07">Disruption map.</a>\n\nMetropolitan Line: No service between Aldgate and Moorgate while we fix a signal system failure. SEVERE DELAYS between Moorgate and Baker Street and MINOR DELAYS on the rest of the line due to a signal failure at Pinner. Tickets are being accepted on London Buses. 
+DTEND:20260623T125107Z
+DTSTART:20260623T081325Z
+SUMMARY:Metropolitan: Part Suspended
+UID:2e5e6379-720d-48aa-aa59-4da595abf374@2e5e.org
+END:VEVENT
 END:VCALENDAR

@@ -3,24 +3,38 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Elizabeth line disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-23T09:28:43&endDate=2026-06-23T12:51:07">Disruption map.</a>\n\nNo service between Hayes & Harlington and Heathrow Terminals while we respond to a fire alert at Heathrow Terminal 2 & 3. SEVERE DELAYS between Paddington and Reading\, and between Whitechapel and Shenfield due to an earlier points failure at Southall. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground via any reasonable route. 
+DTEND:20260623T125107Z
+DTSTART:20260623T092843Z
+SUMMARY:Elizabeth line: Part Suspended
+UID:99c545a1-37e7-4622-aa38-f93a5737bce0@99c5.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-01T21:00:00&endDate=2026-07-02T00:29:00">Disruption map.</a>\n\nELIZABETH LINE: Monday 29 June\, Tuesday 30 and Wednesday 1 July\, after 2200 each evening\, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4\, West Drayton\, Langley\, Slough\, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway\, Southall and Hayes & Harlington. After 2300\, trains will not call at Acton Main Line\, West Ealing and Hanwell.
 DTEND:20260702T002900Z
 DTSTART:20260701T210000Z
 SUMMARY:Elizabeth line: Reduced Service
-UID:3d646909-efed-41ea-9b03-8cf02ee39796@3d64.org
+UID:2b952fa1-cb76-46af-a202-c5492e955fc6@2b95.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-29T21:00:00&endDate=2026-06-30T00:29:00">Disruption map.</a>\n\nELIZABETH LINE: Monday 29 June\, Tuesday 30 and Wednesday 1 July\, after 2200 each evening\, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4\, West Drayton\, Langley\, Slough\, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway\, Southall and Hayes & Harlington. After 2300\, trains will not call at Acton Main Line\, West Ealing and Hanwell.
 DTEND:20260630T002900Z
 DTSTART:20260629T210000Z
 SUMMARY:Elizabeth line: Reduced Service
-UID:4fc100bf-f9fe-4293-831e-e6bc7acf35bf@4fc1.org
+UID:9fef4365-3e9e-4015-aa2d-110efe11ac4d@9fef.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-30T21:00:00&endDate=2026-07-01T00:29:00">Disruption map.</a>\n\nELIZABETH LINE: Monday 29 June\, Tuesday 30 and Wednesday 1 July\, after 2200 each evening\, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4\, West Drayton\, Langley\, Slough\, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway\, Southall and Hayes & Harlington. After 2300\, trains will not call at Acton Main Line\, West Ealing and Hanwell.
 DTEND:20260701T002900Z
 DTSTART:20260630T210000Z
 SUMMARY:Elizabeth line: Reduced Service
-UID:ad8918fc-8526-46b5-a8f5-9f76679c9d42@ad89.org
+UID:4af5cce3-85b3-43c0-9bd8-43c32d4b0e27@4af5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-23T09:28:43&endDate=2026-06-24T00:29:00">Disruption map.</a>\n\nNo service between Hayes & Harlington and Heathrow Terminals while we respond to a fire alert at Heathrow Terminal 2 & 3. SEVERE DELAYS between Paddington and Reading\, and between Whitechapel and Shenfield due to an earlier points failure at Southall. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground via any reasonable route. 
+DTEND:20260624T002900Z
+DTSTART:20260623T092843Z
+SUMMARY:Elizabeth line: Severe Delays
+UID:bab28ecb-20d8-4aff-a30b-a149c67e1916@bab2.org
 END:VEVENT
 END:VCALENDAR

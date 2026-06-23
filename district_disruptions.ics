@@ -3,17 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-04T03:30:00&endDate=2026-07-06T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 4 and Sunday 5 July\, no service between Tower Hill and Upminster. There will also be no c2c services at Fenchurch Street and West Ham. A reduced c2c service operates to/from Liverpool Street via Stratford. Replacement buses operate.
-DTEND:20260706T002900Z
-DTSTART:20260704T033000Z
-SUMMARY:District: Part Closure
-UID:3b2afa84-c6e1-4815-b3df-acc1098f8435@3b2a.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-27T03:30:00&endDate=2026-06-29T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 27 and Sunday 28 June\, no service between Turnham Green and Ealing Broadway. Replacement buses operate
 DTEND:20260629T002900Z
 DTSTART:20260627T033000Z
 SUMMARY:District: Part Closure
-UID:1c22ece7-3604-4af8-974c-59429a6ad3b2@1c22.org
+UID:e41f41e3-abb1-43cf-a075-3ff22803606a@e41f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-23T09:50:42&endDate=2026-06-24T00:29:00">Disruption map.</a>\n\nDistrict Line: Severe delays due to an earlier signal system failure. Tickets will be accepted London Buses\, Mildmay Line\, DLR\, Elizabeth line\, c2c and South Western Railway services.  
+DTEND:20260624T002900Z
+DTSTART:20260623T095042Z
+SUMMARY:District: Severe Delays
+UID:b5e28d11-2ad2-43c1-8eb7-06ed720fdffc@b5e2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-04T03:30:00&endDate=2026-07-06T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 4 and Sunday 5 July\, no service between Tower Hill and Upminster. There will also be no c2c services at Fenchurch Street and West Ham. A reduced c2c service operates to/from Liverpool Street via Stratford. Replacement buses operate.
+DTEND:20260706T002900Z
+DTSTART:20260704T033000Z
+SUMMARY:District: Part Closure
+UID:69f551d9-6ba3-475d-8112-8bddbcbc5259@69f5.org
 END:VEVENT
 END:VCALENDAR
