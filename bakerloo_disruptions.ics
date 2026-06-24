@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Bakerloo disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-23T09:43:34&endDate=2026-06-24T00:29:00">Disruption map.</a>\n\nBakerloo Line: Minor delays between Queen's Park and Harrow & Wealdstone due to an earlier faulty train at Elephant & Castle. GOOD SERVICE on the rest of the line. 
-DTEND:20260624T002900Z
-DTSTART:20260623T094334Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-24T05:54:07&endDate=2026-06-25T00:29:00">Disruption map.</a>\n\nBakerloo Line: No service between Queen's Park and Harrow & Wealdstone and MINOR DELAYS on the rest of the line while we fix a signal failure at Willesden Junction. Tickets are being accepted on London Buses. Lioness Line and London Northwestern Railway via any reasonable route. 
+DTEND:20260625T002900Z
+DTSTART:20260624T055407Z
 SUMMARY:Bakerloo: Minor Delays
-UID:57adbaea-3464-4f30-9fde-9d27d21db44d@57ad.org
+UID:2072f8b0-ba4c-4720-a28d-6813ee85991f@2072.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-24T05:54:07&endDate=2026-06-24T11:17:43">Disruption map.</a>\n\nBakerloo Line: No service between Queen's Park and Harrow & Wealdstone and MINOR DELAYS on the rest of the line while we fix a signal failure at Willesden Junction. Tickets are being accepted on London Buses. Lioness Line and London Northwestern Railway via any reasonable route. 
+DTEND:20260624T111743Z
+DTSTART:20260624T055407Z
+SUMMARY:Bakerloo: Part Suspended
+UID:e4bd488d-4edc-4fa2-8375-b2c338eea399@e4bd.org
 END:VEVENT
 END:VCALENDAR
