@@ -3,17 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-27T03:30:00&endDate=2026-06-29T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 27 and Sunday 28 June\, no service between Turnham Green and Ealing Broadway. Replacement buses operate
-DTEND:20260629T002900Z
-DTSTART:20260627T033000Z
-SUMMARY:District: Part Closure
-UID:8d85dfec-ec69-4926-aadb-5da2bacebb47@8d85.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-04T03:30:00&endDate=2026-07-06T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 4 and Sunday 5 July\, no service between Tower Hill and Upminster. There will also be no c2c services at Fenchurch Street and West Ham. A reduced c2c service operates to/from Liverpool Street via Stratford. Replacement buses operate.
 DTEND:20260706T002900Z
 DTSTART:20260704T033000Z
 SUMMARY:District: Part Closure
-UID:7cd89e49-05af-449c-8f9d-1c244d6d82d0@7cd8.org
+UID:beef7b7b-7ba3-4232-a009-97f7fcbe85a9@beef.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-25T20:11:12&endDate=2026-06-26T00:29:00">Disruption map.</a>\n\nDistrict Line: Minor delays between Edgware Road and Wimbledon due to an earlier points failure at Parsons Green. GOOD SERVICE on the rest of the line.  
+DTEND:20260626T002900Z
+DTSTART:20260625T201112Z
+SUMMARY:District: Minor Delays
+UID:277973c4-3b4c-4d91-bbb5-c2f2a7fd1db3@2779.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-27T03:30:00&endDate=2026-06-29T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 27 and Sunday 28 June\, no service between Turnham Green and Ealing Broadway. Replacement buses operate
+DTEND:20260629T002900Z
+DTSTART:20260627T033000Z
+SUMMARY:District: Part Closure
+UID:b046c63a-fed1-4fb2-aee2-cadfe80ff8bc@b046.org
 END:VEVENT
 END:VCALENDAR
