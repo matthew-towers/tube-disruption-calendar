@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-04T03:30:00&endDate=2026-07-06T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 4 and Sunday 5 July\, no service between Prince Regent and Beckton. Please use local London Buses services.
-DTEND:20260706T002900Z
-DTSTART:20260704T033000Z
-SUMMARY:DLR: Part Closure
-UID:69f607b0-e54f-461f-83fe-a3a358287b26@69f6.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-27T03:30:00&endDate=2026-06-29T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 27 and Sunday 28 June\, no service between Prince Regent and Beckton. Please use local London Buses services.
 DTEND:20260629T002900Z
 DTSTART:20260627T033000Z
 SUMMARY:DLR: Part Closure
-UID:462e698b-dc9b-4742-92e0-edce4d3fc0f9@462e.org
+UID:d23e335b-b899-4d4d-a6e9-01041a521244@d23e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-04T03:30:00&endDate=2026-07-06T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 4 and Sunday 5 July\, no service between Prince Regent and Beckton. Please use local London Buses services.
+DTEND:20260706T002900Z
+DTSTART:20260704T033000Z
+SUMMARY:DLR: Part Closure
+UID:21a48e0b-953f-4d1e-84de-3deb6bffd9c1@21a4.org
 END:VEVENT
 END:VCALENDAR
