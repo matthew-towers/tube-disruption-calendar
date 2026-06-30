@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-11T03:30:00&endDate=2026-07-13T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 11 and Sunday 12 July\, no service between Turnham Green and Ealing Broadway. Replacement bus service PL3 operates between Hammersmith and Osterley via Turnham Green (Chiswick High Road)\, Chiswick Park\, Gunnersbury\, Acton Town\, Ealing Common\, Ealing Broadway\, South Ealing\, Northfields and Boston Manor.
+DTEND:20260713T002900Z
+DTSTART:20260711T033000Z
+SUMMARY:District: Part Closure
+UID:ac629b1a-7c54-41db-abe0-a312e7c66b50@ac62.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-04T03:30:00&endDate=2026-07-06T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 4 and Sunday 5 July\, no service between Tower Hill and Upminster. There will also be no c2c services at Fenchurch Street and West Ham. A reduced c2c service operates to/from Liverpool Street via Stratford. Replacement buses operate.
 DTEND:20260706T002900Z
 DTSTART:20260704T033000Z
 SUMMARY:District: Part Closure
-UID:03dc9e70-16b4-4efe-916f-0a9eb490a149@03dc.org
+UID:04d4658d-223d-421e-b732-954d2a96bac5@04d4.org
 END:VEVENT
 END:VCALENDAR

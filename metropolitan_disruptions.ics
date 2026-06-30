@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-30T09:43:50&endDate=2026-07-01T00:29:00">Disruption map.</a>\n\nMetropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due train cancellations. GOOD SERVICE on the rest of the line. 
+DTEND:20260701T002900Z
+DTSTART:20260630T094350Z
+SUMMARY:Metropolitan: Minor Delays
+UID:cd72fd58-6bc0-434b-8768-9797e02ca0e5@cd72.org
+END:VEVENT
 END:VCALENDAR
