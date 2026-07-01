@@ -3,24 +3,45 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Elizabeth line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-29T23:00:00&endDate=2026-06-30T00:29:00">Disruption map.</a>\n\nELIZABETH LINE: Monday 29 June\, Tuesday 30 and Wednesday 1 July\, after 2200 each evening\, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4\, West Drayton\, Langley\, Slough\, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway\, Southall and Hayes & Harlington. After 2300\, trains will not call at Acton Main Line\, West Ealing and Hanwell.
-DTEND:20260630T002900Z
-DTSTART:20260629T230000Z
-SUMMARY:Elizabeth line: Reduced Service
-UID:569d1d85-0ddd-4661-896b-c3913cd2a73b@569d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-30T21:00:00&endDate=2026-07-01T00:29:00">Disruption map.</a>\n\nELIZABETH LINE: Monday 29 June\, Tuesday 30 and Wednesday 1 July\, after 2200 each evening\, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4\, West Drayton\, Langley\, Slough\, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway\, Southall and Hayes & Harlington. After 2300\, trains will not call at Acton Main Line\, West Ealing and Hanwell.
-DTEND:20260701T002900Z
-DTSTART:20260630T210000Z
-SUMMARY:Elizabeth line: Reduced Service
-UID:3ca6373c-7dc9-4bb4-8351-f210c6484971@3ca6.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-01T21:00:00&endDate=2026-07-02T00:29:00">Disruption map.</a>\n\nELIZABETH LINE: Monday 29 June\, Tuesday 30 and Wednesday 1 July\, after 2200 each evening\, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4\, West Drayton\, Langley\, Slough\, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway\, Southall and Hayes & Harlington. After 2300\, trains will not call at Acton Main Line\, West Ealing and Hanwell.
 DTEND:20260702T002900Z
 DTSTART:20260701T210000Z
 SUMMARY:Elizabeth line: Reduced Service
-UID:e47127c3-c57f-4367-b960-b59a5a0385b7@e471.org
+UID:669f03a1-273c-4c94-835e-0383d70ff1fc@669f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-01T09:31:43&endDate=2026-07-02T00:29:00">Disruption map.</a>\n\nSevere delays between Paddington and Heathrow Airport / Reading while we fix a signal fault at Hayes & Harlington. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line 
+DTEND:20260702T002900Z
+DTSTART:20260701T093143Z
+SUMMARY:Elizabeth line: Severe Delays
+UID:d0d517bb-04ea-4187-b1a5-3f3185fa8ac1@d0d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-19T06:00:00&endDate=2026-07-19T06:40:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 19 July\, between 0700 and 0740\, no service between Paddington and Ealing Broadway. Use local London Underground and London Buses services.
+DTEND:20260719T064000Z
+DTSTART:20260719T060000Z
+SUMMARY:Elizabeth line: Part Closure
+UID:60fa26ea-ecab-4be1-9c4a-7a94c3638522@60fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-19T03:30:00&endDate=2026-07-19T06:00:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 19 July\, until 0700\, no service between Paddington and Heathrow (All Terminals) / Reading. Use local London Underground and London Buses services.
+DTEND:20260719T060000Z
+DTSTART:20260719T033000Z
+SUMMARY:Elizabeth line: Part Closure
+UID:16f9dbf5-0494-47f9-bbcd-cb18aaedd997@16f9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-30T23:00:00&endDate=2026-07-01T00:29:00">Disruption map.</a>\n\nELIZABETH LINE: Monday 29 June\, Tuesday 30 and Wednesday 1 July\, after 2200 each evening\, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4\, West Drayton\, Langley\, Slough\, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway\, Southall and Hayes & Harlington. After 2300\, trains will not call at Acton Main Line\, West Ealing and Hanwell.
+DTEND:20260701T002900Z
+DTSTART:20260630T230000Z
+SUMMARY:Elizabeth line: Reduced Service
+UID:daf6282e-dafa-4105-8eb8-acf2112c9534@daf6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-18T22:00:00&endDate=2026-07-19T00:29:00">Disruption map.</a>\n\nELIZABETH LINE: Saturday 18 July\, from 2300\, no service between Hayes & Harlington and Heathrow (All Terminals). Please use local London Buses services or the Piccadilly line.
+DTEND:20260719T002900Z
+DTSTART:20260718T220000Z
+SUMMARY:Elizabeth line: Part Closure
+UID:4515fd88-c9de-45c6-be60-e6f3717bf2b6@4515.org
 END:VEVENT
 END:VCALENDAR

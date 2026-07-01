@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-06-30T09:43:50&endDate=2026-07-01T00:29:00">Disruption map.</a>\n\nMetropolitan Line: Minor delays between Harrow-on-the-Hill and Uxbridge due train cancellations. GOOD SERVICE on the rest of the line. 
-DTEND:20260701T002900Z
-DTSTART:20260630T094350Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-11T03:30:00&endDate=2026-07-13T00:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 11 and Sunday 12 July\, no service between Harrow-on-the-Hill and Uxbridge. There will also be no PICCADILLY LINE service between Hammersmith and Uxbridge. Replacement bus service ML1 operates between Harrow-on-the-Hill and Uxbridge via West Harrow (Treve Avenue)\, Rayners Lane\, Eastcote\, Ruislip Manor\, Ruislip\, West Ruislip (for Central line and Chiltern Railways)\, Ickenham and Hillingdon.
+DTEND:20260713T002900Z
+DTSTART:20260711T033000Z
+SUMMARY:Metropolitan: Part Closure
+UID:ce8edf54-0500-407c-b3fc-e001f9c3dbd5@ce8e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-01T09:10:03&endDate=2026-07-02T00:29:00">Disruption map.</a>\n\nMetropolitan Line: Minor delays due to a points failure at Wembley Park.  
+DTEND:20260702T002900Z
+DTSTART:20260701T091003Z
 SUMMARY:Metropolitan: Minor Delays
-UID:cd72fd58-6bc0-434b-8768-9797e02ca0e5@cd72.org
+UID:d16a7920-bbd1-4512-a0a9-d313c580bd6c@d16a.org
 END:VEVENT
 END:VCALENDAR

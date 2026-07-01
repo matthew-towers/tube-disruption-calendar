@@ -3,17 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-11T03:30:00&endDate=2026-07-13T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 11 and Sunday 12 July\, no service between Turnham Green and Ealing Broadway. Replacement bus service PL3 operates between Hammersmith and Osterley via Turnham Green (Chiswick High Road)\, Chiswick Park\, Gunnersbury\, Acton Town\, Ealing Common\, Ealing Broadway\, South Ealing\, Northfields and Boston Manor.
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-01T09:30:05&endDate=2026-07-02T00:29:00">Disruption map.</a>\n\nDistrict Line: Severe delays between Barking and Upminster due to an earlier faulty train at Tower Hill. Tickets will be accepted on London buses. MINOR DELAYS between Turnham Green and Richmond due to a signal failure at Willesden Junction on the Mildmay line. GOOD SERVICE on the rest of the line. 
+DTEND:20260702T002900Z
+DTSTART:20260701T093005Z
+SUMMARY:District: Minor Delays
+UID:5af71d1c-a5bc-4db5-8c8d-b62fcaf0f255@5af7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-11T03:30:00&endDate=2026-07-13T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 11 and Sunday 12 July\, no service between Turnham Green and Ealing Broadway. Replacement bus services operate: Service PL3 operates between Hammersmith and Osterley via Turnham Green (Chiswick High Road)\, Chiswick Park\, Gunnersbury\, Acton Town\, Ealing Common\, Ealing Broadway\, South Ealing\, Northfields and Boston Manor. Service PL4: Gunnersbury (for District line) - Acton Town - Ealing Common - North Ealing - Hanger Lane (for Central line and Park Royal) - Alperton (Bridgewater Road) - Sudbury Town (Whitton Avenue East) - Sudbury Hill - South Harrow - Rayners Lane\;
 DTEND:20260713T002900Z
 DTSTART:20260711T033000Z
 SUMMARY:District: Part Closure
-UID:ac629b1a-7c54-41db-abe0-a312e7c66b50@ac62.org
+UID:63323ece-1d72-483f-ac20-0114d3dcfb5e@6332.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-04T03:30:00&endDate=2026-07-06T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 4 and Sunday 5 July\, no service between Tower Hill and Upminster. There will also be no c2c services at Fenchurch Street and West Ham. A reduced c2c service operates to/from Liverpool Street via Stratford. Replacement buses operate.
 DTEND:20260706T002900Z
 DTSTART:20260704T033000Z
 SUMMARY:District: Part Closure
-UID:04d4658d-223d-421e-b732-954d2a96bac5@04d4.org
+UID:dc3c8e2c-2553-416f-8f05-91ddc1efef4c@dc3c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-01T09:30:05&endDate=2026-07-02T00:29:00">Disruption map.</a>\n\nDistrict Line: Severe delays between Barking and Upminster due to an earlier faulty train at Tower Hill. Tickets will be accepted on London buses. MINOR DELAYS between Turnham Green and Richmond due to a signal failure at Willesden Junction on the Mildmay line. GOOD SERVICE on the rest of the line. 
+DTEND:20260702T002900Z
+DTSTART:20260701T093005Z
+SUMMARY:District: Severe Delays
+UID:3de1efa7-2257-4234-bee7-e34c7d4ccf1c@3de1.org
 END:VEVENT
 END:VCALENDAR
