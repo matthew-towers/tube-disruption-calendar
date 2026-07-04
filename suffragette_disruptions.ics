@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Suffragette line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-12T22:20:00&endDate=2026-07-12T22:59:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 12 July\, the 2324 train from Barking Riverside to Willesden Junction will not run. Customers should use the previous train at 2301
-DTEND:20260712T225900Z
-DTSTART:20260712T222000Z
-SUMMARY:Suffragette line: Reduced Service
-UID:88b2e5bf-a483-4b80-9497-09ea08be50ba@88b2.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-26T22:00:00&endDate=2026-07-26T22:59:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 26 July\, the 2301 train from Barking Riverside to Gospel Oak will not run. Customers should use the previous train at 2238 or next train at 2324 (not serving Gospel Oak)
 DTEND:20260726T225900Z
 DTSTART:20260726T220000Z
 SUMMARY:Suffragette line: Reduced Service
-UID:aeb352f0-8a5f-4b6f-83db-210b244d968d@aeb3.org
+UID:b884b2bc-67a2-4760-889e-11e6e847751f@b884.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-10T22:00:00&endDate=2026-07-10T22:38:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Friday 10 July\, the 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338
 DTEND:20260710T223800Z
 DTSTART:20260710T220000Z
 SUMMARY:Suffragette line: Reduced Service
-UID:bd0d12b4-869b-4382-afbc-07c578ec4779@bd0d.org
+UID:e09d6cb9-e825-4315-ba5a-41f316957912@e09d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-12T22:20:00&endDate=2026-07-12T22:59:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 12 July\, the 2324 train from Barking Riverside to Willesden Junction will not run. Customers should use the previous train at 2301
+DTEND:20260712T225900Z
+DTSTART:20260712T222000Z
+SUMMARY:Suffragette line: Reduced Service
+UID:74074a23-d583-43db-82e9-998ca073c23c@7407.org
 END:VEVENT
 END:VCALENDAR
