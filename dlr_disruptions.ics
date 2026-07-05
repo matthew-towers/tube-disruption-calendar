@@ -3,31 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-02T03:30:00&endDate=2026-08-03T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 2 August\, no service between Shadwell and Tower Gateway.
-DTEND:20260803T002900Z
-DTSTART:20260802T033000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-12T03:30:00&endDate=2026-07-13T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 12 July\, no service between Shadwell and Tower Gateway.
+DTEND:20260713T002900Z
+DTSTART:20260712T033000Z
 SUMMARY:DLR: Part Closure
-UID:1aa0f3ab-dfb3-4f94-8c41-604f5dd024bd@1aa0.org
+UID:ebab8238-701d-4ff4-ae8f-912a1ccf5b20@ebab.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-18T03:30:00&endDate=2026-07-20T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 18 and Sunday 19 July\, no service between Bank / Tower Gateway and Poplar / West India Quay. Please use local London Buses services.
 DTEND:20260720T002900Z
 DTSTART:20260718T033000Z
 SUMMARY:DLR: Part Closure
-UID:11194bae-6c5c-458b-9c8d-b6324d4252a6@1119.org
+UID:1c25daa3-0ccd-4fa3-8566-53d1d467dc74@1c25.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-02T03:30:00&endDate=2026-08-03T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 2 August\, no service between Shadwell and Tower Gateway.
+DTEND:20260803T002900Z
+DTSTART:20260802T033000Z
+SUMMARY:DLR: Part Closure
+UID:743a0bf4-a231-45e4-98c0-238322f363b6@743a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-04T03:30:00&endDate=2026-07-06T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 4 and Sunday 5 July\, no service between Prince Regent and Beckton. Please use local London Buses services.
 DTEND:20260706T002900Z
 DTSTART:20260704T033000Z
 SUMMARY:DLR: Part Closure
-UID:e30b651a-229f-4c49-a620-c90239a691fb@e30b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-12T03:30:00&endDate=2026-07-13T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 12 July\, no service between Shadwell and Tower Gateway.
-DTEND:20260713T002900Z
-DTSTART:20260712T033000Z
-SUMMARY:DLR: Part Closure
-UID:19637004-e5a4-4d5c-8e4e-09d2b1b481ef@1963.org
+UID:8ddc7b22-b608-4437-ac43-5575cad86b1d@8ddc.org
 END:VEVENT
 END:VCALENDAR
