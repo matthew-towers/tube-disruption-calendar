@@ -2,4 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-06T10:25:00&endDate=2026-07-07T00:29:00">Disruption map.</a>\n\nCENTRAL LINE: Minor delays are occurring due to train cancellations.
+DTEND:20260707T002900Z
+DTSTART:20260706T102500Z
+SUMMARY:Central: Minor Delays
+UID:168d7940-5a9f-406d-b11e-9e075da7d2bd@168d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-06T11:03:10&endDate=2026-07-07T00:29:00">Disruption map.</a>\n\nCentral Line: Minor delays due to cancellations.  
+DTEND:20260707T002900Z
+DTSTART:20260706T110310Z
+SUMMARY:Central: Minor Delays
+UID:0c04d7fc-776c-4904-996e-e98446f0858b@0c04.org
+END:VEVENT
 END:VCALENDAR
