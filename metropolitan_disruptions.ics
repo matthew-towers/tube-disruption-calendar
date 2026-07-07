@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-07T09:20:23&endDate=2026-07-08T00:29:00">Disruption map.</a>\n\nMetropolitan Line: Minor delays between Wembley Park and Baker Street due to a track fault at Wembley Park\, and MINOR DELAYS between Chalfont & Latimer and Amersham due to train cancellations. GOOD SERVICE on the rest of the line.  
+DTEND:20260708T002900Z
+DTSTART:20260707T092023Z
+SUMMARY:Metropolitan: Minor Delays
+UID:35968140-f8cf-402d-9494-c226c2ca9526@3596.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-11T03:30:00&endDate=2026-07-13T00:29:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Saturday 11 and Sunday 12 July\, no service between Harrow-on-the-Hill and Uxbridge. There will also be no PICCADILLY LINE service between Hammersmith and Uxbridge. Replacement bus service ML1 operates between Harrow-on-the-Hill and Uxbridge via West Harrow (Treve Avenue)\, Rayners Lane\, Eastcote\, Ruislip Manor\, Ruislip\, West Ruislip (for Central line and Chiltern Railways)\, Ickenham and Hillingdon.
 DTEND:20260713T002900Z
 DTSTART:20260711T033000Z
 SUMMARY:Metropolitan: Part Closure
-UID:f4bac6f4-3a04-4772-8256-4922552580a7@f4ba.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-06T10:38:21&endDate=2026-07-07T00:29:00">Disruption map.</a>\n\nMetropolitan Line: Severe delays due to an earlier fire alert at Kilburn. Tickets will be accepted on London Buses\, London Overground and Thameslink services.   
-DTEND:20260707T002900Z
-DTSTART:20260706T103821Z
-SUMMARY:Metropolitan: Severe Delays
-UID:2168d64a-2131-4669-95c8-adc4ee8eba70@2168.org
+UID:96d08a9a-e72a-45cc-b0bc-bc9d24e5e67e@96d0.org
 END:VEVENT
 END:VCALENDAR
