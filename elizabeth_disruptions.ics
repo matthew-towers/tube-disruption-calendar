@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Elizabeth line disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-18T22:00:00&endDate=2026-07-19T00:29:00">Disruption map.</a>\n\nELIZABETH LINE: Saturday 18 July\, from 2300\, no service between Hayes & Harlington and Heathrow (All Terminals). Please use local London Buses services or the Piccadilly line.
+DTEND:20260719T002900Z
+DTSTART:20260718T220000Z
+SUMMARY:Elizabeth line: Part Closure
+UID:e6056182-3afe-4425-8dbf-827f03b1046c@e605.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-19T06:00:00&endDate=2026-07-19T06:40:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 19 July\, between 0700 and 0740\, no service between Paddington and Ealing Broadway. Use local London Underground and London Buses services.
 DTEND:20260719T064000Z
 DTSTART:20260719T060000Z
 SUMMARY:Elizabeth line: Part Closure
-UID:74829be7-32f8-481d-9a93-85ceab1b0997@7482.org
+UID:f191fcc3-1ed6-4e93-82eb-f4c32f730740@f191.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-19T03:30:00&endDate=2026-07-19T06:00:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 19 July\, until 0700\, no service between Paddington and Heathrow (All Terminals) / Reading. Use local London Underground and London Buses services.
 DTEND:20260719T060000Z
 DTSTART:20260719T033000Z
 SUMMARY:Elizabeth line: Part Closure
-UID:0938619e-f437-4748-993b-83faa6909677@0938.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-18T22:00:00&endDate=2026-07-19T00:29:00">Disruption map.</a>\n\nELIZABETH LINE: Saturday 18 July\, from 2300\, no service between Hayes & Harlington and Heathrow (All Terminals). Please use local London Buses services or the Piccadilly line.
-DTEND:20260719T002900Z
-DTSTART:20260718T220000Z
-SUMMARY:Elizabeth line: Part Closure
-UID:a38d4a31-616e-47e6-849d-9932065e7d65@a38d.org
+UID:085e7584-925d-4dc4-8b87-80a3e8d32b90@085e.org
 END:VEVENT
 END:VCALENDAR
