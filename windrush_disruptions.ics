@@ -3,73 +3,59 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Windrush line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-19T18:30:00&endDate=2026-07-20T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 19 July\, after 1930\, no service between Surrey Quays and New Cross. Use Windrush Line services to New Cross Gate\, then walk or use local bus routes 53\, 177 or 453
-DTEND:20260720T002900Z
-DTSTART:20260719T183000Z
-SUMMARY:Windrush line: Part Closure
-UID:6a7da2de-e735-4eb7-aa51-ad3683ef63cc@6a7d.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-26T03:30:00&endDate=2026-07-27T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 26 July\, no service between Sydenham and Crystal Palace. Please use local London Buses connections between Anerley and Crystal Palace.
 DTEND:20260727T002900Z
 DTSTART:20260726T033000Z
 SUMMARY:Windrush line: Part Closure
-UID:aa613a73-70f3-4497-9518-09db4158f665@aa61.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-25T23:00:00&endDate=2026-07-27T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 26 July\, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction\, where tickets will be accepted. In addition\, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run.
-DTEND:20260727T002900Z
-DTSTART:20260725T230000Z
-SUMMARY:Windrush line: Part Closure
-UID:7dd9993d-b0b8-4ee3-8865-9371a30af19e@7dd9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-04T22:30:00&endDate=2026-08-05T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 3\, Tuesday 4\, Wednesday 5 and Thursday 6 August\, after 2330 each evening\, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses will run as follows: The bus for Crystal Palace will depart London Bridge at 2358 calling at New Cross Gate\, Brockley\, Honor Oak Park\, Forest Hill\, Sydenham\, Crystal Palace\, Gipsy Hill\, West Norwood\, Tulse Hill and Streatham Hill. The bus for East Croydon will depart London Bridge at 0035 calling at New Cross Gate\, Brockley\, Honor Oak Park\, Forest Hill\, Sydenham\, Norwood Junction and East Croydon. One return bus from Crystal Palace departs at 2359\, calling at all stations to London Bridge via New Cross Gate. Alternatively\, use local buses or trams via any reasonable route. Last through trains: New Cross Gate to Crystal Palace 2324\, Crystal Palace to New Cross Gate / Highbury & Islington 2332\; New Cross Gate to West Croydon 2330\, West Croydon to New Cross Gate / Highbury & Islington 2316. The 2232 and 2247 Highbury & Islington to West Croydon trains are diverted to Crystal Palace. The 2338 Dalston Junction to New Cross Gate train does not run.
-DTEND:20260805T002900Z
-DTSTART:20260804T223000Z
-SUMMARY:Windrush line: Part Closure
-UID:47be79f9-0647-45e6-b605-9197b1453929@47be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-19T03:30:00&endDate=2026-07-20T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 19 July\, no service between Sydenham and West Croydon. Customers for Penge West and Anerley should use local buses from Crystal Palace. Customers for Norwood Junction and West Croydon should use Southern Railway services between Crystal Palace and East Croydon via Norwood Junction\, where tickets will be accepted. Alternatively\, customers may use local buses or trams via any reasonable route. Rail replacement buses (Operated by Southern Railway) will run between East Croydon and West Croydon\, for onward travel to Sutton and Epsom Downs.
-DTEND:20260720T002900Z
-DTSTART:20260719T033000Z
-SUMMARY:Windrush line: Part Closure
-UID:a138a618-4d0c-452e-9df6-a18aef425b01@a138.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-01T23:00:00&endDate=2026-08-03T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 2 August\, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction\, where tickets will be accepted. In addition\, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run.
-DTEND:20260803T002900Z
-DTSTART:20260801T230000Z
-SUMMARY:Windrush line: Part Closure
-UID:cd716eef-00e6-4e1c-984f-05e837481579@cd71.org
+UID:830f259b-5ba4-43fd-a603-ffe4bc7b6f14@830f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-06T22:30:00&endDate=2026-08-07T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 3\, Tuesday 4\, Wednesday 5 and Thursday 6 August\, after 2330 each evening\, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses will run as follows: The bus for Crystal Palace will depart London Bridge at 2358 calling at New Cross Gate\, Brockley\, Honor Oak Park\, Forest Hill\, Sydenham\, Crystal Palace\, Gipsy Hill\, West Norwood\, Tulse Hill and Streatham Hill. The bus for East Croydon will depart London Bridge at 0035 calling at New Cross Gate\, Brockley\, Honor Oak Park\, Forest Hill\, Sydenham\, Norwood Junction and East Croydon. One return bus from Crystal Palace departs at 2359\, calling at all stations to London Bridge via New Cross Gate. Alternatively\, use local buses or trams via any reasonable route. Last through trains: New Cross Gate to Crystal Palace 2324\, Crystal Palace to New Cross Gate / Highbury & Islington 2332\; New Cross Gate to West Croydon 2330\, West Croydon to New Cross Gate / Highbury & Islington 2316. The 2232 and 2247 Highbury & Islington to West Croydon trains are diverted to Crystal Palace. The 2338 Dalston Junction to New Cross Gate train does not run.
 DTEND:20260807T002900Z
 DTSTART:20260806T223000Z
 SUMMARY:Windrush line: Part Closure
-UID:1edb86f2-1d7b-4e65-abfa-d1cde70c2f84@1edb.org
+UID:f0c057d4-a267-4a13-bde0-452910d5918d@f0c0.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-05T22:30:00&endDate=2026-08-06T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 3\, Tuesday 4\, Wednesday 5 and Thursday 6 August\, after 2330 each evening\, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses will run as follows: The bus for Crystal Palace will depart London Bridge at 2358 calling at New Cross Gate\, Brockley\, Honor Oak Park\, Forest Hill\, Sydenham\, Crystal Palace\, Gipsy Hill\, West Norwood\, Tulse Hill and Streatham Hill. The bus for East Croydon will depart London Bridge at 0035 calling at New Cross Gate\, Brockley\, Honor Oak Park\, Forest Hill\, Sydenham\, Norwood Junction and East Croydon. One return bus from Crystal Palace departs at 2359\, calling at all stations to London Bridge via New Cross Gate. Alternatively\, use local buses or trams via any reasonable route. Last through trains: New Cross Gate to Crystal Palace 2324\, Crystal Palace to New Cross Gate / Highbury & Islington 2332\; New Cross Gate to West Croydon 2330\, West Croydon to New Cross Gate / Highbury & Islington 2316. The 2232 and 2247 Highbury & Islington to West Croydon trains are diverted to Crystal Palace. The 2338 Dalston Junction to New Cross Gate train does not run.
 DTEND:20260806T002900Z
 DTSTART:20260805T223000Z
 SUMMARY:Windrush line: Part Closure
-UID:77d8d684-8b06-4227-9bd9-c7df8458c3bd@77d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-08T23:00:00&endDate=2026-08-10T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 9 August\, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction\, where tickets will be accepted. In addition\, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run.
-DTEND:20260810T002900Z
-DTSTART:20260808T230000Z
-SUMMARY:Windrush line: Part Closure
-UID:5e49d991-3254-4dd5-9d58-202125f4ea0e@5e49.org
+UID:797821bb-6af9-4b80-8772-da94e2e22422@7978.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-03T22:30:00&endDate=2026-08-04T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 3\, Tuesday 4\, Wednesday 5 and Thursday 6 August\, after 2330 each evening\, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses will run as follows: The bus for Crystal Palace will depart London Bridge at 2358 calling at New Cross Gate\, Brockley\, Honor Oak Park\, Forest Hill\, Sydenham\, Crystal Palace\, Gipsy Hill\, West Norwood\, Tulse Hill and Streatham Hill. The bus for East Croydon will depart London Bridge at 0035 calling at New Cross Gate\, Brockley\, Honor Oak Park\, Forest Hill\, Sydenham\, Norwood Junction and East Croydon. One return bus from Crystal Palace departs at 2359\, calling at all stations to London Bridge via New Cross Gate. Alternatively\, use local buses or trams via any reasonable route. Last through trains: New Cross Gate to Crystal Palace 2324\, Crystal Palace to New Cross Gate / Highbury & Islington 2332\; New Cross Gate to West Croydon 2330\, West Croydon to New Cross Gate / Highbury & Islington 2316. The 2232 and 2247 Highbury & Islington to West Croydon trains are diverted to Crystal Palace. The 2338 Dalston Junction to New Cross Gate train does not run.
 DTEND:20260804T002900Z
 DTSTART:20260803T223000Z
 SUMMARY:Windrush line: Part Closure
-UID:20174693-c003-4f18-a46d-257e30c20bba@2017.org
+UID:1f49943f-576d-4d46-8068-ff1ad2b45b0d@1f49.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-08T23:00:00&endDate=2026-08-10T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 9 August\, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction\, where tickets will be accepted. In addition\, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run.
+DTEND:20260810T002900Z
+DTSTART:20260808T230000Z
+SUMMARY:Windrush line: Part Closure
+UID:6f4ce117-0d88-4aae-9f2b-bd6f28f7f602@6f4c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-25T23:00:00&endDate=2026-07-27T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 26 July\, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction\, where tickets will be accepted. In addition\, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run.
+DTEND:20260727T002900Z
+DTSTART:20260725T230000Z
+SUMMARY:Windrush line: Part Closure
+UID:be5e9380-95bd-4241-8d55-acf6ccb69127@be5e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-04T22:30:00&endDate=2026-08-05T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 3\, Tuesday 4\, Wednesday 5 and Thursday 6 August\, after 2330 each evening\, no service between New Cross Gate and West Croydon / Crystal Palace. Rail replacement buses will run as follows: The bus for Crystal Palace will depart London Bridge at 2358 calling at New Cross Gate\, Brockley\, Honor Oak Park\, Forest Hill\, Sydenham\, Crystal Palace\, Gipsy Hill\, West Norwood\, Tulse Hill and Streatham Hill. The bus for East Croydon will depart London Bridge at 0035 calling at New Cross Gate\, Brockley\, Honor Oak Park\, Forest Hill\, Sydenham\, Norwood Junction and East Croydon. One return bus from Crystal Palace departs at 2359\, calling at all stations to London Bridge via New Cross Gate. Alternatively\, use local buses or trams via any reasonable route. Last through trains: New Cross Gate to Crystal Palace 2324\, Crystal Palace to New Cross Gate / Highbury & Islington 2332\; New Cross Gate to West Croydon 2330\, West Croydon to New Cross Gate / Highbury & Islington 2316. The 2232 and 2247 Highbury & Islington to West Croydon trains are diverted to Crystal Palace. The 2338 Dalston Junction to New Cross Gate train does not run.
+DTEND:20260805T002900Z
+DTSTART:20260804T223000Z
+SUMMARY:Windrush line: Part Closure
+UID:3cc09a00-cd84-4c22-8347-5242586a430c@3cc0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-01T23:00:00&endDate=2026-08-03T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 2 August\, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction\, where tickets will be accepted. In addition\, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run.
+DTEND:20260803T002900Z
+DTSTART:20260801T230000Z
+SUMMARY:Windrush line: Part Closure
+UID:53d49d64-5570-4c31-8cff-df251da674aa@53d4.org
 END:VEVENT
 END:VCALENDAR
