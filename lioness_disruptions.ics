@@ -3,24 +3,80 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Lioness line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-02T03:30:00&endDate=2026-08-02T11:00:00">Disruption map.</a>\n\nLIONESS LINE: Sunday 2 August\, before 1200 and after 2030\, no service between Euston and Kilburn High Road. Use local buses or London Underground services via any reasonable route (entrance/exit at Euston\, Euston Square\, Kilburn Park and Queens Park stations). First through trains: Euston to Watford Junction 1215\; Watford Junction to Euston 1130. Last through trains: Watford Junction to Euston 2000\, Euston to Watford Junction 2045
-DTEND:20260802T110000Z
-DTSTART:20260802T033000Z
-SUMMARY:Lioness line: Part Closure
-UID:70a5f6ee-7b59-4a0c-bc25-f86948747417@70a5.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-14T04:25:00&endDate=2026-08-14T05:05:00">Disruption map.</a>\n\nLIONESS LINE: Tuesday 11\, Wednesday 12\, Thursday 13 and Friday 14 August\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
+DTEND:20260814T050500Z
+DTSTART:20260814T042500Z
+SUMMARY:Lioness line: Reduced Service
+UID:2e99c14f-331c-4573-ad18-3b8d5d425864@2e99.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-08T03:30:00&endDate=2026-08-10T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Saturday 8 and Sunday 9 August\, no service between Euston and Watford Junction. There will also be no BAKERLOO LINE service between Queens Park and Harrow & Wealdstone. Use LONDON NORTHWESTERN RAILWAY services between Euston and Watford Junction or SOUTHERN services\, where available\, between Wembley Central and Watford Junction. Special bus service 718 operates between Queens Park and Harrow & Wealdstone via Kensal Green\, Willesden Junction (Harrow Road)\, Harlesden (Jubilee Clock / Manor Park Road)\, Stonebridge Park (Harrow Road)\, Wembley Central (Park Lane and Station)\, North Wembley\, Preston Road (for Metropolitan line and South Kenton) and Kenton. Special bus service 720 operates between Harrow-on-the-Hill (for Metropolitan line) and Watford Junction via Harrow & Wealdstone\, Headstone Lane (Long Elmes)\, Hatch End (Harrow Arts Centre)\, Carpenders Park (Prestwick Road)\, Bushey (Eastbury Road) and Watford High Street.
 DTEND:20260810T002900Z
 DTSTART:20260808T033000Z
 SUMMARY:Lioness line: Planned Closure
-UID:d4a5e69f-9d49-4007-9dd6-ce19d09b3cae@d4a5.org
+UID:47a4b800-1bb1-437e-ad15-c573631c882f@47a4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-10T22:45:00&endDate=2026-08-10T23:45:00">Disruption map.</a>\n\nLIONESS LINE: Monday 10\, Tuesday 11\, Wednesday 12 and Thursday 13 August\, the 2345 train from Euston to Watford Junction will terminate at Willesden Junction
+DTEND:20260810T234500Z
+DTSTART:20260810T224500Z
+SUMMARY:Lioness line: Reduced Service
+UID:5595746e-f055-4828-b9dd-cc08762a22cc@5595.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-02T03:30:00&endDate=2026-08-02T11:00:00">Disruption map.</a>\n\nLIONESS LINE: Sunday 2 August\, before 1200 and after 2030\, no service between Euston and Kilburn High Road. Use local buses or London Underground services via any reasonable route (entrance/exit at Euston\, Euston Square\, Kilburn Park and Queens Park stations). First through trains: Euston to Watford Junction 1215\; Watford Junction to Euston 1130. Last through trains: Watford Junction to Euston 2000\, Euston to Watford Junction 2045
+DTEND:20260802T110000Z
+DTSTART:20260802T033000Z
+SUMMARY:Lioness line: Part Closure
+UID:8049aff9-7d81-4d32-8ead-2caa1bea27d8@8049.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-12T04:25:00&endDate=2026-08-12T05:05:00">Disruption map.</a>\n\nLIONESS LINE: Tuesday 11\, Wednesday 12\, Thursday 13 and Friday 14 August\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
+DTEND:20260812T050500Z
+DTSTART:20260812T042500Z
+SUMMARY:Lioness line: Reduced Service
+UID:c6904ea9-cf56-48d3-856f-6d493f4d7c43@c690.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-12T22:45:00&endDate=2026-08-12T23:45:00">Disruption map.</a>\n\nLIONESS LINE: Monday 10\, Tuesday 11\, Wednesday 12 and Thursday 13 August\, the 2345 train from Euston to Watford Junction will terminate at Willesden Junction
+DTEND:20260812T234500Z
+DTSTART:20260812T224500Z
+SUMMARY:Lioness line: Reduced Service
+UID:d67ce783-e2d8-41f1-98c4-ccd52d4ab163@d67c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-02T19:30:00&endDate=2026-08-03T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Sunday 2 August\, before 1200 and after 2030\, no service between Euston and Kilburn High Road. Use local buses or London Underground services via any reasonable route (entrance/exit at Euston\, Euston Square\, Kilburn Park and Queens Park stations). First through trains: Euston to Watford Junction 1215\; Watford Junction to Euston 1130. Last through trains: Watford Junction to Euston 2000\, Euston to Watford Junction 2045
 DTEND:20260803T002900Z
 DTSTART:20260802T193000Z
 SUMMARY:Lioness line: Part Closure
-UID:a6b4e65c-4df8-4c52-823a-d4d74eb1712f@a6b4.org
+UID:3fcc030a-5f34-4f2f-b3da-b9ebdb7c9a6e@3fcc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-11T22:45:00&endDate=2026-08-11T23:45:00">Disruption map.</a>\n\nLIONESS LINE: Monday 10\, Tuesday 11\, Wednesday 12 and Thursday 13 August\, the 2345 train from Euston to Watford Junction will terminate at Willesden Junction
+DTEND:20260811T234500Z
+DTSTART:20260811T224500Z
+SUMMARY:Lioness line: Reduced Service
+UID:72ae91be-4ad8-4e8a-891c-0e5fb34cf919@72ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-11T04:25:00&endDate=2026-08-11T05:05:00">Disruption map.</a>\n\nLIONESS LINE: Tuesday 11\, Wednesday 12\, Thursday 13 and Friday 14 August\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
+DTEND:20260811T050500Z
+DTSTART:20260811T042500Z
+SUMMARY:Lioness line: Reduced Service
+UID:ceff44d9-d27b-43e8-b0cc-118e3bfa1030@ceff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-13T04:25:00&endDate=2026-08-13T05:05:00">Disruption map.</a>\n\nLIONESS LINE: Tuesday 11\, Wednesday 12\, Thursday 13 and Friday 14 August\, the 0529 train from Watford Junction to Euston will start from Willesden Junction at 0604
+DTEND:20260813T050500Z
+DTSTART:20260813T042500Z
+SUMMARY:Lioness line: Reduced Service
+UID:9f87ef2a-3c34-433f-96e1-5744b5355e1f@9f87.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-13T22:45:00&endDate=2026-08-13T23:45:00">Disruption map.</a>\n\nLIONESS LINE: Monday 10\, Tuesday 11\, Wednesday 12 and Thursday 13 August\, the 2345 train from Euston to Watford Junction will terminate at Willesden Junction
+DTEND:20260813T234500Z
+DTSTART:20260813T224500Z
+SUMMARY:Lioness line: Reduced Service
+UID:2d244e80-c6ba-4939-9ee3-c2dab9e43af3@2d24.org
 END:VEVENT
 END:VCALENDAR
