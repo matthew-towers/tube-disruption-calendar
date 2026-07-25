@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-16T03:30:00&endDate=2026-08-17T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 16 August\, no service between Shadwell and Tower Gateway.
-DTEND:20260817T002900Z
-DTSTART:20260816T033000Z
-SUMMARY:DLR: Part Closure
-UID:3aaeca1d-6716-4520-8e53-622beea68723@3aae.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-02T03:30:00&endDate=2026-08-03T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 2 August\, no service between Shadwell and Tower Gateway.
 DTEND:20260803T002900Z
 DTSTART:20260802T033000Z
 SUMMARY:DLR: Part Closure
-UID:670246c9-f195-461f-b7e8-28b00f3399c6@6702.org
+UID:c1ccd972-61d6-4da5-8304-decac6c016fe@c1cc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-16T03:30:00&endDate=2026-08-17T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 16 August\, no service between Shadwell and Tower Gateway.
+DTEND:20260817T002900Z
+DTSTART:20260816T033000Z
+SUMMARY:DLR: Part Closure
+UID:571d4780-ce99-4106-abec-1087b023f94f@571d.org
 END:VEVENT
 END:VCALENDAR
