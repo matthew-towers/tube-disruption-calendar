@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Jubilee disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-25T10:16:11&endDate=2026-07-26T00:29:00">Disruption map.</a>\n\nJubilee Line: Severe delays due to an earlier points failure at Wembley Park. Tickets being accepted on London Buses.  
-DTEND:20260726T002900Z
-DTSTART:20260725T101611Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-26T09:26:48&endDate=2026-07-26T12:42:01">Disruption map.</a>\n\nJubilee Line: No service between Stanmore and Willesden Green while we respond to a fire alert at Canons Park. Tickets being accepted on London Buses. SEVERE DELAYS on the rest of the line.  
+DTEND:20260726T124201Z
+DTSTART:20260726T092648Z
+SUMMARY:Jubilee: Part Suspended
+UID:559a1186-d553-4963-85ca-d566fa8e737e@559a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-26T09:26:48&endDate=2026-07-27T00:29:00">Disruption map.</a>\n\nJubilee Line: No service between Stanmore and Willesden Green while we respond to a fire alert at Canons Park. Tickets being accepted on London Buses. SEVERE DELAYS on the rest of the line.  
+DTEND:20260727T002900Z
+DTSTART:20260726T092648Z
 SUMMARY:Jubilee: Severe Delays
-UID:47c0b95e-901b-4793-86b7-e6bc60021e24@47c0.org
+UID:4e05ba75-417c-42a6-9d41-ab8c1c9d45aa@4e05.org
 END:VEVENT
 END:VCALENDAR
