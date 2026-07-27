@@ -3,45 +3,45 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-01T03:00:00&endDate=2026-08-01T23:30:00">Disruption map.</a>\n\nPICCADILLY LINE: From 0400 Saturday 1 until 0030 Sunday 2 August\, and again from 0400 Sunday 2 August to the end of service\, no service between Cockfosters and Heathrow (all terminals). Trains continue to operate between Acton Town and Uxbridge. Use rail connections between Heathrow terminals. Replacement buses operate.
-DTEND:20260801T233000Z
-DTSTART:20260801T030000Z
-SUMMARY:Piccadilly: Planned Closure
-UID:5f5ac51c-6c5f-44fc-a507-51996d6bccba@5f5a.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-01T23:30:00&endDate=2026-08-02T03:00:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 1 and Sunday 2 August\, between 0030 and 0430 each day\, no service throughout the line. Replacement buses operate.
 DTEND:20260802T030000Z
 DTSTART:20260801T233000Z
 SUMMARY:Piccadilly: Planned Closure
-UID:8fbf7348-afba-4be4-bb6b-af2e196b9e41@8fbf.org
+UID:e1977eb2-d516-4e61-865d-046d7fe7711d@e197.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-30T03:30:00&endDate=2026-07-31T23:30:00">Disruption map.</a>\n\nPICCADILLY LINE: Thursday 30 and Friday 31 July\, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow (all terminals)\, Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate.
-DTEND:20260731T233000Z
-DTSTART:20260730T033000Z
-SUMMARY:Piccadilly: Part Closure
-UID:cd2eaa47-5dbc-41f4-90e5-5aa02a08ecf7@cd2e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-03T03:30:00&endDate=2026-08-04T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Monday 3 August\, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow (all terminals)\, Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate.
-DTEND:20260804T002900Z
-DTSTART:20260803T033000Z
-SUMMARY:Piccadilly: Part Closure
-UID:9ba8290b-9f37-4be2-b59c-0ca2bac80a5c@9ba8.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-01T03:00:00&endDate=2026-08-01T23:30:00">Disruption map.</a>\n\nPICCADILLY LINE: From 0400 Saturday 1 until 0030 Sunday 2 August\, and again from 0400 Sunday 2 August to the end of service\, no service between Cockfosters and Heathrow (all terminals). Trains continue to operate between Acton Town and Uxbridge. Use rail connections between Heathrow terminals. Replacement buses operate.
+DTEND:20260801T233000Z
+DTSTART:20260801T030000Z
+SUMMARY:Piccadilly: Planned Closure
+UID:5ace3333-9ec2-4d82-b309-cc050a9f0454@5ace.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-31T23:30:00&endDate=2026-08-01T03:00:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 1 and Sunday 2 August\, between 0030 and 0430 each day\, no service throughout the line. Replacement buses operate.
 DTEND:20260801T030000Z
 DTSTART:20260731T233000Z
 SUMMARY:Piccadilly: Planned Closure
-UID:33f11281-6707-4cd4-8ffe-6de0aa87248d@33f1.org
+UID:b798c9cd-96f2-4f0d-b2a3-25d6a6bd26ba@b798.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-03T03:30:00&endDate=2026-08-04T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Monday 3 August\, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow (all terminals)\, Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate.
+DTEND:20260804T002900Z
+DTSTART:20260803T033000Z
+SUMMARY:Piccadilly: Part Closure
+UID:eb028119-36a3-4842-8712-f69aafdb76fe@eb02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-30T03:30:00&endDate=2026-07-31T23:30:00">Disruption map.</a>\n\nPICCADILLY LINE: Thursday 30 and Friday 31 July\, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow (all terminals)\, Use METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement buses operate.
+DTEND:20260731T233000Z
+DTSTART:20260730T033000Z
+SUMMARY:Piccadilly: Part Closure
+UID:130cf900-cca1-4c06-921c-fe81a5aa417f@130c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-02T03:00:00&endDate=2026-08-03T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: From 0400 Saturday 1 until 0030 Sunday 2 August\, and again from 0400 Sunday 2 August to the end of service\, no service between Cockfosters and Heathrow (all terminals). Trains continue to operate between Acton Town and Uxbridge. Use rail connections between Heathrow terminals. Replacement buses operate.
 DTEND:20260803T002900Z
 DTSTART:20260802T030000Z
 SUMMARY:Piccadilly: Planned Closure
-UID:4e28048b-e592-47c0-a9a6-a78113d79405@4e28.org
+UID:91d4ce56-aa5f-4beb-875c-8ff6250847be@91d4.org
 END:VEVENT
 END:VCALENDAR
