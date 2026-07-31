@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Circle disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-31T07:13:33&endDate=2026-08-01T00:29:00">Disruption map.</a>\n\nCircle Line: Minor delays due to an earlier points failure at High Street Kensington. 
+DTEND:20260801T002900Z
+DTSTART:20260731T071333Z
+SUMMARY:Circle: Minor Delays
+UID:4b7168f5-06d9-4133-b196-5bd5e24c8c83@4b71.org
+END:VEVENT
 END:VCALENDAR
