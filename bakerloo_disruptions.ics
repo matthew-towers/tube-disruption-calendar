@@ -3,24 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Bakerloo disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-31T23:01:43&endDate=2026-08-02T00:29:00">Disruption map.</a>\n\nBakerloo Line: Severe delays due to an earlier fire alert at Harrow & Wealdstone. Tickets are being accepted on London Buses.  
+DTEND:20260802T002900Z
+DTSTART:20260731T230143Z
+SUMMARY:Bakerloo: Severe Delays
+UID:4bff62b8-cfc2-49f9-9d1c-3249287ceb26@4bff.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-08T03:30:00&endDate=2026-08-10T00:29:00">Disruption map.</a>\n\nBAKERLOO LINE: Saturday 8 and Sunday 9 August\, no service between Queens Park and Harrow & Wealdstone. There will also be no LIONESS LINE service between Euston and Watford Junction. Use LONDON NORTHWESTERN RAILWAY services between Euston and Harrow & Wealdstone\, or SOUTHERN services\, where available\, between Wembley Central and Harrow & Wealdstone. Special bus service 718 operates between Queens Park and Harrow & Wealdstone via Kensal Green\, Willesden Junction (Harrow Road)\, Harlesden (Jubilee Clock / Manor Park Road)\, Stonebridge Park (Harrow Road)\, Wembley Central (Park Lane and Station)\, North Wembley\, Preston Road (for Metropolitan line and South Kenton) and Kenton.
 DTEND:20260810T002900Z
 DTSTART:20260808T033000Z
 SUMMARY:Bakerloo: Part Closure
-UID:f54933b6-1e79-4504-9ce3-e6ad7be35ea3@f549.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-31T09:23:33&endDate=2026-07-31T12:33:08">Disruption map.</a>\n\nBakerloo Line: No service between Lambeth North and Elephant & Castle while fix a track fault at Elephant & Castle. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line due to train cancellations. 
-DTEND:20260731T123308Z
-DTSTART:20260731T092333Z
-SUMMARY:Bakerloo: Part Suspended
-UID:65d8f4a6-027a-41a5-a5d8-748274f61b4d@65d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-07-31T09:23:33&endDate=2026-08-01T00:29:00">Disruption map.</a>\n\nBakerloo Line: No service between Lambeth North and Elephant & Castle while fix a track fault at Elephant & Castle. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line due to train cancellations. 
-DTEND:20260801T002900Z
-DTSTART:20260731T092333Z
-SUMMARY:Bakerloo: Minor Delays
-UID:dfbd5dc1-2230-4b2f-827d-ace14d964a8a@dfbd.org
+UID:4406ddcd-a46a-4d20-83b0-4cb1f44f1c95@4406.org
 END:VEVENT
 END:VCALENDAR
