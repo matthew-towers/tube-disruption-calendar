@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-05T10:02:17&endDate=2026-08-06T00:29:00">Disruption map.</a>\n\nMetropolitan Line: Minor delays between Moor Park and Amersham/Chesham while we fix a signal failure at Chorleywood. GOOD SERVICE on the rest of the line.  
+DTEND:20260806T002900Z
+DTSTART:20260805T100217Z
+SUMMARY:Metropolitan: Minor Delays
+UID:ff7f646e-4940-4a48-9f5d-e6bee9fdd16e@ff7f.org
+END:VEVENT
 END:VCALENDAR
