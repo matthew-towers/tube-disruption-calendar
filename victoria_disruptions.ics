@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Victoria disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-06T10:25:14&endDate=2026-08-07T00:29:00">Disruption map.</a>\n\nVictoria Line: Minor delays between Victoria and Brixton due to an earlier faulty train at Green Park. GOOD SERVICE on the rest of the line.  
+DTEND:20260807T002900Z
+DTSTART:20260806T102514Z
+SUMMARY:Victoria: Minor Delays
+UID:73deae51-4939-4e7f-943f-0959d97fd41c@73de.org
+END:VEVENT
 END:VCALENDAR
