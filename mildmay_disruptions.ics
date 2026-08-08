@@ -3,206 +3,220 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Mildmay line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-14T05:45:00&endDate=2026-08-14T06:45:00">Disruption map.</a>\n\nMILDMAY LINE: Tuesday 11\, Wednesday 12\, Thursday 13 and Friday 14 August\, the 0651 train from Stratford to Richmond will start from Acton Central at 0743.
-DTEND:20260814T064500Z
-DTSTART:20260814T054500Z
-SUMMARY:Mildmay line: Reduced Service
-UID:c2dfcbd8-5fea-4190-bc40-acf2bfa78aac@c2df.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-13T20:30:00&endDate=2026-08-13T22:30:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 10\, Tuesday 11\, Wednesday 12 and Thursday 13 August\, the 2148 train from Richmond to Stratford and 2203 and 2234 trains from Clapham Junction to Stratford will terminate at Willesden Junction. The 2300 train from Stratford to Richmond will not run
-DTEND:20260813T223000Z
-DTSTART:20260813T203000Z
-SUMMARY:Mildmay line: Reduced Service
-UID:3b13fd6c-c113-4fa1-b567-5d38dae6198b@3b13.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-10T04:55:00&endDate=2026-08-10T05:30:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 10\, Tuesday 11\, Wednesday 12\, Thursday 13 and Friday 14 August\, the 0558 first train from Richmond to Stratford will start from Camden Road at 0636. Customers from Richmond should use the next train at 0608.
-DTEND:20260810T053000Z
-DTSTART:20260810T045500Z
-SUMMARY:Mildmay line: Reduced Service
-UID:915fdc59-9b46-45e9-9d24-b50b8213441a@915f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-11T03:30:00&endDate=2026-08-11T05:15:00">Disruption map.</a>\n\nMILDMAY LINE: Tuesday 11\, Wednesday 12\, Thursday 13 and Friday 14 August\, until 0615\, no service southbound from Willesden Junction to Shepherd's Bush. The 0552 first train from Willesden Junction to Clapham Junction starts from Shepherd's Bush at 0600 and the 0608 second train from Willesden Junction to Clapham Junction does not run. Use the next service at 0623 or local bus routes 220 or 228. The 0611 train from Stratford to Clapham Junction will start from Shepherd's Bush at 07:01. (Train normally runs from Stratford\, but NLL service will not run)
-DTEND:20260811T051500Z
-DTSTART:20260811T033000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-13T22:45:00&endDate=2026-08-14T00:29:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 10\, Tuesday 11\, Wednesday 12 and Thursday 13 August\, after 2345 each evening\, no westbound service from Camden Road to Willesden Junction. The 2359 and 0015 services from Stratford will terminate at Camden Road. Use London Overground services from Euston to Willesden Junction\, Northern line from Camden Town\, or local bus routes 1\, 24\, 46 88 and 214 from Camden Road / Camden Town.
+DTEND:20260814T002900Z
+DTSTART:20260813T224500Z
 SUMMARY:Mildmay line: Part Closure
-UID:4a91bbc3-ec0e-4b6d-885f-e95ed5f6312f@4a91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-16T03:30:00&endDate=2026-08-17T00:29:00">Disruption map.</a>\n\nMILDMAY LINE: Sunday 16 August\, a reduced service will run between Shepherds Bush and Clapham Junction. Trains will use platform 17 at Clapham Junction and will run an uneven service every 15/30 minutes\, with additional Southern Railway services. Southern Railway services will terminate at Shepherd's Bush until 1200. Please note that on this day\, there will be no step-free access via the Grant Road entrance\, please use the Brighton Yard entrance instead.
-DTEND:20260817T002900Z
-DTSTART:20260816T033000Z
-SUMMARY:Mildmay line: Reduced Service
-UID:9d577aac-cd28-4827-a0b9-718c99f7c17a@9d57.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-07T20:55:00&endDate=2026-08-07T22:30:00">Disruption map.</a>\n\nMILDMAY LINE: Friday 7 August\, the 2159 train from Stratford to Richmond will terminate at Camden Road at 2219 and the 2318 train from Richmond to Willesden Junction will not run.
-DTEND:20260807T223000Z
-DTSTART:20260807T205500Z
-SUMMARY:Mildmay line: Reduced Service
-UID:c56a36c8-7fc4-4cbc-aaf0-24032f9f8f91@c56a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-14T03:30:00&endDate=2026-08-14T05:15:00">Disruption map.</a>\n\nMILDMAY LINE: Tuesday 11\, Wednesday 12\, Thursday 13 and Friday 14 August\, until 0615\, no service southbound from Willesden Junction to Shepherd's Bush. The 0552 first train from Willesden Junction to Clapham Junction starts from Shepherd's Bush at 0600 and the 0608 second train from Willesden Junction to Clapham Junction does not run. Use the next service at 0623 or local bus routes 220 or 228. The 0611 train from Stratford to Clapham Junction will start from Shepherd's Bush at 07:01. (Train normally runs from Stratford\, but NLL service will not run)
-DTEND:20260814T051500Z
-DTSTART:20260814T033000Z
-SUMMARY:Mildmay line: Part Closure
-UID:144ed54c-2222-461c-9053-5991a09296b0@144e.org
+UID:65d5553f-5a88-43a5-87a8-935f9b8c2fc7@65d5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-11T20:30:00&endDate=2026-08-11T22:30:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 10\, Tuesday 11\, Wednesday 12 and Thursday 13 August\, the 2148 train from Richmond to Stratford and 2203 and 2234 trains from Clapham Junction to Stratford will terminate at Willesden Junction. The 2300 train from Stratford to Richmond will not run
 DTEND:20260811T223000Z
 DTSTART:20260811T203000Z
 SUMMARY:Mildmay line: Reduced Service
-UID:f2ece50e-f693-42fb-8cdd-9ce66fc1ea42@f2ec.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-09T03:30:00&endDate=2026-08-10T00:29:00">Disruption map.</a>\n\nMILDMAY LINE: Sunday 9 August\, a reduced service will run between Shepherds Bush and Clapham Junction. Trains will use platform 17 at Clapham Junction and will run an uneven service every 15/30 minutes\, with additional Southern Railway services. Southern Railway services will terminate at Shepherd's Bush until 1200. Please note that on this day\, there will be no step-free access via the Grant Road entrance\, please use the Brighton Yard entrance instead. In addition\, the 0848 Willesden Junction to Clapham Junction\, 0915 Gospel Oak to Clapham Junction and 0956 Camden Road to Clapham Junction trains all start at Willesden Junction. The 0951 Camden Road to Richmond train does not run.
-DTEND:20260810T002900Z
-DTSTART:20260809T033000Z
-SUMMARY:Mildmay line: Reduced Service
-UID:286ef021-7a00-4208-960b-7c9bb84f9f8c@286e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-08T20:00:00&endDate=2026-08-08T22:45:00">Disruption map.</a>\n\nMILDMAY LINE: Saturday 8 August\, the 2104 and 2234 Clapham Junction to Stratford trains terminate at Willesden Junction. The 2319 Clapham Junction to Willesden Junction train will not run.
-DTEND:20260808T224500Z
-DTSTART:20260808T200000Z
-SUMMARY:Mildmay line: Reduced Service
-UID:3989d6c2-bc1c-4ec5-91e3-76b785bfb71c@3989.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-13T03:30:00&endDate=2026-08-13T05:15:00">Disruption map.</a>\n\nMILDMAY LINE: Tuesday 11\, Wednesday 12\, Thursday 13 and Friday 14 August\, until 0615\, no service southbound from Willesden Junction to Shepherd's Bush. The 0552 first train from Willesden Junction to Clapham Junction starts from Shepherd's Bush at 0600 and the 0608 second train from Willesden Junction to Clapham Junction does not run. Use the next service at 0623 or local bus routes 220 or 228. The 0611 train from Stratford to Clapham Junction will start from Shepherd's Bush at 07:01. (Train normally runs from Stratford\, but NLL service will not run)
-DTEND:20260813T051500Z
-DTSTART:20260813T033000Z
-SUMMARY:Mildmay line: Part Closure
-UID:c8a20773-1de3-4bd4-a689-62f87ad0c405@c8a2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-12T05:45:00&endDate=2026-08-12T06:45:00">Disruption map.</a>\n\nMILDMAY LINE: Tuesday 11\, Wednesday 12\, Thursday 13 and Friday 14 August\, the 0651 train from Stratford to Richmond will start from Acton Central at 0743.
-DTEND:20260812T064500Z
-DTSTART:20260812T054500Z
-SUMMARY:Mildmay line: Reduced Service
-UID:c747c70a-1320-4099-a733-6ee9830ca598@c747.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-11T22:45:00&endDate=2026-08-12T00:29:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 10\, Tuesday 11\, Wednesday 12 and Thursday 13 August\, after 2345 each evening\, no westbound service from Camden Road to Willesden Junction. The 2359 and 0015 services from Stratford will terminate at Camden Road. Use London Overground services from Euston to Willesden Junction\, Northern line from Camden Town\, or local bus routes 1\, 24\, 46 88 and 214 from Camden Road / Camden Town.
-DTEND:20260812T002900Z
-DTSTART:20260811T224500Z
-SUMMARY:Mildmay line: Part Closure
-UID:bfd82a21-0b47-46f4-bd19-e43191677ade@bfd8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-12T22:45:00&endDate=2026-08-13T00:29:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 10\, Tuesday 11\, Wednesday 12 and Thursday 13 August\, after 2345 each evening\, no westbound service from Camden Road to Willesden Junction. The 2359 and 0015 services from Stratford will terminate at Camden Road. Use London Overground services from Euston to Willesden Junction\, Northern line from Camden Town\, or local bus routes 1\, 24\, 46 88 and 214 from Camden Road / Camden Town.
-DTEND:20260813T002900Z
-DTSTART:20260812T224500Z
-SUMMARY:Mildmay line: Part Closure
-UID:72dafc16-57ac-4c03-9fbd-e23fdc11acf4@72da.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-16T03:30:00&endDate=2026-08-17T00:29:00">Disruption map.</a>\n\nMILDMAY LINE: Sunday 16 August\, a reduced service will run between Camden Road and Willesden Junction. Trains will run every 15 minutes.
-DTEND:20260817T002900Z
-DTSTART:20260816T033000Z
-SUMMARY:Mildmay line: Reduced Service
-UID:d8f8fe1e-4772-4412-96b9-21eedceb5645@d8f8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-11T05:45:00&endDate=2026-08-11T06:45:00">Disruption map.</a>\n\nMILDMAY LINE: Tuesday 11\, Wednesday 12\, Thursday 13 and Friday 14 August\, the 0651 train from Stratford to Richmond will start from Acton Central at 0743.
-DTEND:20260811T064500Z
-DTSTART:20260811T054500Z
-SUMMARY:Mildmay line: Reduced Service
-UID:1f3e294b-82c0-4124-87a0-6867b479ab25@1f3e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-10T20:30:00&endDate=2026-08-10T22:30:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 10\, Tuesday 11\, Wednesday 12 and Thursday 13 August\, the 2148 train from Richmond to Stratford and 2203 and 2234 trains from Clapham Junction to Stratford will terminate at Willesden Junction. The 2300 train from Stratford to Richmond will not run
-DTEND:20260810T223000Z
-DTSTART:20260810T203000Z
-SUMMARY:Mildmay line: Reduced Service
-UID:0d41aee6-90ae-408a-88e8-bf8eeda5f504@0d41.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-15T22:30:00&endDate=2026-08-15T22:59:00">Disruption map.</a>\n\nMILDMAY LINE: Saturday 15 August\, the 2259 train from Stratford to Richmond will terminate at Willesden Junction at 2342
-DTEND:20260815T225900Z
-DTSTART:20260815T223000Z
-SUMMARY:Mildmay line: Reduced Service
-UID:410af438-1718-483c-97a8-42c5ffd7fda9@410a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-12T04:55:00&endDate=2026-08-12T05:30:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 10\, Tuesday 11\, Wednesday 12\, Thursday 13 and Friday 14 August\, the 0558 first train from Richmond to Stratford will start from Camden Road at 0636. Customers from Richmond should use the next train at 0608.
-DTEND:20260812T053000Z
-DTSTART:20260812T045500Z
-SUMMARY:Mildmay line: Reduced Service
-UID:2a07ffa0-7a07-46b2-b56c-3aff1601d985@2a07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-10T22:45:00&endDate=2026-08-11T00:29:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 10\, Tuesday 11\, Wednesday 12 and Thursday 13 August\, after 2345 each evening\, no westbound service from Camden Road to Willesden Junction. The 2359 and 0015 services from Stratford will terminate at Camden Road. Use London Overground services from Euston to Willesden Junction\, Northern line from Camden Town\, or local bus routes 1\, 24\, 46 88 and 214 from Camden Road / Camden Town.
-DTEND:20260811T002900Z
-DTSTART:20260810T224500Z
-SUMMARY:Mildmay line: Part Closure
-UID:f066b035-0288-4259-a870-8de7016fdcbd@f066.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-11T04:55:00&endDate=2026-08-11T05:30:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 10\, Tuesday 11\, Wednesday 12\, Thursday 13 and Friday 14 August\, the 0558 first train from Richmond to Stratford will start from Camden Road at 0636. Customers from Richmond should use the next train at 0608.
-DTEND:20260811T053000Z
-DTSTART:20260811T045500Z
-SUMMARY:Mildmay line: Reduced Service
-UID:a9d89576-20a6-4baf-adb4-12b3cb59ae18@a9d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-14T04:55:00&endDate=2026-08-14T05:30:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 10\, Tuesday 11\, Wednesday 12\, Thursday 13 and Friday 14 August\, the 0558 first train from Richmond to Stratford will start from Camden Road at 0636. Customers from Richmond should use the next train at 0608.
-DTEND:20260814T053000Z
-DTSTART:20260814T045500Z
-SUMMARY:Mildmay line: Reduced Service
-UID:88be434b-c85c-4e49-b387-7179c781e323@88be.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-13T22:45:00&endDate=2026-08-14T00:29:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 10\, Tuesday 11\, Wednesday 12 and Thursday 13 August\, after 2345 each evening\, no westbound service from Camden Road to Willesden Junction. The 2359 and 0015 services from Stratford will terminate at Camden Road. Use London Overground services from Euston to Willesden Junction\, Northern line from Camden Town\, or local bus routes 1\, 24\, 46 88 and 214 from Camden Road / Camden Town.
-DTEND:20260814T002900Z
-DTSTART:20260813T224500Z
-SUMMARY:Mildmay line: Part Closure
-UID:f0721f70-f652-4a1f-96d6-eb92e9ee02b6@f072.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-13T04:55:00&endDate=2026-08-13T05:30:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 10\, Tuesday 11\, Wednesday 12\, Thursday 13 and Friday 14 August\, the 0558 first train from Richmond to Stratford will start from Camden Road at 0636. Customers from Richmond should use the next train at 0608.
-DTEND:20260813T053000Z
-DTSTART:20260813T045500Z
-SUMMARY:Mildmay line: Reduced Service
-UID:ffb69fa6-29a9-436b-89f1-98714725746d@ffb6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-12T20:30:00&endDate=2026-08-12T22:30:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 10\, Tuesday 11\, Wednesday 12 and Thursday 13 August\, the 2148 train from Richmond to Stratford and 2203 and 2234 trains from Clapham Junction to Stratford will terminate at Willesden Junction. The 2300 train from Stratford to Richmond will not run
-DTEND:20260812T223000Z
-DTSTART:20260812T203000Z
-SUMMARY:Mildmay line: Reduced Service
-UID:90fbbf5e-e3b2-45c4-bf9b-7f9642727c48@90fb.org
+UID:9c19a064-bacc-4bbe-9401-5211854745ba@9c19.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-13T05:45:00&endDate=2026-08-13T06:45:00">Disruption map.</a>\n\nMILDMAY LINE: Tuesday 11\, Wednesday 12\, Thursday 13 and Friday 14 August\, the 0651 train from Stratford to Richmond will start from Acton Central at 0743.
 DTEND:20260813T064500Z
 DTSTART:20260813T054500Z
 SUMMARY:Mildmay line: Reduced Service
-UID:b1f6b9be-af4f-4545-9768-5438876d82d8@b1f6.org
+UID:ff361e15-7926-4e9e-82f3-82a217cf6c3b@ff36.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-12T03:30:00&endDate=2026-08-12T05:15:00">Disruption map.</a>\n\nMILDMAY LINE: Tuesday 11\, Wednesday 12\, Thursday 13 and Friday 14 August\, until 0615\, no service southbound from Willesden Junction to Shepherd's Bush. The 0552 first train from Willesden Junction to Clapham Junction starts from Shepherd's Bush at 0600 and the 0608 second train from Willesden Junction to Clapham Junction does not run. Use the next service at 0623 or local bus routes 220 or 228. The 0611 train from Stratford to Clapham Junction will start from Shepherd's Bush at 07:01. (Train normally runs from Stratford\, but NLL service will not run)
 DTEND:20260812T051500Z
 DTSTART:20260812T033000Z
 SUMMARY:Mildmay line: Part Closure
-UID:60b4fa5d-7d2f-434a-9627-c51ebf7da3b3@60b4.org
+UID:7ab924dc-5222-41d6-84ad-fa0f023bff0f@7ab9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-16T03:30:00&endDate=2026-08-17T00:29:00">Disruption map.</a>\n\nMILDMAY LINE: Sunday 16 August\, a reduced service will run between Shepherds Bush and Clapham Junction. Trains will use platform 17 at Clapham Junction and will run an uneven service every 15/30 minutes\, with additional Southern Railway services. Southern Railway services will terminate at Shepherd's Bush until 1200. Please note that on this day\, there will be no step-free access via the Grant Road entrance\, please use the Brighton Yard entrance instead.
+DTEND:20260817T002900Z
+DTSTART:20260816T033000Z
+SUMMARY:Mildmay line: Reduced Service
+UID:828354a6-b3d2-4c3b-82a7-73312655923e@8283.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-08T20:00:00&endDate=2026-08-08T22:45:00">Disruption map.</a>\n\nMILDMAY LINE: Saturday 8 August\, the 2104 and 2234 Clapham Junction to Stratford trains terminate at Willesden Junction. The 2319 Clapham Junction to Willesden Junction train will not run.
+DTEND:20260808T224500Z
+DTSTART:20260808T200000Z
+SUMMARY:Mildmay line: Reduced Service
+UID:5c33a9cf-9e1b-4029-ad7c-d130861e5709@5c33.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-12T22:45:00&endDate=2026-08-13T00:29:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 10\, Tuesday 11\, Wednesday 12 and Thursday 13 August\, after 2345 each evening\, no westbound service from Camden Road to Willesden Junction. The 2359 and 0015 services from Stratford will terminate at Camden Road. Use London Overground services from Euston to Willesden Junction\, Northern line from Camden Town\, or local bus routes 1\, 24\, 46 88 and 214 from Camden Road / Camden Town.
+DTEND:20260813T002900Z
+DTSTART:20260812T224500Z
+SUMMARY:Mildmay line: Part Closure
+UID:f15f71e6-a3d0-4de7-a185-862fc1ef0ebf@f15f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-14T05:45:00&endDate=2026-08-14T06:45:00">Disruption map.</a>\n\nMILDMAY LINE: Tuesday 11\, Wednesday 12\, Thursday 13 and Friday 14 August\, the 0651 train from Stratford to Richmond will start from Acton Central at 0743.
+DTEND:20260814T064500Z
+DTSTART:20260814T054500Z
+SUMMARY:Mildmay line: Reduced Service
+UID:06b228b3-7b2a-4099-84b4-ea3f654d8440@06b2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-15T22:30:00&endDate=2026-08-15T22:59:00">Disruption map.</a>\n\nMILDMAY LINE: Saturday 15 August\, the 2259 train from Stratford to Richmond will terminate at Willesden Junction at 2342
+DTEND:20260815T225900Z
+DTSTART:20260815T223000Z
+SUMMARY:Mildmay line: Reduced Service
+UID:98437ed9-3e3e-44a8-b31b-18e62e947174@9843.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-23T03:30:00&endDate=2026-08-23T08:30:00">Disruption map.</a>\n\nMILDMAY LINE: Sunday 23 August\, until 0930\, no service between Clapham Junction and Willesden Junction. Use local buses via any reasonable route. First through trains: Clapham Junction to Willesden Junction / Stratford 0959\; Willesden Junction to Clapham Junction 0918. Southern Railway services will also not run during this time. In addition\, the 0915 Gospel Oak to Clapham Junction train starts from Shepherds Bush and the 0931 Stratford to Richmond train starts at Willesden Junction
+DTEND:20260823T083000Z
+DTSTART:20260823T033000Z
+SUMMARY:Mildmay line: Part Closure
+UID:19ed13e3-7e6e-40e0-947d-932fe8cf29b9@19ed.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-16T03:30:00&endDate=2026-08-17T00:29:00">Disruption map.</a>\n\nMILDMAY LINE: Sunday 16 August\, a reduced service will run between Camden Road and Willesden Junction. Trains will run every 15 minutes.
+DTEND:20260817T002900Z
+DTSTART:20260816T033000Z
+SUMMARY:Mildmay line: Reduced Service
+UID:460f0348-8391-4240-9b72-81d87bec7ded@460f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-22T20:00:00&endDate=2026-08-22T22:45:00">Disruption map.</a>\n\nMILDMAY LINE: Saturday 22 August\, the 2104 and 2234 Clapham Junction to Stratford trains terminate at Willesden Junction. The 2319 Clapham Junction to Willesden Junction train will not run.
+DTEND:20260822T224500Z
+DTSTART:20260822T200000Z
+SUMMARY:Mildmay line: Reduced Service
+UID:0f78c9df-3841-4acc-9ecb-dfb5b8d610ab@0f78.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-16T03:30:00&endDate=2026-08-17T00:29:00">Disruption map.</a>\n\nMILDMAY LINE: Sunday 16 August\, no service between Willesden Junction and Richmond. There will also be no DISTRICT LINE service between Turnham Green and Richmond. Replacement bus service DL3 operates between Willesden Junction and Richmond via Acton Central (The Vale)\, South Acton (Acton Lane)\, Turnham Green\, Chiswick Park\, Gunnersbury and Kew Gardens (Royal Botanic Gardens).
 DTEND:20260817T002900Z
 DTSTART:20260816T033000Z
 SUMMARY:Mildmay line: Part Closure
-UID:4622ad56-5957-49ea-80f9-543fff7479e4@4622.org
+UID:ba5f3bdc-2bbf-4920-a9ca-ddc812a284a6@ba5f.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-07T08:59:26&endDate=2026-08-08T00:29:00">Disruption map.</a>\n\nMildmay Line: Minor delays between Willesden Junction and Stratford while we fix fault with the signalling system at Stratford. GOOD SERVICE on the rest of the line.  
-DTEND:20260808T002900Z
-DTSTART:20260807T085926Z
-SUMMARY:Mildmay line: Minor Delays
-UID:db2eb809-cb1b-49a9-931d-5f6d951638e1@db2e.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-23T21:15:00&endDate=2026-08-24T00:29:00">Disruption map.</a>\n\nMILDMAY LINE: Sunday 23 August\, from 2215\, no service between Camden Road and Stratford. There will also be no WINDRUSH LINE service between Highbury & Islington and Dalston Junction. The 2140 Richmond to Gospel Oak train terminates at Willesden Junction. Replacement buses operate. Last through trains are 2126 Richmond to Stratford\; 2203 Camden Road to Stratford\; 2201 Stratford to Richmond\; 2208 Stratford to Clapham Junction
+DTEND:20260824T002900Z
+DTSTART:20260823T211500Z
+SUMMARY:Mildmay line: Part Closure
+UID:15fa6a96-7919-45bc-956c-03d506e8dcfb@15fa.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-10T20:30:00&endDate=2026-08-10T22:30:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 10\, Tuesday 11\, Wednesday 12 and Thursday 13 August\, the 2148 train from Richmond to Stratford and 2203 and 2234 trains from Clapham Junction to Stratford will terminate at Willesden Junction. The 2300 train from Stratford to Richmond will not run
+DTEND:20260810T223000Z
+DTSTART:20260810T203000Z
+SUMMARY:Mildmay line: Reduced Service
+UID:93f1f233-c938-404d-bfea-37a7cd4812d8@93f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-13T03:30:00&endDate=2026-08-13T05:15:00">Disruption map.</a>\n\nMILDMAY LINE: Tuesday 11\, Wednesday 12\, Thursday 13 and Friday 14 August\, until 0615\, no service southbound from Willesden Junction to Shepherd's Bush. The 0552 first train from Willesden Junction to Clapham Junction starts from Shepherd's Bush at 0600 and the 0608 second train from Willesden Junction to Clapham Junction does not run. Use the next service at 0623 or local bus routes 220 or 228. The 0611 train from Stratford to Clapham Junction will start from Shepherd's Bush at 07:01. (Train normally runs from Stratford\, but NLL service will not run)
+DTEND:20260813T051500Z
+DTSTART:20260813T033000Z
+SUMMARY:Mildmay line: Part Closure
+UID:dba96a60-7a4f-45b6-8405-834a6368d6d9@dba9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-12T20:30:00&endDate=2026-08-12T22:30:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 10\, Tuesday 11\, Wednesday 12 and Thursday 13 August\, the 2148 train from Richmond to Stratford and 2203 and 2234 trains from Clapham Junction to Stratford will terminate at Willesden Junction. The 2300 train from Stratford to Richmond will not run
+DTEND:20260812T223000Z
+DTSTART:20260812T203000Z
+SUMMARY:Mildmay line: Reduced Service
+UID:e9fbe6c7-1724-431b-9208-d4a99750ffb4@e9fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-09T03:30:00&endDate=2026-08-10T00:29:00">Disruption map.</a>\n\nMILDMAY LINE: Sunday 9 August\, a reduced service will run between Shepherds Bush and Clapham Junction. Trains will use platform 17 at Clapham Junction and will run an uneven service every 15/30 minutes\, with additional Southern Railway services. Southern Railway services will terminate at Shepherd's Bush until 1200. Please note that on this day\, there will be no step-free access via the Grant Road entrance\, please use the Brighton Yard entrance instead. In addition\, the 0848 Willesden Junction to Clapham Junction\, 0915 Gospel Oak to Clapham Junction and 0956 Camden Road to Clapham Junction trains all start at Willesden Junction. The 0951 Camden Road to Richmond train does not run.
+DTEND:20260810T002900Z
+DTSTART:20260809T033000Z
+SUMMARY:Mildmay line: Reduced Service
+UID:aeafad1b-ac66-4c0c-bea8-cb817d2af98e@aeaf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-11T03:30:00&endDate=2026-08-11T05:15:00">Disruption map.</a>\n\nMILDMAY LINE: Tuesday 11\, Wednesday 12\, Thursday 13 and Friday 14 August\, until 0615\, no service southbound from Willesden Junction to Shepherd's Bush. The 0552 first train from Willesden Junction to Clapham Junction starts from Shepherd's Bush at 0600 and the 0608 second train from Willesden Junction to Clapham Junction does not run. Use the next service at 0623 or local bus routes 220 or 228. The 0611 train from Stratford to Clapham Junction will start from Shepherd's Bush at 07:01. (Train normally runs from Stratford\, but NLL service will not run)
+DTEND:20260811T051500Z
+DTSTART:20260811T033000Z
+SUMMARY:Mildmay line: Part Closure
+UID:54098883-23bf-4fd8-b2b3-48bd04679a5c@5409.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-10T04:55:00&endDate=2026-08-10T05:30:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 10\, Tuesday 11\, Wednesday 12\, Thursday 13 and Friday 14 August\, the 0558 first train from Richmond to Stratford will start from Camden Road at 0636. Customers from Richmond should use the next train at 0608.
+DTEND:20260810T053000Z
+DTSTART:20260810T045500Z
+SUMMARY:Mildmay line: Reduced Service
+UID:f9f7d0db-cfb8-456c-9db7-bd53e5fa8809@f9f7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-11T22:45:00&endDate=2026-08-12T00:29:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 10\, Tuesday 11\, Wednesday 12 and Thursday 13 August\, after 2345 each evening\, no westbound service from Camden Road to Willesden Junction. The 2359 and 0015 services from Stratford will terminate at Camden Road. Use London Overground services from Euston to Willesden Junction\, Northern line from Camden Town\, or local bus routes 1\, 24\, 46 88 and 214 from Camden Road / Camden Town.
+DTEND:20260812T002900Z
+DTSTART:20260811T224500Z
+SUMMARY:Mildmay line: Part Closure
+UID:aaa024ae-a6d1-465c-b06a-cf7afd318197@aaa0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-12T05:45:00&endDate=2026-08-12T06:45:00">Disruption map.</a>\n\nMILDMAY LINE: Tuesday 11\, Wednesday 12\, Thursday 13 and Friday 14 August\, the 0651 train from Stratford to Richmond will start from Acton Central at 0743.
+DTEND:20260812T064500Z
+DTSTART:20260812T054500Z
+SUMMARY:Mildmay line: Reduced Service
+UID:abba96c8-5480-491d-be81-4c93cf25fe1a@abba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-13T20:30:00&endDate=2026-08-13T22:30:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 10\, Tuesday 11\, Wednesday 12 and Thursday 13 August\, the 2148 train from Richmond to Stratford and 2203 and 2234 trains from Clapham Junction to Stratford will terminate at Willesden Junction. The 2300 train from Stratford to Richmond will not run
+DTEND:20260813T223000Z
+DTSTART:20260813T203000Z
+SUMMARY:Mildmay line: Reduced Service
+UID:f8f6a5d9-5f49-459a-b1db-603f8571b30f@f8f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-11T05:45:00&endDate=2026-08-11T06:45:00">Disruption map.</a>\n\nMILDMAY LINE: Tuesday 11\, Wednesday 12\, Thursday 13 and Friday 14 August\, the 0651 train from Stratford to Richmond will start from Acton Central at 0743.
+DTEND:20260811T064500Z
+DTSTART:20260811T054500Z
+SUMMARY:Mildmay line: Reduced Service
+UID:70705139-3658-496f-854c-fc25d3d8b36b@7070.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-14T04:55:00&endDate=2026-08-14T05:30:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 10\, Tuesday 11\, Wednesday 12\, Thursday 13 and Friday 14 August\, the 0558 first train from Richmond to Stratford will start from Camden Road at 0636. Customers from Richmond should use the next train at 0608.
+DTEND:20260814T053000Z
+DTSTART:20260814T045500Z
+SUMMARY:Mildmay line: Reduced Service
+UID:d84a8768-ce7d-4acb-bcf1-8821572df86c@d84a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-13T04:55:00&endDate=2026-08-13T05:30:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 10\, Tuesday 11\, Wednesday 12\, Thursday 13 and Friday 14 August\, the 0558 first train from Richmond to Stratford will start from Camden Road at 0636. Customers from Richmond should use the next train at 0608.
+DTEND:20260813T053000Z
+DTSTART:20260813T045500Z
+SUMMARY:Mildmay line: Reduced Service
+UID:851d668b-50e9-4755-b75b-36fed8ca80f5@851d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-14T03:30:00&endDate=2026-08-14T05:15:00">Disruption map.</a>\n\nMILDMAY LINE: Tuesday 11\, Wednesday 12\, Thursday 13 and Friday 14 August\, until 0615\, no service southbound from Willesden Junction to Shepherd's Bush. The 0552 first train from Willesden Junction to Clapham Junction starts from Shepherd's Bush at 0600 and the 0608 second train from Willesden Junction to Clapham Junction does not run. Use the next service at 0623 or local bus routes 220 or 228. The 0611 train from Stratford to Clapham Junction will start from Shepherd's Bush at 07:01. (Train normally runs from Stratford\, but NLL service will not run)
+DTEND:20260814T051500Z
+DTSTART:20260814T033000Z
+SUMMARY:Mildmay line: Part Closure
+UID:df980f87-3553-499a-898e-4bdb33374dee@df98.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-11T04:55:00&endDate=2026-08-11T05:30:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 10\, Tuesday 11\, Wednesday 12\, Thursday 13 and Friday 14 August\, the 0558 first train from Richmond to Stratford will start from Camden Road at 0636. Customers from Richmond should use the next train at 0608.
+DTEND:20260811T053000Z
+DTSTART:20260811T045500Z
+SUMMARY:Mildmay line: Reduced Service
+UID:077e9726-4b58-4334-8f36-717a4f0b3d23@077e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-21T20:55:00&endDate=2026-08-21T22:30:00">Disruption map.</a>\n\nMILDMAY LINE: Friday 21 August\, the 2159 train from Stratford to Richmond will terminate at Camden Road at 2219 and the 2318 train from Richmond to Willesden Junction will not run.
+DTEND:20260821T223000Z
+DTSTART:20260821T205500Z
+SUMMARY:Mildmay line: Reduced Service
+UID:d1ea398e-1ec7-4a7c-84d3-9845a0669c25@d1ea.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-12T04:55:00&endDate=2026-08-12T05:30:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 10\, Tuesday 11\, Wednesday 12\, Thursday 13 and Friday 14 August\, the 0558 first train from Richmond to Stratford will start from Camden Road at 0636. Customers from Richmond should use the next train at 0608.
+DTEND:20260812T053000Z
+DTSTART:20260812T045500Z
+SUMMARY:Mildmay line: Reduced Service
+UID:dec34af7-26bd-449f-9b1a-f90ec556f58e@dec3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-10T22:45:00&endDate=2026-08-11T00:29:00">Disruption map.</a>\n\nMILDMAY LINE: Monday 10\, Tuesday 11\, Wednesday 12 and Thursday 13 August\, after 2345 each evening\, no westbound service from Camden Road to Willesden Junction. The 2359 and 0015 services from Stratford will terminate at Camden Road. Use London Overground services from Euston to Willesden Junction\, Northern line from Camden Town\, or local bus routes 1\, 24\, 46 88 and 214 from Camden Road / Camden Town.
+DTEND:20260811T002900Z
+DTSTART:20260810T224500Z
+SUMMARY:Mildmay line: Part Closure
+UID:4f199479-9c06-4012-a5f4-8dddfe6c5f2c@4f19.org
 END:VEVENT
 END:VCALENDAR

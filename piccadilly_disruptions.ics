@@ -2,4 +2,32 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-22T00:45:00&endDate=2026-08-22T03:45:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 22 August\, between 0145 and 0445\, no service on the entire line. Replacement bus services operate.
+DTEND:20260822T034500Z
+DTSTART:20260822T004500Z
+SUMMARY:Piccadilly: Part Closure
+UID:c57072ab-8e6c-4e63-a345-eca6df18a71d@c570.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-22T03:45:00&endDate=2026-08-22T13:00:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 22 August\, between 0445 and 1400\, no service between Hyde Park Corner and Acton Town. Replacement bus services operate.
+DTEND:20260822T130000Z
+DTSTART:20260822T034500Z
+SUMMARY:Piccadilly: Part Closure
+UID:213c8063-a2dc-4805-b7a3-0ccf159df826@213c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-18T03:30:00&endDate=2026-08-21T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Tuesday 18\, Wednesday 19 and Thursday 20 August\, no service between Cockfosters and Uxbridge. Trains will continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge and DISTRICT LINE trains between South Kensington and Ealing Common. Replacement buses operate.
+DTEND:20260821T002900Z
+DTSTART:20260818T033000Z
+SUMMARY:Piccadilly: Part Closure
+UID:dc8bb80f-45f6-4676-a7a0-d9c119862ecf@dc8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-25T03:30:00&endDate=2026-08-28T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Tuesday 25\, Wednesday 26 and Thursday 27 August\, no service between Cockfosters and Uxbridge. Trains will continue to operate between Acton Town and Heathrow. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge and DISTRICT LINE trains between South Kensington and Ealing Common. Replacement buses operate.
+DTEND:20260828T002900Z
+DTSTART:20260825T033000Z
+SUMMARY:Piccadilly: Part Closure
+UID:b8b0c5b7-b930-482c-8f63-61e0db612d93@b8b0.org
+END:VEVENT
 END:VCALENDAR

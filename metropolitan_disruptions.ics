@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-22T03:30:00&endDate=2026-08-22T09:30:00">Disruption map.</a>\n\nMETROPOLITAN LINE: Sunday 22 August\, until 1030\, no service between Harrow-on-the-Hill and Aldgate. Replacement bus service ML1 operates between Harrow-on-the-Hill and Wembley Park via Northwick Park Hospital (for Northwick Park) and Preston Road. Use JUBILEE LINE services between Wembley Park and Central London.
+DTEND:20260822T093000Z
+DTSTART:20260822T033000Z
+SUMMARY:Metropolitan: Part Closure
+UID:55ac7288-0102-43d7-9033-cbe1df58f5b3@55ac.org
+END:VEVENT
 END:VCALENDAR
