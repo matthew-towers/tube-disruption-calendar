@@ -3,17 +3,10 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-09T19:32:56&endDate=2026-08-10T00:29:00">Disruption map.</a>\n\nCentral Line: Severe delays between Leytonstone and Epping/ Hainault via Newbury Park and MINOR DELAYS on the rest of the line due to train cancellations. 
-DTEND:20260810T002900Z
-DTSTART:20260809T193256Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-10T08:39:29&endDate=2026-08-11T00:29:00">Disruption map.</a>\n\nCentral Line: Minor delays North Acton to West Ruislip / Ealing Broadway and  Leytonstone to Hainault via Newbury Park\, and Leytonstone to Epping due to train cancellations. 
+DTEND:20260811T002900Z
+DTSTART:20260810T083929Z
 SUMMARY:Central: Minor Delays
-UID:518bb965-862b-43e3-962a-10d7b0857de2@518b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-09T19:32:56&endDate=2026-08-10T00:29:00">Disruption map.</a>\n\nCentral Line: Severe delays between Leytonstone and Epping/ Hainault via Newbury Park and MINOR DELAYS on the rest of the line due to train cancellations. 
-DTEND:20260810T002900Z
-DTSTART:20260809T193256Z
-SUMMARY:Central: Severe Delays
-UID:513e5e7e-729f-47ea-be86-69e268cbbc2d@513e.org
+UID:dceea250-cffc-4f15-80f1-5a4ad83b2c06@dcee.org
 END:VEVENT
 END:VCALENDAR

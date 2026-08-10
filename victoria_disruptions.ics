@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Victoria disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-10T08:10:28&endDate=2026-08-11T00:29:00">Disruption map.</a>\n\nVictoria Line: Severe delays due to an earlier points failure at Brixton. London Underground tickets will be accepted on London Buses\, Weaver line\, Suffragette line\, South Western Railway\, Great Northern\, Thameslink\, Greater Anglia and Southeastern. 
+DTEND:20260811T002900Z
+DTSTART:20260810T081028Z
+SUMMARY:Victoria: Severe Delays
+UID:ee4e6584-a39f-4a7c-b96c-09826399a9a0@ee4e.org
+END:VEVENT
 END:VCALENDAR
