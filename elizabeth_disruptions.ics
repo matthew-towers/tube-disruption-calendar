@@ -3,31 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Elizabeth line disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-11T10:34:09&endDate=2026-08-12T00:29:00">Disruption map.</a>\n\nSevere delays between Hayes & Harlington and Heathrow Airport due to a tunnel being closed for safety reasons. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.  
+DTEND:20260812T002900Z
+DTSTART:20260811T103409Z
+SUMMARY:Elizabeth line: Severe Delays
+UID:db8d7ea3-e12e-463d-b072-31d5bc659acc@db8d.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-16T03:30:00&endDate=2026-08-16T08:00:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 16 August\, until 0900\, no service between West Drayton and Slough. Replacement bus service W1 operates between Hayes & Harlington and Slough via West Drayton and Langley. Buses will not call at Iver.
 DTEND:20260816T080000Z
 DTSTART:20260816T033000Z
 SUMMARY:Elizabeth line: Part Closure
-UID:8e6f439a-0aa7-4873-a881-227e1e671b23@8e6f.org
+UID:1d495839-6d26-4303-bf8d-a93a73c07938@1d49.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-23T03:30:00&endDate=2026-08-23T07:00:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 23 August\, until 0800\, no service between West Drayton and Maidenhead. Replacement bus service W1 operates between Hayes & Harlington and Slough via West Drayton and Langley. Buses will not call at Iver. Replacement bus service W3 operates between Slough and Maidenhead via Burnham and Taplow
 DTEND:20260823T070000Z
 DTSTART:20260823T033000Z
 SUMMARY:Elizabeth line: Part Closure
-UID:133112dc-7e5d-49fe-98b4-559f53e24658@1331.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-10T09:04:08&endDate=2026-08-11T00:29:00">Disruption map.</a>\n\nSevere delays between Hayes & Harlington and Heathrow Airport due to a tunnel being closed for safety reasons. Please use the Piccadilly line to travel between Heathrow Airport and Central London. MINOR DELAYS between Whitechapel and Shenfield while we fix a faulty train at Gidea Park. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground and London Buses. . 
-DTEND:20260811T002900Z
-DTSTART:20260810T090408Z
-SUMMARY:Elizabeth line: Minor Delays
-UID:2694d75c-6a73-4ed7-872c-d9e285b352a7@2694.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-10T09:04:08&endDate=2026-08-11T00:29:00">Disruption map.</a>\n\nSevere delays between Hayes & Harlington and Heathrow Airport due to a tunnel being closed for safety reasons. Please use the Piccadilly line to travel between Heathrow Airport and Central London. MINOR DELAYS between Whitechapel and Shenfield while we fix a faulty train at Gidea Park. GOOD SERVICE on the rest of the line. Tickets are being accepted on London Underground and London Buses. . 
-DTEND:20260811T002900Z
-DTSTART:20260810T090408Z
-SUMMARY:Elizabeth line: Severe Delays
-UID:4e64e1b1-cb4d-4079-b1b8-2cad08876e1f@4e64.org
+UID:376387d3-5a8d-47f8-a186-b2c1edf742f8@3763.org
 END:VEVENT
 END:VCALENDAR
