@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Elizabeth line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-11T10:34:09&endDate=2026-08-12T00:29:00">Disruption map.</a>\n\nSevere delays between Hayes & Harlington and Heathrow Airport due to a tunnel being closed for safety reasons. London Underground are accepting tickets via any reasonable route. GOOD SERVICE on the rest of the line.  
-DTEND:20260812T002900Z
-DTSTART:20260811T103409Z
-SUMMARY:Elizabeth line: Severe Delays
-UID:db8d7ea3-e12e-463d-b072-31d5bc659acc@db8d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-16T03:30:00&endDate=2026-08-16T08:00:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 16 August\, until 0900\, no service between West Drayton and Slough. Replacement bus service W1 operates between Hayes & Harlington and Slough via West Drayton and Langley. Buses will not call at Iver.
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-16T03:30:00&endDate=2026-08-16T08:00:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 16 August\, until 0900\, no service between West Drayton and Slough. Replacement bus service W1 operates between Hayes & Harlington and Slough via West Drayton and Langley. Buses will not call at Iver. In addition\, GWR trains at 0001 and 0049 from Paddington to Reading and at 0021 from Reading to Paddington will not call at Burnham and Taplow. Connecting replacement buses operate between Slough\, Burnham and Taplow.
 DTEND:20260816T080000Z
 DTSTART:20260816T033000Z
 SUMMARY:Elizabeth line: Part Closure
-UID:1d495839-6d26-4303-bf8d-a93a73c07938@1d49.org
+UID:61e93984-c5d1-4bf9-8418-33334bd25629@61e9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-23T03:30:00&endDate=2026-08-23T07:00:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 23 August\, until 0800\, no service between West Drayton and Maidenhead. Replacement bus service W1 operates between Hayes & Harlington and Slough via West Drayton and Langley. Buses will not call at Iver. Replacement bus service W3 operates between Slough and Maidenhead via Burnham and Taplow
 DTEND:20260823T070000Z
 DTSTART:20260823T033000Z
 SUMMARY:Elizabeth line: Part Closure
-UID:376387d3-5a8d-47f8-a186-b2c1edf742f8@3763.org
+UID:f0c04af9-8417-41c8-a3d0-c534b57852a6@f0c0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-12T09:16:48&endDate=2026-08-13T00:29:00">Disruption map.</a>\n\nMinor delays between Paddington and Heathrow Terminals / Reading due to an earlier signal system failure in the Ladbroke Grove area. GOOD SERVICE on the rest of the line.  
+DTEND:20260813T002900Z
+DTSTART:20260812T091648Z
+SUMMARY:Elizabeth line: Minor Delays
+UID:5e361025-0724-4cd0-814f-5c187cda6063@5e36.org
 END:VEVENT
 END:VCALENDAR
