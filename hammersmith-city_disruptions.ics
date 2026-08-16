@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Hammersmith & City disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-15T11:34:47&endDate=2026-08-16T00:29:00">Disruption map.</a>\n\nHammersmith and City Line: Minor delays due to an earlier points failure at Tower Hill.  
-DTEND:20260816T002900Z
-DTSTART:20260815T113447Z
-SUMMARY:Hammersmith & City: Minor Delays
-UID:9a82c566-c3e9-4213-8c66-58595c9a849e@9a82.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-22T03:30:00&endDate=2026-08-22T09:30:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Saturday 22 August\, until 1030\, no service on the entire line. Replacement bus services operate.
 DTEND:20260822T093000Z
 DTSTART:20260822T033000Z
 SUMMARY:Hammersmith & City: Planned Closure
-UID:664122e0-9ece-4a3a-9881-1342a9954a2e@6641.org
+UID:1f95d0e5-2a2e-4508-b2f5-e1a6032c892f@1f95.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-16T09:57:32&endDate=2026-08-17T00:29:00">Disruption map.</a>\n\nHammersmith and City Line: Minor delays between Liverpool Street and Barking due to train cancellations. GOOD SERVICE on the rest of the line. 
+DTEND:20260817T002900Z
+DTSTART:20260816T095732Z
+SUMMARY:Hammersmith & City: Minor Delays
+UID:4018b0f0-bcb1-4b14-9286-83d014e0f1fc@4018.org
 END:VEVENT
 END:VCALENDAR
