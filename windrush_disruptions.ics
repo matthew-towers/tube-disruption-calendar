@@ -3,31 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Windrush line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-17T05:59:00&endDate=2026-08-17T06:23:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 17 August\, the 0700 train from Clapham Junction to Dalston Junction will start from Surrey Quays at 0724.
-DTEND:20260817T062300Z
-DTSTART:20260817T055900Z
-SUMMARY:Windrush line: Reduced Service
-UID:656fa116-78df-4339-91bf-aee80096f689@656f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-15T23:00:00&endDate=2026-08-17T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 16 August\, no service between Wandsworth Road and Clapham Junction. Trains will divert to/from Battersea Park after Wandsworth Road. Use local buses via any reasonable route between Clapham Junction and Battersea Park / Surrey Quays or Southern trains between Battersea Park and Clapham Junction\, where tickets will be accepted. In addition\, the early Sunday morning train at 0001 from Highbury & Islington to Battersea Park will not run.
-DTEND:20260817T002900Z
-DTSTART:20260815T230000Z
-SUMMARY:Windrush line: Part Closure
-UID:18c39687-b1eb-4d89-b47e-26b86055f9bc@18c3.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-23T21:15:00&endDate=2026-08-24T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 23 August\, from 2215\, no service between Highbury & Islington and Dalston Kingsland. There will also be no MILDMAY LINE service between Camden Road and Stratford.
 DTEND:20260824T002900Z
 DTSTART:20260823T211500Z
 SUMMARY:Windrush line: Part Closure
-UID:6e244acc-53fe-4fac-bd22-7779189fdbe0@6e24.org
+UID:f11b1d5e-c393-4625-83b0-511ac2bc4bd0@f11b.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-23T03:30:00&endDate=2026-08-24T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 23 August\, no service between New Cross Gate and Crystal Palace / West Croydon. Use local London Buses or London Trams services. SOUTHERN services via Forest Hill will not operate.
 DTEND:20260824T002900Z
 DTSTART:20260823T033000Z
 SUMMARY:Windrush line: Part Closure
-UID:77a50186-79ac-4524-b3c7-e70ec03b21ac@77a5.org
+UID:a8d37bfe-a0aa-4278-8593-13a7bf3076b8@a8d3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-17T08:28:28&endDate=2026-08-18T00:29:00">Disruption map.</a>\n\nWindrush Line: Minor delays between Highbury & Islington and West Croydon / Clapham Junction due to train cancellations. GOOD SERVICE on the rest of the line. 
+DTEND:20260818T002900Z
+DTSTART:20260817T082828Z
+SUMMARY:Windrush line: Minor Delays
+UID:c13d277a-a56b-4051-8834-51d87959c6de@c13d.org
 END:VEVENT
 END:VCALENDAR
