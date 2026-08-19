@@ -3,59 +3,52 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-22T03:30:00&endDate=2026-08-22T09:30:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 22 August\, until 1030\, no service on the entire line. Replacement buses operate.
-DTEND:20260822T093000Z
-DTSTART:20260822T033000Z
-SUMMARY:District: Part Closure
-UID:5c60702d-e33d-480d-bc12-6ae69ee5c9ad@5c60.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-18T08:01:19&endDate=2026-08-18T12:04:26">Disruption map.</a>\n\nDistrict Line: No service between Turnham Green and Richmond while we fix a signal failure at Richmond. Tickets are being accepted on London Buses\, and South Western Railway. MINOR DELAYS on the rest of the line while we fix a track fault at Victoria. 
-DTEND:20260818T120426Z
-DTSTART:20260818T080119Z
-SUMMARY:District: Part Suspended
-UID:0bb26959-d17d-4f23-b6bb-85f094b5e79b@0bb2.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-22T13:00:00&endDate=2026-08-24T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 22 August\, from 1400\, and all day Sunday 23 August\, no service between Earls Court and Kensington (Olympia)
 DTEND:20260824T002900Z
 DTSTART:20260822T130000Z
 SUMMARY:District: Part Closure
-UID:01131153-1fa6-4edb-9cd1-0cedfbadb347@0113.org
+UID:89b3bec3-734f-4192-bca6-00da0fad4043@89b3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-22T09:30:00&endDate=2026-08-22T13:00:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 22 August\, between 1030 and 1400\, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Replacement buses operate.
 DTEND:20260822T130000Z
 DTSTART:20260822T093000Z
 SUMMARY:District: Part Closure
-UID:f3fefd57-e866-4e33-ad3c-20806d294770@f3fe.org
+UID:96ce1079-d76e-4837-ab11-8151ba3032b4@96ce.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-22T03:30:00&endDate=2026-08-22T09:30:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 22 August\, until 1030\, no service on the entire line. Replacement buses operate.
+DTEND:20260822T093000Z
+DTSTART:20260822T033000Z
+SUMMARY:District: Part Closure
+UID:3934c66e-43fa-4a6d-97b8-4aa4ccb81264@3934.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-22T13:00:00&endDate=2026-08-24T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 22 August\, from 1400\, and all day Sunday 23 August\, no service westbound from Earls Court to Stamford Brook. Replacement bus service DL1A operates from Hammersmith to Stamford Brook via Ravenscourt Park.
 DTEND:20260824T002900Z
 DTSTART:20260822T130000Z
 SUMMARY:District: Part Closure
-UID:133743f0-9fbe-4da9-be1a-cd7a44320078@1337.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-18T08:01:19&endDate=2026-08-19T00:29:00">Disruption map.</a>\n\nDistrict Line: No service between Turnham Green and Richmond while we fix a signal failure at Richmond. Tickets are being accepted on London Buses\, and South Western Railway. MINOR DELAYS on the rest of the line while we fix a track fault at Victoria. 
-DTEND:20260819T002900Z
-DTSTART:20260818T080119Z
-SUMMARY:District: Minor Delays
-UID:6195ff76-6081-431e-a162-9fead80b95d4@6195.org
+UID:95e2e616-012c-4954-a9ae-b91b60e4a5c6@95e2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-22T13:00:00&endDate=2026-08-24T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 22 August\, from 1400\, and all day Sunday 23 August\, no service between Fulham Broadway and Wimbledon. Replacement bus service DL5 operates between Fulham Broadway and Wimbledon via Parsons Green\, Putney Bridge\, East Putney\, Southfields and Wimbledon Park.
 DTEND:20260824T002900Z
 DTSTART:20260822T130000Z
 SUMMARY:District: Part Closure
-UID:ead93f76-db30-4a60-be0c-81f99f8b6890@ead9.org
+UID:9f8d9a8b-789b-4859-8646-03a1fe3977eb@9f8d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-22T13:00:00&endDate=2026-08-24T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 22 August\, from 1400\, and all day Sunday 23 August\, no service eastbound from Stamford Brook to Barons Court. Replacement bus service DL1A operates between Stamford Brook\, Ravenscourt Park and Hammersmith.
 DTEND:20260824T002900Z
 DTSTART:20260822T130000Z
 SUMMARY:District: Part Closure
-UID:d3bf6567-597d-4da0-a4a1-aac761405d21@d3bf.org
+UID:fbd67e0e-86cb-4415-81a6-4f7eb80bb58d@fbd6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-19T10:14:15&endDate=2026-08-20T00:29:00">Disruption map.</a>\n\nDistrict Line: Severe delays due to an earlier customer incident. Tickets are being accepted on London Buses\, DLR\, Elizabeth line\, Liberty line\, C2C and South Western Railway.  
+DTEND:20260820T002900Z
+DTSTART:20260819T101415Z
+SUMMARY:District: Severe Delays
+UID:49732221-f43d-4993-9f4a-3fdeb844734c@4973.org
 END:VEVENT
 END:VCALENDAR
