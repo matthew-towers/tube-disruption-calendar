@@ -3,31 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Windrush line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-22T03:14:28&endDate=2026-08-22T21:49:37">Disruption map.</a>\n\nWindrush Line: No service between Surrey Quays and New Cross\, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. GOOD service on the rest of the line. 
-DTEND:20260822T214937Z
-DTSTART:20260822T031428Z
-SUMMARY:Windrush line: Part Suspended
-UID:370df3a8-bb75-43c6-b3ef-c478a16d41cf@370d.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-23T21:15:00&endDate=2026-08-24T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 23 August\, from 2215\, no service between Highbury & Islington and Dalston Kingsland. There will also be no MILDMAY LINE service between Camden Road and Stratford.
+DTEND:20260824T002900Z
+DTSTART:20260823T211500Z
+SUMMARY:Windrush line: Part Closure
+UID:847c063a-8a6f-4a6d-adba-19122252b63e@847c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-23T03:30:00&endDate=2026-08-24T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 23 August\, no service between New Cross Gate and Crystal Palace / West Croydon. Use local London Buses or London Trams services. SOUTHERN services via Forest Hill will not operate.
 DTEND:20260824T002900Z
 DTSTART:20260823T033000Z
 SUMMARY:Windrush line: Part Closure
-UID:bb51bc2d-cf96-4487-8459-8b42810621b3@bb51.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-23T21:15:00&endDate=2026-08-24T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 23 August\, from 2215\, no service between Highbury & Islington and Dalston Kingsland. There will also be no MILDMAY LINE service between Camden Road and Stratford.
-DTEND:20260824T002900Z
-DTSTART:20260823T211500Z
-SUMMARY:Windrush line: Part Closure
-UID:3db79f64-8f5f-443e-bf10-72a090d08ea4@3db7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-22T03:14:28&endDate=2026-08-23T00:29:00">Disruption map.</a>\n\nWindrush Line: No service between Surrey Quays and New Cross\, and MINOR DELAYS between Highbury & Islington and West Croydon due to an unsafe structure near the railway. GOOD service on the rest of the line. 
-DTEND:20260823T002900Z
-DTSTART:20260822T031428Z
-SUMMARY:Windrush line: Minor Delays
-UID:855b8df4-d24f-4b3e-bf35-14a7c895ac54@855b.org
+UID:dc922290-5e2a-4ad3-bc3a-e144589dcdb0@dc92.org
 END:VEVENT
 END:VCALENDAR
