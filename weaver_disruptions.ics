@@ -2,4 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Weaver line disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-24T05:33:23&endDate=2026-08-25T00:29:00">Disruption map.</a>\n\nWeaver Line: No service between Hackney Downs and Seven Sisters and SEVERE DELAYS on the rest of the line while we fix a fault with the signalling system.  
+DTEND:20260825T002900Z
+DTSTART:20260824T053323Z
+SUMMARY:Weaver line: Severe Delays
+UID:4fbaa2a6-3246-4cfd-9ee0-6dcde71059e0@4fba.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-24T05:33:23&endDate=2026-08-24T13:25:14">Disruption map.</a>\n\nWeaver Line: No service between Hackney Downs and Seven Sisters and SEVERE DELAYS on the rest of the line while we fix a fault with the signalling system.  
+DTEND:20260824T132514Z
+DTSTART:20260824T053323Z
+SUMMARY:Weaver line: Part Suspended
+UID:ee0eddfc-044d-43b5-976e-0330ed60857b@ee0e.org
+END:VEVENT
 END:VCALENDAR
