@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Suffragette line disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-27T09:17:06&endDate=2026-08-27T12:48:53">Disruption map.</a>\n\nSuffragette Line: No service between Gospel Oak and Woodgrange Park while we fix a fault with the overhead power lines at Harringay Green Lanes. GOOD SERVICE on the rest of the line. London Underground are accepting tickets via any reasonable route. 
+DTEND:20260827T124853Z
+DTSTART:20260827T091706Z
+SUMMARY:Suffragette line: Part Suspended
+UID:ff32ad56-9d52-479a-931c-f0e879d10df5@ff32.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-31T04:30:00&endDate=2026-08-31T05:02:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Monday 31 August\, the 0533 and 0548 trains from Barking Riverside to Gospel Oak will not run. Please use the next train at 0603.
 DTEND:20260831T050200Z
 DTSTART:20260831T043000Z
 SUMMARY:Suffragette line: Reduced Service
-UID:db9d26eb-ee03-4e25-ad4a-de0bfe0cadac@db9d.org
+UID:9e9e7a8d-abc5-4c6d-b71f-e224406a11af@9e9e.org
 END:VEVENT
 END:VCALENDAR
