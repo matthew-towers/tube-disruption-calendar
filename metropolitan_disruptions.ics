@@ -2,18 +2,4 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-27T09:39:35&endDate=2026-08-27T12:48:53">Disruption map.</a>\n\nMetropolitan Line: No service between Wembley Park and Aldgate while we respond to a fire alert at Wembley Park. MINOR DELAYS on the rest of the line. London Buses are accepting tickets via any reasonable route. 
-DTEND:20260827T124853Z
-DTSTART:20260827T093935Z
-SUMMARY:Metropolitan: Part Suspended
-UID:5bf64d8c-3396-4fc1-a103-2166dc2fee59@5bf6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-27T09:39:35&endDate=2026-08-28T00:29:00">Disruption map.</a>\n\nMetropolitan Line: No service between Wembley Park and Aldgate while we respond to a fire alert at Wembley Park. MINOR DELAYS on the rest of the line. London Buses are accepting tickets via any reasonable route. 
-DTEND:20260828T002900Z
-DTSTART:20260827T093935Z
-SUMMARY:Metropolitan: Minor Delays
-UID:895bc9f2-4152-43aa-9ea5-0a696ef9ad86@895b.org
-END:VEVENT
 END:VCALENDAR
