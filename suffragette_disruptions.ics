@@ -3,10 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Suffragette line disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-06T03:30:00&endDate=2026-09-07T00:29:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 6 September\, no service between Gospel Oak and Woodgrange Park. Use VICTORIA LINE connections between Seven Sisters (for South Tottenham)\, Blackhorse Road and Walthamstow Central (for Walthamstow Queens Road). Replacement buses operate.
+DTEND:20260907T002900Z
+DTSTART:20260906T033000Z
+SUMMARY:Suffragette line: Part Closure
+UID:9c7544b5-fe53-4b21-a2b9-6b7fae0bd9d8@9c75.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-31T04:30:00&endDate=2026-08-31T05:02:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Monday 31 August\, the 0533 and 0548 trains from Barking Riverside to Gospel Oak will not run. Please use the next train at 0603.
 DTEND:20260831T050200Z
 DTSTART:20260831T043000Z
 SUMMARY:Suffragette line: Reduced Service
-UID:7b88e716-9ff6-44ec-bb22-dd9441deb347@7b88.org
+UID:715aec33-3067-4d9c-bedb-a2a6ac78cbe8@715a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-06T03:30:00&endDate=2026-09-07T00:29:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 6 September\, a reduced service operates between Woodgrange Park and Barking Riverside. Trains run every 30 minutes.
+DTEND:20260907T002900Z
+DTSTART:20260906T033000Z
+SUMMARY:Suffragette line: Reduced Service
+UID:3138ec72-0166-4143-8dbd-7bbc7918f607@3138.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-13T03:30:00&endDate=2026-09-14T00:29:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 13 September\, no service throughout the whole line. Use VICTORIA LINE connections between Seven Sisters (for South Tottenham)\, Blackhorse Road and Walthamstow Central (for Walthamstow Queens Road)\, and local London Buses services between Barking and Barking Riverside. Replacement buses operate.
+DTEND:20260914T002900Z
+DTSTART:20260913T033000Z
+SUMMARY:Suffragette line: Planned Closure
+UID:6cb10bac-6047-4ec1-8a89-959286ed4bcf@6cb1.org
 END:VEVENT
 END:VCALENDAR

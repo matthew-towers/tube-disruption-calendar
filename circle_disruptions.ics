@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Circle disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-28T07:55:00&endDate=2026-08-29T00:29:00">Disruption map.</a>\n\nCircle Line: Minor delays due to train cancellations. 
-DTEND:20260829T002900Z
-DTSTART:20260828T075500Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-29T07:32:56&endDate=2026-08-30T00:29:00">Disruption map.</a>\n\nCircle Line: Minor delays due to train cancellations.  
+DTEND:20260830T002900Z
+DTSTART:20260829T073256Z
 SUMMARY:Circle: Minor Delays
-UID:ba0689a7-6564-498d-8780-84886a0552c7@ba06.org
+UID:309dadd8-b5c1-4729-97f5-4e0326ba3f17@309d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-12T03:30:00&endDate=2026-09-14T00:29:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 12 and Sunday 13 September\, no service between Edgware Road and Aldgate (via Victoria)
+DTEND:20260914T002900Z
+DTSTART:20260912T033000Z
+SUMMARY:Circle: Part Closure
+UID:4d939eb1-bb2f-4267-9a21-104bd8d8b953@4d93.org
 END:VEVENT
 END:VCALENDAR

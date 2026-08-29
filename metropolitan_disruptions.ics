@@ -2,4 +2,25 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-29T05:27:00&endDate=2026-08-30T00:29:00">Disruption map.</a>\n\nMetropolitan Line: No service between Harrow-on-the-Hill and Aldgate and SEVERE DELAYS on the rest of the line while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses\, Lioness line\, London Northwestern and Thameslink services. Service is not expected to resume fully until 18:00 today at the earliest. Please check before you travel. 
+DTEND:20260830T002900Z
+DTSTART:20260829T052700Z
+SUMMARY:Metropolitan: Severe Delays
+UID:f53da251-5580-4105-961c-ecda6a38a5bd@f53d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-29T05:27:00&endDate=2026-08-29T13:13:58">Disruption map.</a>\n\nMetropolitan Line: No service between Harrow-on-the-Hill and Aldgate and SEVERE DELAYS on the rest of the line while emergency services respond to a large fire near the railway at Neasden. Tickets will be accepted on London Buses\, Lioness line\, London Northwestern and Thameslink services. Service is not expected to resume fully until 18:00 today at the earliest. Please check before you travel. 
+DTEND:20260829T131358Z
+DTSTART:20260829T052700Z
+SUMMARY:Metropolitan: Part Suspended
+UID:06dd3259-c48d-4016-aafc-51e7e92e2b6f@06dd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-28T18:02:00&endDate=2026-08-29T17:00:00">Disruption map.</a>\n\nThe emergency services are responding to a large fire near the railway at Neasden. Until it is made safe\, Jubilee and Metropolitan line services are unable to run through the area. Service is not expected to resume fully until 18:00 today at the earliest. Please check before you travel. Please check before you travel.\r\n\r\nMETROPOLITAN LINE: No service between Harrow-on-the-Hill and Aldgate and SEVERE DELAYS on the rest of the line.\r\n\r\nJUBILEE LINE: No service between Wembley Park and Willesden Green and severe delays on the rest of the line.
+DTEND:20260829T170000Z
+DTSTART:20260828T180200Z
+SUMMARY:Metropolitan: Part Suspended
+UID:082baae8-227a-4274-bf0f-884896d2ba5b@082b.org
+END:VEVENT
 END:VCALENDAR

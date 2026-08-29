@@ -3,17 +3,10 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Northern disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-29T02:30:00&endDate=2026-09-01T00:29:00">Disruption map.</a>\n\nNORTHERN LINE: Saturday 29 August\, from 0330\, and all day Sunday 30 and Bank Holiday Monday 31 August (including Night Tube)\, no service between Archway and High Barnet / Mill Hill East. Replacement bus service NL3 operates between Archway and High Barnet via Highgate\, East Finchley\, Finchley Central\, West Finchley (Ballards Lane)\, Woodside Park (North Finchley High Road)\, and Totteridge & Whetstone (Whetstone High Road). Use London Buses route 382 between Finchley Central and Mill Hill East and Night Bus N20 between Archway and High Barnet during Night Tube hours.
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-29T02:30:00&endDate=2026-09-01T00:29:00">Disruption map.</a>\n\nNORTHERN LINE: Saturday 29 August\, from 0330 (including Night Tube)\, and all day Sunday 30 and Bank Holiday Monday 31 August\, no service between Archway and High Barnet / Mill Hill East. Replacement bus service NL3 operates between Archway and High Barnet via Highgate\, East Finchley\, Finchley Central\, West Finchley (Ballards Lane)\, Woodside Park (North Finchley High Road)\, and Totteridge & Whetstone (Whetstone High Road). Use London Buses route 382 between Finchley Central and Mill Hill East and Night Bus N20 between Archway and High Barnet during Night Tube hours.
 DTEND:20260901T002900Z
 DTSTART:20260829T023000Z
 SUMMARY:Northern: Part Closure
-UID:a5263de3-54b5-426e-bf40-ddca781bc722@a526.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-29T00:30:00&endDate=2026-08-29T02:30:00">Disruption map.</a>\n\nNORTHERN LINE: Saturday 29 August\, between 0130 and 0330\, no service between Camden Town and High Barnet / Mill Hill East. Please use Night Bus N20 between Camden Town and High Barnet.
-DTEND:20260829T023000Z
-DTSTART:20260829T003000Z
-SUMMARY:Northern: Part Closure
-UID:e6e48fb9-49f8-4858-8bf3-3e8588f0007b@e6e4.org
+UID:89388136-0b7e-4a7d-9624-c058332a1e4e@8938.org
 END:VEVENT
 END:VCALENDAR
