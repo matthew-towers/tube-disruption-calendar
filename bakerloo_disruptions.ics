@@ -2,4 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Bakerloo disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-31T10:25:30&endDate=2026-08-31T13:50:21">Disruption map.</a>\n\nBakerloo Line: No service between Paddington and Harrow & Wealdstone\, SEVERE DELAYS on the rest of the line while emergency services deal with a casualty on the track. Tickets are being accepted on London Buses\, Lioness Line and London Northwestern Railway services. 
+DTEND:20260831T135021Z
+DTSTART:20260831T102530Z
+SUMMARY:Bakerloo: Part Suspended
+UID:7fcf5d18-d6b4-4948-a0a8-99e2c78eb9a2@7fcf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-08-31T10:25:30&endDate=2026-09-01T00:29:00">Disruption map.</a>\n\nBakerloo Line: No service between Paddington and Harrow & Wealdstone\, SEVERE DELAYS on the rest of the line while emergency services deal with a casualty on the track. Tickets are being accepted on London Buses\, Lioness Line and London Northwestern Railway services. 
+DTEND:20260901T002900Z
+DTSTART:20260831T102530Z
+SUMMARY:Bakerloo: Severe Delays
+UID:ebf47b6c-2953-4b76-8111-668629db3a6c@ebf4.org
+END:VEVENT
 END:VCALENDAR
