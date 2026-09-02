@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-02T07:36:43&endDate=2026-09-03T00:29:00">Disruption map.</a>\n\nCentral Line: Minor delays between North Acton and Ealing Broadway / West Ruislip\, and between Leytonstone and Epping / Hainault (via Newbury Park) due to train cancellations. GOOD SERVICE on the rest of the line.  
+DTEND:20260903T002900Z
+DTSTART:20260902T073643Z
+SUMMARY:Central: Minor Delays
+UID:c19a7f4b-ad90-47ad-830b-3b7198bb3076@c19a.org
+END:VEVENT
 END:VCALENDAR
