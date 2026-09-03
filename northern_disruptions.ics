@@ -3,10 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Northern disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-03T08:27:01&endDate=2026-09-04T00:29:00">Disruption map.</a>\n\nNorthern Line: Minor delays due to an earlier points failure at Camden Town. 
-DTEND:20260904T002900Z
-DTSTART:20260903T082701Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-03T23:13:05&endDate=2026-09-05T00:29:00">Disruption map.</a>\n\nNorthern Line: No service between Edgware and Camden Town southbound only\, and SEVERE DELAYS between Camden Town and Edgware northbound only. MINOR DELAYS between Kennington and Camden Town via Bank/Charing Cross while we fix a points failure at Hampstead. GOOD SERVICE on the rest of the line. London Buses are accepting valid tickets via any reasonable route. 
+DTEND:20260905T002900Z
+DTSTART:20260903T231305Z
 SUMMARY:Northern: Minor Delays
-UID:f2684850-8039-47f1-8ea4-439e545ad202@f268.org
+UID:de8dba52-0104-4833-bc74-06dfc3154244@de8d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-03T23:13:05&endDate=2026-09-05T00:29:00">Disruption map.</a>\n\nNorthern Line: No service between Edgware and Camden Town southbound only\, and SEVERE DELAYS between Camden Town and Edgware northbound only. MINOR DELAYS between Kennington and Camden Town via Bank/Charing Cross while we fix a points failure at Hampstead. GOOD SERVICE on the rest of the line. London Buses are accepting valid tickets via any reasonable route. 
+DTEND:20260905T002900Z
+DTSTART:20260903T231305Z
+SUMMARY:Northern: Severe Delays
+UID:f96f56cb-7b90-45c1-b379-34406b23117b@f96f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-03T23:13:05&endDate=2026-09-04T02:24:56">Disruption map.</a>\n\nNorthern Line: No service between Edgware and Camden Town southbound only\, and SEVERE DELAYS between Camden Town and Edgware northbound only. MINOR DELAYS between Kennington and Camden Town via Bank/Charing Cross while we fix a points failure at Hampstead. GOOD SERVICE on the rest of the line. London Buses are accepting valid tickets via any reasonable route. 
+DTEND:20260904T022456Z
+DTSTART:20260903T231305Z
+SUMMARY:Northern: Part Suspended
+UID:0992fb0b-895b-423f-88b0-f39aeb07cc47@0992.org
 END:VEVENT
 END:VCALENDAR
