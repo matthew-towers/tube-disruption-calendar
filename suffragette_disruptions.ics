@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Suffragette line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-13T03:30:00&endDate=2026-09-14T00:29:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 13 September\, no service throughout the whole line. Use VICTORIA LINE connections between Seven Sisters (for South Tottenham)\, Blackhorse Road and Walthamstow Central (for Walthamstow Queens Road)\, and local London Buses services between Barking and Barking Riverside. Replacement buses operate.
-DTEND:20260914T002900Z
-DTSTART:20260913T033000Z
-SUMMARY:Suffragette line: Planned Closure
-UID:28a54f78-0834-4d7a-b4b0-8812dba38d05@28a5.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-06T03:30:00&endDate=2026-09-07T00:29:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 6 September\, no service between Gospel Oak and Woodgrange Park. Use VICTORIA LINE connections between Seven Sisters (for South Tottenham)\, Blackhorse Road and Walthamstow Central (for Walthamstow Queens Road). Replacement buses operate.
 DTEND:20260907T002900Z
 DTSTART:20260906T033000Z
 SUMMARY:Suffragette line: Part Closure
-UID:c76b32f0-a04f-4fa6-b386-57cb3cd6a30f@c76b.org
+UID:1e5fdea3-69df-4606-92ef-c9863e9103a6@1e5f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-13T03:30:00&endDate=2026-09-14T00:29:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 13 September\, no service throughout the whole line. Use VICTORIA LINE connections between Seven Sisters (for South Tottenham)\, Blackhorse Road and Walthamstow Central (for Walthamstow Queens Road)\, and local London Buses services between Barking and Barking Riverside. Replacement buses operate.
+DTEND:20260914T002900Z
+DTSTART:20260913T033000Z
+SUMMARY:Suffragette line: Planned Closure
+UID:4c2ae559-1b53-4abd-bec0-8af3d7f0b4ef@4c2a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-06T03:30:00&endDate=2026-09-07T00:29:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 6 September\, a reduced service operates between Woodgrange Park and Barking Riverside. Trains run every 30 minutes.
 DTEND:20260907T002900Z
 DTSTART:20260906T033000Z
 SUMMARY:Suffragette line: Reduced Service
-UID:8fa0b07d-4c06-4da7-a659-09c5a34f511f@8fa0.org
+UID:ea4241ab-9b36-4514-8056-c282a0fd7f51@ea42.org
 END:VEVENT
 END:VCALENDAR

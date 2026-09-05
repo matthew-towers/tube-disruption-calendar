@@ -3,59 +3,59 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Windrush line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-05T03:30:00&endDate=2026-09-06T18:15:00">Disruption map.</a>\n\nWINDRUSH LINE: Saturday 5\, all day\, and Sunday 6 September\, until 1915\, no service between Surrey Quays and Clapham Junction / Battersea Park. Replacement bus service M operates between Canada Water and Clapham Junction via Surrey Quays\, Queens Road Peckham\, Peckham Rye\, Denmark Hill\, Clapham High Street and Wandsworth Road.
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-05T03:30:00&endDate=2026-09-06T18:15:00">Disruption map.</a>\n\nWINDRUSH LINE: Saturday 5\, all day\, and Sunday 6 September\, until 1915\, no service between Surrey Quays and Clapham Junction / Battersea Park. There will also be no SOUTHERN trains at Queens Road Peckham and Peckham Rye. Replacement bus service M operates between Canada Water and Clapham Junction via Surrey Quays\, Queens Road Peckham\, Peckham Rye\, Denmark Hill\, Clapham High Street and Wandsworth Road. In addition\, replacement buses operate between London Bridge and Tulse Hill via South Bermondsey\, Queens Road Peckham\, Peckham Rye\, East Dulwich\, North Dulwich and Herne Hill.
 DTEND:20260906T181500Z
 DTSTART:20260905T033000Z
 SUMMARY:Windrush line: Part Closure
-UID:03911cf3-e28a-49f5-83b2-d4ecbc52f238@0391.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-10T21:15:00&endDate=2026-09-11T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 7\, Tuesday 8\, Wednesday 9 and Thursday 10 September\, after 2215 each evening\, no service between Sydenham and West Croydon. West Croydon trains will divert to and depart from Crystal Palace after 2215. Use local buses via any reasonable route or Southern Railway trains between Sydenham and Norwood Junction. Tickets will also be accepted on Southern Railway trains between Crystal Palace and East Croydon (via Norwood Junction)\, and on two Southern Railway rail replacement buses departing Norwood Junction at 2318 and 0013 for West Croydon via Selhurst (and onward to Sutton). Last through trains: Highbury & Islington to West Croydon 2147\; West Croydon to Highbury & Islington 2246
-DTEND:20260911T002900Z
-DTSTART:20260910T211500Z
-SUMMARY:Windrush line: Part Closure
-UID:277a4beb-fb36-4826-83d9-6555d012e9c9@277a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-06T03:30:00&endDate=2026-09-06T18:15:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 6 September\, until 1915\, no service between Sydenham and West Croydon. Change at Crystal Palace for trains to/from Norwood Junction and connections to/from West Croydon. Use local London Buses services for Penge West and Anerley.
-DTEND:20260906T181500Z
-DTSTART:20260906T033000Z
-SUMMARY:Windrush line: Part Closure
-UID:f0c91152-7d59-480e-a087-d370bed5c2af@f0c9.org
+UID:6afa636e-4722-4f48-9f10-1514a42f8ccb@6afa.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-07T21:15:00&endDate=2026-09-08T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 7\, Tuesday 8\, Wednesday 9 and Thursday 10 September\, after 2215 each evening\, no service between Sydenham and West Croydon. West Croydon trains will divert to and depart from Crystal Palace after 2215. Use local buses via any reasonable route or Southern Railway trains between Sydenham and Norwood Junction. Tickets will also be accepted on Southern Railway trains between Crystal Palace and East Croydon (via Norwood Junction)\, and on two Southern Railway rail replacement buses departing Norwood Junction at 2318 and 0013 for West Croydon via Selhurst (and onward to Sutton). Last through trains: Highbury & Islington to West Croydon 2147\; West Croydon to Highbury & Islington 2246
 DTEND:20260908T002900Z
 DTSTART:20260907T211500Z
 SUMMARY:Windrush line: Part Closure
-UID:e376f97f-8447-44fc-8548-d7618cdf68ee@e376.org
+UID:73c8450b-8d01-4b34-94d8-7c860d68883c@73c8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-06T03:30:00&endDate=2026-09-06T18:15:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 6 September\, until 1915\, no service between Sydenham and West Croydon. Change at Crystal Palace for trains to/from Norwood Junction and connections to/from West Croydon. Use local London Buses services for Penge West and Anerley.
+DTEND:20260906T181500Z
+DTSTART:20260906T033000Z
+SUMMARY:Windrush line: Part Closure
+UID:a171b8cd-8575-4125-989b-cfebe8bc7256@a171.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-08T21:15:00&endDate=2026-09-09T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 7\, Tuesday 8\, Wednesday 9 and Thursday 10 September\, after 2215 each evening\, no service between Sydenham and West Croydon. West Croydon trains will divert to and depart from Crystal Palace after 2215. Use local buses via any reasonable route or Southern Railway trains between Sydenham and Norwood Junction. Tickets will also be accepted on Southern Railway trains between Crystal Palace and East Croydon (via Norwood Junction)\, and on two Southern Railway rail replacement buses departing Norwood Junction at 2318 and 0013 for West Croydon via Selhurst (and onward to Sutton). Last through trains: Highbury & Islington to West Croydon 2147\; West Croydon to Highbury & Islington 2246
 DTEND:20260909T002900Z
 DTSTART:20260908T211500Z
 SUMMARY:Windrush line: Part Closure
-UID:39a87701-7a44-4292-9bd1-bc5921f41562@39a8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-06T18:15:00&endDate=2026-09-07T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 6 September\, from 1915\, no service between Highbury & Islington and Battersea Park / Clapham Junction / Crystal Palace / New Cross Gate / West Croydon. Use MILDMAY LINE services between Highbury & Islington\, Canonbury and Dalston Kingsland. Use SOUTHERN connections for stations south of New Cross Gate\, and local buses for New Cross\, Penge West and Anerley. Replacement buses operate.
-DTEND:20260907T002900Z
-DTSTART:20260906T181500Z
-SUMMARY:Windrush line: Planned Closure
-UID:6b6c6a89-f62c-4794-9a1e-b20c7f397234@6b6c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-09T21:15:00&endDate=2026-09-10T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 7\, Tuesday 8\, Wednesday 9 and Thursday 10 September\, after 2215 each evening\, no service between Sydenham and West Croydon. West Croydon trains will divert to and depart from Crystal Palace after 2215. Use local buses via any reasonable route or Southern Railway trains between Sydenham and Norwood Junction. Tickets will also be accepted on Southern Railway trains between Crystal Palace and East Croydon (via Norwood Junction)\, and on two Southern Railway rail replacement buses departing Norwood Junction at 2318 and 0013 for West Croydon via Selhurst (and onward to Sutton). Last through trains: Highbury & Islington to West Croydon 2147\; West Croydon to Highbury & Islington 2246
-DTEND:20260910T002900Z
-DTSTART:20260909T211500Z
-SUMMARY:Windrush line: Part Closure
-UID:d11539b7-bb38-401b-884d-c63bd460dbb4@d115.org
+UID:06bc6c1d-0cfe-4e75-bfa2-271dcfc64870@06bc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-13T03:30:00&endDate=2026-09-13T08:00:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 13 September\, until 0900\, no service between Wandsworth Road and Clapham Junction. Trains are diverted to/from Battersea Park for SOUTHERN connections to/from Clapham Junction.
 DTEND:20260913T080000Z
 DTSTART:20260913T033000Z
 SUMMARY:Windrush line: Part Closure
-UID:ac856f53-e00b-4db9-927c-4d2af23d4b87@ac85.org
+UID:bb4b99c3-eafb-4ec4-9f14-bc5e77462b38@bb4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-09T21:15:00&endDate=2026-09-10T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 7\, Tuesday 8\, Wednesday 9 and Thursday 10 September\, after 2215 each evening\, no service between Sydenham and West Croydon. West Croydon trains will divert to and depart from Crystal Palace after 2215. Use local buses via any reasonable route or Southern Railway trains between Sydenham and Norwood Junction. Tickets will also be accepted on Southern Railway trains between Crystal Palace and East Croydon (via Norwood Junction)\, and on two Southern Railway rail replacement buses departing Norwood Junction at 2318 and 0013 for West Croydon via Selhurst (and onward to Sutton). Last through trains: Highbury & Islington to West Croydon 2147\; West Croydon to Highbury & Islington 2246
+DTEND:20260910T002900Z
+DTSTART:20260909T211500Z
+SUMMARY:Windrush line: Part Closure
+UID:774dda53-8e81-4fa8-a91f-99b4e78ad1eb@774d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-06T18:15:00&endDate=2026-09-07T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Sunday 6 September\, from 1915\, no service between Highbury & Islington and Battersea Park / Clapham Junction / Crystal Palace / New Cross Gate / West Croydon. Use MILDMAY LINE services between Highbury & Islington\, Canonbury and Dalston Kingsland. Use SOUTHERN connections for stations south of New Cross Gate\, and local buses for New Cross\, Penge West and Anerley. Replacement buses operate.
+DTEND:20260907T002900Z
+DTSTART:20260906T181500Z
+SUMMARY:Windrush line: Planned Closure
+UID:aab70c80-1356-47ff-8cc3-9efadd3384d4@aab7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-10T21:15:00&endDate=2026-09-11T00:29:00">Disruption map.</a>\n\nWINDRUSH LINE: Monday 7\, Tuesday 8\, Wednesday 9 and Thursday 10 September\, after 2215 each evening\, no service between Sydenham and West Croydon. West Croydon trains will divert to and depart from Crystal Palace after 2215. Use local buses via any reasonable route or Southern Railway trains between Sydenham and Norwood Junction. Tickets will also be accepted on Southern Railway trains between Crystal Palace and East Croydon (via Norwood Junction)\, and on two Southern Railway rail replacement buses departing Norwood Junction at 2318 and 0013 for West Croydon via Selhurst (and onward to Sutton). Last through trains: Highbury & Islington to West Croydon 2147\; West Croydon to Highbury & Islington 2246
+DTEND:20260911T002900Z
+DTSTART:20260910T211500Z
+SUMMARY:Windrush line: Part Closure
+UID:eede3004-8f36-4c09-a4c6-6c7793273d77@eede.org
 END:VEVENT
 END:VCALENDAR
