@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-05T02:30:00&endDate=2026-09-07T00:29:00">Disruption map.</a>\n\nDistrict Line: Saturday 5 and Sunday 6 September\, no service between Edgware Road and Wimbledon. Rail Replacement bus services will operate. If travelling to/from Fulham vs Crystal Palace on Saturday\, it may be easier to walk to/from Hammersmith.
-DTEND:20260907T002900Z
-DTSTART:20260905T023000Z
-SUMMARY:District: Part Closure
-UID:7feca3b5-2e7f-4062-b50a-749385105ae5@7fec.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-12T03:30:00&endDate=2026-09-14T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 12 and Sunday 13 September\, no service between Tower Hill / Edgware Road and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury and Richmond on Saturday. Replacement buses operate. If travelling to Chelsea vs Hull City AFC at Stamford Bridge on Saturday\, please use PICCADILLY LINE services at Earls Court.
 DTEND:20260914T002900Z
 DTSTART:20260912T033000Z
 SUMMARY:District: Part Closure
-UID:f3d0a282-a6be-4484-8a57-262a690fc0e2@f3d0.org
+UID:a1931219-f67a-422d-86fc-0ae0931f2fc2@a193.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-05T02:30:00&endDate=2026-09-07T00:29:00">Disruption map.</a>\n\nDistrict Line: Saturday 5 and Sunday 6 September\, no service between Edgware Road and Wimbledon. Rail Replacement bus services will operate. If travelling to/from Fulham vs Crystal Palace on Saturday\, it may be easier to walk to/from Hammersmith.
+DTEND:20260907T002900Z
+DTSTART:20260905T023000Z
+SUMMARY:District: Part Closure
+UID:a3f5fbd1-46ed-400b-961b-95425887472d@a3f5.org
 END:VEVENT
 END:VCALENDAR
