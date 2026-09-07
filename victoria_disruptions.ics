@@ -2,4 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Victoria disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-07T08:44:01&endDate=2026-09-07T12:01:17">Disruption map.</a>\n\nVictoria Line: No service between Seven Sisters and Walthamstow Central\, and SEVERE DELAYS on the rest of the line while emergency services deal with a casualty on the track. Tickets are being accepted on London Buses\, Weaver line and Suffragette line. 
+DTEND:20260907T120117Z
+DTSTART:20260907T084401Z
+SUMMARY:Victoria: Part Suspended
+UID:fbd213e5-2ea1-4a3f-a25a-88c64fbd9adb@fbd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-07T08:44:01&endDate=2026-09-08T00:29:00">Disruption map.</a>\n\nVictoria Line: No service between Seven Sisters and Walthamstow Central\, and SEVERE DELAYS on the rest of the line while emergency services deal with a casualty on the track. Tickets are being accepted on London Buses\, Weaver line and Suffragette line. 
+DTEND:20260908T002900Z
+DTSTART:20260907T084401Z
+SUMMARY:Victoria: Severe Delays
+UID:40a5a83d-5ae7-4009-ac41-38013a652a3d@40a5.org
+END:VEVENT
 END:VCALENDAR
