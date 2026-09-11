@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-19T03:30:00&endDate=2026-09-21T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 19 and Sunday 20 September\, no service between Bank / Tower Gateway and Lewisham / Canning Town or between Stratford and Canary Wharf. Use JUBILEE LINE connections between Canary Wharf and Canada Water. Replacement buses operate.
+DTEND:20260921T002900Z
+DTSTART:20260919T033000Z
+SUMMARY:DLR: Part Closure
+UID:8b83cf10-9ae2-42b4-bf94-7e7bcf8ac670@8b83.org
+END:VEVENT
 END:VCALENDAR
