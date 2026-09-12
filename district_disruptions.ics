@@ -3,24 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-12T09:33:12&endDate=2026-09-13T00:29:00">Disruption map.</a>\n\nDistrict Line: No service between Edgware Road and Tower Hill to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work. NO SERVICE between Tower Hill and Whitechapel due to a points failure at Tower Hill. Tickets are being accepted on London Buses\, Mildmay Line\, Elizabeth line and C2C services. MINOR DELAYS on the rest of the line.  
+DTEND:20260913T002900Z
+DTSTART:20260912T093312Z
+SUMMARY:District: Minor Delays
+UID:afd5989c-7ffc-42f5-8505-3d4108880145@afd5.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-19T03:30:00&endDate=2026-09-21T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 19 and Sunday 20 September\, no service between Earls Court and Ealing Broadway / Richmond. Use MILDMAY LINE services where available between Gunnersbury\, Kew Gardens and Richmond. Replacement buses operate.
 DTEND:20260921T002900Z
 DTSTART:20260919T033000Z
 SUMMARY:District: Part Closure
-UID:9aa9e4f7-0e1c-4f90-b905-fcb6c4bd6181@9aa9.org
+UID:3697dbac-b2de-4564-9c92-955de0d8862d@3697.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-12T09:33:12&endDate=2026-09-12T14:04:18">Disruption map.</a>\n\nDistrict Line: No service between Edgware Road and Tower Hill to Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon due to planned engineering work. NO SERVICE between Tower Hill and Whitechapel due to a points failure at Tower Hill. Tickets are being accepted on London Buses\, Mildmay Line\, Elizabeth line and C2C services. MINOR DELAYS on the rest of the line.  
+DTEND:20260912T140418Z
+DTSTART:20260912T093312Z
+SUMMARY:District: Part Suspended
+UID:71547ac0-1318-4b50-85f7-6cb74da10d18@7154.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-12T03:30:00&endDate=2026-09-14T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 12 and Sunday 13 September\, no service between Tower Hill / Edgware Road and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury and Richmond on Saturday. Replacement buses operate. If travelling to Chelsea vs Hull City AFC at Stamford Bridge on Saturday\, please use PICCADILLY LINE services at Earls Court.
 DTEND:20260914T002900Z
 DTSTART:20260912T033000Z
 SUMMARY:District: Part Closure
-UID:6d8c7534-a58a-4670-9aa4-f1b79511495d@6d8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-11T10:26:20&endDate=2026-09-12T00:29:00">Disruption map.</a>\n\nDistrict Line: Minor delays between Turnham Green and Richmond while we fix a points failure at Richmond. GOOD SERVICE on the rest of the line.  
-DTEND:20260912T002900Z
-DTSTART:20260911T102620Z
-SUMMARY:District: Minor Delays
-UID:16ed421b-9142-4536-a4f3-9836594117f4@16ed.org
+UID:29943d14-1803-4e7b-8ea6-899db45a3261@2994.org
 END:VEVENT
 END:VCALENDAR

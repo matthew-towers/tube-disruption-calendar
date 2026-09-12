@@ -2,4 +2,25 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Lioness line disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-20T03:30:00&endDate=2026-09-20T15:15:00">Disruption map.</a>\n\nLIONESS LINE: Sunday 20 September\, until 1615\, no service between Willesden Junction and Watford Junction. Use BAKERLOO LINE services between Willesden Junction and Harrow & Wealdstone. Special bus service 720 operates between Harrow Bus Station and Watford Junction via Harrow & Wealdstone\, Headstone Lane\, Hatch End (Harrow Arts Centre)\, Carpenders Park (Prestwick Road)\, Bushey (Eastbury Road) and Watford High Street. PLEASE NOTE: At this time\, there will be no LONDON NORTH WESTERN RAILWAY services between Euston and Watford Junction\, or SOUTHERN services between Shepherds Bush and Watford Junction.
+DTEND:20260920T151500Z
+DTSTART:20260920T033000Z
+SUMMARY:Lioness line: Part Closure
+UID:f83cf705-e6ca-4d25-8960-981aabf32655@f83c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-12T04:12:42&endDate=2026-09-13T00:29:00">Disruption map.</a>\n\nLioness Line: No service between Watford Junction and Willesden Junction due to a sewage leak on the track at Watford High Street. MINOR DELAYS on the rest of the line. London Underground is accepting tickets via reasonable route. 
+DTEND:20260913T002900Z
+DTSTART:20260912T041242Z
+SUMMARY:Lioness line: Minor Delays
+UID:4cd2b478-b8f3-430b-a0e1-1306e0a2704f@4cd2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-12T04:12:42&endDate=2026-09-12T14:04:18">Disruption map.</a>\n\nLioness Line: No service between Watford Junction and Willesden Junction due to a sewage leak on the track at Watford High Street. MINOR DELAYS on the rest of the line. London Underground is accepting tickets via reasonable route. 
+DTEND:20260912T140418Z
+DTSTART:20260912T041242Z
+SUMMARY:Lioness line: Part Suspended
+UID:d7498817-7ebf-4350-a0e5-ebd663dea598@d749.org
+END:VEVENT
 END:VCALENDAR
