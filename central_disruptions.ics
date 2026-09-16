@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-26T04:30:00&endDate=2026-09-28T00:29:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 26 September\, from 0530 and all day Sunday 27 September\, no  service (including Saturday Night Tube) between Liverpool Street and Woodford / Newbury Park. Replacement buses operate. For Night journeys to Wanstead\, Redbridge and Gants Hill\, please use Night Bus Route N8.
+DTEND:20260928T002900Z
+DTSTART:20260926T043000Z
+SUMMARY:Central: Part Closure
+UID:d07d6c8e-41fc-466b-a9c9-3d7b07cc79d0@d07d.org
+END:VEVENT
 END:VCALENDAR
