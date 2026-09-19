@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Jubilee disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-19T11:30:17&endDate=2026-09-20T00:29:00">Disruption map.</a>\n\nJubilee Line: Minor delays due to an earlier signal failure at Bond Street.  
+DTEND:20260920T002900Z
+DTSTART:20260919T113017Z
+SUMMARY:Jubilee: Minor Delays
+UID:0619f8a6-3966-455a-96da-ef3fadc60da9@0619.org
+END:VEVENT
 END:VCALENDAR
