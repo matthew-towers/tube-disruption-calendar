@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Metropolitan disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-22T08:17:58&endDate=2026-09-23T00:29:00">Disruption map.</a>\n\nMetropolitan Line: Minor delays between Rickmansworth and Amersham while we fix a signal failure at Amersham. GOOD SERVICE on the rest of the line.  
+DTEND:20260923T002900Z
+DTSTART:20260922T081758Z
+SUMMARY:Metropolitan: Minor Delays
+UID:756cedc3-43a6-43d4-b441-83cee8bcaed2@756c.org
+END:VEVENT
 END:VCALENDAR
