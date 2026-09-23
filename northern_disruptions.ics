@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Northern disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-23T09:34:21&endDate=2026-09-24T00:29:00">Disruption map.</a>\n\nNorthern Line: Minor delays due to an earlier signal failure in the Battersea area and an earlier customer incident at Moorgate. 
+DTEND:20260924T002900Z
+DTSTART:20260923T093421Z
+SUMMARY:Northern: Minor Delays
+UID:0ed1a1e1-5c98-4959-86db-e70dffaa2cae@0ed1.org
+END:VEVENT
 END:VCALENDAR

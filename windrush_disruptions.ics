@@ -2,4 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Windrush line disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-23T09:06:07&endDate=2026-09-23T12:56:30">Disruption map.</a>\n\nWindrush Line: No service between New Cross Gate and Crystal Palace/West Croydon\, and SEVERE DELAYS between New Cross Gate and Highbury & Islington while we fix a signal failure at Norwood Junction. London Buses are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. 
+DTEND:20260923T125630Z
+DTSTART:20260923T090607Z
+SUMMARY:Windrush line: Part Suspended
+UID:db02347c-ce66-4500-9bfb-935d85a9fbc4@db02.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-23T09:06:07&endDate=2026-09-24T00:29:00">Disruption map.</a>\n\nWindrush Line: No service between New Cross Gate and Crystal Palace/West Croydon\, and SEVERE DELAYS between New Cross Gate and Highbury & Islington while we fix a signal failure at Norwood Junction. London Buses are accepting valid tickets via any reasonable route. GOOD SERVICE on the rest of the line. 
+DTEND:20260924T002900Z
+DTSTART:20260923T090607Z
+SUMMARY:Windrush line: Severe Delays
+UID:eb181e80-a879-4b77-9512-62d329683ab1@eb18.org
+END:VEVENT
 END:VCALENDAR
