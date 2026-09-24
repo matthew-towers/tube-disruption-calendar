@@ -3,17 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-26T04:30:00&endDate=2026-09-28T00:29:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 26 September\, from 0530 and all day Sunday 27 September\, no  service (including Saturday Night Tube) between Liverpool Street and Woodford / Newbury Park. Replacement buses operate. For Night journeys to Wanstead\, Redbridge and Gants Hill\, please use Night Bus Route N8.
-DTEND:20260928T002900Z
-DTSTART:20260926T043000Z
-SUMMARY:Central: Part Closure
-UID:0641dd6a-5d78-41ad-b1f1-b4d2143a975f@0641.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-24T09:54:38&endDate=2026-09-25T00:29:00">Disruption map.</a>\n\nCentral Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to an earlier signal failure at Leytonstone. Tickets will be accepted on London Buses\, Liberty line\, Chiltern\, Great Western Railway and Elizabeth line via reasonable routes. MINOR DELAYS on the rest of the line. 
+DTEND:20260925T002900Z
+DTSTART:20260924T095438Z
+SUMMARY:Central: Minor Delays
+UID:741e32fd-6dec-4b24-a5e4-4e88c96e7c01@741e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-24T09:54:38&endDate=2026-09-25T00:29:00">Disruption map.</a>\n\nCentral Line: Severe delays between North Acton and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to an earlier signal failure at Leytonstone. Tickets will be accepted on London Buses\, Liberty line\, Chiltern\, Great Western Railway and Elizabeth line via reasonable routes. MINOR DELAYS on the rest of the line. 
+DTEND:20260925T002900Z
+DTSTART:20260924T095438Z
+SUMMARY:Central: Severe Delays
+UID:78d83fb0-b547-408d-ad36-ffe6bcddbac4@78d8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-26T01:10:00&endDate=2026-09-26T04:30:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 26 September\, between 0210 and 0530\, no Night Tube service between Marble Arch and Loughton / Hainault (via Newbury Park). Replacement bus service CL5 operates between Stratford City Bus Station (for Stratford) and Loughton via Leyton\, Leytonstone (eastbound buses serve Leytonstone High Road instead)\, Snaresbrook\, South Woodford\, Woodford and Buckhurst Hill. Use Night Bus N8 for Wanstead\, Redbridge\, Gants Hill\, Barkingside\, Fairlop (Barkingside\, Fullwell Cross) and Hainault.
 DTEND:20260926T043000Z
 DTSTART:20260926T011000Z
 SUMMARY:Central: Part Closure
-UID:8da65ba3-4c16-4f42-88b6-58991bf5c067@8da6.org
+UID:c36d991b-498a-4e77-84bc-7daf45d62946@c36d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-26T04:30:00&endDate=2026-09-28T00:29:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 26 September\, from 0530 and all day Sunday 27 September\, no  service (including Saturday Night Tube) between Liverpool Street and Woodford / Newbury Park. Replacement buses operate. For Night journeys to Wanstead\, Redbridge and Gants Hill\, please use Night Bus Route N8.
+DTEND:20260928T002900Z
+DTSTART:20260926T043000Z
+SUMMARY:Central: Part Closure
+UID:1067f637-3ac6-4949-a989-adc5aeb6c949@1067.org
 END:VEVENT
 END:VCALENDAR
