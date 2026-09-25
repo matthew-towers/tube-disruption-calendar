@@ -2,4 +2,18 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Lioness line disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-27T19:30:00&endDate=2026-09-28T00:29:00">Disruption map.</a>\n\nLIONESS LINE: Sunday 27 September\, until 1200 and from 2030\, no service between Kilburn High Road and Euston. Please use local London Buses and London Underground services.
+DTEND:20260928T002900Z
+DTSTART:20260927T193000Z
+SUMMARY:Lioness line: Part Closure
+UID:7edbaf60-a5ec-4c69-a0b5-54b3c65f9b6b@7edb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-27T03:30:00&endDate=2026-09-27T11:00:00">Disruption map.</a>\n\nLIONESS LINE: Sunday 27 September\, until 1200 and from 2030\, no service between Kilburn High Road and Euston. Please use local London Buses and London Underground services.
+DTEND:20260927T110000Z
+DTSTART:20260927T033000Z
+SUMMARY:Lioness line: Part Closure
+UID:35858054-71cd-4957-b56c-6a4623173db1@3585.org
+END:VEVENT
 END:VCALENDAR
