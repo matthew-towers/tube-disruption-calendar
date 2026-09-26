@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-26T01:00:00&endDate=2026-09-28T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: From 0200 Saturday 26 and all day Sunday 27 September (including Friday and Saturday Night Tube)\, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow. Use DISTRICT LINE trains between Central London and Acton Town / Ealing Common and METROPOLITAN LINE trains between Rayners Lane and Uxbridge. Use ELIZABETH LINE trains for travel between Central London and Heathrow. Replacement buses operate.
-DTEND:20260928T002900Z
-DTSTART:20260926T010000Z
-SUMMARY:Piccadilly: Part Closure
-UID:1823c630-0531-4215-a246-df76c298630c@1823.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-17T00:00:00&endDate=2026-10-19T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 17\, from 0100\, and all day Sunday 18 October\, including Friday and Saturday Night Tube\, no service between Hammersmith and Heathrow (all terminals) / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge\, and ELIZABETH LINE services between Central London and Heathrow\, and for connections between terminals. Replacement bus services operate.
 DTEND:20261019T002900Z
 DTSTART:20261017T000000Z
 SUMMARY:Piccadilly: Part Closure
-UID:4474df5c-a036-4453-8feb-c7f244e9e0fb@4474.org
+UID:1c5765cd-c676-4f41-9200-204a8cbe9501@1c57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-26T00:15:00&endDate=2026-09-28T03:15:00">Disruption map.</a>\n\nPICCADILLY LINE: From 0200 Saturday 26 and all day Sunday 27 September (including Friday and Saturday Night Tube)\, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow. Use DISTRICT LINE trains between Central London and Acton Town / Ealing Common and METROPOLITAN LINE trains between Rayners Lane and Uxbridge. Use ELIZABETH LINE trains for travel between Central London and Heathrow. Replacement buses operate.
+DTEND:20260928T031500Z
+DTSTART:20260926T001500Z
+SUMMARY:Piccadilly: Part Closure
+UID:caa57d7d-78b7-4e46-b98c-7d4abe52c200@caa5.org
 END:VEVENT
 END:VCALENDAR
