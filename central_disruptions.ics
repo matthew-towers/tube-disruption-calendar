@@ -3,17 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-26T11:56:55&endDate=2026-09-26T15:06:42">Disruption map.</a>\n\nCentral Line: No service between Woodford and Loughton while we conduct a track inspection at Buckhurst Hill. Tickets are being accepted on London Buses. NO SERVICE between Liverpool Street and Woodford / Newbury Park due to planned engineering work. GOOD SERVICE on the rest of the line. 
-DTEND:20260926T150642Z
-DTSTART:20260926T115655Z
-SUMMARY:Central: Part Suspended
-UID:521f6e36-50ea-47f9-a498-f889f0ace91b@521f.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-27T09:57:17&endDate=2026-09-28T00:29:00">Disruption map.</a>\n\nCentral Line: No service between Liverpool Street and Woodford / Newbury Park due to planned engineering work. SEVERE DELAYS between White City and West Ruislip. MINOR DELAYS between White City and Ealing Broadway due to earlier faulty trains at Liverpool Street. Tickets are being accepted on London Buses\, Elizabeth line and Chiltern Railway. GOOD SERVICE on the rest of the line.  
+DTEND:20260928T002900Z
+DTSTART:20260927T095717Z
+SUMMARY:Central: Severe Delays
+UID:80f6ea0f-a7ed-416d-b877-e68995fa6639@80f6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-27T09:57:17&endDate=2026-09-28T00:29:00">Disruption map.</a>\n\nCentral Line: No service between Liverpool Street and Woodford / Newbury Park due to planned engineering work. SEVERE DELAYS between White City and West Ruislip. MINOR DELAYS between White City and Ealing Broadway due to earlier faulty trains at Liverpool Street. Tickets are being accepted on London Buses\, Elizabeth line and Chiltern Railway. GOOD SERVICE on the rest of the line.  
+DTEND:20260928T002900Z
+DTSTART:20260927T095717Z
+SUMMARY:Central: Minor Delays
+UID:470e0368-77fb-43a2-806d-d0d56ab53f29@470e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-26T03:32:00&endDate=2026-09-28T00:29:00">Disruption map.</a>\n\nCENTRAL LINE: Saturday 26 September & Sunday 27 September\, no service (including Saturday Night Tube) between Liverpool Street and Woodford / Newbury Park. Replacement buses operate. For Night journeys to Wanstead\, Redbridge and Gants Hill\, please use Night Bus Route N8.
 DTEND:20260928T002900Z
 DTSTART:20260926T033200Z
 SUMMARY:Central: Part Closure
-UID:19bff088-d094-4964-af74-1d5e3ee191bd@19bf.org
+UID:2d85fa96-b3b2-4aa2-aa4f-49c6cf796bf1@2d85.org
 END:VEVENT
 END:VCALENDAR

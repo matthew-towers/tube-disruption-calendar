@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Victoria disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-27T10:22:52&endDate=2026-09-28T00:29:00">Disruption map.</a>\n\nVictoria Line: Minor delays due to a tack fault at Brixton. 
+DTEND:20260928T002900Z
+DTSTART:20260927T102252Z
+SUMMARY:Victoria: Minor Delays
+UID:31daaff4-bd56-4fd8-8486-beea5c994bfc@31da.org
+END:VEVENT
 END:VCALENDAR

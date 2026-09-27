@@ -3,17 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-09-27T10:15:42&endDate=2026-09-27T13:55:12">Disruption map.</a>\n\nDistrict Line: No service between Earl's Court and Kensington (Olympia) due to train cancellations. Tickets are being accepted on the Mildmay line (West Brompton - Willesden Junction) and on London Buses. GOOD SERVICE on the rest of the line. 
+DTEND:20260927T135512Z
+DTSTART:20260927T101542Z
+SUMMARY:District: Part Suspended
+UID:1774463e-2c42-4485-817b-b4eeef8126d4@1774.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-10T03:30:00&endDate=2026-10-12T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 10 and Sunday 11 October\, no service between Edgware Road / Tower Hill and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury\, Kew Gardens and Richmond. Replacement bus services operate.
 DTEND:20261012T002900Z
 DTSTART:20261010T033000Z
 SUMMARY:District: Part Closure
-UID:099005a5-edc2-4679-af80-dc708446b0e6@0990.org
+UID:da4d0c06-0ea8-467b-a2e1-02dbc2c40500@da4d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-17T03:30:00&endDate=2026-10-19T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 17 and Sunday 18 October\, no service between Turnham Green and Ealing Broadway. Replacement bus services operate.
 DTEND:20261019T002900Z
 DTSTART:20261017T033000Z
 SUMMARY:District: Part Closure
-UID:5c73f9d1-9735-4a77-9d8b-db3ceaa97938@5c73.org
+UID:2908fa3f-21a9-48ed-970e-84521fe80d43@2908.org
 END:VEVENT
 END:VCALENDAR
