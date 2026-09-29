@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Elizabeth line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-11T03:30:00&endDate=2026-10-11T07:15:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 11 October\, until 0815\, no service between West Drayton and Slough. Replacement bus service W1 operates between Hayes & Harlington and Slough via West Drayton and Langley\, not serving Iver.
-DTEND:20261011T071500Z
-DTSTART:20261011T033000Z
-SUMMARY:Elizabeth line: Part Closure
-UID:e69cf6ce-4ae7-4e4a-b6d8-df2d84804d73@e69c.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-18T03:30:00&endDate=2026-10-19T00:29:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 18 October\, a reduced service operates between Paddington and Heathrow Terminal 4 / Maidenhead. Two trains an hour serve Heathrow Terminal 4\, West Drayton\, Langley\, Slough\, Burnham and Maidenhead. Four trains an hour serve Heathrow Terminals 2 and 3. Six trains an hour serve Ealing Broadway\, Southall and Hayes & Harlington. Acton Main Line\, Hanwell and West Ealing stations are CLOSED.
 DTEND:20261019T002900Z
 DTSTART:20261018T033000Z
 SUMMARY:Elizabeth line: Reduced Service
-UID:a59e7dbe-c04b-432c-9dc6-73c54ad81930@a59e.org
+UID:80d5714b-4a34-452a-8eec-e702dabb2826@80d5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-11T03:30:00&endDate=2026-10-11T07:15:00">Disruption map.</a>\n\nELIZABETH LINE: Sunday 11 October\, until 0815\, no service between West Drayton and Slough. Replacement bus service W1 operates between Hayes & Harlington and Slough via West Drayton and Langley\, not serving Iver.
+DTEND:20261011T071500Z
+DTSTART:20261011T033000Z
+SUMMARY:Elizabeth line: Part Closure
+UID:9502a9ad-d1a4-47cf-bfb3-eebeb6873cf2@9502.org
 END:VEVENT
 END:VCALENDAR
