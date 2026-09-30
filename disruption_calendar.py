@@ -3,7 +3,7 @@ import datetime as dt
 import ics
 import sys
 
-lineid_to_name = {
+LINEID_TO_NAME = {
     "bakerloo": "Bakerloo",
     "central": "Central",
     "circle": "Circle",
@@ -25,7 +25,7 @@ lineid_to_name = {
     "windrush": "Windrush line",
 }
 
-lineid_to_colour = {
+LINEID_TO_COLOUR = {
     "bakerloo": "#B36305",
     "central": "#E32017",
     "circle": "#FFD300",
@@ -48,7 +48,7 @@ lineid_to_colour = {
 }
 
 
-all_lineids = list(lineid_to_name.keys())
+ALL_LINEIDS = list(LINEID_TO_NAME.keys())
 
 
 def make_event(name, description, start, end, alarms=None):
@@ -93,7 +93,7 @@ def make_calendar(lineid, disruption_data):
     for status in disruption_data:
         for disruption in status["lineStatuses"]:
             event_name = (
-                f'{lineid_to_name[lineid]}: {disruption["statusSeverityDescription"]}'
+                f'{LINEID_TO_NAME[lineid]}: {disruption["statusSeverityDescription"]}'
             )
 
             def from_date(i):
@@ -141,14 +141,14 @@ def write_ics(lineid, calendar):
     # at index 3 to set a calendar name.  You can do this in ics if you have
     # the latest version but not with 0.7.2.
     cal_lines = calendar.serialize().splitlines()
-    cal_lines.insert(3, f"X-WR-CALNAME:{lineid_to_name[lineid]} disruption")
+    cal_lines.insert(3, f"X-WR-CALNAME:{LINEID_TO_NAME[lineid]} disruption")
     with open(filename, "w") as f:
         f.writelines(map(lambda x: x + "\n", cal_lines))
 
 
 def make_all_calendars():
-    for i, lineid in enumerate(all_lineids):
-        print(f"making calendar for {lineid} ({i+1}/{len(all_lineids)})...")
+    for i, lineid in enumerate(ALL_LINEIDS):
+        print(f"making calendar for {lineid} ({i+1}/{len(ALL_LINEIDS)})...")
         write_ics(lineid, make_calendar(lineid, fetch_disruptions(lineid)))
 
 
