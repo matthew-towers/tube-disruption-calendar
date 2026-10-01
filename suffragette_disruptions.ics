@@ -3,31 +3,45 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Suffragette line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-11T08:45:00&endDate=2026-10-11T22:00:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 11 October\, between 0945 and 2300\, no service between Barking and Barking Riverside\, please use local London Buses services.
-DTEND:20261011T220000Z
-DTSTART:20261011T084500Z
-SUMMARY:Suffragette line: Part Closure
-UID:4afad763-111f-4e1f-86e3-6cdcf656c6e2@4afa.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-11T03:30:00&endDate=2026-10-11T08:45:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 11 October\, until 0945 and after 2300\, no service between Gospel Oak and Barking Riverside. Please use local London Buses and London Underground services as no replacement bus services will operate for this closure.
 DTEND:20261011T084500Z
 DTSTART:20261011T033000Z
 SUMMARY:Suffragette line: Planned Closure
-UID:d54ef7b5-a1c8-4f4a-bd5c-e8a03c1c5cba@d54e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-18T03:30:00&endDate=2026-10-19T22:00:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 18 October\, no service between Barking and Barking Riverside\, please use local London Buses services.
-DTEND:20261019T220000Z
-DTSTART:20261018T033000Z
-SUMMARY:Suffragette line: Part Closure
-UID:2df54f39-47af-4009-afdb-ed96b5c9820e@2df5.org
+UID:837670f5-ff9b-4f3e-93a0-28db11c29798@8376.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-11T22:00:00&endDate=2026-10-12T00:29:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 11 October\, until 0945 and after 2300\, no service between Gospel Oak and Barking Riverside. Please use local London Buses and London Underground services as no replacement bus services will operate for this closure.
 DTEND:20261012T002900Z
 DTSTART:20261011T220000Z
 SUMMARY:Suffragette line: Planned Closure
-UID:95a7cf50-afcb-4ecf-a47e-1fd54b2925b7@95a7.org
+UID:43fb02b8-34d7-46a4-b4e8-9d403c55624a@43fb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-11T22:10:00&endDate=2026-10-11T22:59:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 11 October\, the 2310 train from Gospel Oak to Barking Riverside will not run
+DTEND:20261011T225900Z
+DTSTART:20261011T221000Z
+SUMMARY:Suffragette line: Reduced Service
+UID:0946daa4-e725-44e0-a7d4-7d7a975eb017@0946.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-11T08:45:00&endDate=2026-10-11T22:00:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 11 October\, between 0945 and 2300\, no service between Barking and Barking Riverside\, please use local London Buses services.
+DTEND:20261011T220000Z
+DTSTART:20261011T084500Z
+SUMMARY:Suffragette line: Part Closure
+UID:66c5166f-312e-4f4c-a4a8-194a453ff0c1@66c5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-02T22:00:00&endDate=2026-10-02T22:40:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Friday 2 October\, the 2303 train from Barking Riverside to Gospel Oak will terminate at Upper Holloway at 2338
+DTEND:20261002T224000Z
+DTSTART:20261002T220000Z
+SUMMARY:Suffragette line: Reduced Service
+UID:91e7c9fe-350c-4a68-a8db-50835edae06f@91e7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-18T03:30:00&endDate=2026-10-19T22:00:00">Disruption map.</a>\n\nSUFFRAGETTE LINE: Sunday 18 October\, no service between Barking and Barking Riverside\, please use local London Buses services.
+DTEND:20261019T220000Z
+DTSTART:20261018T033000Z
+SUMMARY:Suffragette line: Part Closure
+UID:cccc6f7f-b4ec-4c64-ac1c-f3994d46e2a2@cccc.org
 END:VEVENT
 END:VCALENDAR
