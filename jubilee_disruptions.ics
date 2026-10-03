@@ -3,38 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Jubilee disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-03T00:30:00&endDate=2026-10-03T03:30:00">Disruption map.</a>\n\nJUBILEE LINE: Saturday 3 October\, between 0130 and 0430\, no service between Finchley Road and Stratford. Replacement bus service JL3 operates between North Greenwich\, Canning Town and Stratford.
-DTEND:20261003T033000Z
-DTSTART:20261003T003000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-03T03:30:00&endDate=2026-10-04T00:29:00">Disruption map.</a>\n\nJUBILEE LINE: From 0430 Saturday 3 until 0130 Sunday 4 October\, no service between Green Park and Canary Wharf. If travelling between Central London and North Greenwich\, please travel via Stratford.
+DTEND:20261004T002900Z
+DTSTART:20261003T033000Z
 SUMMARY:Jubilee: Part Closure
-UID:cb052851-ed0e-45c8-adb4-8a5d547e1cd9@cb05.org
+UID:9c427cb8-62cf-44a5-8856-4e1a497ce522@9c42.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-04T00:30:00&endDate=2026-10-04T04:30:00">Disruption map.</a>\n\nJUBILEE LINE: Sunday 4 October\, between 0130 and 0530\, no service between Green Park and Stratford. Replacement bus service JL3 operates between North Greenwich\, Canning Town and Stratford.
 DTEND:20261004T043000Z
 DTSTART:20261004T003000Z
 SUMMARY:Jubilee: Part Closure
-UID:ff82d86b-8697-4c80-813e-447ae78408d6@ff82.org
+UID:233421d9-938e-4ed9-bba8-9c7139e96dfd@2334.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-07T01:00:00&endDate=2026-11-07T14:00:00">Disruption map.</a>\n\nJUBILEE LINE: Saturday 7 November\, between 0100 and 1400\, no service between West Hampstead and Stanmore (including Friday Night Tube). Use Night Bus services for overnight journeys. Replacement bus services operate during the day.
 DTEND:20261107T140000Z
 DTSTART:20261107T010000Z
 SUMMARY:Jubilee: Part Closure
-UID:83b20ea5-63e7-4f22-ba92-341f98bc168d@83b2.org
+UID:72519268-f84b-4314-a674-27c29777ec53@7251.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-04T04:30:00&endDate=2026-10-05T00:29:00">Disruption map.</a>\n\nJUBILEE LINE: From 0530 Sunday 4 October\, no service between Green Park and Canary Wharf. If travelling between Central London and North Greenwich\, please travel via Stratford.
 DTEND:20261005T002900Z
 DTSTART:20261004T043000Z
 SUMMARY:Jubilee: Part Closure
-UID:cbcae0c5-6feb-4a60-8a77-222ff938cce0@cbca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-03T03:30:00&endDate=2026-10-04T00:29:00">Disruption map.</a>\n\nJUBILEE LINE: From 0430 Saturday 3 until 0130 Sunday 4 October\, no service between Green Park and Canary Wharf. If travelling between Central London and North Greenwich\, please travel via Stratford.
-DTEND:20261004T002900Z
-DTSTART:20261003T033000Z
-SUMMARY:Jubilee: Part Closure
-UID:fa4b893c-daab-4752-ba7e-d8a6b3a68fb9@fa4b.org
+UID:a8ec51b9-701a-426b-9543-56b340d6a5d2@a8ec.org
 END:VEVENT
 END:VCALENDAR
