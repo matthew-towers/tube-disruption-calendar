@@ -3,31 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-10T03:30:00&endDate=2026-10-12T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 10 and Sunday 11 October\, no service between Edgware Road / Tower Hill and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury\, Kew Gardens and Richmond. Replacement bus services operate.
-DTEND:20261012T002900Z
-DTSTART:20261010T033000Z
-SUMMARY:District: Part Closure
-UID:06c891a5-9728-4593-9695-18c3457ee16e@06c8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-07T04:30:00&endDate=2026-11-07T10:30:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 7 November\, until 1030\, no service on the entire line. Use MILDMAY LINE services between Gunnersbury\, Kew Gardens and Richmond. Replacement bus services operate.
-DTEND:20261107T103000Z
-DTSTART:20261107T043000Z
-SUMMARY:District: Planned Closure
-UID:a66874a8-1209-4a72-a3dc-f6f02f772be4@a668.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-24T03:30:00&endDate=2026-10-26T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 24 and Sunday 25 October\, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury\, Kew Gardens and Richmond. Replacement bus services operate.
 DTEND:20261026T012900Z
 DTSTART:20261024T033000Z
 SUMMARY:District: Part Closure
-UID:72573c62-36c1-4af9-9742-7fd39e62ece4@7257.org
+UID:6d072043-f7f6-447b-a744-af1ff186002f@6d07.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-17T03:30:00&endDate=2026-10-19T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 17 and Sunday 18 October\, no service between Turnham Green and Ealing Broadway. Replacement bus services operate.
 DTEND:20261019T002900Z
 DTSTART:20261017T033000Z
 SUMMARY:District: Part Closure
-UID:635c6609-8db0-4cc0-b31b-f26796b1c878@635c.org
+UID:dcac2663-2102-49b5-a4b1-7dde75aae9c7@dcac.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-07T04:30:00&endDate=2026-11-07T10:30:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 7 November\, until 1030\, no service on the entire line. Use MILDMAY LINE services between Gunnersbury\, Kew Gardens and Richmond. Replacement bus services operate.
+DTEND:20261107T103000Z
+DTSTART:20261107T043000Z
+SUMMARY:District: Planned Closure
+UID:17423cf7-abc3-45d0-be7f-e983cfa2c6f5@1742.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-10T03:30:00&endDate=2026-10-12T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 10 and Sunday 11 October\, no service between Edgware Road / Tower Hill and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury\, Kew Gardens and Richmond. Replacement bus services operate.
+DTEND:20261012T002900Z
+DTSTART:20261010T033000Z
+SUMMARY:District: Part Closure
+UID:f405cd0a-34eb-46a7-b0bf-5bc0b1b3e0e2@f405.org
 END:VEVENT
 END:VCALENDAR
