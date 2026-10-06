@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Jubilee disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-06T07:54:14&endDate=2026-10-07T00:29:00">Disruption map.</a>\n\nJubilee Line: Minor delays due to an earlier fire alert at Stanmore. 
+DTEND:20261007T002900Z
+DTSTART:20261006T075414Z
+SUMMARY:Jubilee: Minor Delays
+UID:97cd1a66-0835-487a-b5d5-44a755f8020f@97cd.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-07T01:00:00&endDate=2026-11-07T14:00:00">Disruption map.</a>\n\nJUBILEE LINE: Saturday 7 November\, between 0100 and 1400\, no service between West Hampstead and Stanmore (including Friday Night Tube). Use Night Bus services for overnight journeys. Replacement bus services operate during the day.
 DTEND:20261107T140000Z
 DTSTART:20261107T010000Z
 SUMMARY:Jubilee: Part Closure
-UID:8d892e8d-8240-423e-9a24-8ca642c8e947@8d89.org
+UID:10bc7b76-254c-4731-9074-52fb6c2982c0@10bc.org
 END:VEVENT
 END:VCALENDAR
