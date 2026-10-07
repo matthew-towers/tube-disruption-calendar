@@ -3,31 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-25T04:30:00&endDate=2026-10-26T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 25 October\, no service between Shadwell and Tower Gateway.
-DTEND:20261026T012900Z
-DTSTART:20261025T043000Z
-SUMMARY:DLR: Part Closure
-UID:5f77b046-1604-41e8-a821-f8e1096d9d7f@5f77.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-18T03:30:00&endDate=2026-10-19T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 18 October\, no service between Shadwell and Tower Gateway.
 DTEND:20261019T002900Z
 DTSTART:20261018T033000Z
 SUMMARY:DLR: Part Closure
-UID:74575bca-7077-4922-a8af-0b3b03b34076@7457.org
+UID:e51134d2-0fc3-40f8-9bcc-d071db6ca1d7@e511.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-25T04:30:00&endDate=2026-10-26T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 25 October\, no service between Shadwell and Tower Gateway.
+DTEND:20261026T012900Z
+DTSTART:20261025T043000Z
+SUMMARY:DLR: Part Closure
+UID:4a3d1c78-4bd0-4bdb-bc1a-b74de4d1c99e@4a3d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-01T04:30:00&endDate=2026-11-02T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 1 November\, no service between Shadwell and Tower Gateway.
 DTEND:20261102T012900Z
 DTSTART:20261101T043000Z
 SUMMARY:DLR: Part Closure
-UID:45fa50e5-516b-454d-9588-94b1a75227d4@45fa.org
+UID:d791b547-f105-47ee-8ec7-8604d0321147@d791.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-10T03:30:00&endDate=2026-10-12T00:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 10 and Sunday 11 October\, no service between Stratford International and Woolwich Arsenal. Please use local London Buses\, London Underground and Elizabeth line services (for Woolwich) as no replacement bus services will operate.
 DTEND:20261012T002900Z
 DTSTART:20261010T033000Z
 SUMMARY:DLR: Part Closure
-UID:9bec0ea4-f52a-4faa-8838-88ea44e3f18a@9bec.org
+UID:a14d0a84-5f26-49cd-8d3b-0febbc657dbf@a14d.org
 END:VEVENT
 END:VCALENDAR
