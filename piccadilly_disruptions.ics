@@ -3,24 +3,38 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-31T01:00:00&endDate=2026-11-02T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 31 October\, from 0100\, and all day Sunday 1 November\, including Friday and Saturday Night Tube\, no service on the entire line. Use ELIZABETH LINE services between Central London and Heathrow\, and METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement bus services operate.
-DTEND:20261102T012900Z
-DTSTART:20261031T010000Z
-SUMMARY:Piccadilly: Planned Closure
-UID:3c34ef5a-93e0-4249-822c-c260731a5c8d@3c34.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-17T00:00:00&endDate=2026-10-19T00:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 17\, from 0100\, and all day Sunday 18 October\, including Friday and Saturday Night Tube\, no service between Hammersmith and Heathrow (all terminals) / Uxbridge. Use METROPOLITAN LINE services between Rayners Lane and Uxbridge\, and ELIZABETH LINE services between Central London and Heathrow\, and for connections between terminals. Replacement bus services operate.
 DTEND:20261019T002900Z
 DTSTART:20261017T000000Z
 SUMMARY:Piccadilly: Part Closure
-UID:af23fb49-6b82-4235-8abd-5aea51709f5b@af23.org
+UID:bcbd9db0-1540-4eb5-9369-895af4e4fee4@bcbd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-08T09:02:26&endDate=2026-10-09T00:29:00">Disruption map.</a>\n\nPiccadilly Line: Severe delays between King's Cross St. Pancras and Cockfosters while we fix a signal failure at Arnos Grove. Tickets are being accepted on London Buses\, Great Northern and London Overground services via any reasonable route. MINOR DELAYS on the rest of the line. 
+DTEND:20261009T002900Z
+DTSTART:20261008T090226Z
+SUMMARY:Piccadilly: Minor Delays
+UID:92491891-3dbb-43ba-90ad-c44a2625d3db@9249.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-31T01:00:00&endDate=2026-11-02T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 31 October\, from 0100\, and all day Sunday 1 November\, including Friday and Saturday Night Tube\, no service on the entire line. Use ELIZABETH LINE services between Central London and Heathrow\, and METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement bus services operate.
+DTEND:20261102T012900Z
+DTSTART:20261031T010000Z
+SUMMARY:Piccadilly: Planned Closure
+UID:e2c4c35c-52c8-43d6-8094-1fe3bdbd7c49@e2c4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-28T04:30:00&endDate=2026-10-30T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Wednesday 28\, Thursday 29 and Friday 30 October\, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow\, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge\, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate.
 DTEND:20261030T012900Z
 DTSTART:20261028T043000Z
 SUMMARY:Piccadilly: Part Closure
-UID:7627f7fb-4927-473c-bbb5-9a64a273c842@7627.org
+UID:dbd7e73d-7375-498f-a0f8-663f580d56ed@dbd7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-08T09:02:26&endDate=2026-10-09T00:29:00">Disruption map.</a>\n\nPiccadilly Line: Severe delays between King's Cross St. Pancras and Cockfosters while we fix a signal failure at Arnos Grove. Tickets are being accepted on London Buses\, Great Northern and London Overground services via any reasonable route. MINOR DELAYS on the rest of the line. 
+DTEND:20261009T002900Z
+DTSTART:20261008T090226Z
+SUMMARY:Piccadilly: Severe Delays
+UID:d828cc33-dcda-4143-a4ec-1d02543a8e27@d828.org
 END:VEVENT
 END:VCALENDAR
