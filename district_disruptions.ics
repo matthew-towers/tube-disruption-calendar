@@ -3,38 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-09T07:48:37&endDate=2026-10-10T00:29:00">Disruption map.</a>\n\nDistrict Line: Severe delays due to an earlier customer incident at Earl's Court. Tickets will be accepted on London Buses\, Mildmay line\, DLR\, Elizabeth line\, C2C and South Western Railway via reasonable routes. 
-DTEND:20261010T002900Z
-DTSTART:20261009T074837Z
-SUMMARY:District: Severe Delays
-UID:80649936-ced9-409a-abbe-008ead5dc35a@8064.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-07T04:30:00&endDate=2026-11-07T10:30:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 7 November\, until 1030\, no service on the entire line. Use MILDMAY LINE services between Gunnersbury\, Kew Gardens and Richmond. Replacement bus services operate.
-DTEND:20261107T103000Z
-DTSTART:20261107T043000Z
-SUMMARY:District: Planned Closure
-UID:46a24eed-36b2-4011-8dfe-714a62d64ed5@46a2.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-24T03:30:00&endDate=2026-10-26T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 24 and Sunday 25 October\, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury\, Kew Gardens and Richmond. Replacement bus services operate.
+DTEND:20261026T012900Z
+DTSTART:20261024T033000Z
+SUMMARY:District: Part Closure
+UID:37672d0b-959a-4697-bf34-c0c460d55785@3767.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-10T03:30:00&endDate=2026-10-12T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 10 and Sunday 11 October\, no service between Edgware Road / Tower Hill and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury\, Kew Gardens and Richmond. Replacement bus services operate.
 DTEND:20261012T002900Z
 DTSTART:20261010T033000Z
 SUMMARY:District: Part Closure
-UID:bc5b42d3-3dc3-4833-b890-01b44e344b82@bc5b.org
+UID:b119abc4-5398-496f-b3d9-b284b08e0b16@b119.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-17T03:30:00&endDate=2026-10-19T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 17 and Sunday 18 October\, no service between Turnham Green and Ealing Broadway. Replacement bus services operate.
 DTEND:20261019T002900Z
 DTSTART:20261017T033000Z
 SUMMARY:District: Part Closure
-UID:ccd7b57d-3b23-4775-bc90-28efe62123ce@ccd7.org
+UID:3867aac7-b075-4b56-8ed0-087710b99dc3@3867.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-24T03:30:00&endDate=2026-10-26T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 24 and Sunday 25 October\, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury\, Kew Gardens and Richmond. Replacement bus services operate.
-DTEND:20261026T012900Z
-DTSTART:20261024T033000Z
-SUMMARY:District: Part Closure
-UID:cde3b99b-c355-4bd1-af44-96ccc71d199e@cde3.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-07T04:30:00&endDate=2026-11-07T10:30:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 7 November\, until 1030\, no service on the entire line. Use MILDMAY LINE services between Gunnersbury\, Kew Gardens and Richmond. Replacement bus services operate.
+DTEND:20261107T103000Z
+DTSTART:20261107T043000Z
+SUMMARY:District: Planned Closure
+UID:b22615b7-132e-4e3e-848e-cb9478219e94@b226.org
 END:VEVENT
 END:VCALENDAR
