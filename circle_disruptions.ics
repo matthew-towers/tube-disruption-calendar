@@ -3,31 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Circle disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-24T03:30:00&endDate=2026-10-26T01:29:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 24 and Sunday 25 October\, no service between Edgware Road and Tower Hill (via Victoria)
-DTEND:20261026T012900Z
-DTSTART:20261024T033000Z
-SUMMARY:Circle: Part Closure
-UID:e9c0c463-10fd-4d63-8258-c8bfb2226d95@e9c0.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-24T03:30:00&endDate=2026-10-26T01:29:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 24 and Sunday 25 October\, no service between Edgware Road and Aldgate (via Victoria)
 DTEND:20261026T012900Z
 DTSTART:20261024T033000Z
 SUMMARY:Circle: Part Closure
-UID:30017d4b-7b1e-43de-bddd-d7bf75aa82ed@3001.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-10T03:30:00&endDate=2026-10-12T00:29:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 10 and Sunday 11 October\, no service between Edgware Road and Aldgate (via Victoria)
-DTEND:20261012T002900Z
-DTSTART:20261010T033000Z
-SUMMARY:Circle: Part Closure
-UID:a490b85a-a666-422a-be23-0ee4322ca40e@a490.org
+UID:d97472af-4231-4d5a-bb30-267e2f2b9a34@d974.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-07T04:30:00&endDate=2026-11-07T10:30:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 7 November\, until 1030\, no service on the entire line.
 DTEND:20261107T103000Z
 DTSTART:20261107T043000Z
 SUMMARY:Circle: Planned Closure
-UID:9cea1f1f-4734-4fc5-9834-8a2620ef2282@9cea.org
+UID:62f11ee4-a85d-4649-8026-be3f566fd1b5@62f1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-10T03:30:00&endDate=2026-10-12T00:29:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 10 and Sunday 11 October\, no service between Edgware Road and Aldgate (via Victoria)
+DTEND:20261012T002900Z
+DTSTART:20261010T033000Z
+SUMMARY:Circle: Part Closure
+UID:e5ae4751-dad9-4846-8680-b8d683f34b80@e5ae.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-24T03:30:00&endDate=2026-10-26T01:29:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 24 and Sunday 25 October\, no service between Edgware Road and Tower Hill (via Victoria)
+DTEND:20261026T012900Z
+DTSTART:20261024T033000Z
+SUMMARY:Circle: Part Closure
+UID:1f034cfc-316c-4481-9aa8-1dc84b666195@1f03.org
 END:VEVENT
 END:VCALENDAR
