@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-07T04:30:00&endDate=2026-11-07T10:30:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 7 November\, until 1030\, no service on the entire line. Use MILDMAY LINE services between Gunnersbury\, Kew Gardens and Richmond. Replacement bus services operate.
-DTEND:20261107T103000Z
-DTSTART:20261107T043000Z
-SUMMARY:District: Planned Closure
-UID:859ad762-4df0-4b70-91df-56c271b7d25c@859a.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-17T03:30:00&endDate=2026-10-19T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 17 and Sunday 18 October\, no service between Turnham Green and Ealing Broadway. Replacement bus services operate.
 DTEND:20261019T002900Z
 DTSTART:20261017T033000Z
 SUMMARY:District: Part Closure
-UID:6977a5fd-63d9-434d-841f-b2e7215d65df@6977.org
+UID:07c2f700-3501-4c5c-9b7b-d5d1327df87d@07c2.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-24T03:30:00&endDate=2026-10-26T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 24 and Sunday 25 October\, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury\, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening\, please use the PICCADILLY LINE to/from Earls Court and continue at street level.
 DTEND:20261026T012900Z
 DTSTART:20261024T033000Z
 SUMMARY:District: Part Closure
-UID:845b2db1-ab47-4ea4-a72f-de8f33e6c312@845b.org
+UID:1d31617b-c2e7-48d1-bfcf-58e9bcd1373f@1d31.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-07T04:30:00&endDate=2026-11-07T10:30:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 7 November\, until 1030\, no service on the entire line. Use MILDMAY LINE services between Gunnersbury\, Kew Gardens and Richmond. Replacement bus services operate.
+DTEND:20261107T103000Z
+DTSTART:20261107T043000Z
+SUMMARY:District: Planned Closure
+UID:a6de6172-fbdc-44bf-b35d-057ef6d3bc1b@a6de.org
 END:VEVENT
 END:VCALENDAR
