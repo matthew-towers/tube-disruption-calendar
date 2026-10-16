@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-17T03:30:00&endDate=2026-10-19T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 17 and Sunday 18 October\, no service between Turnham Green and Ealing Broadway. Replacement bus services operate.
+DTEND:20261019T002900Z
+DTSTART:20261017T033000Z
+SUMMARY:District: Part Closure
+UID:28cfaa4f-ed8a-473c-8b6c-b7678ec8c8cc@28cf.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-24T03:30:00&endDate=2026-10-26T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 24 and Sunday 25 October\, no service between Edgware Road / Embankment and Ealing Broadway / Kensington (Olympia) / Richmond / Wimbledon. Use MILDMAY LINE services between Gunnersbury\, Kew Gardens and Richmond. Replacement bus services operate. If travelling to Chelsea vs Tottenham Hotspur on Saturday evening\, please use the PICCADILLY LINE to/from Earls Court and continue at street level.
 DTEND:20261026T012900Z
 DTSTART:20261024T033000Z
 SUMMARY:District: Part Closure
-UID:3b5ee53e-8acf-44e2-9e6e-932e422f77cb@3b5e.org
+UID:5ad82f87-f3d2-46de-8afb-26595c7714e1@5ad8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-07T04:30:00&endDate=2026-11-07T10:30:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 7 November\, until 1030\, no service on the entire line. Use MILDMAY LINE services between Gunnersbury\, Kew Gardens and Richmond. Replacement bus services operate.
 DTEND:20261107T103000Z
 DTSTART:20261107T043000Z
 SUMMARY:District: Planned Closure
-UID:bb91b990-1946-490d-97a4-c3ac210744ec@bb91.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-17T03:30:00&endDate=2026-10-19T00:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 17 and Sunday 18 October\, no service between Turnham Green and Ealing Broadway. Replacement bus services operate.
-DTEND:20261019T002900Z
-DTSTART:20261017T033000Z
-SUMMARY:District: Part Closure
-UID:e1093294-dcce-4fd5-952b-c2114644cc45@e109.org
+UID:5627d6ef-4106-49a2-944a-56cc4b453e27@5627.org
 END:VEVENT
 END:VCALENDAR
