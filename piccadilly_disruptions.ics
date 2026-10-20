@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-28T04:30:00&endDate=2026-10-30T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Wednesday 28\, Thursday 29 and Friday 30 October\, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow\, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge\, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate.
-DTEND:20261030T012900Z
-DTSTART:20261028T043000Z
-SUMMARY:Piccadilly: Part Closure
-UID:22a40701-a6db-406c-af5f-74c6d9bb5362@22a4.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-31T01:00:00&endDate=2026-11-02T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 31 October\, from 0100\, and all day Sunday 1 November\, including Friday and Saturday Night Tube\, no service on the entire line. Use ELIZABETH LINE services between Central London and Heathrow\, and METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement bus services operate.
 DTEND:20261102T012900Z
 DTSTART:20261031T010000Z
 SUMMARY:Piccadilly: Planned Closure
-UID:19e47522-9664-4fd1-b02c-1ce39e5e5f03@19e4.org
+UID:2b1c7228-92c3-4397-8650-8457a6096c08@2b1c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-28T04:30:00&endDate=2026-10-30T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Wednesday 28\, Thursday 29 and Friday 30 October\, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow\, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge\, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate.
+DTEND:20261030T012900Z
+DTSTART:20261028T043000Z
+SUMMARY:Piccadilly: Part Closure
+UID:77ceccf8-4557-40fd-8e6b-4063b67eb5cc@77ce.org
 END:VEVENT
 END:VCALENDAR
