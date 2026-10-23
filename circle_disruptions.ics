@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Circle disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-28T04:30:00&endDate=2026-11-30T01:29:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 28 and Sunday 29 November\, no service between Hammersmith / High Street Kensington and Tower Hill (via Kings Cross St Pancras)
+DTEND:20261130T012900Z
+DTSTART:20261128T043000Z
+SUMMARY:Circle: Part Closure
+UID:a73ae127-77da-4b39-ad2e-29288721320e@a73a.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-24T03:30:00&endDate=2026-10-26T01:29:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 24 and Sunday 25 October\, no service between Edgware Road and Tower Hill (via Victoria)
 DTEND:20261026T012900Z
 DTSTART:20261024T033000Z
 SUMMARY:Circle: Part Closure
-UID:303a49cc-bbd0-41e1-8af5-1e7b2386216e@303a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-23T08:08:25&endDate=2026-10-24T00:29:00">Disruption map.</a>\n\nCircle Line: Minor delays due to an earlier faulty train at Euston Square. 
-DTEND:20261024T002900Z
-DTSTART:20261023T080825Z
-SUMMARY:Circle: Minor Delays
-UID:2b5a9af6-b926-42ab-8544-b2720466b66a@2b5a.org
+UID:40e685d3-8cb5-44f2-bd9c-65d694edb0ce@40e6.org
 END:VEVENT
 END:VCALENDAR
