@@ -3,24 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-13T01:30:00&endDate=2026-12-13T05:30:00">Disruption map.</a>\n\nCENTRAL LINE: Sunday 13 December\, between 0130 and 0530\, no Saturday Night Tube service between Marble Arch and Ealing Broadway. Replacement bus service CL1 operates between Marble Arch and Ealing Broadway via Lancaster Gate\, Queensway\, Notting Hill Gate\, Holland Park\, Shepherds Bush\, White City\, East Acton\, North Acton and West Acton.
-DTEND:20261213T053000Z
-DTSTART:20261213T013000Z
-SUMMARY:Central: Part Closure
-UID:a41a2c38-5bdb-404b-9d04-3d38d61cfb29@a41a.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-13T05:30:00&endDate=2026-12-14T01:29:00">Disruption map.</a>\n\nCENTRAL LINE: Sunday 13 December\, from 0530\, no service between White City and Ealing Broadway / Northolt. Replacement buses operate.
 DTEND:20261214T012900Z
 DTSTART:20261213T053000Z
 SUMMARY:Central: Part Closure
-UID:3299c8e7-287b-4d97-8ffe-245c6c417a63@3299.org
+UID:cf017078-25c2-465d-a20f-2d759db7d74d@cf01.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-23T14:44:33&endDate=2026-10-24T00:29:00">Disruption map.</a>\n\nCentral Line: Minor delays due to train cancellations. 
-DTEND:20261024T002900Z
-DTSTART:20261023T144433Z
-SUMMARY:Central: Minor Delays
-UID:b482f3c4-cb91-4923-b921-83906d1c15a8@b482.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-13T01:30:00&endDate=2026-12-13T05:30:00">Disruption map.</a>\n\nCENTRAL LINE: Sunday 13 December\, between 0130 and 0530\, no Saturday Night Tube service between Marble Arch and Ealing Broadway. Replacement bus service CL1 operates between Marble Arch and Ealing Broadway via Lancaster Gate\, Queensway\, Notting Hill Gate\, Holland Park\, Shepherds Bush\, White City\, East Acton\, North Acton and West Acton.
+DTEND:20261213T053000Z
+DTSTART:20261213T013000Z
+SUMMARY:Central: Part Closure
+UID:3f6f3be9-c989-4587-928c-fbc4e7a4e253@3f6f.org
 END:VEVENT
 END:VCALENDAR
