@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-13T05:30:00&endDate=2026-12-14T01:29:00">Disruption map.</a>\n\nCENTRAL LINE: Sunday 13 December\, from 0530\, no service between White City and Ealing Broadway / Northolt. Replacement buses operate.
-DTEND:20261214T012900Z
-DTSTART:20261213T053000Z
-SUMMARY:Central: Part Closure
-UID:cf017078-25c2-465d-a20f-2d759db7d74d@cf01.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-13T01:30:00&endDate=2026-12-13T05:30:00">Disruption map.</a>\n\nCENTRAL LINE: Sunday 13 December\, between 0130 and 0530\, no Saturday Night Tube service between Marble Arch and Ealing Broadway. Replacement bus service CL1 operates between Marble Arch and Ealing Broadway via Lancaster Gate\, Queensway\, Notting Hill Gate\, Holland Park\, Shepherds Bush\, White City\, East Acton\, North Acton and West Acton.
 DTEND:20261213T053000Z
 DTSTART:20261213T013000Z
 SUMMARY:Central: Part Closure
-UID:3f6f3be9-c989-4587-928c-fbc4e7a4e253@3f6f.org
+UID:80c21b5b-9976-42a2-8b67-238110b1a991@80c2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-13T05:30:00&endDate=2026-12-14T01:29:00">Disruption map.</a>\n\nCENTRAL LINE: Sunday 13 December\, from 0530\, no service between White City and Ealing Broadway / Northolt. Replacement buses operate.
+DTEND:20261214T012900Z
+DTSTART:20261213T053000Z
+SUMMARY:Central: Part Closure
+UID:fde1f731-ae95-461b-8123-28f68dda94fb@fde1.org
 END:VEVENT
 END:VCALENDAR
