@@ -3,31 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-01T04:30:00&endDate=2026-11-02T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 1 November\, no service between Shadwell and Tower Gateway.
-DTEND:20261102T012900Z
-DTSTART:20261101T043000Z
-SUMMARY:DLR: Part Closure
-UID:3c9370b0-3fc5-4322-82f1-6a095a467da0@3c93.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-25T04:30:00&endDate=2026-10-26T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 25 October\, no service between Shadwell and Tower Gateway.
-DTEND:20261026T012900Z
-DTSTART:20261025T043000Z
-SUMMARY:DLR: Part Closure
-UID:c78ec0c0-3e14-43c7-b10e-ae13abc88fbd@c78e.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-21T04:30:00&endDate=2026-11-23T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 21 and Sunday 22 November\, no service between Canning Town and Stratford International. Please use JUBILEE LINE and local London Buses services.
 DTEND:20261123T012900Z
 DTSTART:20261121T043000Z
 SUMMARY:DLR: Part Closure
-UID:b5876309-44a2-4892-9c90-3309bcf14098@b587.org
+UID:26ff7a33-5d61-4ea7-a722-3ca5cc85cd1a@26ff.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-01T04:30:00&endDate=2026-11-02T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 1 November\, no service between Shadwell and Tower Gateway.
+DTEND:20261102T012900Z
+DTSTART:20261101T043000Z
+SUMMARY:DLR: Part Closure
+UID:313d0afa-852c-4a0a-95a5-48081cae963b@313d.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-15T04:30:00&endDate=2026-11-16T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 15 November\, no service between Shadwell and Tower Gateway.
 DTEND:20261116T012900Z
 DTSTART:20261115T043000Z
 SUMMARY:DLR: Part Closure
-UID:3035635f-bc05-439d-b0e2-0ee98669b004@3035.org
+UID:f13f738b-4726-41bd-9c9d-1ce1070fe19c@f13f.org
 END:VEVENT
 END:VCALENDAR

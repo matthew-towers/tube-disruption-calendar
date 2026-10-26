@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-21T01:30:00&endDate=2026-11-23T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: From 0130 Saturday 21 and all day Sunday 22 November\, including Friday and Saturday Night Tube\, no service between Hammersmith and Heathrow (all terminals) / Uxbridge. There will also be no METROPOLITAN LINE services between Harrow-on-the-Hill and Uxbridge. Use ELIZABETH LINE services between Central London and Heathrow.
+DTEND:20261123T012900Z
+DTSTART:20261121T013000Z
+SUMMARY:Piccadilly: Part Closure
+UID:cbcbf59b-4b7b-4c81-a863-f775e382d4b4@cbcb.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-31T01:00:00&endDate=2026-11-02T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 31 October\, from 0100\, and all day Sunday 1 November\, including Friday and Saturday Night Tube\, no service on the entire line. Use ELIZABETH LINE services between Central London and Heathrow\, and METROPOLITAN LINE services between Rayners Lane and Uxbridge. Replacement bus services operate.
 DTEND:20261102T012900Z
 DTSTART:20261031T010000Z
 SUMMARY:Piccadilly: Planned Closure
-UID:39476863-13d4-4bf6-bc0c-d48affe10b43@3947.org
+UID:3ebfaecc-fc51-4edc-8445-fd455b29e86a@3ebf.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-28T04:30:00&endDate=2026-10-30T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Wednesday 28\, Thursday 29 and Friday 30 October\, no service between Cockfosters and Uxbridge. Trains continue to operate between Acton Town and Heathrow\, all terminals. Use the METROPOLITAN LINE between Rayners Lane and Uxbridge\, and ELIZABETH LINE services between Central London and Heathrow. Replacement bus services operate.
 DTEND:20261030T012900Z
 DTSTART:20261028T043000Z
 SUMMARY:Piccadilly: Part Closure
-UID:bd06a065-1e0a-4542-ab26-65891d800d14@bd06.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-21T01:30:00&endDate=2026-11-23T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: From 0130 Saturday 21 and all day Sunday 22 November\, including Friday and Saturday Night Tube\, no service between Hammersmith and Heathrow (all terminals) / Uxbridge. There will also be no METROPOLITAN LINE services between Harrow-on-the-Hill and Uxbridge. Use ELIZABETH LINE services between Central London and Heathrow.
-DTEND:20261123T012900Z
-DTSTART:20261121T013000Z
-SUMMARY:Piccadilly: Part Closure
-UID:65a46548-1c7d-4554-8ea4-b088f158c640@65a4.org
+UID:c16f5018-c21e-4296-95af-107dbfa87f1c@c16f.org
 END:VEVENT
 END:VCALENDAR
