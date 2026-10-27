@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Circle disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-27T09:12:09&endDate=2026-10-28T01:29:00">Disruption map.</a>\n\nCircle Line: Minor delays due to an earlier faulty train at Barbican. 
+DTEND:20261028T012900Z
+DTSTART:20261027T091209Z
+SUMMARY:Circle: Minor Delays
+UID:78f3d42e-5234-415d-85a7-2bd7ad8e4527@78f3.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-28T04:30:00&endDate=2026-11-30T01:29:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 28 and Sunday 29 November\, no service between Hammersmith / High Street Kensington and Tower Hill (via Kings Cross St Pancras)
 DTEND:20261130T012900Z
 DTSTART:20261128T043000Z
 SUMMARY:Circle: Part Closure
-UID:aefbf744-293e-44a6-9211-fa1c68e5ca5f@aefb.org
+UID:6066aeb7-8649-422f-b932-91333624cb63@6066.org
 END:VEVENT
 END:VCALENDAR

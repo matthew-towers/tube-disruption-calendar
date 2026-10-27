@@ -3,24 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Northern disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-15T05:30:00&endDate=2026-11-16T01:30:00">Disruption map.</a>\n\nNORTHERN LINE: From 0530 Sunday 15 November\, no service between Euston (Bank Branch) / Charing Cross and Morden / Battersea Power Station. Replacement bus services operate.
-DTEND:20261116T013000Z
-DTSTART:20261115T053000Z
-SUMMARY:Northern: Part Closure
-UID:e02c8fff-ac11-409e-aa83-35317b16b687@e02c.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-15T01:30:00&endDate=2026-11-15T05:30:00">Disruption map.</a>\n\nNORTHERN LINE: From 0130 until 0530 Sunday 15 November\, no Saturday Night Tube service between East Finchley / Golders Green and Morden. Please use Night Bus services.
 DTEND:20261115T053000Z
 DTSTART:20261115T013000Z
 SUMMARY:Northern: Part Closure
-UID:087de46d-6b47-4752-af19-ba1c33a930c4@087d.org
+UID:782cde9d-7f3a-4d71-bef0-fd80d8ac2825@782c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-15T05:30:00&endDate=2026-11-16T01:30:00">Disruption map.</a>\n\nNORTHERN LINE: From 0530 Sunday 15 November\, no service between Euston (Bank Branch) / Charing Cross and Morden / Battersea Power Station. Replacement bus services operate.
+DTEND:20261116T013000Z
+DTSTART:20261115T053000Z
+SUMMARY:Northern: Part Closure
+UID:8121b35a-1016-4055-ba5c-8d6529499e6f@8121.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-27T08:03:09&endDate=2026-10-28T01:29:00">Disruption map.</a>\n\nNorthern Line: Severe delays due to an earlier signal failure at Balham. \r\nTickets are being accepted on London Buses\, London Trams\, Southeastern\, Thameslink and South Western Railway Services. 
+DTEND:20261028T012900Z
+DTSTART:20261027T080309Z
+SUMMARY:Northern: Severe Delays
+UID:de965601-f092-4890-92c5-01131cd0f5ee@de96.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-14T01:30:00&endDate=2026-11-15T01:30:00">Disruption map.</a>\n\nNORTHERN LINE: From 0130 Saturday 14 until 0130 Sunday 15 November\, no service between Euston (Bank Branch) / Charing Cross and Morden / Battersea Power Station. There will be no Friday Night Tube service between Charing Cross and Morden. Replacement bus services operate during day hours only\, for Night journeys please use Night Bus services
 DTEND:20261115T013000Z
 DTSTART:20261114T013000Z
 SUMMARY:Northern: Part Closure
-UID:3c1b6af9-3530-4500-a003-7dbbc9d681d4@3c1b.org
+UID:eea47472-9963-4029-af42-a1fcebb9d648@eea4.org
 END:VEVENT
 END:VCALENDAR
