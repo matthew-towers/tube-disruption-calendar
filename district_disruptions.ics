@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-21T04:30:00&endDate=2026-11-23T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 21 and Sunday 22 November\, no service between Turnham Green and Ealing Broadway. There will also be no PICCADILLY LINE service west of Hammersmith. Replacement bus services operate. Please change between trains and replacement buses at Gunnersbury.
-DTEND:20261123T012900Z
-DTSTART:20261121T043000Z
-SUMMARY:District: Part Closure
-UID:bf1c870a-f90f-452c-9ea7-eef4d6ba78e3@bf1c.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-28T04:30:00&endDate=2026-11-30T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 28 and Sunday 29 November\, no service between High Street Kensington and Edgware Road. There will also be no CIRCLE LINE service on this section.
 DTEND:20261130T012900Z
 DTSTART:20261128T043000Z
 SUMMARY:District: Part Closure
-UID:dba73277-9974-4768-83c3-3a94e480f22b@dba7.org
+UID:36ae4256-68df-4e7a-a012-6d0cfea1de46@36ae.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-06T04:30:00&endDate=2026-12-07T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Sunday 6 December\, no service between Turnham Green and Richmond. There will also be no MILDMAY LINE service between Willesden Junction and Richmond. Replacement bus service R operates between Willesden Junction and Richmond via Acton Central (The Vale)\, South Acton (Acton Lane)\, Turnham Green Station\, Chiswick Park (Chiswick High Road)\, Gunnersbury and Kew Gardens (Royal Botanic Gardens).
 DTEND:20261207T012900Z
 DTSTART:20261206T043000Z
 SUMMARY:District: Part Closure
-UID:fbbd533f-17eb-4278-bf4e-68521e8a7be6@fbbd.org
+UID:98b7ab4a-b633-4763-a1fa-7c43f5f633c6@98b7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-21T04:30:00&endDate=2026-11-23T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 21 and Sunday 22 November\, no service between Turnham Green and Ealing Broadway. There will also be no PICCADILLY LINE service west of Hammersmith. Replacement bus services operate. Please change between trains and replacement buses at Gunnersbury.
+DTEND:20261123T012900Z
+DTSTART:20261121T043000Z
+SUMMARY:District: Part Closure
+UID:a4068c7d-c1c0-4a96-948a-8d29a036a1f9@a406.org
 END:VEVENT
 END:VCALENDAR

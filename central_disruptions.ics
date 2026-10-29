@@ -3,24 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-28T07:18:04&endDate=2026-10-29T01:29:00">Disruption map.</a>\n\nCentral Line: Minor delays due to train cancellations. 
-DTEND:20261029T012900Z
-DTSTART:20261028T071804Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-10-29T07:43:04&endDate=2026-10-30T01:29:00">Disruption map.</a>\n\nCentral Line: Minor delays between White City and Ealing Broadway/West Ruislip and between Leytonstone and Epping/Hainault via Newbury Park due to train cancellations. 
+DTEND:20261030T012900Z
+DTSTART:20261029T074304Z
 SUMMARY:Central: Minor Delays
-UID:c92144fc-9813-43ac-aa45-ccffa2f8a093@c921.org
+UID:d556a892-9d3a-4a58-8dbd-cbe0786d5214@d556.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-13T05:30:00&endDate=2026-12-14T01:29:00">Disruption map.</a>\n\nCENTRAL LINE: Sunday 13 December\, from 0530\, no service between White City and Ealing Broadway / Northolt. Replacement buses operate.
 DTEND:20261214T012900Z
 DTSTART:20261213T053000Z
 SUMMARY:Central: Part Closure
-UID:7a49e7ba-db80-4536-970b-56582f0eafe4@7a49.org
+UID:822a064d-710c-46a4-8c85-228e901629de@822a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-13T01:30:00&endDate=2026-12-13T05:30:00">Disruption map.</a>\n\nCENTRAL LINE: Sunday 13 December\, between 0130 and 0530\, no Saturday Night Tube service between Marble Arch and Ealing Broadway. Replacement bus service CL1 operates between Marble Arch and Ealing Broadway via Lancaster Gate\, Queensway\, Notting Hill Gate\, Holland Park\, Shepherds Bush\, White City\, East Acton\, North Acton and West Acton.
 DTEND:20261213T053000Z
 DTSTART:20261213T013000Z
 SUMMARY:Central: Part Closure
-UID:8e0d847d-494d-4163-9493-bbe2ecd0fedd@8e0d.org
+UID:0980d2cd-66f3-4e27-9bf2-5e05df2b0af2@0980.org
 END:VEVENT
 END:VCALENDAR
