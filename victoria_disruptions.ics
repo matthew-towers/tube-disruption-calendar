@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Victoria disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-01T10:15:59&endDate=2026-11-02T01:29:00">Disruption map.</a>\n\nVictoria Line: Minor delays between Walthamstow Central and Sven Sisters due to an earlier faulty train at Tottenham Hale. GOOD SERVICE on the rest of the line. 
+DTEND:20261102T012900Z
+DTSTART:20261101T101559Z
+SUMMARY:Victoria: Minor Delays
+UID:65bee68a-3a5b-481b-920d-37501d67c889@65be.org
+END:VEVENT
 END:VCALENDAR
