@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Jubilee disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-04T09:34:38&endDate=2026-11-05T01:29:00">Disruption map.</a>\n\nJubilee Line: Minor delays due to an earlier faulty train at Canary Wharf. 
+DTEND:20261105T012900Z
+DTSTART:20261104T093438Z
+SUMMARY:Jubilee: Minor Delays
+UID:4fe7b622-f72e-4afb-89cd-6b2c2d8d2d6a@4fe7.org
+END:VEVENT
 END:VCALENDAR

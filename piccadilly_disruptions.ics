@@ -3,10 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-04T09:23:59&endDate=2026-11-05T01:29:00">Disruption map.</a>\n\nPiccadilly Line: Severe delays due to an earlier signal failure at South Kensington. Tickets are being accepted on London Buses\, Weaver line\, Great Northern\, South Western Railway\, Weaver line and Elizabeth Line services via any reasonable route.  
+DTEND:20261105T012900Z
+DTSTART:20261104T092359Z
+SUMMARY:Piccadilly: Severe Delays
+UID:df5cfd40-cce3-486e-b5ae-113a0c046093@df5c.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-21T01:30:00&endDate=2026-11-23T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: From 0130 Saturday 21 and all day Sunday 22 November\, including Friday and Saturday Night Tube\, no service between Hammersmith and Heathrow (all terminals) / Uxbridge. There will also be no METROPOLITAN LINE services between Harrow-on-the-Hill and Uxbridge. Use ELIZABETH LINE services between Central London and Heathrow.
 DTEND:20261123T012900Z
 DTSTART:20261121T013000Z
 SUMMARY:Piccadilly: Part Closure
-UID:9aacce1c-bbef-4b6d-8659-f6327bf23a16@9aac.org
+UID:1b7829e9-e7ff-4c22-b526-e6db9daf11d3@1b78.org
 END:VEVENT
 END:VCALENDAR
