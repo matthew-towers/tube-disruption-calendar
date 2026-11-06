@@ -3,24 +3,38 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Northern disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-15T05:30:00&endDate=2026-11-16T01:30:00">Disruption map.</a>\n\nNORTHERN LINE: From 0530 Sunday 15 November\, no service between Euston (Bank Branch) / Charing Cross and Morden / Battersea Power Station. Replacement bus services operate.
-DTEND:20261116T013000Z
-DTSTART:20261115T053000Z
-SUMMARY:Northern: Part Closure
-UID:7172d616-da2a-44c5-814c-3f07e4bf2c00@7172.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-14T01:30:00&endDate=2026-11-15T01:30:00">Disruption map.</a>\n\nNORTHERN LINE: From 0130 Saturday 14 until 0130 Sunday 15 November\, no service between Euston (Bank Branch) / Charing Cross and Morden / Battersea Power Station. There will be no Friday Night Tube service between Charing Cross and Morden. Replacement bus services operate during day hours only\, for Night journeys please use Night Bus services
-DTEND:20261115T013000Z
-DTSTART:20261114T013000Z
-SUMMARY:Northern: Part Closure
-UID:169068be-e865-4982-9c7b-2f5d2cd63bf3@1690.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-06T10:12:49&endDate=2026-11-07T01:29:00">Disruption map.</a>\n\nNorthern Line: Severe delays between High Barnet and Camden Town southbound only and MINOR DELAYS on the rest of the line due to an earlier track inspection at Kentish Town. Tickets are being accepted on London Buses\, Thameslink and Great Northern.  
+DTEND:20261107T012900Z
+DTSTART:20261106T101249Z
+SUMMARY:Northern: Minor Delays
+UID:46858ee3-c061-49c2-a605-79950dff0b25@4685.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-15T01:30:00&endDate=2026-11-15T05:30:00">Disruption map.</a>\n\nNORTHERN LINE: From 0130 until 0530 Sunday 15 November\, no Saturday Night Tube service between East Finchley / Golders Green and Morden. Please use Night Bus services.
 DTEND:20261115T053000Z
 DTSTART:20261115T013000Z
 SUMMARY:Northern: Part Closure
-UID:91458f2d-2551-4ec9-aef8-f48c9d01a4bd@9145.org
+UID:7557a785-6698-4fea-9a9f-ae27f50954f8@7557.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-14T01:30:00&endDate=2026-11-15T01:30:00">Disruption map.</a>\n\nNORTHERN LINE: From 0130 Saturday 14 until 0130 Sunday 15 November\, no service between Euston (Bank Branch) / Charing Cross and Morden / Battersea Power Station. There will be no Friday Night Tube service between Charing Cross and Morden. Replacement bus services operate during day hours only\, for Night journeys please use Night Bus services
+DTEND:20261115T013000Z
+DTSTART:20261114T013000Z
+SUMMARY:Northern: Part Closure
+UID:be9a48e6-a318-40b6-b70a-f1c7a79eb238@be9a.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-06T10:12:49&endDate=2026-11-07T01:29:00">Disruption map.</a>\n\nNorthern Line: Severe delays between High Barnet and Camden Town southbound only and MINOR DELAYS on the rest of the line due to an earlier track inspection at Kentish Town. Tickets are being accepted on London Buses\, Thameslink and Great Northern.  
+DTEND:20261107T012900Z
+DTSTART:20261106T101249Z
+SUMMARY:Northern: Severe Delays
+UID:3b6ba3cc-55d4-48ce-8bcf-12f388461fa5@3b6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-15T05:30:00&endDate=2026-11-16T01:30:00">Disruption map.</a>\n\nNORTHERN LINE: From 0530 Sunday 15 November\, no service between Euston (Bank Branch) / Charing Cross and Morden / Battersea Power Station. Replacement bus services operate.
+DTEND:20261116T013000Z
+DTSTART:20261115T053000Z
+SUMMARY:Northern: Part Closure
+UID:c6937597-88a4-4f72-b574-34178df8b203@c693.org
 END:VEVENT
 END:VCALENDAR
