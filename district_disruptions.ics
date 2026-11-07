@@ -3,31 +3,38 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-06T06:01:06&endDate=2026-11-07T01:29:00">Disruption map.</a>\n\nDistrict Line: Minor delays due to train cancellations. 
-DTEND:20261107T012900Z
-DTSTART:20261106T060106Z
-SUMMARY:District: Minor Delays
-UID:cab0df43-7d7b-48ce-8ebd-f143752fe394@cab0.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-21T04:30:00&endDate=2026-11-23T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 21 and Sunday 22 November\, no service between Turnham Green and Ealing Broadway. There will also be no PICCADILLY LINE service west of Hammersmith. Replacement bus services operate. Please change between trains and replacement buses at Gunnersbury.
+DTEND:20261123T012900Z
+DTSTART:20261121T043000Z
+SUMMARY:District: Part Closure
+UID:7f03f9ef-0d16-4b43-8360-f8f1ec20391d@7f03.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-06T04:30:00&endDate=2026-12-07T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Sunday 6 December\, no service between Turnham Green and Richmond. There will also be no MILDMAY LINE service between Willesden Junction and Richmond. Replacement bus service R operates between Willesden Junction and Richmond via Acton Central (The Vale)\, South Acton (Acton Lane)\, Turnham Green Station\, Chiswick Park (Chiswick High Road)\, Gunnersbury and Kew Gardens (Royal Botanic Gardens).
 DTEND:20261207T012900Z
 DTSTART:20261206T043000Z
 SUMMARY:District: Part Closure
-UID:810835c1-aac3-4431-aaac-d9b2b861eb52@8108.org
+UID:f5ceaf90-4794-42eb-9030-3db8dd931fe5@f5ce.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-28T04:30:00&endDate=2026-11-30T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 28 and Sunday 29 November\, no service between High Street Kensington and Edgware Road. There will also be no CIRCLE LINE service on this section.
 DTEND:20261130T012900Z
 DTSTART:20261128T043000Z
 SUMMARY:District: Part Closure
-UID:859ca523-8f93-46a5-bdd5-fc8cd2e3c532@859c.org
+UID:5835727e-f85b-49ec-a269-98555072b2e0@5835.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-21T04:30:00&endDate=2026-11-23T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 21 and Sunday 22 November\, no service between Turnham Green and Ealing Broadway. There will also be no PICCADILLY LINE service west of Hammersmith. Replacement bus services operate. Please change between trains and replacement buses at Gunnersbury.
-DTEND:20261123T012900Z
-DTSTART:20261121T043000Z
-SUMMARY:District: Part Closure
-UID:cbcedff3-1a56-427b-846b-db0ad6541392@cbce.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-07T11:22:12&endDate=2026-11-08T01:29:00">Disruption map.</a>\n\nDistrict Line: Severe delays between Tower Hill and Upminster and MINOR DELAYS between Tower Hill and Earl's Court due to an earlier faulty train at Tower Hill. Tickets are being accepted on London Buses and C2C. GOOD SERVICE on the rest of the line. 
+DTEND:20261108T012900Z
+DTSTART:20261107T112212Z
+SUMMARY:District: Severe Delays
+UID:7c5d8145-370d-44d4-9306-84d7628a892c@7c5d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-07T11:22:12&endDate=2026-11-08T01:29:00">Disruption map.</a>\n\nDistrict Line: Severe delays between Tower Hill and Upminster and MINOR DELAYS between Tower Hill and Earl's Court due to an earlier faulty train at Tower Hill. Tickets are being accepted on London Buses and C2C. GOOD SERVICE on the rest of the line. 
+DTEND:20261108T012900Z
+DTSTART:20261107T112212Z
+SUMMARY:District: Minor Delays
+UID:7b136953-08d9-4ab6-bad9-db2de18b54f8@7b13.org
 END:VEVENT
 END:VCALENDAR
