@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Hammersmith & City disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-15T10:00:00&endDate=2026-11-15T18:00:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Sunday 15 November\, between 1000 and 1800\, no service between Plaistow and Barking. Please use DISTRICT LINE services.
-DTEND:20261115T180000Z
-DTSTART:20261115T100000Z
-SUMMARY:Hammersmith & City: Part Closure
-UID:e267ee15-72dc-4d6e-bd3f-b12092e97999@e267.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-28T04:30:00&endDate=2026-11-30T01:29:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Saturday 28 and Sunday 29 November\, no service on the entire line. There will also be no CIRCLE LINE service between Hammersmith / High Street Kensington and Tower Hill (via Kings Cross St Pancras). Use DISTRICT LINE services between Aldgate East and Barking.
 DTEND:20261130T012900Z
 DTSTART:20261128T043000Z
 SUMMARY:Hammersmith & City: Planned Closure
-UID:50bde587-e966-4d46-b282-fd55e4a7475b@50bd.org
+UID:a0e60041-404f-4151-8ca2-56cda741e698@a0e6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-15T10:00:00&endDate=2026-11-15T18:00:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Sunday 15 November\, between 1000 and 1800\, no service between Plaistow and Barking. Please use DISTRICT LINE services.
+DTEND:20261115T180000Z
+DTSTART:20261115T100000Z
+SUMMARY:Hammersmith & City: Part Closure
+UID:02b7dad7-0d5c-4f1b-8423-14121943d320@02b7.org
 END:VEVENT
 END:VCALENDAR

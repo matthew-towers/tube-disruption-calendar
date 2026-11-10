@@ -3,31 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-09T07:02:14&endDate=2026-11-10T01:29:00">Disruption map.</a>\n\nDistrict Line: Minor delays due to train cancellations. 
-DTEND:20261110T012900Z
-DTSTART:20261109T070214Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-10T10:34:00&endDate=2026-11-11T01:29:00">Disruption map.</a>\n\nDistrict Line: Minor delays between Turnham Green and Richmond while we fix a signal failure at Shepherd's Bush. GOOD SERVICE on the rest of the line.  
+DTEND:20261111T012900Z
+DTSTART:20261110T103400Z
 SUMMARY:District: Minor Delays
-UID:3cae56b8-ef8b-4ebc-bac0-d833e28fcb84@3cae.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-06T04:30:00&endDate=2026-12-07T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Sunday 6 December\, no service between Turnham Green and Richmond. There will also be no MILDMAY LINE service between Willesden Junction and Richmond. Replacement bus service R operates between Willesden Junction and Richmond via Acton Central (The Vale)\, South Acton (Acton Lane)\, Turnham Green Station\, Chiswick Park (Chiswick High Road)\, Gunnersbury and Kew Gardens (Royal Botanic Gardens).
-DTEND:20261207T012900Z
-DTSTART:20261206T043000Z
-SUMMARY:District: Part Closure
-UID:a6dc8a27-c502-4382-af1c-7473d36a4b44@a6dc.org
+UID:ad6e21d0-78ba-4080-9298-8632078bf0cb@ad6e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-28T04:30:00&endDate=2026-11-30T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 28 and Sunday 29 November\, no service between High Street Kensington and Edgware Road. There will also be no CIRCLE LINE service on this section.
 DTEND:20261130T012900Z
 DTSTART:20261128T043000Z
 SUMMARY:District: Part Closure
-UID:c5c0735a-17ee-4d0d-92a9-7658d911ca48@c5c0.org
+UID:75956d51-098c-4a7d-b528-5410f9ab3b83@7595.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-21T04:30:00&endDate=2026-11-23T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 21 and Sunday 22 November\, no service between Turnham Green and Ealing Broadway. There will also be no PICCADILLY LINE service west of Hammersmith. Replacement bus services operate. Please change between trains and replacement buses at Gunnersbury.
 DTEND:20261123T012900Z
 DTSTART:20261121T043000Z
 SUMMARY:District: Part Closure
-UID:fa4ff756-20bf-4cd7-bad6-adc526fbfd57@fa4f.org
+UID:9a0f803b-3ee8-4bed-9819-97b7626a59bd@9a0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-06T04:30:00&endDate=2026-12-07T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Sunday 6 December\, no service between Turnham Green and Richmond. There will also be no MILDMAY LINE service between Willesden Junction and Richmond. Replacement bus service R operates between Willesden Junction and Richmond via Acton Central (The Vale)\, South Acton (Acton Lane)\, Turnham Green Station\, Chiswick Park (Chiswick High Road)\, Gunnersbury and Kew Gardens (Royal Botanic Gardens).
+DTEND:20261207T012900Z
+DTSTART:20261206T043000Z
+SUMMARY:District: Part Closure
+UID:20f8f67c-2993-41f8-a1b9-0ef4abc004f1@20f8.org
 END:VEVENT
 END:VCALENDAR
