@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Bakerloo disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-21T04:30:00&endDate=2026-11-23T01:29:00">Disruption map.</a>\n\nBAKERLOO LINE: Saturday 21 and Sunday 22 November\, no service between Queens Park and Harrow & Wealdstone. There will also be no LIONESS LINE service between Euston and Watford Junction. Special bus service 718 operates. LONDON NORTH WESTERN RAILWAY trains continue to stop at Harrow & Wealdstone. SOUTHERN trains stop at Wembley Central and Harrow & Wealdstone until 1900 only.
-DTEND:20261123T012900Z
-DTSTART:20261121T043000Z
-SUMMARY:Bakerloo: Part Closure
-UID:1758f8bd-b026-4f3b-8d36-caed551a42c2@1758.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-06T04:30:00&endDate=2026-12-07T01:29:00">Disruption map.</a>\n\nBAKERLOO LINE: Sunday 6 December\, no service between Queens Park and Harrow & Wealdstone. There will also be no LIONESS LINE service between Willesden Junction and Harrow & Wealdstone. Special bus service 718 operates. LONDON NORTH WESTERN RAILWAY trains continue to stop at Harrow & Wealdstone. SOUTHERN trains stop at Wembley Central and Harrow & Wealdstone between 1300 and 2000 only
 DTEND:20261207T012900Z
 DTSTART:20261206T043000Z
 SUMMARY:Bakerloo: Part Closure
-UID:22a19bb0-a7d7-4322-a7eb-483b0b3bb96e@22a1.org
+UID:490f0653-4e90-448e-a802-f89ecdb314c3@490f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-21T04:30:00&endDate=2026-11-23T01:29:00">Disruption map.</a>\n\nBAKERLOO LINE: Saturday 21 and Sunday 22 November\, no service between Queens Park and Harrow & Wealdstone. Please note that special bus service 718 will NOT operate. There will also be no LIONESS LINE service between Euston and Watford Junction. LONDON NORTH WESTERN RAILWAY trains continue to stop at Harrow & Wealdstone. SOUTHERN trains stop at Wembley Central and Harrow & Wealdstone until 1900 only.
+DTEND:20261123T012900Z
+DTSTART:20261121T043000Z
+SUMMARY:Bakerloo: Part Closure
+UID:50032457-1bb4-4db1-8bf2-0f2b9084ab37@5003.org
 END:VEVENT
 END:VCALENDAR
