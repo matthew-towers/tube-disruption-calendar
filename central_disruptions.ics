@@ -3,31 +3,24 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-12T10:02:12&endDate=2026-11-13T01:29:00">Disruption map.</a>\n\nCentral Line: Severe delays between Leytonstone and Epping while we fix a faulty track at South Woodford. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  
-DTEND:20261113T012900Z
-DTSTART:20261112T100212Z
-SUMMARY:Central: Severe Delays
-UID:407143d9-251a-43e8-a4cf-48d851edbcf0@4071.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-13T05:30:00&endDate=2026-12-14T01:29:00">Disruption map.</a>\n\nCENTRAL LINE: Sunday 13 December\, from 0530\, no service between White City and Ealing Broadway / Northolt. Replacement buses operate.
+DTEND:20261214T012900Z
+DTSTART:20261213T053000Z
+SUMMARY:Central: Part Closure
+UID:7e572223-8468-45d7-a00d-83402cc3646e@7e57.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-13T07:44:36&endDate=2026-11-14T01:29:00">Disruption map.</a>\n\nCentral Line: Minor delays due to train cancellations.  
+DTEND:20261114T012900Z
+DTSTART:20261113T074436Z
+SUMMARY:Central: Minor Delays
+UID:5540998e-641c-42de-a727-01a93da12ac4@5540.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-13T01:30:00&endDate=2026-12-13T05:30:00">Disruption map.</a>\n\nCENTRAL LINE: Sunday 13 December\, between 0130 and 0530\, no Saturday Night Tube service between Marble Arch and Ealing Broadway. Replacement bus service CL1 operates between Marble Arch and Ealing Broadway via Lancaster Gate\, Queensway\, Notting Hill Gate\, Holland Park\, Shepherds Bush\, White City\, East Acton\, North Acton and West Acton.
 DTEND:20261213T053000Z
 DTSTART:20261213T013000Z
 SUMMARY:Central: Part Closure
-UID:b1c401bd-6ad9-48a6-a533-daa8fe1158bb@b1c4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-12T10:02:12&endDate=2026-11-13T01:29:00">Disruption map.</a>\n\nCentral Line: Severe delays between Leytonstone and Epping while we fix a faulty track at South Woodford. Tickets being accepted on London Buses. MINOR DELAYS on the rest of the line.  
-DTEND:20261113T012900Z
-DTSTART:20261112T100212Z
-SUMMARY:Central: Minor Delays
-UID:8b1130fc-56ba-4e4f-a9e0-1be2b108cec8@8b11.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-13T05:30:00&endDate=2026-12-14T01:29:00">Disruption map.</a>\n\nCENTRAL LINE: Sunday 13 December\, from 0530\, no service between White City and Ealing Broadway / Northolt. Replacement buses operate.
-DTEND:20261214T012900Z
-DTSTART:20261213T053000Z
-SUMMARY:Central: Part Closure
-UID:6bfe68b3-9d2c-41d5-bc64-450d2afc4d66@6bfe.org
+UID:52f0669b-14f8-42dd-abff-69a2b7f5e50d@52f0.org
 END:VEVENT
 END:VCALENDAR

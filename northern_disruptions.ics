@@ -3,38 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Northern disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-15T01:30:00&endDate=2026-11-15T05:30:00">Disruption map.</a>\n\nNORTHERN LINE: From 0130 until 0530 Sunday 15 November\, no Saturday Night Tube service between East Finchley / Golders Green and Morden. Please use Night Bus services.
-DTEND:20261115T053000Z
-DTSTART:20261115T013000Z
-SUMMARY:Northern: Part Closure
-UID:b5a60bcd-4543-4335-bd29-f7ee0586765e@b5a6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-12T11:27:16&endDate=2026-11-13T01:29:00">Disruption map.</a>\n\nNorthern Line: No service between Camden Town and Edgware while emergency services deal with a casualty on the track. Tickets being accepted by London Buses. MINOR DELAYS on the rest of the line.  
-DTEND:20261113T012900Z
-DTSTART:20261112T112716Z
-SUMMARY:Northern: Minor Delays
-UID:b9570a84-3fe8-4106-bd2d-dc82755beeb2@b957.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-14T01:30:00&endDate=2026-11-15T01:30:00">Disruption map.</a>\n\nNORTHERN LINE: From 0130 Saturday 14 until 0130 Sunday 15 November\, no service between Euston (Bank Branch) / Charing Cross and Morden / Battersea Power Station. There will be no Friday Night Tube service between Charing Cross and Morden. Replacement bus services operate during day hours only\, for Night journeys please use Night Bus services
 DTEND:20261115T013000Z
 DTSTART:20261114T013000Z
 SUMMARY:Northern: Part Closure
-UID:479398ac-0cae-47ae-a3f7-8f989934fc7a@4793.org
+UID:fbb4a0e4-787d-4eed-9ffd-526295508d8b@fbb4.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-12T11:27:16&endDate=2026-11-12T14:32:18">Disruption map.</a>\n\nNorthern Line: No service between Camden Town and Edgware while emergency services deal with a casualty on the track. Tickets being accepted by London Buses. MINOR DELAYS on the rest of the line.  
-DTEND:20261112T143218Z
-DTSTART:20261112T112716Z
-SUMMARY:Northern: Part Suspended
-UID:f7ed90f0-1bdd-492c-aafc-b8ac05702e51@f7ed.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-13T10:48:07&endDate=2026-11-14T01:29:00">Disruption map.</a>\n\nNorthern Line: Minor delays between Kennington and Morden due to an earlier points failure at Morden. GOOD SERVICE on the rest of the line. 
+DTEND:20261114T012900Z
+DTSTART:20261113T104807Z
+SUMMARY:Northern: Minor Delays
+UID:3004e431-0672-4556-a8dd-142a523dc0cb@3004.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-15T05:30:00&endDate=2026-11-16T01:30:00">Disruption map.</a>\n\nNORTHERN LINE: From 0530 Sunday 15 November\, no service between Euston (Bank Branch) / Charing Cross and Morden / Battersea Power Station. Replacement bus services operate.
 DTEND:20261116T013000Z
 DTSTART:20261115T053000Z
 SUMMARY:Northern: Part Closure
-UID:6790200e-6c85-490e-b8d4-9ea95445a103@6790.org
+UID:90159ef2-153a-4f1a-a586-1e2649807baa@9015.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-15T01:30:00&endDate=2026-11-15T05:30:00">Disruption map.</a>\n\nNORTHERN LINE: From 0130 until 0530 Sunday 15 November\, no Saturday Night Tube service between East Finchley / Golders Green and Morden. Please use Night Bus services.
+DTEND:20261115T053000Z
+DTSTART:20261115T013000Z
+SUMMARY:Northern: Part Closure
+UID:02af12aa-750b-4336-b30f-5aae0a3a72a0@02af.org
 END:VEVENT
 END:VCALENDAR

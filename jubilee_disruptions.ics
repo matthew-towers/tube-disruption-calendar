@@ -2,4 +2,11 @@ BEGIN:VCALENDAR
 VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Jubilee disruption
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-13T10:01:55&endDate=2026-11-14T01:29:00">Disruption map.</a>\n\nJubilee Line: Minor delays due to an earlier points failure at Wembley Park.  
+DTEND:20261114T012900Z
+DTSTART:20261113T100155Z
+SUMMARY:Jubilee: Minor Delays
+UID:e55cc3a1-7340-4169-ae81-f154f7a5b9b8@e55c.org
+END:VEVENT
 END:VCALENDAR
