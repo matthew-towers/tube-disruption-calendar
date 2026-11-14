@@ -3,38 +3,80 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-28T04:30:00&endDate=2026-11-30T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 28 and Sunday 29 November\, no service between High Street Kensington and Edgware Road. There will also be no CIRCLE LINE service on this section.
-DTEND:20261130T012900Z
-DTSTART:20261128T043000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-06T04:30:00&endDate=2026-12-07T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Sunday 6 December\, no service between Turnham Green and Richmond. There will also be no MILDMAY LINE service between Willesden Junction and Richmond. Replacement bus service R operates between Willesden Junction and Richmond via Acton Central (The Vale)\, South Acton (Acton Lane)\, Turnham Green Station\, Chiswick Park (Chiswick High Road)\, Gunnersbury and Kew Gardens (Royal Botanic Gardens).
+DTEND:20261207T012900Z
+DTSTART:20261206T043000Z
 SUMMARY:District: Part Closure
-UID:882581e1-5abf-46bb-bf64-64639ba9aea3@8825.org
+UID:044655c1-ed00-4711-90ad-0aa8d4c9f0c3@0446.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-14T10:50:53&endDate=2026-11-15T01:29:00">Disruption map.</a>\n\nDistrict Line: Severe delays between Earl's Court and Kensington (Olympia). MINOR DELAYS between Earl's Court and Wimbledon due to train cancellations. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. 
+DTEND:20261115T012900Z
+DTSTART:20261114T105053Z
+SUMMARY:District: Minor Delays
+UID:417cea80-63c5-4a86-8e17-6bb84fe36d6a@417c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-04T12:00:00&endDate=2027-01-05T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Monday 4 until 11:59 Tuesday 5 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20270105T115900Z
+DTSTART:20270104T120000Z
+SUMMARY:District: Special Service
+UID:3a6b2e45-32a4-4efd-91d4-b867a2d13d4a@3a6b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-26T12:00:00&endDate=2026-11-27T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Thursday 26 until 11:59 Friday 27 November. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20261127T115900Z
+DTSTART:20261126T120000Z
+SUMMARY:District: Special Service
+UID:7d8b83fe-97fa-4542-b64c-d39e687aefb3@7d8b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-17T12:00:00&endDate=2026-12-18T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20261218T115900Z
+DTSTART:20261217T120000Z
+SUMMARY:District: Special Service
+UID:1bcd73c4-272a-4104-9629-e4c1d7951b8c@1bcd.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-21T04:30:00&endDate=2026-11-23T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 21 and Sunday 22 November\, no service between Turnham Green and Ealing Broadway. There will also be no PICCADILLY LINE service west of Hammersmith. Replacement bus services operate. Please change between trains and replacement buses at Gunnersbury.
 DTEND:20261123T012900Z
 DTSTART:20261121T043000Z
 SUMMARY:District: Part Closure
-UID:c9feed67-6d5f-4e17-b4a0-bcae157d6caf@c9fe.org
+UID:ff6dbe5a-e834-4f6c-9cbc-3e4a61be02b4@ff6d.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-19T12:00:00&endDate=2026-12-20T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20261220T115900Z
+DTSTART:20261219T120000Z
+SUMMARY:District: Special Service
+UID:eae366fe-cbc4-4c8a-9a34-6db86cac2de6@eae3.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-06T12:00:00&endDate=2027-01-07T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20270107T115900Z
+DTSTART:20270106T120000Z
+SUMMARY:District: Special Service
+UID:7b9cd176-b3e6-405f-93ca-89f312aa5c87@7b9c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-14T10:50:53&endDate=2026-11-15T01:29:00">Disruption map.</a>\n\nDistrict Line: Severe delays between Earl's Court and Kensington (Olympia). MINOR DELAYS between Earl's Court and Wimbledon due to train cancellations. Tickets are being accepted on London Buses. GOOD SERVICE on the rest of the line. 
+DTEND:20261115T012900Z
+DTSTART:20261114T105053Z
+SUMMARY:District: Severe Delays
+UID:b8b0d6ba-6d97-48d1-9c14-f2789c1f993a@b8b0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-28T04:30:00&endDate=2026-11-30T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 28 and Sunday 29 November\, no service between High Street Kensington and Edgware Road. There will also be no CIRCLE LINE service on this section.
+DTEND:20261130T012900Z
+DTSTART:20261128T043000Z
+SUMMARY:District: Part Closure
+UID:4387f175-eef4-40b6-8677-2e369770aabb@4387.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-20T11:59:00&endDate=2026-11-22T20:30:00">Disruption map.</a>\n\nTUBE STRIKE: Piccadilly line service control staff are planning to take strike action from 11:59  Friday 20 until 20:30 Saturday 21 November. Due to shared infrastructure\, some disruption is expected on the District line.
 DTEND:20261122T203000Z
 DTSTART:20261120T115900Z
 SUMMARY:District: Special Service
-UID:24284935-d27b-41d4-9bac-1d0d20740605@2428.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-13T09:24:49&endDate=2026-11-14T01:29:00">Disruption map.</a>\n\nDistrict Line: Minor delays due to train cancellations.  
-DTEND:20261114T012900Z
-DTSTART:20261113T092449Z
-SUMMARY:District: Minor Delays
-UID:ae591f76-74cf-4c4c-82e5-fa0a52c90da6@ae59.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-06T04:30:00&endDate=2026-12-07T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Sunday 6 December\, no service between Turnham Green and Richmond. There will also be no MILDMAY LINE service between Willesden Junction and Richmond. Replacement bus service R operates between Willesden Junction and Richmond via Acton Central (The Vale)\, South Acton (Acton Lane)\, Turnham Green Station\, Chiswick Park (Chiswick High Road)\, Gunnersbury and Kew Gardens (Royal Botanic Gardens).
-DTEND:20261207T012900Z
-DTSTART:20261206T043000Z
-SUMMARY:District: Part Closure
-UID:55da0768-261c-402c-b3b6-d63a1687d3f2@55da.org
+UID:d6dffaa7-f374-4bcc-8e76-b5bbde2613b0@d6df.org
 END:VEVENT
 END:VCALENDAR

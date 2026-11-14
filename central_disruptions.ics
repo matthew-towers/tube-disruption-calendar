@@ -3,24 +3,59 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-13T05:30:00&endDate=2026-12-14T01:29:00">Disruption map.</a>\n\nCENTRAL LINE: Sunday 13 December\, from 0530\, no service between White City and Ealing Broadway / Northolt. Replacement buses operate.
-DTEND:20261214T012900Z
-DTSTART:20261213T053000Z
-SUMMARY:Central: Part Closure
-UID:7e572223-8468-45d7-a00d-83402cc3646e@7e57.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-17T12:00:00&endDate=2026-12-18T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20261218T115900Z
+DTSTART:20261217T120000Z
+SUMMARY:Central: Special Service
+UID:0157423e-dd17-4dfd-9137-154827cdd6bc@0157.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-13T07:44:36&endDate=2026-11-14T01:29:00">Disruption map.</a>\n\nCentral Line: Minor delays due to train cancellations.  
-DTEND:20261114T012900Z
-DTSTART:20261113T074436Z
-SUMMARY:Central: Minor Delays
-UID:5540998e-641c-42de-a727-01a93da12ac4@5540.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-06T12:00:00&endDate=2027-01-07T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20270107T115900Z
+DTSTART:20270106T120000Z
+SUMMARY:Central: Special Service
+UID:57de7072-8e51-4ac3-8679-8ff3388696de@57de.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-13T01:30:00&endDate=2026-12-13T05:30:00">Disruption map.</a>\n\nCENTRAL LINE: Sunday 13 December\, between 0130 and 0530\, no Saturday Night Tube service between Marble Arch and Ealing Broadway. Replacement bus service CL1 operates between Marble Arch and Ealing Broadway via Lancaster Gate\, Queensway\, Notting Hill Gate\, Holland Park\, Shepherds Bush\, White City\, East Acton\, North Acton and West Acton.
 DTEND:20261213T053000Z
 DTSTART:20261213T013000Z
 SUMMARY:Central: Part Closure
-UID:52f0669b-14f8-42dd-abff-69a2b7f5e50d@52f0.org
+UID:53167976-b854-436d-bfbc-03d2bb8c4f87@5316.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-19T12:00:00&endDate=2026-12-20T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20261220T115900Z
+DTSTART:20261219T120000Z
+SUMMARY:Central: Special Service
+UID:d738f5e8-19f3-48f8-92ee-caafa151d6ac@d738.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-13T05:30:00&endDate=2026-12-14T01:29:00">Disruption map.</a>\n\nCENTRAL LINE: Sunday 13 December\, from 0530\, no service between White City and Ealing Broadway / Northolt. Replacement buses operate.
+DTEND:20261214T012900Z
+DTSTART:20261213T053000Z
+SUMMARY:Central: Part Closure
+UID:e9cf6fd0-da44-42f2-8dba-657c326b3717@e9cf.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-26T12:00:00&endDate=2026-11-27T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Thursday 26 until 11:59 Friday 27 November. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20261127T115900Z
+DTSTART:20261126T120000Z
+SUMMARY:Central: Special Service
+UID:46f06913-20bf-4a62-b282-e3c9c3ea65da@46f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-04T12:00:00&endDate=2027-01-05T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Monday 4 until 11:59 Tuesday 5 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20270105T115900Z
+DTSTART:20270104T120000Z
+SUMMARY:Central: Special Service
+UID:53d25da4-7f2c-4401-9b20-cb4a372620f4@53d2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-14T08:30:35&endDate=2026-11-15T01:29:00">Disruption map.</a>\n\nCentral Line: Minor delays due to train cancellations. 
+DTEND:20261115T012900Z
+DTSTART:20261114T083035Z
+SUMMARY:Central: Minor Delays
+UID:6204130c-93c5-46e2-a86c-67ede23e7609@6204.org
 END:VEVENT
 END:VCALENDAR

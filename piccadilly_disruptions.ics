@@ -3,24 +3,52 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-13T10:51:33&endDate=2026-11-14T01:29:00">Disruption map.</a>\n\nPiccadilly Line: Minor delays between Acton Town and Heathrow Airport due to an earlier points failure at Northfields. GOOD SERVICE on the rest of the line.  
-DTEND:20261114T012900Z
-DTSTART:20261113T105133Z
-SUMMARY:Piccadilly: Minor Delays
-UID:af0b6498-30d1-412e-bf50-e92fe53a3bcd@af0b.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-20T11:59:00&endDate=2026-11-22T20:30:00">Disruption map.</a>\n\nTUBE STRIKE: Piccadilly line service control staff are planning to take strike action from 11:59  Friday 20 until 20:30  Saturday 21 November. Severe disruption is expected on the Piccadilly line.
 DTEND:20261122T203000Z
 DTSTART:20261120T115900Z
 SUMMARY:Piccadilly: Special Service
-UID:c387771f-7d46-4bbc-9b9c-03a36d5270b9@c387.org
+UID:6bd7b184-c7a5-4bf4-af53-9c65f3005185@6bd7.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-06T12:00:00&endDate=2027-01-07T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20270107T115900Z
+DTSTART:20270106T120000Z
+SUMMARY:Piccadilly: Special Service
+UID:4bda3361-fd2b-4a2a-ad7b-97404753b84d@4bda.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-26T12:00:00&endDate=2026-11-27T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Thursday 26 until 11:59 Friday 27 November. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20261127T115900Z
+DTSTART:20261126T120000Z
+SUMMARY:Piccadilly: Special Service
+UID:690c40a0-dff3-4f46-9185-203a2fd96244@690c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-04T12:00:00&endDate=2027-01-05T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Monday 4 until 11:59 Tuesday 5 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20270105T115900Z
+DTSTART:20270104T120000Z
+SUMMARY:Piccadilly: Special Service
+UID:e457abcd-04cd-4deb-85a1-0339aa97a119@e457.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-21T01:30:00&endDate=2026-11-23T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: From 0130 Saturday 21 and all day Sunday 22 November\, including Friday and Saturday Night Tube\, no service between Hammersmith and Heathrow (all terminals) / Uxbridge. There will also be no METROPOLITAN LINE services between Harrow-on-the-Hill and Uxbridge. Use ELIZABETH LINE services between Central London and Heathrow.
 DTEND:20261123T012900Z
 DTSTART:20261121T013000Z
 SUMMARY:Piccadilly: Part Closure
-UID:3ed38848-8680-495f-aad4-117f46bef111@3ed3.org
+UID:6934eeed-5a86-4bc3-be9c-5fe32f00b133@6934.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-17T12:00:00&endDate=2026-12-18T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20261218T115900Z
+DTSTART:20261217T120000Z
+SUMMARY:Piccadilly: Special Service
+UID:fc09fe68-699d-4d02-a93b-800f207078c0@fc09.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-19T12:00:00&endDate=2026-12-20T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20261220T115900Z
+DTSTART:20261219T120000Z
+SUMMARY:Piccadilly: Special Service
+UID:1a919c33-a96a-4a33-93ac-1906aa675586@1a91.org
 END:VEVENT
 END:VCALENDAR

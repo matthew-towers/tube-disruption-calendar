@@ -3,31 +3,59 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Northern disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-14T01:30:00&endDate=2026-11-15T01:30:00">Disruption map.</a>\n\nNORTHERN LINE: From 0130 Saturday 14 until 0130 Sunday 15 November\, no service between Euston (Bank Branch) / Charing Cross and Morden / Battersea Power Station. There will be no Friday Night Tube service between Charing Cross and Morden. Replacement bus services operate during day hours only\, for Night journeys please use Night Bus services
-DTEND:20261115T013000Z
-DTSTART:20261114T013000Z
-SUMMARY:Northern: Part Closure
-UID:fbb4a0e4-787d-4eed-9ffd-526295508d8b@fbb4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-13T10:48:07&endDate=2026-11-14T01:29:00">Disruption map.</a>\n\nNorthern Line: Minor delays between Kennington and Morden due to an earlier points failure at Morden. GOOD SERVICE on the rest of the line. 
-DTEND:20261114T012900Z
-DTSTART:20261113T104807Z
-SUMMARY:Northern: Minor Delays
-UID:3004e431-0672-4556-a8dd-142a523dc0cb@3004.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-15T05:30:00&endDate=2026-11-16T01:30:00">Disruption map.</a>\n\nNORTHERN LINE: From 0530 Sunday 15 November\, no service between Euston (Bank Branch) / Charing Cross and Morden / Battersea Power Station. Replacement bus services operate.
 DTEND:20261116T013000Z
 DTSTART:20261115T053000Z
 SUMMARY:Northern: Part Closure
-UID:90159ef2-153a-4f1a-a586-1e2649807baa@9015.org
+UID:c754f33a-9c7a-4fa4-9f22-98cc4741463a@c754.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-04T12:00:00&endDate=2027-01-05T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Monday 4 until 11:59 Tuesday 5 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20270105T115900Z
+DTSTART:20270104T120000Z
+SUMMARY:Northern: Special Service
+UID:9c6e93b0-7dfb-48d1-b44f-ac9e5beb71fb@9c6e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-06T12:00:00&endDate=2027-01-07T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20270107T115900Z
+DTSTART:20270106T120000Z
+SUMMARY:Northern: Special Service
+UID:4162ed69-47ee-4533-a7a2-a16f3f78567e@4162.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-15T01:30:00&endDate=2026-11-15T05:30:00">Disruption map.</a>\n\nNORTHERN LINE: From 0130 until 0530 Sunday 15 November\, no Saturday Night Tube service between East Finchley / Golders Green and Morden. Please use Night Bus services.
 DTEND:20261115T053000Z
 DTSTART:20261115T013000Z
 SUMMARY:Northern: Part Closure
-UID:02af12aa-750b-4336-b30f-5aae0a3a72a0@02af.org
+UID:0f235279-890a-4947-a3d5-c7463ed6ca17@0f23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-17T12:00:00&endDate=2026-12-18T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20261218T115900Z
+DTSTART:20261217T120000Z
+SUMMARY:Northern: Special Service
+UID:2553f797-bca4-42db-bed4-504860882f80@2553.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-26T12:00:00&endDate=2026-11-27T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Thursday 26 until 11:59 Friday 27 November. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20261127T115900Z
+DTSTART:20261126T120000Z
+SUMMARY:Northern: Special Service
+UID:8b866807-e02e-4683-90c0-edb65c478810@8b86.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-19T12:00:00&endDate=2026-12-20T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20261220T115900Z
+DTSTART:20261219T120000Z
+SUMMARY:Northern: Special Service
+UID:c2797fc7-30bb-4f70-8f35-8772f0989144@c279.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-14T01:30:00&endDate=2026-11-15T01:30:00">Disruption map.</a>\n\nNORTHERN LINE: From 0130 Saturday 14 until 0130 Sunday 15 November\, no service between Euston (Bank Branch) / Charing Cross and Morden / Battersea Power Station. There will be no Friday Night Tube service between Charing Cross and Morden. Replacement bus services operate during day hours only\, for Night journeys please use Night Bus services
+DTEND:20261115T013000Z
+DTSTART:20261114T013000Z
+SUMMARY:Northern: Part Closure
+UID:ee5c8da1-64db-4c7c-af1b-6d2a85a44e82@ee5c.org
 END:VEVENT
 END:VCALENDAR
