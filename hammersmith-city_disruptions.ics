@@ -3,59 +3,66 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Hammersmith & City disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-17T12:00:00&endDate=2026-12-18T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
-DTEND:20261218T115900Z
-DTSTART:20261217T120000Z
-SUMMARY:Hammersmith & City: Special Service
-UID:5fb79f8b-4703-4e99-a69a-7585ea955b3d@5fb7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-19T12:00:00&endDate=2026-12-20T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
-DTEND:20261220T115900Z
-DTSTART:20261219T120000Z
-SUMMARY:Hammersmith & City: Special Service
-UID:d9d801a4-d0fb-4f6f-8fb0-219a23d60e7e@d9d8.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-06T12:00:00&endDate=2027-01-07T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
-DTEND:20270107T115900Z
-DTSTART:20270106T120000Z
-SUMMARY:Hammersmith & City: Special Service
-UID:86a794be-f05e-484c-b5e6-d9d84a246867@86a7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-04T12:00:00&endDate=2027-01-05T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Monday 4 until 11:59 Tuesday 5 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
-DTEND:20270105T115900Z
-DTSTART:20270104T120000Z
-SUMMARY:Hammersmith & City: Special Service
-UID:45081881-bf15-48dc-a964-7033cab87c4d@4508.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-25T01:30:00&endDate=2026-12-26T04:30:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service on any line. Services resume on Boxing Day morning to a revised Sunday timetable. No Night Tube services operate on Christmas Eve or Boxing Day.
-DTEND:20261226T043000Z
-DTSTART:20261225T013000Z
-SUMMARY:Hammersmith & City: Planned Closure
-UID:9339277c-d3bc-420a-95ba-d1d326ff9388@9339.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-26T12:00:00&endDate=2026-11-27T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Thursday 26 until 11:59 Friday 27 November. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
 DTEND:20261127T115900Z
 DTSTART:20261126T120000Z
 SUMMARY:Hammersmith & City: Special Service
-UID:8d2dbdb1-cda7-4e09-976e-6ff84f0167b7@8d2d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-26T04:30:00&endDate=2026-12-30T01:29:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Boxing Day\, 26 December to Tuesday 29 December\, no service between Moorgate and Barking. There will also be no DISTRICT LINE service between East Ham and Barking / Upney. c2c services will not operate on Boxing Day but operate between Fenchurch Street\, Limehouse\, West Ham\, Barking and Upminster on other days (no trains to/from Liverpool Street). Replacement bus service DL7 operates between East Ham\, Barking and Upney.
-DTEND:20261230T012900Z
-DTSTART:20261226T043000Z
-SUMMARY:Hammersmith & City: Part Closure
-UID:fdfd82ac-479d-48fd-a8b6-ca9616867858@fdfd.org
+UID:2a68a82f-d35e-43db-927e-ce123783a5e4@2a68.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-28T04:30:00&endDate=2026-11-30T01:29:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Saturday 28 and Sunday 29 November\, no service on the entire line. There will also be no CIRCLE LINE service between Hammersmith / High Street Kensington and Tower Hill (via Kings Cross St Pancras). Use DISTRICT LINE services between Aldgate East and Barking.
 DTEND:20261130T012900Z
 DTSTART:20261128T043000Z
 SUMMARY:Hammersmith & City: Planned Closure
-UID:81554748-d18d-4379-b359-9800e522fa5e@8155.org
+UID:04e5a514-0503-42e1-a86f-5785f3a712a9@04e5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-19T10:04:45&endDate=2026-11-20T01:29:00">Disruption map.</a>\n\nHammersmith and City Line: Minor delays eastbound only\, due to an earlier person ill on a train at Edgware road. GOOD SERVICE on the rest of the line. 
+DTEND:20261120T012900Z
+DTSTART:20261119T100445Z
+SUMMARY:Hammersmith & City: Minor Delays
+UID:fc373452-fe9d-45fa-bf18-ac8f5f7e1ee7@fc37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-17T12:00:00&endDate=2026-12-18T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20261218T115900Z
+DTSTART:20261217T120000Z
+SUMMARY:Hammersmith & City: Special Service
+UID:4e231c2f-73c4-4d89-b26a-2bf15fca56be@4e23.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-04T12:00:00&endDate=2027-01-05T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Monday 4 until 11:59 Tuesday 5 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20270105T115900Z
+DTSTART:20270104T120000Z
+SUMMARY:Hammersmith & City: Special Service
+UID:0ed29136-0165-4c30-a4cd-7518c49b4077@0ed2.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-06T12:00:00&endDate=2027-01-07T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20270107T115900Z
+DTSTART:20270106T120000Z
+SUMMARY:Hammersmith & City: Special Service
+UID:d661642c-d207-4b40-af27-414b2425aae8@d661.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-19T12:00:00&endDate=2026-12-20T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20261220T115900Z
+DTSTART:20261219T120000Z
+SUMMARY:Hammersmith & City: Special Service
+UID:a16b01a7-c1a1-497b-86c7-8ee10790ca40@a16b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-25T01:30:00&endDate=2026-12-26T04:30:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service on any line. Services resume on Boxing Day morning to a revised Sunday timetable. No Night Tube services operate on Christmas Eve or Boxing Day.
+DTEND:20261226T043000Z
+DTSTART:20261225T013000Z
+SUMMARY:Hammersmith & City: Planned Closure
+UID:7f4b3e37-0484-4f8a-b00d-56312d9df390@7f4b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-26T04:30:00&endDate=2026-12-30T01:29:00">Disruption map.</a>\n\nHAMMERSMITH & CITY LINE: Boxing Day\, 26 December to Tuesday 29 December\, no service between Moorgate and Barking. There will also be no DISTRICT LINE service between East Ham and Barking / Upney. c2c services will not operate on Boxing Day but operate between Fenchurch Street\, Limehouse\, West Ham\, Barking and Upminster on other days (no trains to/from Liverpool Street). Replacement bus service DL7 operates between East Ham\, Barking and Upney.
+DTEND:20261230T012900Z
+DTSTART:20261226T043000Z
+SUMMARY:Hammersmith & City: Part Closure
+UID:24a4a215-17ad-43bc-8f71-e2779dacc2f1@24a4.org
 END:VEVENT
 END:VCALENDAR
