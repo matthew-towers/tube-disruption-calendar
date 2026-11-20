@@ -3,87 +3,94 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Central disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-03T04:45:00&endDate=2027-01-04T01:29:00">Disruption map.</a>\n\nCENTRAL LINE: Sunday 3 January\, from 0445\, no service between White City and Ealing Broadway / West Ruislip. Replacement bus services operate.
-DTEND:20270104T012900Z
-DTSTART:20270103T044500Z
-SUMMARY:Central: Part Closure
-UID:418cd41d-7f38-4df9-a354-3969cbbcab57@418c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-03T02:15:00&endDate=2027-01-03T04:45:00">Disruption map.</a>\n\nCENTRAL LINE: Sunday 3 January\, between 0215 and 0445\, no service between Marble Arch and Ealing Broadway. Replacement bus service CL1 operates between Marble Arch and Ealing Broadway via Lancaster Gate\, Queensway\, Notting Hill Gate\, Holland Park\, Shepherds Bush\, White City\, East Acton\, North Acton\, West Acton and Ealing Common.
-DTEND:20270103T044500Z
-DTSTART:20270103T021500Z
-SUMMARY:Central: Part Closure
-UID:f82fd4eb-8786-4d17-a991-864daf42a6d4@f82f.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-26T04:30:00&endDate=2026-12-27T01:29:00">Disruption map.</a>\n\nCENTRAL LINE: Boxing Day\, 26 December\, no service between White City and Ealing Broadway / Northolt. Replacement bus services operate.
-DTEND:20261227T012900Z
-DTSTART:20261226T043000Z
-SUMMARY:Central: Part Closure
-UID:346b3641-1e75-4329-a7bb-2c7285258822@346b.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-06T12:00:00&endDate=2027-01-07T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
-DTEND:20270107T115900Z
-DTSTART:20270106T120000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-17T12:00:00&endDate=2026-12-18T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20261218T115900Z
+DTSTART:20261217T120000Z
 SUMMARY:Central: Special Service
-UID:8ba32b50-f543-4a93-9723-a7a7a84d3ee4@8ba3.org
+UID:48dac9e8-a3d9-459f-8274-e212a1c3a680@48da.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-04T12:00:00&endDate=2027-01-05T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Monday 4 until 11:59 Tuesday 5 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
 DTEND:20270105T115900Z
 DTSTART:20270104T120000Z
 SUMMARY:Central: Special Service
-UID:c022fac8-b756-4781-b614-97d754d82175@c022.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-13T01:30:00&endDate=2026-12-13T05:30:00">Disruption map.</a>\n\nCENTRAL LINE: Sunday 13 December\, between 0130 and 0530\, no Saturday Night Tube service between Marble Arch and Ealing Broadway. Replacement bus service CL1 operates between Marble Arch and Ealing Broadway via Lancaster Gate\, Queensway\, Notting Hill Gate\, Holland Park\, Shepherds Bush\, White City\, East Acton\, North Acton and West Acton.
-DTEND:20261213T053000Z
-DTSTART:20261213T013000Z
-SUMMARY:Central: Part Closure
-UID:15cc5cfa-456d-4fdc-a7ab-4961079b0177@15cc.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-26T12:00:00&endDate=2026-11-27T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Thursday 26 until 11:59 Friday 27 November. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
-DTEND:20261127T115900Z
-DTSTART:20261126T120000Z
-SUMMARY:Central: Special Service
-UID:3d8c5b75-3d44-424e-b089-a90d78589542@3d8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-17T12:00:00&endDate=2026-12-18T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
-DTEND:20261218T115900Z
-DTSTART:20261217T120000Z
-SUMMARY:Central: Special Service
-UID:bc731937-de49-4e31-86ba-253263cc6bdc@bc73.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-25T01:30:00&endDate=2026-12-26T04:30:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service on any line. Services resume on Boxing Day morning to a revised Sunday timetable. No Night Tube services operate on Christmas Eve or Boxing Day.
-DTEND:20261226T043000Z
-DTSTART:20261225T013000Z
-SUMMARY:Central: Planned Closure
-UID:feb5d7c1-8ba9-47c9-9cf8-950d1a2167ec@feb5.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-19T09:33:25&endDate=2026-11-20T01:29:00">Disruption map.</a>\n\nCentral Line: Minor delays due to train cancellations.  
-DTEND:20261120T012900Z
-DTSTART:20261119T093325Z
-SUMMARY:Central: Minor Delays
-UID:8f8613be-11ec-4d79-93d6-045fc2784f12@8f86.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-13T05:30:00&endDate=2026-12-14T01:29:00">Disruption map.</a>\n\nCENTRAL LINE: Sunday 13 December\, from 0530\, no service between White City and Ealing Broadway / Northolt. Replacement buses operate.
-DTEND:20261214T012900Z
-DTSTART:20261213T053000Z
-SUMMARY:Central: Part Closure
-UID:8197ad71-d7c3-4831-9269-5ecccaadce26@8197.org
+UID:ce2cb8e7-0b03-4de9-a8d5-e8e5444e5e4a@ce2c.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-19T12:00:00&endDate=2026-12-20T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
 DTEND:20261220T115900Z
 DTSTART:20261219T120000Z
 SUMMARY:Central: Special Service
-UID:b102ceb3-85bb-455d-80c2-c1c455d4a9f0@b102.org
+UID:b313da57-a449-4c83-9c19-6363100741ce@b313.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-25T01:30:00&endDate=2026-12-26T04:30:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service on any line. Services resume on Boxing Day morning to a revised Sunday timetable. No Night Tube services operate on Christmas Eve or Boxing Day.
+DTEND:20261226T043000Z
+DTSTART:20261225T013000Z
+SUMMARY:Central: Planned Closure
+UID:07eb926a-f612-4a61-8bce-a40cd06e3249@07eb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-02-17T12:00:00&endDate=2027-02-18T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Wednesday 17 until 11:59 Thursday 18 February. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20270218T115900Z
+DTSTART:20270217T120000Z
+SUMMARY:Central: Special Service
+UID:c1117fc8-0e44-4db3-8b32-9bbfeb190875@c111.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-06T12:00:00&endDate=2027-01-07T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20270107T115900Z
+DTSTART:20270106T120000Z
+SUMMARY:Central: Special Service
+UID:09192390-e9bb-46e4-8c2d-1f024935ada4@0919.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-26T04:30:00&endDate=2026-12-27T01:29:00">Disruption map.</a>\n\nCENTRAL LINE: Boxing Day\, 26 December\, no service between White City and Ealing Broadway / Northolt. Replacement bus services operate.
+DTEND:20261227T012900Z
+DTSTART:20261226T043000Z
+SUMMARY:Central: Part Closure
+UID:a3bc0937-6cff-4eca-b51d-90ac46599ad2@a3bc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-13T01:30:00&endDate=2026-12-13T05:30:00">Disruption map.</a>\n\nCENTRAL LINE: Sunday 13 December\, between 0130 and 0530\, no Saturday Night Tube service between Marble Arch and Ealing Broadway. Replacement bus service CL1 operates between Marble Arch and Ealing Broadway via Lancaster Gate\, Queensway\, Notting Hill Gate\, Holland Park\, Shepherds Bush\, White City\, East Acton\, North Acton and West Acton.
+DTEND:20261213T053000Z
+DTSTART:20261213T013000Z
+SUMMARY:Central: Part Closure
+UID:8bd90ccf-4c89-41d9-a903-d7c83d0ca543@8bd9.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-26T12:00:00&endDate=2026-11-27T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Thursday 26 until 11:59 Friday 27 November. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20261127T115900Z
+DTSTART:20261126T120000Z
+SUMMARY:Central: Special Service
+UID:db90eee5-8275-4b2b-be78-ab6980c18aa4@db90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-03T04:45:00&endDate=2027-01-04T01:29:00">Disruption map.</a>\n\nCENTRAL LINE: Sunday 3 January\, from 0445\, no service between White City and Ealing Broadway / West Ruislip. Replacement bus services operate.
+DTEND:20270104T012900Z
+DTSTART:20270103T044500Z
+SUMMARY:Central: Part Closure
+UID:68b44019-6158-4be4-b06d-e82145a0358e@68b4.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-20T10:25:22&endDate=2026-11-21T01:29:00">Disruption map.</a>\n\nCentral Line: Severe delays due to an earlier fire near the track at Leytonstone. London Buses\, Liberty line\, Chiltern Railways\, Great Western Railway\, Greater Anglia and Elizabeth line are accepting valid tickets via any reasonable route.  
+DTEND:20261121T012900Z
+DTSTART:20261120T102522Z
+SUMMARY:Central: Severe Delays
+UID:0c9bb3db-f116-40d1-913e-e7f0f9abe6d9@0c9b.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-03T02:15:00&endDate=2027-01-03T04:45:00">Disruption map.</a>\n\nCENTRAL LINE: Sunday 3 January\, between 0215 and 0445\, no service between Marble Arch and Ealing Broadway. Replacement bus service CL1 operates between Marble Arch and Ealing Broadway via Lancaster Gate\, Queensway\, Notting Hill Gate\, Holland Park\, Shepherds Bush\, White City\, East Acton\, North Acton\, West Acton and Ealing Common.
+DTEND:20270103T044500Z
+DTSTART:20270103T021500Z
+SUMMARY:Central: Part Closure
+UID:a3b55f48-4264-48aa-a8ec-8e4ca110efca@a3b5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-13T05:30:00&endDate=2026-12-14T01:29:00">Disruption map.</a>\n\nCENTRAL LINE: Sunday 13 December\, from 0530\, no service between White City and Ealing Broadway / Northolt. Replacement buses operate.
+DTEND:20261214T012900Z
+DTSTART:20261213T053000Z
+SUMMARY:Central: Part Closure
+UID:605f05de-1dc7-4962-817f-6e082ab28fbb@605f.org
 END:VEVENT
 END:VCALENDAR

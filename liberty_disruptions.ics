@@ -3,31 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Liberty line disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-28T04:30:00&endDate=2026-11-30T01:29:00">Disruption map.</a>\n\nLIBERTY LINE: Saturday 28 and Sunday 29 November\, no service between Romford and Upminster. Use local London Buses services 165 248 and 370 instead.
-DTEND:20261130T012900Z
-DTSTART:20261128T043000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-25T01:30:00&endDate=2026-12-27T04:30:00">Disruption map.</a>\n\nLIBERTY LINE: Christmas Day\, 25 December\, and Boxing Day\, 26 December\, no service on the line. Services resume on Sunday 27 December to a revised Sunday timetable.
+DTEND:20261227T043000Z
+DTSTART:20261225T013000Z
 SUMMARY:Liberty line: Planned Closure
-UID:dac60bea-1ed8-4f33-929a-7d9e00bfb046@dac6.org
+UID:7526d4f9-0b6a-46c4-98b8-b97f2a307b88@7526.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-16T04:30:00&endDate=2027-01-18T01:29:00">Disruption map.</a>\n\nLIBERTY LINE: Saturday 16 and Sunday 17 January\, no service between Romford and Upminster. Use local London Buses services 165 248 and 370 instead.
 DTEND:20270118T012900Z
 DTSTART:20270116T043000Z
 SUMMARY:Liberty line: Planned Closure
-UID:2f7af0ab-31d9-4533-b368-11bdacd1cf13@2f7a.org
+UID:0129ae7f-6283-4392-ac91-555e92c380da@0129.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-28T04:30:00&endDate=2026-11-30T01:29:00">Disruption map.</a>\n\nLIBERTY LINE: Saturday 28 and Sunday 29 November\, no service between Romford and Upminster. Use local London Buses services 165 248 and 370 instead.
+DTEND:20261130T012900Z
+DTSTART:20261128T043000Z
+SUMMARY:Liberty line: Planned Closure
+UID:96fc70ea-1a5a-4886-8801-5ffffc125482@96fc.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-09T04:30:00&endDate=2027-01-11T01:29:00">Disruption map.</a>\n\nLIBERTY LINE: Saturday 9 and Sunday 10 January\, no service between Romford and Upminster. Use local London Buses services 165 248 and 370 instead.
 DTEND:20270111T012900Z
 DTSTART:20270109T043000Z
 SUMMARY:Liberty line: Planned Closure
-UID:9f1645e5-26bb-4640-ab15-7a286c04f1bf@9f16.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-25T01:30:00&endDate=2026-12-27T04:30:00">Disruption map.</a>\n\nLIBERTY LINE: Christmas Day\, 25 December\, and Boxing Day\, 26 December\, no service on the line. Services resume on Sunday 27 December to a revised Sunday timetable.
-DTEND:20261227T043000Z
-DTSTART:20261225T013000Z
-SUMMARY:Liberty line: Planned Closure
-UID:ae16811b-169a-46ae-bc57-2a7cf0cc0873@ae16.org
+UID:b89df6a8-3ca1-48f1-ac8a-e31a693df232@b89d.org
 END:VEVENT
 END:VCALENDAR
