@@ -3,87 +3,66 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Northern disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-25T01:30:00&endDate=2026-12-26T04:30:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service on any line. Services resume on Boxing Day morning to a revised Sunday timetable. No Night Tube services operate on Christmas Eve or Boxing Day.
-DTEND:20261226T043000Z
-DTSTART:20261225T013000Z
-SUMMARY:Northern: Planned Closure
-UID:8dca351d-44ee-4206-bc6e-4ec4aeaec5d2@8dca.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-06T12:00:00&endDate=2027-01-07T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
-DTEND:20270107T115900Z
-DTSTART:20270106T120000Z
-SUMMARY:Northern: Special Service
-UID:092def6a-762d-4a10-a786-d5d635352bc3@092d.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-04T12:00:00&endDate=2027-01-05T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Monday 4 until 11:59 Tuesday 5 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
-DTEND:20270105T115900Z
-DTSTART:20270104T120000Z
-SUMMARY:Northern: Special Service
-UID:51b25cae-14bd-4a9a-aed0-5c98a8827780@51b2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-28T00:55:00&endDate=2026-11-28T05:30:00">Disruption map.</a>\n\nNORTHERN LINE: Saturday 28 and Sunday 29 November\, no Night Tube service between Kennington and Stockwell. Please use Night Bus Route N155 between Kennington\, Oval and Stockwell. For travel between Central London and stations between Stockwell and Morden\, use Victoria line connections via Stockwell.
-DTEND:20261128T053000Z
-DTSTART:20261128T005500Z
-SUMMARY:Northern: Part Closure
-UID:cea4be19-c4d3-4ca5-a87f-faf5fc581345@cea4.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-22T00:55:00&endDate=2026-11-22T07:10:00">Disruption map.</a>\n\nNORTHERN LINE: Saturday 21 and Sunday 22 November\, no Night Tube service between Kennington and Stockwell. Please use Night Bus Route N155 between Kennington\, Oval and Stockwell. For travel between Central London and stations between Stockwell and Morden\, use Victoria line connections via Stockwell.
-DTEND:20261122T071000Z
-DTSTART:20261122T005500Z
-SUMMARY:Northern: Part Closure
-UID:cf63f6ba-96de-4f9b-8b88-1e2854723fb0@cf63.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-19T12:00:00&endDate=2026-12-20T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
 DTEND:20261220T115900Z
 DTSTART:20261219T120000Z
 SUMMARY:Northern: Special Service
-UID:2e3e9498-be08-4d66-ab7a-794a55b79fa8@2e3e.org
+UID:ce246eae-e1e0-4d5d-9b1b-ec0672e9a3be@ce24.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-20T07:02:21&endDate=2026-11-21T01:29:00">Disruption map.</a>\n\nNorthern Line: Minor delays between Camden Town and Kennington via Charing Cross while we fix a points failure at Kennington. GOOD SERVICE on the rest of the line. 
-DTEND:20261121T012900Z
-DTSTART:20261120T070221Z
-SUMMARY:Northern: Minor Delays
-UID:c2707ba6-1752-464a-bad2-78ef864d0cdc@c270.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-21T00:55:00&endDate=2026-11-21T05:30:00">Disruption map.</a>\n\nNORTHERN LINE: On the early mornings of Saturday 21 and Sunday 22 November\, no Night Tube service between Kennington and Stockwell. Please use Night Bus Route N155 between Kennington\, Oval and Stockwell. For travel between Central London and stations between Stockwell and Morden\, use Victoria line connections via Stockwell.
+DTEND:20261121T053000Z
+DTSTART:20261121T005500Z
+SUMMARY:Northern: Part Closure
+UID:fd906d13-7d21-4020-8c89-a679f4fe758f@fd90.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-25T01:30:00&endDate=2026-12-26T04:30:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service on any line. Services resume on Boxing Day morning to a revised Sunday timetable. No Night Tube services operate on Christmas Eve or Boxing Day.
+DTEND:20261226T043000Z
+DTSTART:20261225T013000Z
+SUMMARY:Northern: Planned Closure
+UID:03d1180a-861c-4acf-94e3-67d6d684d66c@03d1.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-02-17T12:00:00&endDate=2027-02-18T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Wednesday 17 until 11:59 Thursday 18 February. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
 DTEND:20270218T115900Z
 DTSTART:20270217T120000Z
 SUMMARY:Northern: Special Service
-UID:853d01dd-77b8-42ca-a0e7-7d5d6751ac8e@853d.org
+UID:dee96224-f44f-47bd-b0e3-43186d815702@dee9.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-29T00:55:00&endDate=2026-11-29T07:10:00">Disruption map.</a>\n\nNORTHERN LINE: Saturday 28 and Sunday 29 November\, no Night Tube service between Kennington and Stockwell. Please use Night Bus Route N155 between Kennington\, Oval and Stockwell. For travel between Central London and stations between Stockwell and Morden\, use Victoria line connections via Stockwell.
-DTEND:20261129T071000Z
-DTSTART:20261129T005500Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-06T12:00:00&endDate=2027-01-07T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20270107T115900Z
+DTSTART:20270106T120000Z
+SUMMARY:Northern: Special Service
+UID:b7795024-5a02-4390-8479-afb7e2518532@b779.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-22T00:55:00&endDate=2026-11-22T07:10:00">Disruption map.</a>\n\nNORTHERN LINE: On the early mornings of Saturday 21 and Sunday 22 November\, no Night Tube service between Kennington and Stockwell. Please use Night Bus Route N155 between Kennington\, Oval and Stockwell. For travel between Central London and stations between Stockwell and Morden\, use Victoria line connections via Stockwell.
+DTEND:20261122T071000Z
+DTSTART:20261122T005500Z
 SUMMARY:Northern: Part Closure
-UID:d1a9cbb7-da1c-4d95-a699-d2d370e106b9@d1a9.org
+UID:fef3d2fb-a8b6-4f0b-b773-9d9c1e659752@fef3.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-26T12:00:00&endDate=2026-11-27T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Thursday 26 until 11:59 Friday 27 November. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
 DTEND:20261127T115900Z
 DTSTART:20261126T120000Z
+SUMMARY:Northern: Planned Closure
+UID:58d6f427-1afb-4701-bcc9-854972f85943@58d6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-04T12:00:00&endDate=2027-01-05T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Monday 4 until 11:59 Tuesday 5 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20270105T115900Z
+DTSTART:20270104T120000Z
 SUMMARY:Northern: Special Service
-UID:9097119e-a143-49dd-925c-f4496aa8faeb@9097.org
+UID:75bb25db-7d0a-4a51-af81-c7138202e382@75bb.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-17T12:00:00&endDate=2026-12-18T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
 DTEND:20261218T115900Z
 DTSTART:20261217T120000Z
 SUMMARY:Northern: Special Service
-UID:dfa74547-e442-4d99-9de6-57a6a4d8808f@dfa7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-21T00:55:00&endDate=2026-11-21T05:30:00">Disruption map.</a>\n\nNORTHERN LINE: Saturday 21 and Sunday 22 November\, no Night Tube service between Kennington and Stockwell. Please use Night Bus Route N155 between Kennington\, Oval and Stockwell. For travel between Central London and stations between Stockwell and Morden\, use Victoria line connections via Stockwell.
-DTEND:20261121T053000Z
-DTSTART:20261121T005500Z
-SUMMARY:Northern: Part Closure
-UID:d64ca217-da50-4913-b7bd-18b4c9f992a8@d64c.org
+UID:32ec5b8c-d4b1-4c94-b375-44ffd406566a@32ec.org
 END:VEVENT
 END:VCALENDAR

@@ -3,17 +3,17 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-21T04:30:00&endDate=2026-11-23T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 21 and Sunday 22 November\, no service between Canning Town and Stratford International. Please use JUBILEE LINE and local London Buses services.
-DTEND:20261123T012900Z
-DTSTART:20261121T043000Z
-SUMMARY:DLR: Part Closure
-UID:6af9600c-c0ed-42a7-8b87-e203a0cd4a98@6af9.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-25T01:30:00&endDate=2026-12-26T04:30:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Christmas Day\, 25 December\, no service throughout the network. Services resume on Boxing Day morning to a revised Sunday timetable.
 DTEND:20261226T043000Z
 DTSTART:20261225T013000Z
 SUMMARY:DLR: Planned Closure
-UID:bbfe2fc5-23e6-49d0-a69f-e5d649b51bed@bbfe.org
+UID:92d87073-6ef0-4e3e-a188-5c0f4954452c@92d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-21T04:30:00&endDate=2026-11-23T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 21 and Sunday 22 November\, no service between Canning Town and Stratford International. Please use JUBILEE LINE and local London Buses services.
+DTEND:20261123T012900Z
+DTSTART:20261121T043000Z
+SUMMARY:DLR: Part Closure
+UID:d17f4e54-b545-42f0-a38c-75a16b7e4db3@d17f.org
 END:VEVENT
 END:VCALENDAR
