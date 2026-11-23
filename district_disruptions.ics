@@ -3,94 +3,101 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:District disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-25T01:30:00&endDate=2026-12-26T04:30:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service on any line. Services resume on Boxing Day morning to a revised Sunday timetable. No Night Tube services operate on Christmas Eve or Boxing Day.
-DTEND:20261226T043000Z
-DTSTART:20261225T013000Z
-SUMMARY:District: Planned Closure
-UID:d058cef0-d402-4675-b585-ae2795c046d7@d058.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-17T12:00:00&endDate=2026-12-18T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
-DTEND:20261218T115900Z
-DTSTART:20261217T120000Z
-SUMMARY:District: Special Service
-UID:cda26786-4bba-4cf9-8ee2-cbc3d95b3f10@cda2.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-19T12:00:00&endDate=2026-12-20T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
 DTEND:20261220T115900Z
 DTSTART:20261219T120000Z
 SUMMARY:District: Special Service
-UID:7a81071e-421b-475e-be5c-6b275646c40c@7a81.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-04T12:00:00&endDate=2027-01-05T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Monday 4 until 11:59 Tuesday 5 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
-DTEND:20270105T115900Z
-DTSTART:20270104T120000Z
-SUMMARY:District: Special Service
-UID:8b47a7b0-6693-4bf3-b9df-ec8e18be96ce@8b47.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-28T04:30:00&endDate=2026-11-30T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 28 and Sunday 29 November\, no service between High Street Kensington and Edgware Road. There will also be no CIRCLE LINE service on this section.
-DTEND:20261130T012900Z
-DTSTART:20261128T043000Z
-SUMMARY:District: Part Closure
-UID:db8ccbdf-2f07-4d97-895a-2c52d432d8bf@db8c.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-26T12:00:00&endDate=2026-11-27T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Thursday 26 until 11:59 Friday 27 November. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
-DTEND:20261127T115900Z
-DTSTART:20261126T120000Z
-SUMMARY:District: Planned Closure
-UID:43d34ace-9fba-4352-86ac-9d4d4cd8279d@43d3.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-26T04:30:00&endDate=2026-12-30T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Boxing Day\, 26 December to Tuesday 29 December\, no westbound service from Upney to East Ham\, and no eastbound service from East Ham to Barking. There will also be no HAMMERSMITH & CITY LINE services between Moorgate and Barking. c2c services will not operate on Boxing Day but operate between Fenchurch Street\, Limehouse\, West Ham\, Barking and Upminster on other days (no trains to/from Liverpool Street). Replacement bus service DL7 operates between East Ham\, Barking and Upminster.
-DTEND:20261230T012900Z
-DTSTART:20261226T043000Z
-SUMMARY:District: Part Closure
-UID:3d0c4acd-14fc-4f2d-a021-106c9d163683@3d0c.org
+UID:49e60c70-d5b3-4ee4-a8f3-fb788e60277d@49e6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-02-17T12:00:00&endDate=2027-02-18T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Wednesday 17 until 11:59 Thursday 18 February. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
 DTEND:20270218T115900Z
 DTSTART:20270217T120000Z
 SUMMARY:District: Special Service
-UID:12f2e78d-7592-47b5-b8d9-9ed9af086566@12f2.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-26T04:30:00&endDate=2026-12-30T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Boxing Day\, 26 December to Tuesday 29 December\, no westbound service from Upney to East Ham\, and no eastbound service from East Ham to Barking. Replacement bus service DL7 operates between East Ham\, Barking and Upminster.
-DTEND:20261230T012900Z
-DTSTART:20261226T043000Z
-SUMMARY:District: Part Closure
-UID:b98ec08f-05e6-4fe1-9ca5-fce159ded981@b98e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-24T04:30:00&endDate=2026-12-25T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Christmas Eve\, 24 December\, no service between Earls Court and Kensington Olympia.
-DTEND:20261225T012900Z
-DTSTART:20261224T043000Z
-SUMMARY:District: Part Closure
-UID:9b07981f-d20b-44f2-9d28-7a76a700ba1e@9b07.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-06T04:30:00&endDate=2026-12-07T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Sunday 6 December\, no service between Turnham Green and Richmond. There will also be no MILDMAY LINE service between Willesden Junction and Richmond. Replacement bus service R operates between Willesden Junction and Richmond via Acton Central (The Vale)\, South Acton (Acton Lane)\, Turnham Green Station\, Chiswick Park (Chiswick High Road)\, Gunnersbury and Kew Gardens (Royal Botanic Gardens).
-DTEND:20261207T012900Z
-DTSTART:20261206T043000Z
-SUMMARY:District: Part Closure
-UID:4b629399-1fff-4eb2-a0a1-c9cfff866999@4b62.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-06T12:00:00&endDate=2027-01-07T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
-DTEND:20270107T115900Z
-DTSTART:20270106T120000Z
-SUMMARY:District: Special Service
-UID:84102a9c-accb-45d7-b816-0db276f68182@8410.org
+UID:2ef53b5e-9786-444e-be27-0051d27cd2ef@2ef5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-26T04:30:00&endDate=2027-01-02T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Boxing Day\, 26 December to New Years Day\, 1 January\, no service between Earls Court and Kensington Olympia.
 DTEND:20270102T012900Z
 DTSTART:20261226T043000Z
 SUMMARY:District: Part Closure
-UID:b4349585-a60a-475e-82a9-cac774049e98@b434.org
+UID:6849bf35-9771-4653-888a-b3b992f2dac4@6849.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-04T12:00:00&endDate=2027-01-05T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Monday 4 until 11:59 Tuesday 5 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20270105T115900Z
+DTSTART:20270104T120000Z
+SUMMARY:District: Special Service
+UID:0ad14f37-e94b-4ee7-a5bf-00346c85136a@0ad1.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-17T12:00:00&endDate=2026-12-18T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20261218T115900Z
+DTSTART:20261217T120000Z
+SUMMARY:District: Special Service
+UID:f7ee7eb7-3774-4317-a4f1-c33d8a7c4c4a@f7ee.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-06T12:00:00&endDate=2027-01-07T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20270107T115900Z
+DTSTART:20270106T120000Z
+SUMMARY:District: Special Service
+UID:336059f0-2fd9-4044-85a3-344a4096d369@3360.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-06T04:30:00&endDate=2026-12-07T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Sunday 6 December\, no service between Turnham Green and Richmond. There will also be no MILDMAY LINE service between Willesden Junction and Richmond. Replacement bus service R operates between Willesden Junction and Richmond via Acton Central (The Vale)\, South Acton (Acton Lane)\, Turnham Green Station\, Chiswick Park (Chiswick High Road)\, Gunnersbury and Kew Gardens (Royal Botanic Gardens).
+DTEND:20261207T012900Z
+DTSTART:20261206T043000Z
+SUMMARY:District: Part Closure
+UID:6e37ec91-1147-4c93-9b15-a7cc4b7fb082@6e37.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-26T12:00:00&endDate=2026-11-27T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Thursday 26 until 11:59 Friday 27 November. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20261127T115900Z
+DTSTART:20261126T120000Z
+SUMMARY:District: Planned Closure
+UID:85826260-7377-405a-bc4f-10d48e173d01@8582.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-28T04:30:00&endDate=2026-11-30T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Saturday 28 and Sunday 29 November\, no service between High Street Kensington and Edgware Road. There will also be no CIRCLE LINE service on this section.
+DTEND:20261130T012900Z
+DTSTART:20261128T043000Z
+SUMMARY:District: Part Closure
+UID:c500963e-8f0c-41f7-aaed-36c432362c80@c500.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-26T04:30:00&endDate=2026-12-30T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Boxing Day\, 26 December to Tuesday 29 December\, no westbound service from Upney to East Ham\, and no eastbound service from East Ham to Barking. Replacement bus service DL7 operates between East Ham\, Barking and Upminster.
+DTEND:20261230T012900Z
+DTSTART:20261226T043000Z
+SUMMARY:District: Part Closure
+UID:10f55750-2c31-44f8-8594-26b112f7027c@10f5.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-25T01:30:00&endDate=2026-12-26T04:30:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service on any line. Services resume on Boxing Day morning to a revised Sunday timetable. No Night Tube services operate on Christmas Eve or Boxing Day.
+DTEND:20261226T043000Z
+DTSTART:20261225T013000Z
+SUMMARY:District: Planned Closure
+UID:3e5cb348-e488-42ad-8f0f-24dce3b8dfce@3e5c.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-24T04:30:00&endDate=2026-12-25T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Christmas Eve\, 24 December\, no service between Earls Court and Kensington Olympia.
+DTEND:20261225T012900Z
+DTSTART:20261224T043000Z
+SUMMARY:District: Part Closure
+UID:18444886-3846-4f71-8411-fe6a7b2a1121@1844.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-26T04:30:00&endDate=2026-12-30T01:29:00">Disruption map.</a>\n\nDISTRICT LINE: Boxing Day\, 26 December to Tuesday 29 December\, no westbound service from Upney to East Ham\, and no eastbound service from East Ham to Barking. There will also be no HAMMERSMITH & CITY LINE services between Moorgate and Barking. c2c services will not operate on Boxing Day but operate between Fenchurch Street\, Limehouse\, West Ham\, Barking and Upminster on other days (no trains to/from Liverpool Street). Replacement bus service DL7 operates between East Ham\, Barking and Upminster.
+DTEND:20261230T012900Z
+DTSTART:20261226T043000Z
+SUMMARY:District: Part Closure
+UID:ae55d83f-4e46-4b08-a797-d641920bc8a5@ae55.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-23T06:55:26&endDate=2026-11-24T01:29:00">Disruption map.</a>\n\nDistrict Line: Minor delays due to train cancellations.  
+DTEND:20261124T012900Z
+DTSTART:20261123T065526Z
+SUMMARY:District: Minor Delays
+UID:617d678a-e4d6-49e6-9b0d-6a203ec6e386@617d.org
 END:VEVENT
 END:VCALENDAR
