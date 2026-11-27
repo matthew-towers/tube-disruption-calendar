@@ -3,73 +3,66 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Bakerloo disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-06T04:30:00&endDate=2026-12-07T01:29:00">Disruption map.</a>\n\nBAKERLOO LINE: Sunday 6 December\, no service between Queens Park and Harrow & Wealdstone. There will also be no LIONESS LINE service between Willesden Junction and Harrow & Wealdstone. Special bus service 718 operates. LONDON NORTH WESTERN RAILWAY trains continue to stop at Harrow & Wealdstone. SOUTHERN trains stop at Wembley Central and Harrow & Wealdstone between 1300 and 2000 only
-DTEND:20261207T012900Z
-DTSTART:20261206T043000Z
-SUMMARY:Bakerloo: Part Closure
-UID:1553034b-f79a-4284-b033-d2af049f37e6@1553.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-06T12:00:00&endDate=2027-01-07T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
-DTEND:20270107T115900Z
-DTSTART:20270106T120000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-17T12:00:00&endDate=2026-12-18T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20261218T115900Z
+DTSTART:20261217T120000Z
 SUMMARY:Bakerloo: Special Service
-UID:134f8fc5-1f8e-4cf9-afba-73ec99e96d5a@134f.org
+UID:23b42efa-5a28-460b-a315-5df3d748ec53@23b4.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-04T12:00:00&endDate=2027-01-05T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Monday 4 until 11:59 Tuesday 5 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
 DTEND:20270105T115900Z
 DTSTART:20270104T120000Z
 SUMMARY:Bakerloo: Special Service
-UID:f72a7444-0fca-4153-a6c8-ab19bfed88b4@f72a.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-27T06:43:36&endDate=2026-11-27T10:59:17">Disruption map.</a>\n\nBakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 10 minutes. 
-DTEND:20261127T105917Z
-DTSTART:20261127T064336Z
-SUMMARY:Bakerloo: Part Suspended
-UID:dcd142b9-07ee-4088-9d75-aff577ef7ab3@dcd1.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-25T01:30:00&endDate=2026-12-26T04:30:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service on any line. Services resume on Boxing Day morning to a revised Sunday timetable. No Night Tube services operate on Christmas Eve or Boxing Day.
-DTEND:20261226T043000Z
-DTSTART:20261225T013000Z
-SUMMARY:Bakerloo: Planned Closure
-UID:5c88faea-3cdc-4c9c-850c-a619425b6723@5c88.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-02-17T12:00:00&endDate=2027-02-18T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Wednesday 17 until 11:59 Thursday 18 February. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
-DTEND:20270218T115900Z
-DTSTART:20270217T120000Z
-SUMMARY:Bakerloo: Special Service
-UID:cbdd4693-2471-4af5-894b-100531e79a61@cbdd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-19T12:00:00&endDate=2026-12-20T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
-DTEND:20261220T115900Z
-DTSTART:20261219T120000Z
-SUMMARY:Bakerloo: Special Service
-UID:03c7b023-436c-46fe-97e2-c7a519375ff7@03c7.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-17T12:00:00&endDate=2026-12-18T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
-DTEND:20261218T115900Z
-DTSTART:20261217T120000Z
-SUMMARY:Bakerloo: Special Service
-UID:e274d43e-8fd7-4904-95ca-6412dac75791@e274.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-27T06:43:36&endDate=2026-11-28T01:29:00">Disruption map.</a>\n\nBakerloo Line: No service between Queen's Park and Harrow & Wealdstone due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 10 minutes. 
-DTEND:20261128T012900Z
-DTSTART:20261127T064336Z
-SUMMARY:Bakerloo: Severe Delays
-UID:8332965f-6062-4bd0-86b1-27117444c63d@8332.org
+UID:623ffc51-727c-40e4-95d2-36bab935af61@623f.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-02-23T12:00:00&endDate=2027-02-24T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Tuesday 23 until 11:59 Wednesday 24 February. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
 DTEND:20270224T115900Z
 DTSTART:20270223T120000Z
 SUMMARY:Bakerloo: Special Service
-UID:b2c7f441-364f-45f7-9fed-81a1a3e1b823@b2c7.org
+UID:05bb47d4-65ab-4132-a032-2c0a9251b8d7@05bb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-06T04:30:00&endDate=2026-12-07T01:29:00">Disruption map.</a>\n\nBAKERLOO LINE: Sunday 6 December\, no service between Queens Park and Harrow & Wealdstone. There will also be no LIONESS LINE service between Willesden Junction and Harrow & Wealdstone. Special bus service 718 operates. LONDON NORTH WESTERN RAILWAY trains continue to stop at Harrow & Wealdstone. SOUTHERN trains stop at Wembley Central and Harrow & Wealdstone between 1300 and 2000 only
+DTEND:20261207T012900Z
+DTSTART:20261206T043000Z
+SUMMARY:Bakerloo: Part Closure
+UID:29819292-44b4-4206-8546-6b7570818101@2981.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-06T12:00:00&endDate=2027-01-07T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20270107T115900Z
+DTSTART:20270106T120000Z
+SUMMARY:Bakerloo: Special Service
+UID:ed0f5071-4bf5-49f8-a868-77dcd1e49ab5@ed0f.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-23T04:30:00&endDate=2027-01-25T01:29:00">Disruption map.</a>\n\nBAKERLOO LINE: Saturday 23 and Sunday 24 January\, no service between Queens Park and Harrow & Wealdstone. There will also be no LIONESS LINE service between Euston and Watford Junction. LONDON NORTH WESTERN RAILWAY trains continue to serve Euston\, Harrow & Wealdstone\, Bushey and Watford Junction and SOUTHERN trains continue to serve Wembley Central\, Harrow & Wealdstone and Watford Junction. Special bus service 718 operates.
+DTEND:20270125T012900Z
+DTSTART:20270123T043000Z
+SUMMARY:Bakerloo: Part Closure
+UID:f86ed54b-ad14-41df-80bf-5706df0b9604@f86e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-02-17T12:00:00&endDate=2027-02-18T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Wednesday 17 until 11:59 Thursday 18 February. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20270218T115900Z
+DTSTART:20270217T120000Z
+SUMMARY:Bakerloo: Special Service
+UID:a026692d-6f93-4b01-b8e5-0f4c19fa876d@a026.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-25T01:30:00&endDate=2026-12-26T04:30:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service on any line. Services resume on Boxing Day morning to a revised Sunday timetable. No Night Tube services operate on Christmas Eve or Boxing Day.
+DTEND:20261226T043000Z
+DTSTART:20261225T013000Z
+SUMMARY:Bakerloo: Planned Closure
+UID:37bd477a-bd58-4d19-bffe-ae71027593aa@37bd.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-19T12:00:00&endDate=2026-12-20T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20261220T115900Z
+DTSTART:20261219T120000Z
+SUMMARY:Bakerloo: Special Service
+UID:9cc30a83-93a8-4cf3-aeab-a865b1987b15@9cc3.org
 END:VEVENT
 END:VCALENDAR

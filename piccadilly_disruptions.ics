@@ -3,80 +3,94 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Piccadilly disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-17T12:00:00&endDate=2026-12-18T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
-DTEND:20261218T115900Z
-DTSTART:20261217T120000Z
-SUMMARY:Piccadilly: Special Service
-UID:cbd99140-cd84-49c4-ae7d-ed76cadb65b7@cbd9.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-02-23T12:00:00&endDate=2027-02-24T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Tuesday 23 until 11:59 Wednesday 24 February. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
-DTEND:20270224T115900Z
-DTSTART:20270223T120000Z
-SUMMARY:Piccadilly: Special Service
-UID:959e0697-bc81-4fb9-be7f-408495e76a35@959e.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-19T12:00:00&endDate=2026-12-20T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
-DTEND:20261220T115900Z
-DTSTART:20261219T120000Z
-SUMMARY:Piccadilly: Special Service
-UID:24f76203-73ca-4fa8-a278-adaa239266d2@24f7.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-16T04:30:00&endDate=2027-01-18T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 16 and Sunday 17 January\, no service between Acton Town and Uxbridge. There will also be no METROPOLITAN LINE service between Harrow-on-the-Hill and Uxbridge. Replacement buses operate.
+DTEND:20270118T012900Z
+DTSTART:20270116T043000Z
+SUMMARY:Piccadilly: Part Closure
+UID:b6f94c5f-fd61-4b63-bbcc-5c5e0e239400@b6f9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-06T12:00:00&endDate=2027-01-07T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
 DTEND:20270107T115900Z
 DTSTART:20270106T120000Z
 SUMMARY:Piccadilly: Special Service
-UID:d1702a61-c78f-4d8e-ae22-d3dd52f931b6@d170.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-27T07:20:16&endDate=2026-11-28T01:29:00">Disruption map.</a>\n\nPiccadilly Line: Severe delays between Arnos Grove and King's Cross due to strike action. Services are operating every 12 mins. NO SERVICE on the rest of the line. 
-DTEND:20261128T012900Z
-DTSTART:20261127T072016Z
-SUMMARY:Piccadilly: Severe Delays
-UID:5baf1d59-81ee-48ab-acdd-595005d3e077@5baf.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-27T07:20:16&endDate=2026-11-27T11:00:17">Disruption map.</a>\n\nPiccadilly Line: Severe delays between Arnos Grove and King's Cross due to strike action. Services are operating every 12 mins. NO SERVICE on the rest of the line. 
-DTEND:20261127T110017Z
-DTSTART:20261127T072016Z
-SUMMARY:Piccadilly: Part Suspended
-UID:c8efdaee-3a39-4de7-915d-486965d2edf0@c8ef.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-26T04:30:00&endDate=2027-01-04T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Boxing Day\, 26 December to Sunday 3 January\, no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services instead.
-DTEND:20270104T012900Z
-DTSTART:20261226T043000Z
-SUMMARY:Piccadilly: Part Closure
-UID:7208288c-41eb-44f5-b1bf-608fc776294a@7208.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-02-17T12:00:00&endDate=2027-02-18T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Wednesday 17 until 11:59 Thursday 18 February. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
-DTEND:20270218T115900Z
-DTSTART:20270217T120000Z
-SUMMARY:Piccadilly: Special Service
-UID:c4366c62-218b-4bd1-a9cd-85eb93cf7c4d@c436.org
+UID:2959af34-7b49-42ac-aba2-475168c2c21c@2959.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-04T12:00:00&endDate=2027-01-05T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Monday 4 until 11:59 Tuesday 5 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
 DTEND:20270105T115900Z
 DTSTART:20270104T120000Z
 SUMMARY:Piccadilly: Special Service
-UID:1e26d6b5-5d7f-432f-97fd-aba121bbc0d7@1e26.org
+UID:16aa059b-104b-4328-9467-e4b35ab35e3c@16aa.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-25T01:30:00&endDate=2026-12-26T04:30:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service on any line. Services resume on Boxing Day morning to a revised Sunday timetable. No Night Tube services operate on Christmas Eve or Boxing Day.
-DTEND:20261226T043000Z
-DTSTART:20261225T013000Z
-SUMMARY:Piccadilly: Planned Closure
-UID:d7e5d01a-aed8-43a7-ae11-c72ca2af8231@d7e5.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-30T04:30:00&endDate=2027-02-01T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 30 January\, from 0430\, and all day Sunday 31 January\, including Saturday Night Tube\, no service between Cockfosters and Heathrow. Trains continue to operate during the day between Acton Town and Rayners Lane. Use ELIZABETH LINE services between Central London and Heathrow. Replacement buses operate.
+DTEND:20270201T012900Z
+DTSTART:20270130T043000Z
+SUMMARY:Piccadilly: Part Closure
+UID:5f0e1f4b-ac38-4f4a-91a2-dcef9b18fe2b@5f0e.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-27T20:38:31&endDate=2026-11-28T01:29:00">Disruption map.</a>\n\nPiccadilly Line: Minor delays between Acton Town and Uxbridge / Heathrow Terminals due to an earlier signalling problem. GOOD SERVICE on the rest of the line. 
+DTEND:20261128T012900Z
+DTSTART:20261127T203831Z
+SUMMARY:Piccadilly: Minor Delays
+UID:62f07dd1-4ac3-4dfe-8d2b-43847766c1b5@62f0.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-19T12:00:00&endDate=2026-12-20T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20261220T115900Z
+DTSTART:20261219T120000Z
+SUMMARY:Piccadilly: Special Service
+UID:14891d48-ad86-4ea0-b6d1-38fffe5898c0@1489.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-26T04:30:00&endDate=2027-01-04T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Boxing Day\, 26 December to Sunday 3 January\, no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services instead.
+DTEND:20270104T012900Z
+DTSTART:20261226T043000Z
+SUMMARY:Piccadilly: Part Closure
+UID:51ac5f1a-6c3e-4fd1-aae3-40775e8ff9dc@51ac.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-24T04:30:00&endDate=2026-12-25T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Christmas Eve\, 24 December\, no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services instead.
 DTEND:20261225T012900Z
 DTSTART:20261224T043000Z
 SUMMARY:Piccadilly: Part Closure
-UID:6a0577c7-7926-4b65-b1c1-ae367d05ddc3@6a05.org
+UID:47d8066f-d056-467f-b53c-f185f66fd90b@47d8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-02-23T12:00:00&endDate=2027-02-24T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Tuesday 23 until 11:59 Wednesday 24 February. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20270224T115900Z
+DTSTART:20270223T120000Z
+SUMMARY:Piccadilly: Special Service
+UID:a9596f95-8a1c-4c38-b9bc-2fc94030a797@a959.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-02-17T12:00:00&endDate=2027-02-18T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Wednesday 17 until 11:59 Thursday 18 February. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20270218T115900Z
+DTSTART:20270217T120000Z
+SUMMARY:Piccadilly: Special Service
+UID:4cbc7b2c-b758-4c8d-aefa-0f5d22f2a9a6@4cbc.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-25T01:30:00&endDate=2026-12-26T04:30:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service on any line. Services resume on Boxing Day morning to a revised Sunday timetable. No Night Tube services operate on Christmas Eve or Boxing Day.
+DTEND:20261226T043000Z
+DTSTART:20261225T013000Z
+SUMMARY:Piccadilly: Planned Closure
+UID:0ad82ef0-29ba-4e24-ab62-5d9bb6e14276@0ad8.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-30T04:30:00&endDate=2027-02-01T01:29:00">Disruption map.</a>\n\nPICCADILLY LINE: Saturday 30 and Sunday 31 January\, no service between Rayners Lane and Uxbridge. Please use METROPOLITAN LINE services instead.
+DTEND:20270201T012900Z
+DTSTART:20270130T043000Z
+SUMMARY:Piccadilly: Part Closure
+UID:1c0167b8-a6d9-451f-8e2e-3c1524d5803a@1c01.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-17T12:00:00&endDate=2026-12-18T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20261218T115900Z
+DTSTART:20261217T120000Z
+SUMMARY:Piccadilly: Special Service
+UID:b8ec3f92-c9e2-4ec6-a117-9b7bed4a4c69@b8ec.org
 END:VEVENT
 END:VCALENDAR

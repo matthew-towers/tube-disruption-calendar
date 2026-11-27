@@ -3,52 +3,52 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Jubilee disruption
 BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-02-17T12:00:00&endDate=2027-02-18T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Wednesday 17 until 11:59 Thursday 18 February. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20270218T115900Z
+DTSTART:20270217T120000Z
+SUMMARY:Jubilee: Special Service
+UID:050840ad-fb08-4886-afa2-55a52b08763d@0508.org
+END:VEVENT
+BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-17T12:00:00&endDate=2026-12-18T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
 DTEND:20261218T115900Z
 DTSTART:20261217T120000Z
 SUMMARY:Jubilee: Special Service
-UID:b9f6c99e-7895-45fa-b4e2-455e2478416a@b9f6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-04T12:00:00&endDate=2027-01-05T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Monday 4 until 11:59 Tuesday 5 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
-DTEND:20270105T115900Z
-DTSTART:20270104T120000Z
-SUMMARY:Jubilee: Special Service
-UID:123537a6-6186-4ae3-8fac-d48b793caaad@1235.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-25T01:30:00&endDate=2026-12-26T04:30:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service on any line. Services resume on Boxing Day morning to a revised Sunday timetable. No Night Tube services operate on Christmas Eve or Boxing Day.
-DTEND:20261226T043000Z
-DTSTART:20261225T013000Z
-SUMMARY:Jubilee: Planned Closure
-UID:3fd6b2c7-ed4b-4168-a60b-578319c925de@3fd6.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-06T12:00:00&endDate=2027-01-07T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
-DTEND:20270107T115900Z
-DTSTART:20270106T120000Z
-SUMMARY:Jubilee: Special Service
-UID:3e74408b-188d-4d96-8f83-ceca84a72505@3e74.org
+UID:09b83d4a-1f8d-4bf5-9be9-780d00397b42@09b8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-02-23T12:00:00&endDate=2027-02-24T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Tuesday 23 until 11:59 Wednesday 24 February. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
 DTEND:20270224T115900Z
 DTSTART:20270223T120000Z
 SUMMARY:Jubilee: Special Service
-UID:1fab8da7-c10d-4e95-bac9-4d41ef614e60@1fab.org
+UID:b810dede-d5cd-4d4b-8fe1-875869fe2ad4@b810.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-25T01:30:00&endDate=2026-12-26T04:30:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service on any line. Services resume on Boxing Day morning to a revised Sunday timetable. No Night Tube services operate on Christmas Eve or Boxing Day.
+DTEND:20261226T043000Z
+DTSTART:20261225T013000Z
+SUMMARY:Jubilee: Planned Closure
+UID:cc8e6cd1-52ad-40ab-ad86-14970a81c665@cc8e.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-19T12:00:00&endDate=2026-12-20T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
 DTEND:20261220T115900Z
 DTSTART:20261219T120000Z
 SUMMARY:Jubilee: Special Service
-UID:851fd88e-cc2c-4674-898a-355e4fdb9a29@851f.org
+UID:ecbd5d07-a568-4b17-9f86-db4e1dd92ddb@ecbd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-02-17T12:00:00&endDate=2027-02-18T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Wednesday 17 until 11:59 Thursday 18 February. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
-DTEND:20270218T115900Z
-DTSTART:20270217T120000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-04T12:00:00&endDate=2027-01-05T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Monday 4 until 11:59 Tuesday 5 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20270105T115900Z
+DTSTART:20270104T120000Z
 SUMMARY:Jubilee: Special Service
-UID:ef60b1da-4d98-4dad-8567-122f88a07015@ef60.org
+UID:aad6e0dc-5a46-47f7-a57e-68d55f1c2fbd@aad6.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-06T12:00:00&endDate=2027-01-07T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20270107T115900Z
+DTSTART:20270106T120000Z
+SUMMARY:Jubilee: Special Service
+UID:d0f820a9-d3cc-494c-bbef-a1283888e6f1@d0f8.org
 END:VEVENT
 END:VCALENDAR
