@@ -3,66 +3,73 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:Circle disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-19T12:00:00&endDate=2026-12-20T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
-DTEND:20261220T115900Z
-DTSTART:20261219T120000Z
-SUMMARY:Circle: Special Service
-UID:7afd2656-c4f7-4c6b-a04e-9226b02dd85d@7afd.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-06T12:00:00&endDate=2027-01-07T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
-DTEND:20270107T115900Z
-DTSTART:20270106T120000Z
-SUMMARY:Circle: Special Service
-UID:83fae281-6bc1-4811-89c6-808e47d168d1@83fa.org
-END:VEVENT
-BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-26T10:01:48&endDate=2026-11-26T13:30:00">Disruption map.</a>\n\nCircle Line: No service due to strike action.  
-DTEND:20261126T133000Z
-DTSTART:20261126T100148Z
-SUMMARY:Circle: Suspended
-UID:9ffd9802-b74b-40ae-afe5-80a46677c22e@9ffd.org
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-27T06:09:38&endDate=2026-11-27T10:59:17">Disruption map.</a>\n\nCircle Line: No service Aldgate and Edgware Road via Embankment due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 10 minutes.\r\n 
+DTEND:20261127T105917Z
+DTSTART:20261127T060938Z
+SUMMARY:Circle: Part Suspended
+UID:c59a0005-cd69-4a6a-a614-9739d518f015@c59a.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-25T01:30:00&endDate=2026-12-26T04:30:00">Disruption map.</a>\n\nLONDON UNDERGROUND: Christmas Day\, 25 December\, no service on any line. Services resume on Boxing Day morning to a revised Sunday timetable. No Night Tube services operate on Christmas Eve or Boxing Day.
 DTEND:20261226T043000Z
 DTSTART:20261225T013000Z
 SUMMARY:Circle: Planned Closure
-UID:0da499e9-67b5-446e-afbe-82eef42f2020@0da4.org
+UID:81cd5c7f-8a99-477b-bccc-2aa595f349bf@81cd.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-02-23T12:00:00&endDate=2027-02-24T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Tuesday 23 until 11:59 Wednesday 24 February. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
-DTEND:20270224T115900Z
-DTSTART:20270223T120000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-06T12:00:00&endDate=2027-01-07T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Wednesday 6 until 11:59 Thursday 7 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20270107T115900Z
+DTSTART:20270106T120000Z
 SUMMARY:Circle: Special Service
-UID:c4eb7b85-0147-4819-8d67-09308954f789@c4eb.org
+UID:9958bd1e-4e57-421c-b59e-484001bcfa35@9958.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-28T04:30:00&endDate=2026-11-30T01:29:00">Disruption map.</a>\n\nCIRCLE LINE: Saturday 28 and Sunday 29 November\, no service between Hammersmith / High Street Kensington and Tower Hill (via Kings Cross St Pancras)
 DTEND:20261130T012900Z
 DTSTART:20261128T043000Z
 SUMMARY:Circle: Part Closure
-UID:6d86e3e0-b8c7-4a26-9393-54fdc22f63c6@6d86.org
+UID:6ebbc963-b043-42e7-8f0b-00b4c7b15d23@6ebb.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-19T12:00:00&endDate=2026-12-20T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Saturday 19 until 11:59 Sunday 20 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20261220T115900Z
+DTSTART:20261219T120000Z
+SUMMARY:Circle: Special Service
+UID:b4e98519-ca03-465f-ac48-9c15e1be6855@b4e9.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-02-17T12:00:00&endDate=2027-02-18T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Wednesday 17 until 11:59 Thursday 18 February. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
 DTEND:20270218T115900Z
 DTSTART:20270217T120000Z
 SUMMARY:Circle: Special Service
-UID:9050c21b-f83e-4611-966b-9e93534bd6c3@9050.org
+UID:2df51d1b-1268-4943-82d8-672a4147b643@2df5.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-17T12:00:00&endDate=2026-12-18T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Thursday 17 until 11:59 Friday 18 December. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
 DTEND:20261218T115900Z
 DTSTART:20261217T120000Z
 SUMMARY:Circle: Special Service
-UID:23e0610c-ce44-473a-8835-72d2103a4f2b@23e0.org
+UID:f770bd24-33dc-446e-bc5f-ddcb8f12ab77@f770.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-02-23T12:00:00&endDate=2027-02-24T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Tuesday 23 until 11:59 Wednesday 24 February. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
+DTEND:20270224T115900Z
+DTSTART:20270223T120000Z
+SUMMARY:Circle: Special Service
+UID:3611d038-bc1e-40d6-9a60-666417186503@3611.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-11-27T06:09:38&endDate=2026-11-28T01:29:00">Disruption map.</a>\n\nCircle Line: No service Aldgate and Edgware Road via Embankment due to strike action. SEVERE DELAYS on the rest of the line. Services are operating every 10 minutes.\r\n 
+DTEND:20261128T012900Z
+DTSTART:20261127T060938Z
+SUMMARY:Circle: Severe Delays
+UID:bab8f4ee-9992-4502-91c7-bc1c18e05d83@bab8.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-04T12:00:00&endDate=2027-01-05T11:59:00">Disruption map.</a>\n\nTUBE STRIKE: Some London Underground Tube drivers are planning to take strike action from 12:00 Monday 4 until 11:59 Tuesday 5 January. There is likely to be some disruption across all Underground lines\, but trains are expected to run on most lines.
 DTEND:20270105T115900Z
 DTSTART:20270104T120000Z
 SUMMARY:Circle: Special Service
-UID:e16b7844-4b31-4fe6-bf27-52cbb3d33db3@e16b.org
+UID:5d1c0388-3df7-4113-a41b-8ba63700c43c@5d1c.org
 END:VEVENT
 END:VCALENDAR
