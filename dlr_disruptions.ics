@@ -3,31 +3,31 @@ VERSION:2.0
 PRODID:ics.py - http://git.io/lLljaA
 X-WR-CALNAME:DLR disruption
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-02-06T04:30:00&endDate=2027-02-08T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 6 and Sunday 7 February\, no service between Custom House and Beckton.
-DTEND:20270208T012900Z
-DTSTART:20270206T043000Z
-SUMMARY:DLR: Part Closure
-UID:9371bcde-e603-49ad-b5f9-71789c9bd73a@9371.org
-END:VEVENT
-BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2026-12-25T01:30:00&endDate=2026-12-26T04:30:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Christmas Day\, 25 December\, no service throughout the network. Services resume on Boxing Day morning to a revised Sunday timetable.
 DTEND:20261226T043000Z
 DTSTART:20261225T013000Z
 SUMMARY:DLR: Planned Closure
-UID:09780778-ce0b-4f9e-b565-259eafa14e42@0978.org
+UID:3a8b8ce5-c581-4e2a-bef9-53009aa94931@3a8b.org
 END:VEVENT
 BEGIN:VEVENT
-DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-24T04:30:00&endDate=2027-01-25T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 24 January\, no service between Shadwell and Tower Gateway.
-DTEND:20270125T012900Z
-DTSTART:20270124T043000Z
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-02-06T04:30:00&endDate=2027-02-08T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Saturday 6 and Sunday 7 February\, no service between Custom House and Beckton.
+DTEND:20270208T012900Z
+DTSTART:20270206T043000Z
 SUMMARY:DLR: Part Closure
-UID:0f4c95e5-1b24-4669-b36e-e2795cb19d71@0f4c.org
+UID:03d6a256-a824-49ad-a84d-dffcea824742@03d6.org
 END:VEVENT
 BEGIN:VEVENT
 DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-17T04:30:00&endDate=2027-01-18T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 17 January\, no service between West India Quay\, Poplar and Stratford. Use local London Buses services.
 DTEND:20270118T012900Z
 DTSTART:20270117T043000Z
 SUMMARY:DLR: Part Closure
-UID:56008c23-dc43-4345-b617-eab7998bd13d@5600.org
+UID:2709da87-0e37-4a79-8a28-cd4619e28958@2709.org
+END:VEVENT
+BEGIN:VEVENT
+DESCRIPTION:<a href="https://tfl.gov.uk/tube-dlr-overground/status/?Input=&lineIds=&dateTypeSelect=Future%20date&direction=&startDate=2027-01-24T04:30:00&endDate=2027-01-25T01:29:00">Disruption map.</a>\n\nDOCKLANDS LIGHT RAILWAY: Sunday 24 January\, no service between Shadwell and Tower Gateway.
+DTEND:20270125T012900Z
+DTSTART:20270124T043000Z
+SUMMARY:DLR: Part Closure
+UID:b3642958-df6c-42bb-b692-13e630ab4212@b364.org
 END:VEVENT
 END:VCALENDAR
